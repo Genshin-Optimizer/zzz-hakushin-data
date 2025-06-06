@@ -18,7 +18,7 @@
     "ImpressionF": "Weren't you obsessed with the Starlight Knight series as a kid, Wise?\nThat brings me back. You shouting \"Starlight Mirage!\" with your arms crossed...",
     "ImpressionM": "There was never such a time. Please erase such non-existent memories from your mind.\nIt's been a long time since I was that age, after all, and my name doesn't have \"kid\" in it.",
     "Name": "",
-    "OutlookDesc": "Hollow Investigation Association Licensing Archive���\nInvestigator: Billy. Possesses excellent Ether adaptability and is approved to carry out basic tasks such as extractions within established Hollows (including Companion Hollows).\nNote: Ether adaptability for androids depends entirely on their constituent materials. We recommend regular Ether tolerance testing and self-monitoring of component health.",
+    "OutlookDesc": "Hollow Investigation Association Licensing Archive—\nInvestigator: Billy. Possesses excellent Ether adaptability and is approved to carry out basic tasks such as extractions within established Hollows (including Companion Hollows).\nNote: Ether adaptability for androids depends entirely on their constituent materials. We recommend regular Ether tolerance testing and self-monitoring of component health.",
     "ProfileDesc": "Billy Kid, an AI construct that has passed the forbidden fruit test, is essentially a self-aware machine. \nTrue to his name, despite having the appearance of a robot, he is quite childlike.\nHe's a big fan of the visual FX show \"Starlight Knight\" and wishes to be a hero like the main characters of the show. He often refers to himself as a Starlight Knight and imitates the lines in the show.\nSuch behavior appears to be only for comedic effect, however.\n\"Don't make me sound like an idiot! I'm obviously very smart!\" — Billy.",
     "Race": "Cunning Hares",
     "RoleIcon": "IconRole/UnPacker/IconRole10",
@@ -42,12 +42,6 @@
     "AttackGrowth": 67335,
     "AvatarPieceId": 5081,
     "BreakStun": 91,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -59,7 +53,6 @@
     "Endurance": 0,
     "HpGrowth": 753604,
     "HpMax": 555,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -69,7 +62,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Billy",
@@ -77,10 +69,13 @@
       "Physics",
       "Male",
       "Camp1",
-      "Size2",
+      "Size3",
       "AidTypeEvade",
-      "Billy"
-    ]
+      "Billy",
+      "EtherEyesSize2"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -249,7 +244,8 @@
       "Description": [
         {
           "Name": "Basic Attack: Full Firepower",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes a piercing attack, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold to enter Crouching Shot to extend the attack duration.\nDrag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during Crouching Shot to launch Rolling Shot and adjust the character's position, dealing <color=#F0D12B>Physical DMG</color>.\nStop pressing or holding during Crouching Shot to launch Finishing Shot at enemies in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes a piercing attack, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold to enter Crouching Shot to extend the attack duration.\nDrag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during Crouching Shot to launch Rolling Shot and adjust the character's position, dealing <color=#F0D12B>Physical DMG</color>.\nStop pressing or holding during Crouching Shot to launch Finishing Shot at enemies in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Full Firepower",
@@ -272,9 +268,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5439,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Standing Bullet DMG Multiplier",
@@ -294,9 +293,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 604,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Crouching Fire DMG Multiplier",
@@ -316,9 +318,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2903,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Crouching Bullet DMG Multiplier",
@@ -338,9 +343,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 889,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Rolling Shot DMG Multiplier",
@@ -360,9 +368,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2903,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Shot DMG Multiplier",
@@ -382,9 +393,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8079,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Standing Fire Daze Multiplier",
@@ -404,9 +418,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5439,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Standing Bullet Daze Multiplier",
@@ -426,9 +443,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 604,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Crouching Fire Daze Multiplier",
@@ -448,9 +468,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2903,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Crouching Bullet Daze Multiplier",
@@ -470,9 +493,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 889,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Rolling Shot Daze Multiplier",
@@ -492,9 +518,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2903,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Shot Daze Multiplier",
@@ -514,11 +543,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8079,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -540,15 +573,18 @@
       "Description": [
         {
           "Name": "Dodge: Risky Business",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Starlight Sanction",
-          "Desc": "When dragging the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during a dodge, press <IconMap:Icon_Normal>:\nLaunches a piercing attack at nearby enemies within a large area, dealing <color=#F0D12B>Physical DMG</color>.\nWhen not dragging the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during a dodge, press <IconMap:Icon_Normal>:\nLaunches a piercing attack at enemies in a line, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "When dragging the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during a dodge, press <IconMap:Icon_Normal>:\nLaunches a piercing attack at nearby enemies within a large area, dealing <color=#F0D12B>Physical DMG</color>.\nWhen not dragging the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during a dodge, press <IconMap:Icon_Normal>:\nLaunches a piercing attack at enemies in a line, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Fair Fight",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nPierces enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nPierces enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Starlight Sanction",
@@ -571,9 +607,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3498,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Straight Shot DMG Multiplier",
@@ -593,9 +632,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4329,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "360-degree Shot Daze Multiplier",
@@ -615,9 +657,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3498,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Straight Shot Daze Multiplier",
@@ -637,11 +682,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4329,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Fair Fight",
@@ -664,9 +713,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9336,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -686,11 +738,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9336,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -712,11 +768,13 @@
       "Description": [
         {
           "Name": "Special Attack: Stand Still",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nPerforms up to 3 piercing attacks in a line, dealing <color=#F0D12B>Physical DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nPerforms up to 3 piercing attacks in a line, dealing <color=#F0D12B>Physical DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Clearance Time",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLaunches a powerful piercing attack in a line, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLaunches a powerful piercing attack in a line, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Stand Still",
@@ -739,9 +797,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2414,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -761,9 +822,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2584,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -783,9 +847,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -805,9 +872,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2414,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -827,9 +897,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2584,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -849,11 +922,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Clearance Time",
@@ -876,9 +953,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 44687,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -898,12 +978,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 44687,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60" }
-          ]
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -925,11 +1009,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Starlight Mirage",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful piercing attack at surrounding enemies in a large area, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful piercing attack at surrounding enemies in a large area, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Starlight, Shine Bright",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful piercing attack at surrounding enemies in a large area, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful piercing attack at surrounding enemies in a large area, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Starlight Mirage",
@@ -952,9 +1038,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 41783,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -974,11 +1063,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 41783,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Starlight, Shine Bright",
@@ -1001,9 +1094,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 21170,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1023,11 +1119,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 21170,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1049,15 +1149,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Power of Teamwork",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nLaunches a piercing attack at enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nLaunches a piercing attack at enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Evasive Assist: Flash Spin",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nDodges the enemy's attack and activates <color=#FFFFFF>Vital View</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nDodges the enemy's attack and activates <color=#FFFFFF>Vital View</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Fatal Shot",
-          "Desc": "Press <IconMap:Icon_Normal> after an <color=#FFFFFF>Evasive Assist</color> to activate:\nPierces enemies in a large area in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after an <color=#FFFFFF>Evasive Assist</color> to activate:\nPierces enemies in a large area in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Power of Teamwork",
@@ -1080,9 +1183,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9336,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1102,11 +1208,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9336,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Fatal Shot",
@@ -1129,9 +1239,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 36497,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1151,11 +1264,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 36497,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1179,72 +1296,83 @@
       "Name": "Basic Attack: Full Firepower",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1081002": {
       "Name": "Special Attack: Stand Still",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1081003": {
       "Name": "EX Special Attack: Clearance Time",
       "Desc": "<IconMap:Icon_SpecialReady>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1081004": {
       "Name": "Dash Attack: Starlight Sanction (Scattered)",
       "Desc": "<IconMap:Icon_Evade> (Any direction) ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1081005": {
       "Name": "Dash Attack: Starlight Sanction (Focused)",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1081006": {
       "Name": "Dodge Counter: Fair Fight",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1081007": {
       "Name": "Chain Attack: Starlight Mirage",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1081008": {
       "Name": "Ultimate: Starlight, Shine Bright",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1081009": {
       "Name": "Quick Assist: Power of Teamwork",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1081010": {
       "Name": "Evasive Assist: Flash Spin",
       "Desc": "<IconMap:Icon_Switch>(When Triggering Evasive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1081011": {
       "Name": "Assist Follow-Up: Fatal Shot",
       "Desc": "<IconMap:Icon_Normal> (After Evasive Assist)",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1081501": {
         "Level": 1,
         "Id": 1081501,
         "Name": [
@@ -1254,9 +1382,11 @@
         "Desc": [
           "Billy's DMG increases by <color=#2BAD00>25%</color> when he enters Crouching Shot during his <color=#FFFFFF>Basic Attack</color>. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
           "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a <color=#FFFFFF>Chain Attack</color>, the DMG of his next <color=#FFFFFF>Ultimate</color> is increased by 50%, stacking up to 2 times. This effect resets whenever an <color=#FFFFFF>Ultimate</color> is activated."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1081502": {
         "Level": 2,
         "Id": 1081502,
         "Name": [
@@ -1266,9 +1396,11 @@
         "Desc": [
           "Billy's DMG increases by <color=#2BAD00>29.1%</color> when he enters Crouching Shot during his <color=#FFFFFF>Basic Attack</color>. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
           "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a <color=#FFFFFF>Chain Attack</color>, the DMG of his next <color=#FFFFFF>Ultimate</color> is increased by 50%, stacking up to 2 times. This effect resets whenever an <color=#FFFFFF>Ultimate</color> is activated."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1081503": {
         "Level": 3,
         "Id": 1081503,
         "Name": [
@@ -1278,9 +1410,11 @@
         "Desc": [
           "Billy's DMG increases by <color=#2BAD00>33.3%</color> when he enters Crouching Shot during his <color=#FFFFFF>Basic Attack</color>. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
           "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a <color=#FFFFFF>Chain Attack</color>, the DMG of his next <color=#FFFFFF>Ultimate</color> is increased by 50%, stacking up to 2 times. This effect resets whenever an <color=#FFFFFF>Ultimate</color> is activated."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1081504": {
         "Level": 4,
         "Id": 1081504,
         "Name": [
@@ -1290,9 +1424,11 @@
         "Desc": [
           "Billy's DMG increases by <color=#2BAD00>37.5%</color> when he enters Crouching Shot during his <color=#FFFFFF>Basic Attack</color>. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
           "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a <color=#FFFFFF>Chain Attack</color>, the DMG of his next <color=#FFFFFF>Ultimate</color> is increased by 50%, stacking up to 2 times. This effect resets whenever an <color=#FFFFFF>Ultimate</color> is activated."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1081505": {
         "Level": 5,
         "Id": 1081505,
         "Name": [
@@ -1302,9 +1438,11 @@
         "Desc": [
           "Billy's DMG increases by <color=#2BAD00>41.6%</color> when he enters Crouching Shot during his <color=#FFFFFF>Basic Attack</color>. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
           "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a <color=#FFFFFF>Chain Attack</color>, the DMG of his next <color=#FFFFFF>Ultimate</color> is increased by 50%, stacking up to 2 times. This effect resets whenever an <color=#FFFFFF>Ultimate</color> is activated."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1081506": {
         "Level": 6,
         "Id": 1081506,
         "Name": [
@@ -1314,9 +1452,11 @@
         "Desc": [
           "Billy's DMG increases by <color=#2BAD00>45.8%</color> when he enters Crouching Shot during his <color=#FFFFFF>Basic Attack</color>. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
           "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a <color=#FFFFFF>Chain Attack</color>, the DMG of his next <color=#FFFFFF>Ultimate</color> is increased by 50%, stacking up to 2 times. This effect resets whenever an <color=#FFFFFF>Ultimate</color> is activated."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1081507": {
         "Level": 7,
         "Id": 1081507,
         "Name": [
@@ -1326,7 +1466,9 @@
         "Desc": [
           "Billy's DMG increases by <color=#2BAD00>50%</color> when he enters Crouching Shot during his <color=#FFFFFF>Basic Attack</color>. The effect ends if he moves, returns to standby, or is knocked back or launched by an attack.",
           "When another character in your squad shares the same Attribute or Faction:\nAfter Billy uses a <color=#FFFFFF>Chain Attack</color>, the DMG of his next <color=#FFFFFF>Ultimate</color> is increased by 50%, stacking up to 2 times. This effect resets whenever an <color=#FFFFFF>Ultimate</color> is activated."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1404,5 +1546,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
-  }
+  },
+  "Potential": []
 }

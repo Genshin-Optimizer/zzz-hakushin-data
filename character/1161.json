@@ -42,12 +42,6 @@
     "AttackGrowth": 63891,
     "AvatarPieceId": 5161,
     "BreakStun": 119,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -59,7 +53,6 @@
     "Endurance": 0,
     "HpGrowth": 918185,
     "HpMax": 677,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -69,7 +62,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Lighter",
@@ -79,8 +71,11 @@
       "Camp4",
       "Size2",
       "AidTypeParry",
-      "Lighter"
-    ]
+      "Lighter",
+      "EtherEyesSize2"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -249,7 +244,8 @@
       "Description": [
         {
           "Name": "Basic Attack: L-Form Thundering Fist",
-          "Desc": "Press or hold <IconMap:Icon_Normal> to activate:\nPerform up to five forward strikes, dealing <color=#F0D12B>Physical DMG</color> and <color=#FF5521>Fire DMG</color>.\nDuring the 3rd hit of the <color=#FFFFFF>Basic Attack</color>, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick}, and repeatedly press or hold <IconMap:Icon_Normal> to unleash a series of melee follow-up attacks. Release the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to follow up with the 4th hit of the <color=#FFFFFF>Basic Attack</color>.\nWhile performing the startup light punch in the 5th hit of the <color=#FFFFFF>Basic Attack</color>, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} and repeatedly press or hold <IconMap:Icon_Normal> to keep alternating between the light punch and 4th hit of the <color=#FFFFFF>Basic Attack</color>. Release the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to follow up with the subsequent jab combo.\nContinue repeatedly pressing or holding <IconMap:Icon_Normal> to extend the duration of the jab combo.\nWhen you stop pressing or holding <IconMap:Icon_Normal>, or when the combo reaches its maximum duration, launches a Finishing Move forward. Lighter is invulnerable during the Finishing Move.\nDuring the 5th hit of the <color=#FFFFFF>Basic Attack</color>, Lighter takes 40% less DMG.\nWhile in the <color=#FFFFFF>Morale Burst</color> state, Anti-Interrupt Level is increased during the 5th hit of his <color=#FFFFFF>Basic Attack</color>, and the DMG reduction effect is increased to 80%."
+          "Desc": "Press or hold <IconMap:Icon_Normal> to activate:\nPerform up to five forward strikes, dealing <color=#F0D12B>Physical DMG</color> and <color=#FF5521>Fire DMG</color>.\nDuring the 3rd hit of the <color=#FFFFFF>Basic Attack</color>, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick}, and repeatedly press or hold <IconMap:Icon_Normal> to unleash a series of melee follow-up attacks. Release the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to follow up with the 4th hit of the <color=#FFFFFF>Basic Attack</color>.\nWhile performing the startup light punch in the 5th hit of the <color=#FFFFFF>Basic Attack</color>, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} and repeatedly press or hold <IconMap:Icon_Normal> to keep alternating between the light punch and 4th hit of the <color=#FFFFFF>Basic Attack</color>. Release the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to follow up with the subsequent jab combo.\nContinue repeatedly pressing or holding <IconMap:Icon_Normal> to extend the duration of the jab combo.\nWhen you stop pressing or holding <IconMap:Icon_Normal>, or when the combo reaches its maximum duration, launches a Finishing Move forward. Lighter is invulnerable during the Finishing Move.\nDuring the 5th hit of the <color=#FFFFFF>Basic Attack</color>, Lighter takes 40% less DMG.\nWhile in the <color=#FFFFFF>Morale Burst</color> state, Anti-Interrupt Level is increased during the 5th hit of his <color=#FFFFFF>Basic Attack</color>, and the DMG reduction effect is increased to 80%.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: L-Form Thundering Fist",
@@ -272,9 +268,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -294,9 +293,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -316,9 +318,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up 1st-Hit DMG Multiplier",
@@ -338,9 +343,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up 2nd-Hit DMG Multiplier",
@@ -360,9 +368,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up 3rd-Hit DMG Multiplier",
@@ -382,9 +393,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up 4th-Hit DMG Multiplier",
@@ -404,9 +418,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up 5th-Hit DMG Multiplier",
@@ -426,9 +443,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -448,9 +468,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5505,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Startup DMG Multiplier",
@@ -470,9 +493,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12387,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Combo DMG Multiplier",
@@ -492,9 +518,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7770,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Finisher DMG Multiplier",
@@ -514,9 +543,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7605,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Startup DMG Multiplier (Morale Burst)",
@@ -536,9 +568,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12387,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Combo DMG Multiplier (Morale Burst)",
@@ -558,9 +593,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7770,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Finisher DMG Multiplier (Morale Burst)",
@@ -580,9 +618,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8366,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Powerful Finisher DMG Multiplier (Morale Burst)",
@@ -602,9 +643,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10023,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -624,9 +668,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -646,9 +693,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -668,9 +718,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up 1st-Hit Daze Multiplier",
@@ -690,9 +743,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up 2nd-Hit Daze Multiplier",
@@ -712,9 +768,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up 3rd-Hit Daze Multiplier",
@@ -734,9 +793,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up 4th-Hit Daze Multiplier",
@@ -756,9 +818,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up 5th-Hit Daze Multiplier",
@@ -778,9 +843,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -800,9 +868,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5505,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Startup Daze Multiplier",
@@ -822,9 +893,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12387,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Combo Daze Multiplier",
@@ -844,9 +918,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7770,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Finisher Daze Multiplier",
@@ -866,9 +943,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7605,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Startup Daze Multiplier (Morale Burst)",
@@ -888,9 +968,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12387,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Combo Daze Multiplier (Morale Burst)",
@@ -910,9 +993,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7770,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Finisher Daze Multiplier (Morale Burst)",
@@ -932,9 +1018,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8366,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Powerful Finisher Daze Multiplier (Morale Burst)",
@@ -954,11 +1043,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10023,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -980,15 +1073,18 @@
       "Description": [
         {
           "Name": "Dodge: Shadowed Slide",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.\nPress <IconMap:Icon_Evade> while the character is attacking to activate:\nPerform a quick shuffle dodge in the direction of the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#Joystick}.\nThis skill will not interrupt the combo count for <color=#FFFFFF>Basic Attacks</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.\nPress <IconMap:Icon_Evade> while the character is attacking to activate:\nPerform a quick shuffle dodge in the direction of the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#Joystick}.\nThis skill will not interrupt the combo count for <color=#FFFFFF>Basic Attacks</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Charging Slam",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nRapidly strikes enemies in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nRapidly strikes enemies in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Blazing Flash",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nStrike enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using the skill, press or hold <IconMap:Icon_Normal> to immediately follow up with the 5th hit of the <color=#FFFFFF>Basic Attack</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nStrike enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using the skill, press or hold <IconMap:Icon_Normal> to immediately follow up with the 5th hit of the <color=#FFFFFF>Basic Attack</color>.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Charging Slam",
@@ -1011,9 +1107,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1033,11 +1132,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Blazing Flash",
@@ -1060,9 +1163,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1082,11 +1188,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1108,11 +1218,13 @@
       "Description": [
         {
           "Name": "Special Attack: V-Form Sunrise Uppercut",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nStrikes enemies in front with an uppercut, dealing <color=#FF5521>Fire DMG</color>.\nAnti-Interrupt level is increased while using this skill.\nPress <IconMap:Icon_Special> during a shuffle dodge to activate:\nStrike forward with a series of punches, dealing <color=#FF5521>Fire DMG</color>.\nThis skill will not interrupt the combo count for <color=#FFFFFF>Basic Attacks</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nStrikes enemies in front with an uppercut, dealing <color=#FF5521>Fire DMG</color>.\nAnti-Interrupt level is increased while using this skill.\nPress <IconMap:Icon_Special> during a shuffle dodge to activate:\nStrike forward with a series of punches, dealing <color=#FF5521>Fire DMG</color>.\nThis skill will not interrupt the combo count for <color=#FFFFFF>Basic Attacks</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: V-Form Sunrise Uppercut - Full Distance",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLeaps into the air with a powerful uppercut, striking enemies in front and dealing massive <color=#FF5521>Fire DMG</color>.\nPress <IconMap:Icon_SpecialReady> again during this skill to spend additional Energy to perform a powerful follow-up attack, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold <IconMap:Icon_Normal> to follow up with the 4th hit of the <color=#FFFFFF>Basic Attack</color>.\nWith enough Energy, press <IconMap:Icon_SpecialReady> during the shuffle dodge to activate:\nStrike forward with a powerful punch combo, dealing massive <color=#FF5521>Fire DMG</color>.\nThis skill will not interrupt the combo count for <color=#FFFFFF>Basic Attacks</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold <IconMap:Icon_Normal> to immediately follow up with the 5th hit of the <color=#FFFFFF>Basic Attack</color>."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLeaps into the air with a powerful uppercut, striking enemies in front and dealing massive <color=#FF5521>Fire DMG</color>.\nPress <IconMap:Icon_SpecialReady> again during this skill to spend additional Energy to perform a powerful follow-up attack, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold <IconMap:Icon_Normal> to follow up with the 4th hit of the <color=#FFFFFF>Basic Attack</color>.\nWith enough Energy, press <IconMap:Icon_SpecialReady> during the shuffle dodge to activate:\nStrike forward with a powerful punch combo, dealing massive <color=#FF5521>Fire DMG</color>.\nThis skill will not interrupt the combo count for <color=#FFFFFF>Basic Attacks</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold <IconMap:Icon_Normal> to immediately follow up with the 5th hit of the <color=#FFFFFF>Basic Attack</color>.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: V-Form Sunrise Uppercut",
@@ -1135,9 +1247,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1157,11 +1272,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: V-Form Sunrise Uppercut - Full Distance",
@@ -1184,9 +1303,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 36764,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up DMG Multiplier",
@@ -1206,9 +1328,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 22326,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1228,9 +1353,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 36764,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up Daze Multiplier",
@@ -1250,13 +1378,17 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 22326,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Activation Energy Cost", "Desc": "40" },
-            { "Name": "Follow-Up Energy Cost", "Desc": "20" }
-          ]
+            { "Name": "Activation Energy Cost", "Desc": "40", "Potential": [] },
+            { "Name": "Follow-Up Energy Cost", "Desc": "20", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1278,11 +1410,13 @@
       "Description": [
         {
           "Name": "Chain Attack: V-Form Scorching Sun",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful strike at enemies in front in a small area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful strike at enemies in front in a small area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: W-Form Crowned Inferno",
-          "Desc": "When Decibel Rating is at Maximum, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful strike in a large area around, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at Maximum, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful strike in a large area around, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: V-Form Scorching Sun",
@@ -1305,9 +1439,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 44783,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1327,11 +1464,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 44783,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: W-Form Crowned Inferno",
@@ -1354,9 +1495,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9669,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1376,11 +1520,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9669,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1402,15 +1550,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Blazing Flash - Guard",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nStrike enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using the skill, press or hold <IconMap:Icon_Normal> to immediately follow up with the 5th hit of the <color=#FFFFFF>Basic Attack</color>."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nStrike enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using the skill, press or hold <IconMap:Icon_Normal> to immediately follow up with the 5th hit of the <color=#FFFFFF>Basic Attack</color>.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Swift Break",
-          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Charging Slam - Stab",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nStrike enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold <IconMap:Icon_Normal> to immediately follow up with the 5th hit of the <color=#FFFFFF>Basic Attack</color>."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nStrike enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold <IconMap:Icon_Normal> to immediately follow up with the 5th hit of the <color=#FFFFFF>Basic Attack</color>.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Blazing Flash - Guard",
@@ -1433,9 +1584,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1455,11 +1609,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Swift Break",
@@ -1482,9 +1640,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1504,9 +1665,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1526,11 +1690,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Charging Slam - Stab",
@@ -1553,9 +1721,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18272,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1575,11 +1746,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18272,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1603,84 +1778,97 @@
       "Name": "Basic Attack: L-Form Thundering Fist",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1161002": {
       "Name": "Dodge: Shadowed Slide (Shuffle Dodge)",
       "Desc": "<IconMap:Icon_Evade>(During Attack)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1161003": {
       "Name": "Special Attack: V-Form Sunrise Uppercut",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1161004": {
       "Name": "Special Attack: V-Form Sunrise Uppercut (Punch Combo)",
       "Desc": "<IconMap:Icon_Special> (During Shuffle Dodge)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1161005": {
       "Name": "EX Special Attack: V-Form Sunrise Uppercut - Full Distance",
       "Desc": "<IconMap:Icon_SpecialReady> ; <IconMap:Icon_SpecialReady>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1161006": {
       "Name": "EX Special Attack: V-Form Sunrise Uppercut - Full Distance (Punch Combo)",
       "Desc": "<IconMap:Icon_SpecialReady> (During Shuffle Dodge)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1161007": {
       "Name": "Dash Attack: Charging Slam",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1161008": {
       "Name": "Dodge Counter: Blazing Flash",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1161009": {
       "Name": "Chain Attack: V-Form Scorching Sun",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1161010": {
       "Name": "Ultimate: W-Form Crowned Inferno",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1161011": {
       "Name": "Quick Assist: Blazing Flash - Guard",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1161012": {
       "Name": "Defensive Assist: Swift Break",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1161013": {
       "Name": "Assist Follow-Up: Charging Slam - Stab",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1161501": {
         "Level": 1,
         "Id": 1161501,
         "Name": [
@@ -1690,9 +1878,11 @@
         "Desc": [
           "Lighter automatically gains <color=#FFFFFF>Morale</color> over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 <color=#FFFFFF>Morale</color>, up to a maximum of 100. When <color=#FFFFFF>Morale</color> reaches 80, the next time Lighter switches into battle he immediately launches a <color=#FFFFFF>Quick Assist</color>. Once <color=#FFFFFF>Morale</color> is 80 or higher, executing the 5th hit of his <color=#FFFFFF>Basic Attack</color> puts Lighter in the <color=#FFFFFF>Morale Burst</color> state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color>. When a skill hits an enemy with its power increased, it will continuously consume <color=#FFFFFF>Morale</color>. With every 10 points of <color=#FFFFFF>Morale</color> consumed, Lighter's Impact increases by <color=#2BAD00>1%</color>, up to a maximum increase of <color=#2BAD00>10%</color>, and lasting 6s.\nIn the <color=#FFFFFF>Morale Burst</color> state, Lighter will no longer automatically gain <color=#FFFFFF>Morale</color> over time. If his <color=#FFFFFF>Morale</color> is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the <color=#FFFFFF>Morale Burst</color> state, when startup light punches or jab combos hit enemies, the target's <color=#98EFF0>Ice RES</color> and <color=#FF5521>Fire RES</color> are reduced by 15%, lasting 30s.\nIn the <color=#FFFFFF>Morale Burst</color> state, when the Finishing Move hits an enemy, it applies the <color=#FFFFFF>Collapse</color> effect on the target, extending its Stunned duration by 3s. The <color=#FFFFFF>Collapse</color> effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color> hits an enemy, when he switches off field, or when his <color=#FFFFFF>Morale</color> runs out, Lighter will leave the <color=#FFFFFF>Morale Burst</color> state, keeping any unspent <color=#FFFFFF>Morale</color>.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhile under the <color=#FFFFFF>Morale Burst</color> state, when the 5th hit of Lighter's <color=#FFFFFF>Basic Attack</color> hits an enemy, all squad members gain a stack of <color=#FFFFFF>Elation</color>, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of <color=#FFFFFF>Elation</color>, an Agent's <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> increase by 1.25%.\nWhen obtaining <color=#FFFFFF>Elation</color>, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of <color=#FFFFFF>Elation</color> by an extra 0.25%. When any squad member launches a <color=#FFFFFF>Chain Attack</color>, it will refresh the duration of all squad members' <color=#FFFFFF>Elation</color>. <color=#FFFFFF>Elation</color> can increase the <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> of Agents by a maximum of 75%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1161502": {
         "Level": 2,
         "Id": 1161502,
         "Name": [
@@ -1702,9 +1892,11 @@
         "Desc": [
           "Lighter automatically gains <color=#FFFFFF>Morale</color> over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 <color=#FFFFFF>Morale</color>, up to a maximum of 100. When <color=#FFFFFF>Morale</color> reaches 80, the next time Lighter switches into battle he immediately launches a <color=#FFFFFF>Quick Assist</color>. Once <color=#FFFFFF>Morale</color> is 80 or higher, executing the 5th hit of his <color=#FFFFFF>Basic Attack</color> puts Lighter in the <color=#FFFFFF>Morale Burst</color> state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color>. When a skill hits an enemy with its power increased, it will continuously consume <color=#FFFFFF>Morale</color>. With every 10 points of <color=#FFFFFF>Morale</color> consumed, Lighter's Impact increases by <color=#2BAD00>1.17%</color>, up to a maximum increase of <color=#2BAD00>11.7%</color>, and lasting 6s.\nIn the <color=#FFFFFF>Morale Burst</color> state, Lighter will no longer automatically gain <color=#FFFFFF>Morale</color> over time. If his <color=#FFFFFF>Morale</color> is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the <color=#FFFFFF>Morale Burst</color> state, when startup light punches or jab combos hit enemies, the target's <color=#98EFF0>Ice RES</color> and <color=#FF5521>Fire RES</color> are reduced by 15%, lasting 30s.\nIn the <color=#FFFFFF>Morale Burst</color> state, when the Finishing Move hits an enemy, it applies the <color=#FFFFFF>Collapse</color> effect on the target, extending its Stunned duration by 3s. The <color=#FFFFFF>Collapse</color> effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color> hits an enemy, when he switches off field, or when his <color=#FFFFFF>Morale</color> runs out, Lighter will leave the <color=#FFFFFF>Morale Burst</color> state, keeping any unspent <color=#FFFFFF>Morale</color>.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhile under the <color=#FFFFFF>Morale Burst</color> state, when the 5th hit of Lighter's <color=#FFFFFF>Basic Attack</color> hits an enemy, all squad members gain a stack of <color=#FFFFFF>Elation</color>, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of <color=#FFFFFF>Elation</color>, an Agent's <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> increase by 1.25%.\nWhen obtaining <color=#FFFFFF>Elation</color>, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of <color=#FFFFFF>Elation</color> by an extra 0.25%. When any squad member launches a <color=#FFFFFF>Chain Attack</color>, it will refresh the duration of all squad members' <color=#FFFFFF>Elation</color>. <color=#FFFFFF>Elation</color> can increase the <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> of Agents by a maximum of 75%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1161503": {
         "Level": 3,
         "Id": 1161503,
         "Name": [
@@ -1714,9 +1906,11 @@
         "Desc": [
           "Lighter automatically gains <color=#FFFFFF>Morale</color> over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 <color=#FFFFFF>Morale</color>, up to a maximum of 100. When <color=#FFFFFF>Morale</color> reaches 80, the next time Lighter switches into battle he immediately launches a <color=#FFFFFF>Quick Assist</color>. Once <color=#FFFFFF>Morale</color> is 80 or higher, executing the 5th hit of his <color=#FFFFFF>Basic Attack</color> puts Lighter in the <color=#FFFFFF>Morale Burst</color> state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color>. When a skill hits an enemy with its power increased, it will continuously consume <color=#FFFFFF>Morale</color>. With every 10 points of <color=#FFFFFF>Morale</color> consumed, Lighter's Impact increases by <color=#2BAD00>1.33%</color>, up to a maximum increase of <color=#2BAD00>13.3%</color>, and lasting 6s.\nIn the <color=#FFFFFF>Morale Burst</color> state, Lighter will no longer automatically gain <color=#FFFFFF>Morale</color> over time. If his <color=#FFFFFF>Morale</color> is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the <color=#FFFFFF>Morale Burst</color> state, when startup light punches or jab combos hit enemies, the target's <color=#98EFF0>Ice RES</color> and <color=#FF5521>Fire RES</color> are reduced by 15%, lasting 30s.\nIn the <color=#FFFFFF>Morale Burst</color> state, when the Finishing Move hits an enemy, it applies the <color=#FFFFFF>Collapse</color> effect on the target, extending its Stunned duration by 3s. The <color=#FFFFFF>Collapse</color> effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color> hits an enemy, when he switches off field, or when his <color=#FFFFFF>Morale</color> runs out, Lighter will leave the <color=#FFFFFF>Morale Burst</color> state, keeping any unspent <color=#FFFFFF>Morale</color>.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhile under the <color=#FFFFFF>Morale Burst</color> state, when the 5th hit of Lighter's <color=#FFFFFF>Basic Attack</color> hits an enemy, all squad members gain a stack of <color=#FFFFFF>Elation</color>, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of <color=#FFFFFF>Elation</color>, an Agent's <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> increase by 1.25%.\nWhen obtaining <color=#FFFFFF>Elation</color>, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of <color=#FFFFFF>Elation</color> by an extra 0.25%. When any squad member launches a <color=#FFFFFF>Chain Attack</color>, it will refresh the duration of all squad members' <color=#FFFFFF>Elation</color>. <color=#FFFFFF>Elation</color> can increase the <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> of Agents by a maximum of 75%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1161504": {
         "Level": 4,
         "Id": 1161504,
         "Name": [
@@ -1726,9 +1920,11 @@
         "Desc": [
           "Lighter automatically gains <color=#FFFFFF>Morale</color> over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 <color=#FFFFFF>Morale</color>, up to a maximum of 100. When <color=#FFFFFF>Morale</color> reaches 80, the next time Lighter switches into battle he immediately launches a <color=#FFFFFF>Quick Assist</color>. Once <color=#FFFFFF>Morale</color> is 80 or higher, executing the 5th hit of his <color=#FFFFFF>Basic Attack</color> puts Lighter in the <color=#FFFFFF>Morale Burst</color> state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color>. When a skill hits an enemy with its power increased, it will continuously consume <color=#FFFFFF>Morale</color>. With every 10 points of <color=#FFFFFF>Morale</color> consumed, Lighter's Impact increases by <color=#2BAD00>1.5%</color>, up to a maximum increase of <color=#2BAD00>15%</color>, and lasting 6s.\nIn the <color=#FFFFFF>Morale Burst</color> state, Lighter will no longer automatically gain <color=#FFFFFF>Morale</color> over time. If his <color=#FFFFFF>Morale</color> is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the <color=#FFFFFF>Morale Burst</color> state, when startup light punches or jab combos hit enemies, the target's <color=#98EFF0>Ice RES</color> and <color=#FF5521>Fire RES</color> are reduced by 15%, lasting 30s.\nIn the <color=#FFFFFF>Morale Burst</color> state, when the Finishing Move hits an enemy, it applies the <color=#FFFFFF>Collapse</color> effect on the target, extending its Stunned duration by 3s. The <color=#FFFFFF>Collapse</color> effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color> hits an enemy, when he switches off field, or when his <color=#FFFFFF>Morale</color> runs out, Lighter will leave the <color=#FFFFFF>Morale Burst</color> state, keeping any unspent <color=#FFFFFF>Morale</color>.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhile under the <color=#FFFFFF>Morale Burst</color> state, when the 5th hit of Lighter's <color=#FFFFFF>Basic Attack</color> hits an enemy, all squad members gain a stack of <color=#FFFFFF>Elation</color>, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of <color=#FFFFFF>Elation</color>, an Agent's <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> increase by 1.25%.\nWhen obtaining <color=#FFFFFF>Elation</color>, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of <color=#FFFFFF>Elation</color> by an extra 0.25%. When any squad member launches a <color=#FFFFFF>Chain Attack</color>, it will refresh the duration of all squad members' <color=#FFFFFF>Elation</color>. <color=#FFFFFF>Elation</color> can increase the <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> of Agents by a maximum of 75%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1161505": {
         "Level": 5,
         "Id": 1161505,
         "Name": [
@@ -1738,9 +1934,11 @@
         "Desc": [
           "Lighter automatically gains <color=#FFFFFF>Morale</color> over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 <color=#FFFFFF>Morale</color>, up to a maximum of 100. When <color=#FFFFFF>Morale</color> reaches 80, the next time Lighter switches into battle he immediately launches a <color=#FFFFFF>Quick Assist</color>. Once <color=#FFFFFF>Morale</color> is 80 or higher, executing the 5th hit of his <color=#FFFFFF>Basic Attack</color> puts Lighter in the <color=#FFFFFF>Morale Burst</color> state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color>. When a skill hits an enemy with its power increased, it will continuously consume <color=#FFFFFF>Morale</color>. With every 10 points of <color=#FFFFFF>Morale</color> consumed, Lighter's Impact increases by <color=#2BAD00>1.67%</color>, up to a maximum increase of <color=#2BAD00>16.7%</color>, and lasting 6s.\nIn the <color=#FFFFFF>Morale Burst</color> state, Lighter will no longer automatically gain <color=#FFFFFF>Morale</color> over time. If his <color=#FFFFFF>Morale</color> is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the <color=#FFFFFF>Morale Burst</color> state, when startup light punches or jab combos hit enemies, the target's <color=#98EFF0>Ice RES</color> and <color=#FF5521>Fire RES</color> are reduced by 15%, lasting 30s.\nIn the <color=#FFFFFF>Morale Burst</color> state, when the Finishing Move hits an enemy, it applies the <color=#FFFFFF>Collapse</color> effect on the target, extending its Stunned duration by 3s. The <color=#FFFFFF>Collapse</color> effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color> hits an enemy, when he switches off field, or when his <color=#FFFFFF>Morale</color> runs out, Lighter will leave the <color=#FFFFFF>Morale Burst</color> state, keeping any unspent <color=#FFFFFF>Morale</color>.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhile under the <color=#FFFFFF>Morale Burst</color> state, when the 5th hit of Lighter's <color=#FFFFFF>Basic Attack</color> hits an enemy, all squad members gain a stack of <color=#FFFFFF>Elation</color>, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of <color=#FFFFFF>Elation</color>, an Agent's <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> increase by 1.25%.\nWhen obtaining <color=#FFFFFF>Elation</color>, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of <color=#FFFFFF>Elation</color> by an extra 0.25%. When any squad member launches a <color=#FFFFFF>Chain Attack</color>, it will refresh the duration of all squad members' <color=#FFFFFF>Elation</color>. <color=#FFFFFF>Elation</color> can increase the <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> of Agents by a maximum of 75%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1161506": {
         "Level": 6,
         "Id": 1161506,
         "Name": [
@@ -1750,9 +1948,11 @@
         "Desc": [
           "Lighter automatically gains <color=#FFFFFF>Morale</color> over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 <color=#FFFFFF>Morale</color>, up to a maximum of 100. When <color=#FFFFFF>Morale</color> reaches 80, the next time Lighter switches into battle he immediately launches a <color=#FFFFFF>Quick Assist</color>. Once <color=#FFFFFF>Morale</color> is 80 or higher, executing the 5th hit of his <color=#FFFFFF>Basic Attack</color> puts Lighter in the <color=#FFFFFF>Morale Burst</color> state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color>. When a skill hits an enemy with its power increased, it will continuously consume <color=#FFFFFF>Morale</color>. With every 10 points of <color=#FFFFFF>Morale</color> consumed, Lighter's Impact increases by <color=#2BAD00>1.83%</color>, up to a maximum increase of <color=#2BAD00>18.3%</color>, and lasting 6s.\nIn the <color=#FFFFFF>Morale Burst</color> state, Lighter will no longer automatically gain <color=#FFFFFF>Morale</color> over time. If his <color=#FFFFFF>Morale</color> is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the <color=#FFFFFF>Morale Burst</color> state, when startup light punches or jab combos hit enemies, the target's <color=#98EFF0>Ice RES</color> and <color=#FF5521>Fire RES</color> are reduced by 15%, lasting 30s.\nIn the <color=#FFFFFF>Morale Burst</color> state, when the Finishing Move hits an enemy, it applies the <color=#FFFFFF>Collapse</color> effect on the target, extending its Stunned duration by 3s. The <color=#FFFFFF>Collapse</color> effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color> hits an enemy, when he switches off field, or when his <color=#FFFFFF>Morale</color> runs out, Lighter will leave the <color=#FFFFFF>Morale Burst</color> state, keeping any unspent <color=#FFFFFF>Morale</color>.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhile under the <color=#FFFFFF>Morale Burst</color> state, when the 5th hit of Lighter's <color=#FFFFFF>Basic Attack</color> hits an enemy, all squad members gain a stack of <color=#FFFFFF>Elation</color>, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of <color=#FFFFFF>Elation</color>, an Agent's <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> increase by 1.25%.\nWhen obtaining <color=#FFFFFF>Elation</color>, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of <color=#FFFFFF>Elation</color> by an extra 0.25%. When any squad member launches a <color=#FFFFFF>Chain Attack</color>, it will refresh the duration of all squad members' <color=#FFFFFF>Elation</color>. <color=#FFFFFF>Elation</color> can increase the <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> of Agents by a maximum of 75%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1161507": {
         "Level": 7,
         "Id": 1161507,
         "Name": [
@@ -1762,7 +1962,9 @@
         "Desc": [
           "Lighter automatically gains <color=#FFFFFF>Morale</color> over time, at a rate of 2.9 points per second. For each point of Energy consumed by any squad member, Lighter recovers an additional 0.26 <color=#FFFFFF>Morale</color>, up to a maximum of 100. When <color=#FFFFFF>Morale</color> reaches 80, the next time Lighter switches into battle he immediately launches a <color=#FFFFFF>Quick Assist</color>. Once <color=#FFFFFF>Morale</color> is 80 or higher, executing the 5th hit of his <color=#FFFFFF>Basic Attack</color> puts Lighter in the <color=#FFFFFF>Morale Burst</color> state, enhancing the power of the startup light punch, jab combo, and the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color>. When a skill hits an enemy with its power increased, it will continuously consume <color=#FFFFFF>Morale</color>. With every 10 points of <color=#FFFFFF>Morale</color> consumed, Lighter's Impact increases by <color=#2BAD00>2%</color>, up to a maximum increase of <color=#2BAD00>20%</color>, and lasting 6s.\nIn the <color=#FFFFFF>Morale Burst</color> state, Lighter will no longer automatically gain <color=#FFFFFF>Morale</color> over time. If his <color=#FFFFFF>Morale</color> is exhausted during a startup light punch or jab combo, he will automatically follow up with a more powerful Finishing Move.\nIn the <color=#FFFFFF>Morale Burst</color> state, when startup light punches or jab combos hit enemies, the target's <color=#98EFF0>Ice RES</color> and <color=#FF5521>Fire RES</color> are reduced by 15%, lasting 30s.\nIn the <color=#FFFFFF>Morale Burst</color> state, when the Finishing Move hits an enemy, it applies the <color=#FFFFFF>Collapse</color> effect on the target, extending its Stunned duration by 3s. The <color=#FFFFFF>Collapse</color> effect can trigger only once on the same target before they recover from Stun.\nWhen the Finishing Move of the 5th hit of his <color=#FFFFFF>Basic Attack</color> hits an enemy, when he switches off field, or when his <color=#FFFFFF>Morale</color> runs out, Lighter will leave the <color=#FFFFFF>Morale Burst</color> state, keeping any unspent <color=#FFFFFF>Morale</color>.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhile under the <color=#FFFFFF>Morale Burst</color> state, when the 5th hit of Lighter's <color=#FFFFFF>Basic Attack</color> hits an enemy, all squad members gain a stack of <color=#FFFFFF>Elation</color>, stacking up to 20 times and lasting 30s. Repeated triggers reset the duration. For each stack of <color=#FFFFFF>Elation</color>, an Agent's <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> increase by 1.25%.\nWhen obtaining <color=#FFFFFF>Elation</color>, if Lighter's Impact exceeds 170, every additional 10 points of Impact will increase the buff effect provided by each stack of <color=#FFFFFF>Elation</color> by an extra 0.25%. When any squad member launches a <color=#FFFFFF>Chain Attack</color>, it will refresh the duration of all squad members' <color=#FFFFFF>Elation</color>. <color=#FFFFFF>Elation</color> can increase the <color=#98EFF0>Ice DMG</color> and <color=#FF5521>Fire DMG</color> of Agents by a maximum of 75%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1840,5 +2042,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
-  }
+  },
+  "Potential": []
 }

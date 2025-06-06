@@ -39,12 +39,6 @@
     "AttackGrowth": 69346,
     "AvatarPieceId": 5061,
     "BreakStun": 93,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -56,7 +50,6 @@
     "Endurance": 0,
     "HpGrowth": 761177,
     "HpMax": 561,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -66,7 +59,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Corin",
@@ -76,8 +68,11 @@
       "Camp2",
       "Size1",
       "AidTypeParry",
-      "Corin"
-    ]
+      "Corin",
+      "EtherEyesSize1"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -246,7 +241,8 @@
       "Description": [
         {
           "Name": "Basic Attack: Wipeout",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 5 slashes, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button during the 3rd and 5th hits to extend the chainsaw slash attack."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 5 slashes, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button during the 3rd and 5th hits to extend the chainsaw slash attack.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Wipeout",
@@ -269,9 +265,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4099,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -291,9 +290,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7016,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -313,9 +315,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12376,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -335,9 +340,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18633,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit DMG Multiplier",
@@ -357,9 +365,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34194,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -379,9 +390,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4099,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -401,9 +415,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7016,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -423,9 +440,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12376,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -445,9 +465,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18633,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Daze Multiplier",
@@ -467,11 +490,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34194,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -493,15 +520,18 @@
       "Description": [
         {
           "Name": "Dodge: Shoo!",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Oopsy-Daisy!",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw attack's duration."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw attack's duration.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Nope!",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlashes enemies in front before detonating her chainsaw, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlashes enemies in front before detonating her chainsaw, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Oopsy-Daisy!",
@@ -524,9 +554,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4834,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Maximum Daze Multiplier",
@@ -546,11 +579,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4834,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Nope!",
@@ -573,7 +610,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6581,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1061016": {
                   "Main": 13560,
@@ -589,9 +628,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6581,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -611,7 +653,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6581,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1061016": {
                   "Main": 6590,
@@ -627,11 +671,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6581,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -653,11 +701,13 @@
       "Description": [
         {
           "Name": "Special Attack: Clean Sweep",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nUnleashes a series of slashes upon enemies in front, before detonating the chainsaw, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nAnti-Interrupt level is increased while using this skill, and DMG taken is reduced by 40%."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nUnleashes a series of slashes upon enemies in front, before detonating the chainsaw, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nAnti-Interrupt level is increased while using this skill, and DMG taken is reduced by 40%.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Skirt Alert",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nUnleashes a series of powerful slashes upon enemies in front, before detonating the chainsaw, dealing massive <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack at the cost of Energy if the attack connects.\nCharacter is invulnerable during the spinning slash.\nAnti-Interrupt level is increased during the extended slash, and DMG taken is reduced by 40%."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nUnleashes a series of powerful slashes upon enemies in front, before detonating the chainsaw, dealing massive <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack at the cost of Energy if the attack connects.\nCharacter is invulnerable during the spinning slash.\nAnti-Interrupt level is increased during the extended slash, and DMG taken is reduced by 40%.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Clean Sweep",
@@ -680,9 +730,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6668,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Extended Slash Maximum DMG Multiplier",
@@ -702,9 +755,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3750,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion DMG Multiplier",
@@ -724,9 +780,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2499,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Spinning Slash Daze Multiplier",
@@ -746,9 +805,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6668,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Extended Slash Maximum Daze Multiplier",
@@ -768,9 +830,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3750,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion Daze Multiplier",
@@ -790,11 +855,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2499,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Skirt Alert",
@@ -817,9 +886,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 20333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Extended Slash Maximum DMG Multiplier",
@@ -839,9 +911,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 61001,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion DMG Multiplier",
@@ -861,9 +936,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 20333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Spinning Slash Daze Multiplier",
@@ -883,9 +961,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 20333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Extended Slash Maximum Daze Multiplier",
@@ -905,9 +986,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 61001,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion Daze Multiplier",
@@ -927,14 +1011,26 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 20333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Spinning Slash Energy Cost", "Desc": "20" },
-            { "Name": "Extended Slash Maximum Energy Cost", "Desc": "40" },
-            { "Name": "Explosion Energy Cost", "Desc": "20" }
-          ]
+            {
+              "Name": "Spinning Slash Energy Cost",
+              "Desc": "20",
+              "Potential": []
+            },
+            {
+              "Name": "Extended Slash Maximum Energy Cost",
+              "Desc": "40",
+              "Potential": []
+            },
+            { "Name": "Explosion Energy Cost", "Desc": "20", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -956,11 +1052,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Sorry...",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful slash at enemies in a small area, dealing massive <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful slash at enemies in a small area, dealing massive <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Very, Very Sorry!",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful slash at enemies in a small area, dealing massive <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful slash at enemies in a small area, dealing massive <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Sorry...",
@@ -983,9 +1081,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 48779,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1005,11 +1106,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 48779,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Very, Very Sorry!",
@@ -1032,9 +1137,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 40670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1054,11 +1162,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 40670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1080,15 +1192,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Emergency Measures",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlashes enemies in front before detonating her chainsaw, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlashes enemies in front before detonating her chainsaw, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold the button to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: P—Please Allow Me!",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Quick Sweep",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nUnleash a series of slashes against enemies in front followed by an explosive chainsaw, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nUnleash a series of slashes against enemies in front followed by an explosive chainsaw, dealing <color=#F0D12B>Physical DMG</color>.\nRepeatedly press or hold to extend the chainsaw slash attack.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Emergency Measures",
@@ -1111,7 +1226,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13163,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1061020": {
                   "Main": 8330,
@@ -1127,9 +1244,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8329,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1149,7 +1269,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13163,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1061020": {
                   "Main": 8330,
@@ -1165,11 +1287,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8329,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: P—Please Allow Me!",
@@ -1192,9 +1318,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1214,9 +1343,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1236,11 +1368,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Quick Sweep",
@@ -1263,9 +1399,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 51801,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1285,11 +1424,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 51801,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1313,66 +1456,76 @@
       "Name": "Basic Attack: Wipeout",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1061002": {
       "Name": "Special Attack: Clean Sweep",
       "Desc": "<IconMap:Icon_Special> (Can Hold Down)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1061003": {
       "Name": "EX Special Attack: Skirt Alert",
       "Desc": "<IconMap:Icon_SpecialReady>(Can Hold Down)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1061004": {
       "Name": "Dash Attack: Oopsy-Daisy!",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1061005": {
       "Name": "Dodge Counter: Nope!",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1061006": {
       "Name": "Chain Attack: Sorry...",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1061007": {
       "Name": "Ultimate: Very, Very Sorry!",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1061008": {
       "Name": "Quick Assist: Emergency Measures",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1061009": {
       "Name": "Defensive Assist: P—Please allow me!",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1061010": {
       "Name": "Assist Follow-Up: Quick Sweep",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1061501": {
         "Level": 1,
         "Id": 1061501,
         "Name": [
@@ -1382,9 +1535,11 @@
         "Desc": [
           "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by <color=#2BAD00>18.7%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1061502": {
         "Level": 2,
         "Id": 1061502,
         "Name": [
@@ -1394,9 +1549,11 @@
         "Desc": [
           "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by <color=#2BAD00>21.8%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1061503": {
         "Level": 3,
         "Id": 1061503,
         "Name": [
@@ -1406,9 +1563,11 @@
         "Desc": [
           "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by <color=#2BAD00>25%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1061504": {
         "Level": 4,
         "Id": 1061504,
         "Name": [
@@ -1418,9 +1577,11 @@
         "Desc": [
           "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by <color=#2BAD00>28.1%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1061505": {
         "Level": 5,
         "Id": 1061505,
         "Name": [
@@ -1430,9 +1591,11 @@
         "Desc": [
           "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by <color=#2BAD00>31.2%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1061506": {
         "Level": 6,
         "Id": 1061506,
         "Name": [
@@ -1442,9 +1605,11 @@
         "Desc": [
           "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by <color=#2BAD00>34.3%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1061507": {
         "Level": 7,
         "Id": 1061507,
         "Name": [
@@ -1454,7 +1619,9 @@
         "Desc": [
           "After holding or tapping repeatedly, when Corin unleashes a continuous extended slash with her Chainsaw, the skill's DMG increases by <color=#2BAD00>37.5%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nCorin deals 35% more DMG to Stunned enemies."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1532,5 +1699,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
-  }
+  },
+  "Potential": []
 }

@@ -347,6 +347,18 @@
     "CHS": "索迪代斯",
     "JA": "ソルデドゥス"
   },
+  "19999": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
+    "rarity": 1,
+    "group": 290,
+    "EN": "Random Enemy Card",
+    "desc": "CardDesc_19999",
+    "KO": "랜덤 몬스터 카드",
+    "CHS": "随机怪物卡",
+    "JA": "ランダムエネミーカード"
+  },
   "20000": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GiantGrey.png",
     "tag": ["Ether", "NotPro"],
@@ -598,6 +610,18 @@
     "KO": "벨룸",
     "CHS": "巴罗姆",
     "JA": "ベルラム"
+  },
+  "29999": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 2,
+    "group": 290,
+    "EN": "Random Enemy Card",
+    "desc": "CardDesc_29999",
+    "KO": "랜덤 몬스터 카드",
+    "CHS": "随机怪物卡",
+    "JA": "ランダムエネミーカード"
   },
   "30000": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_DurahanGrey.png",
@@ -946,6 +970,18 @@
     "KO": "제페토",
     "CHS": "杰佩托",
     "JA": "ジェペット"
+  },
+  "30033": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_MentorMevorakh.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 4,
+    "group": 201,
+    "EN": "Miasma Priest",
+    "desc": "For New Eridu, the Hollow is a catastrophe of despair. And when a Hollow expands, fear, death, suffering... all forms of despair devour people's minds, altering the fates of countless souls.\nThe omens of doom began in the shadows of the Hollow, yet some heard a strange calling within, glimpsing a sliver of... hope and redemption amidst despair.\nSince then, they heeded that secret call to form a clandestine organization, and the Miasma Priests lurked in the shadows of Eridu... spreading Their blessing to those who had lost their way.\nThe \"Miasma Priests\" believe that the Hollow's expansion is no mere natural disaster. Generation after generation, the \"Priests\" have tirelessly pursued the hidden truth behind it, seeking to achieve their desired truth... that the will within the Hollow shall ultimately become reality.\nHowever, sacrifices are necessary in this process, and minor troubles are inevitable. Even being targeted by Void Hunters and hunted by major organizations are merely trivial setbacks on the path to truth.\nAfter a lengthy effort and thorough preparation, the \"Miasma Priests\" have finally summoned that will from the Hollow, allowing it to descend upon the world with near-perfect form. The Miasma that coils and covers the \"Miasma Priests,\" that corrupting substance untouchable to others, has become for them dazzling weapons and armor.\nAll of this serves as the ultimate proof of their blessed status.\n\"Their will... shall finally descend upon this world.\"\n\"What you must do is simple...\"\n\"Listen, obey, and then... accept Their blessing!\"",
+    "KO": "미아즈마 프리스트",
+    "CHS": "秽息司祭",
+    "JA": "ミアズマの司祭"
   },
   "35001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Nineveh.png",
@@ -1399,7 +1435,7 @@
     "group": 203,
     "EN": "Greedy Ranger",
     "desc": "This humanoid intelligent being is a result of potent Ether matter corruption in the Hollow, exhibiting both humanoid traits and remnants of its former clothing and combat style. It is likely that it was once a gang member or raider living in the Hollow.\nThe creature's physical characteristics indicate its past as a long-range weapon specialist. Despite losing its free will and life due to Etherealization, it retains its instincts and habits for long-range combat. Its corrupted form enables it to launch projectiles, attacking enemies from a distance. The Ether corruption has enhanced its shooting abilities and projectile firepower. (For example, these creatures may fire sharp Ether Crystals or mixed explosives.)\n\"I told him not to touch that crystal, but he wouldn't listen! That reckless idiot never listens! By the time we were about to leave the Hollow, he... he changed...\"",
-    "KO": "탐욕스러운 총잡이",
+    "KO": "���욕스러운 총잡이",
     "CHS": "贪婪射手",
     "JA": "強欲射手"
   },
@@ -1447,7 +1483,7 @@
     "group": 201,
     "EN": "Farbauti - Energized",
     "desc": "Farbauti, possessing immense strength and often in a frenzied state, is one of the most formidable threats Hollow Raiders may face. Its hammer-like arms can effortlessly deflect damage and unleash storms of blows that crush everything in its path.\nSome Hollow Raiders have observed Farbauti frequently pounding the ground in a rhythmic, high-frequency manner, leading to speculation about its peculiar interest in drumming music.\nDespite the Hollow Investigative Association publicly debunking this rumor, many Hollow Raiders carry portable stereos in an attempt to distract Farbauti with music.\nNo successful escapes using this method have been reported however.\n\"The reason for their failure is simple: Even Farbauti think your taste in music sucks!\"",
-    "KO": "파르바우티·에너���형",
+    "KO": "파르바우티·에너지형",
     "CHS": "法布提·蓄能型",
     "JA": "ファールバウティ・蓄エネ型"
   },
@@ -1905,7 +1941,7 @@
     "desc": "A potent humanoid living Ether, initially observed in the Laketown Hollow and documented by the Third Investigation Team of the Hollow Investigative Association. The exact correlation between these living Ether beings and the downfall of the lakeside town known as Blaise remains uncertain.\nDue to their immense power and formidable fighting style, the HIA has labeled them as highly dangerous and advises novice investigators avoid direct confrontations with them.\n\"Don't let it activate its sword, and if it already has... just don't get cut.\"",
     "KO": "갓 태어난 듀라한",
     "CHS": "初生杜拉罕",
-    "JA": "初生のデ���ラハン"
+    "JA": "初生のデュラハン"
   },
   "300003": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DurahanPro.png",
@@ -2434,5 +2470,149 @@
     "KO": "체페슈",
     "CHS": "特佩什",
     "JA": "ツェペシュ"
+  },
+  "930167": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_FlameCantor.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 2,
+    "group": 203,
+    "EN": "Flame Cantor",
+    "desc": "A high-ranking priest of the Exaltists who holds the position of \"Flame Cantor,\" and who has the power to manipulate Miasma. This defiling force drains life, while the flames light the path ahead.\n\nWhile all Exaltist fanatics tend to either shout or chant vague slogans like \"Refinement\" and \"Creator\" when attacking you, few can make known the experience of true \"Refinement\" using Miasmic fire like this one does.\n\n\"They just charge at you, screaming things like 'Refinement,' 'Creator,' 'Purification' and whatnot!\"",
+    "KO": "불꽃의 선창자",
+    "CHS": "秉火领颂",
+    "JA": "火を帯びし先導者"
+  },
+  "930168": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Banyrek.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 2,
+    "group": 201,
+    "EN": "Banyrek",
+    "desc": "In the Hollow Investigative Association's reports, Banyrek has been repeatedly marked as \"dangerous\" mainly due to its all-too-great jumping prowess.\nIf an Ethereal Olympics were held in the Hollow, it would definitely sweep both the high jump and long jump championships. Observation data indicates that Banyrek can bounce continuously for hours without showing any signs of fatigue, as if the space between air and ground were some natural runway.\nSome researchers have joked that if they ever released it in New Eridu's urban district, it would probably bounce from west to east in less than a day.\n\n\"How about trying to tame it as a mount?\"\n\"Forget it, with that explosive kinetic energy, it might be more cost-effective to use it for power generation directly.\"",
+    "KO": "바니렉",
+    "CHS": "班尼雷克",
+    "JA": "バニーレック"
+  },
+  "930169": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Avarus.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 3,
+    "group": 201,
+    "EN": "Miasma Ravager - Avarus",
+    "desc": "In Hollow Investigative Association reports, Avarus is often jokingly referred to as the embodiment of \"the sin of gluttony\" — its pot-bellied figure makes it look every bit the lazy bum, about to doze off at any moment.\nDon't underestimate it, however. Observation data indicates that Avarus can compress its body into a ball and launch devastating strikes at targets with astonishing speed.\nAs to how it maintains such a rotund figure despite its intense physical activity, the Association has yet to reach a conclusion.\n\n\"The way it rolls around always reminds me of my pet hamster — it's just a bigger, y'know?\"\n\"More than just a bit bigger, I'd say...\"",
+    "KO": "미아즈마 침식자·아바루스",
+    "CHS": "秽息蚀者·阿瓦鲁斯",
+    "JA": "ミアズマラヴェジャー・アヴァルス"
+  },
+  "930170": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MazingerGoldenBomb.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 3,
+    "group": 290,
+    "EN": "Mecha Golden Bangboo",
+    "desc": "According to urban legends among Hollow Raiders, Golden Bangboo keep collecting Dennies and Gear Coins in the Hollow for one purpose: extracting the metals needed to crowdfund the construction of the Golden Mecha. (Of course, this \"gold\" is actually a chrome-copper alloy — only this could provide enough strength to support such a magnificent frame.)\nWhen the Golden Mecha is completed, the Bangboo with the highest contribution will enter the cockpit surrounded by fellow Bangboo, transforming into the Golden Mecha Mechboo to crush enemies who dare attack Golden Bangboo with flashy and powerful combat techniques.\n\"Gold Rush,\" \"Molten Gold Beam,\" \"Golden Missile\"...\nThe skill names might sound weird, but the Bangboo think they're super cool!\n\"Look! It's the Golden Mecha Mechboo!\" \"D—Don't be scared! If we take that thing down, we'll be rich!\"...\nEven though evil Hollow Raiders often treat it like a walking vault, the Bangboo still think it's absolutely awesome!",
+    "KO": "마신 황금 「Bangboo」",
+    "CHS": "魔神黄金邦布",
+    "JA": "黄金魔神ギアゴルド"
+  },
+  "930171": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Anglercrab.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 2,
+    "group": 201,
+    "EN": "Fisher Crab",
+    "desc": "Feeding primarily on rookie investigators, newbie Hollow Raiders, and greedy, reckless beginner adventurers, the Fisher Crab - the most patient hunter in the Hollow, fishing for fools.\nBefore rushing towards that \"Hollow Supply Container,\" remember:\nDon't become tonight's dinner party joke among colleagues, or tomorrow morning's mass-distributed obituary.\n\n\"A mimic? You've been playing too many tabletop games, haven't you?\"",
+    "KO": "피셔 크랩",
+    "CHS": "渔人蟹",
+    "JA": "ミミック蟹"
+  },
+  "930172": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Huskron.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 1,
+    "group": 201,
+    "EN": "Huskron",
+    "desc": "The Huskron's dual forms — pre and post-hatching — have been giving headaches to new and veteran investigators alike. The Hollow Investigative Association offers this advice: Always watch for Miasmic substances at your feet. If you spot any rock-like spherical objects, attack immediately! Don't hesitate! Don't hesitate!\nAccording to insiders, the advice originally didn't have that repetition — until some clever Hollow Investigators still tried stepping around Huskrons even after reading it. That strategy worked about as well as trying to quietly open the fridge late at night without alerting one's dog.\n\n\"I prefer how it looks before hatching — all round and rolly.\"\n\"Is that why you didn't attack it first...?\"",
+    "KO": "허스크론",
+    "CHS": "赫斯克龙",
+    "JA": "ハスクロン"
+  },
+  "930173": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Arcavor.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 1,
+    "group": 201,
+    "EN": "Miasma Walker - Arcavor",
+    "desc": "Arcavor's coral-like glowing head never fails to catch the attention of rookie Hollow Raiders. Many find themselves unconsciously mesmerized, staring blankly in fascination — unaware that the danger has only just begun.\nTaking advantage of any such distraction, Arcavor gracefully raises its slender legs, striking a pose that's nothing short of an acrobatic miracle — the Hollow Investigative Association's records even describe it as reminiscent of a ballet dancer twirling on ice.\nHowever, the Association's warning is crystal clear: when you see it strike this pose, you'd better roll, jump, or back away immediately, because it's aiming for a lethal strike.\n\n\"Seriously, did this one miss its calling? It could've been a superstar as a dance performer, acrobat, or even a figure skater! But no, it just has to hang out in the Hollow and attack people...\"",
+    "KO": "미아즈마 워커·아카보르",
+    "CHS": "秽息行者· 阿卡沃尔",
+    "JA": "ミアズマの歩者・アカヴォル"
+  },
+  "930174": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_HymnistWar.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 1,
+    "group": 203,
+    "EN": "Exalting Hymnist",
+    "desc": "An unsettling chant often echoed through the Hollow. The veteran miners strictly forbade anyone from approaching its source, but newcomer Johnny brushed off their warnings. Spurred on by a foolish bet, he crept step by step toward the source of the sound. Finally, he reached a clearing. There, a group of people wearing identical uniforms and eerie masks stood in a circle, performing some mysterious ritual. All around them, a group of Ethereals slowly closed in. Johnny shouted warnings, hoping they would flee, but they remained deaf to his cries. Instead, the Ethereals, drawn by Johnny's voice, lunged at him...\n\n\"We will do all we can to enhance discipline amongst the miners. God keep Johnny's soul.\"",
+    "KO": "칭송회 예찬자",
+    "CHS": "颂礼赞者",
+    "JA": "礼賛者"
+  },
+  "930175": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaJaneSlime.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 3,
+    "group": 290,
+    "EN": "Miasmic - Jane",
+    "desc": "A form reshaped in profound darkness from fallen creation.\nEven among Ionized enemies, which are renowned for their strange and uncanny qualities, \"Ionized Doppelgangers\" are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. From detail to texture, these creatures are experts in mixing the spurious and genuine.\nMore challenging still is their ability to mimic the powerful and fearsome combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable nemeses from their opponent's memories, before attacking in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+    "KO": "미아즈믹·제인",
+    "CHS": "秽蚀·简",
+    "JA": "ミアズミック・ジェーン"
+  },
+  "930176": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaHugoSlime.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 3,
+    "group": 290,
+    "EN": "Miasmic - Abyssal Enforcer",
+    "desc": "A form reshaped in profound darkness from fallen creation.\nEven among Ionized enemies, which are renowned for their strange and uncanny qualities, \"Ionized Doppelgangers\" are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. From detail to texture, these creatures are experts in mixing the spurious and genuine.\nMore challenging still is their ability to mimic the powerful and fearsome combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable nemeses from their opponent's memories, before attacking in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+    "KO": "미아즈믹·암연 징벌자",
+    "CHS": "秽蚀·暗渊惩戒者",
+    "JA": "ミアズミック・深淵の断罪者"
+  },
+  "930177": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaSlime.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 1,
+    "group": 290,
+    "EN": "Miasmic - Doppelganger",
+    "desc": "A form reshaped in profound darkness from fallen creation.\nEven among Ionized enemies, which are renowned for their strange and uncanny qualities, \"Ionized Doppelgangers\" are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. From detail to texture, these creatures are experts in mixing the spurious and genuine.\nMore challenging still is their ability to mimic the powerful and fearsome combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable nemeses from their opponent's memories, before attacking in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+    "KO": "미아즈믹·도플갱어",
+    "CHS": "秽蚀·多佩冈亚",
+    "JA": "ミアズミック・ドッペルゲンガー"
+  },
+  "930178": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaThracian.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 3,
+    "group": 201,
+    "EN": "Miasmic - Thracian",
+    "desc": "A fallen creation, reshaped in the depths of profound darkness and impurity.\n\nThis fearsome Ethereal, named after a warrior tribe in ancient mythology, is said to only manifest from the most valiant heroes and the most insane villains when they become corrupted by the Ether.\nThat is not the case, however. While the chiseled muscles you developed in the Hollow and the adrenaline released in excess before death may indeed help you become a significant nuisance to your former companions, they probably won't hold it against an old friend who's already beyond saving, right?\nNot that it matters, of course. Who cares about street cred or socializing once your handsome face has transformed into a dark, eerie energy orb, anyway?\n\"That's the Boss for ya. Even his Ether-corrupted form is super strong!\"\n\"I always knew something was off about that gym freak!\"",
+    "KO": "미아즈믹·트라키안",
+    "CHS": "秽蚀·色雷斯人",
+    "JA": "ミアズミック・トラキアン"
   }
 }

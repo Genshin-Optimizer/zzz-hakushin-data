@@ -43,12 +43,6 @@
     "AttackGrowth": 76728,
     "AvatarPieceId": 5261,
     "BreakStun": 86,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -60,7 +54,6 @@
     "Endurance": 0,
     "HpGrowth": 849779,
     "HpMax": 626,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -70,7 +63,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "JaneDoe",
@@ -80,8 +72,11 @@
       "Camp7",
       "Size3",
       "AidTypeParry",
-      "JaneDoe"
-    ]
+      "JaneDoe",
+      "EtherEyesSize3"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -250,15 +245,18 @@
       "Description": [
         {
           "Name": "Basic Attack: Dancing Blades",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 6 attacks in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 6 attacks in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Passion",
-          "Desc": "When Jane triggers <color=#FFFFFF>Perfect Dodge</color>, <color=#FFFFFF>Defensive Assist</color>, or performs a move that deals DMG to the enemy, she accumulates <color=#FFFFFF>Passion Stream</color>. Upon reaching the maximum <color=#FFFFFF>Passion Stream</color>, Jane enters the <color=#FFFFFF>Passion</color> state.\nWhile in the <color=#FFFFFF>Passion</color> state, Jane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 25%. Additionally, if Jane's Anomaly Proficiency exceeds 120, each extra point raises her ATK by 2, up to a maximum of 600.\nIn the <color=#FFFFFF>Passion</color> state, Jane's skills that deal damage consume <color=#FFFFFF>Passion Stream</color>. Activating a <color=#FFFFFF>Perfect Dodge</color> or <color=#FFFFFF>Defensive Assist</color> regenerates <color=#FFFFFF>Passion Stream</color>. Jane exits the <color=#FFFFFF>Passion</color> state when all of her <color=#FFFFFF>Passion Stream</color> is consumed."
+          "Desc": "When Jane triggers <color=#FFFFFF>Perfect Dodge</color>, <color=#FFFFFF>Defensive Assist</color>, or performs a move that deals DMG to the enemy, she accumulates <color=#FFFFFF>Passion Stream</color>. Upon reaching the maximum <color=#FFFFFF>Passion Stream</color>, Jane enters the <color=#FFFFFF>Passion</color> state.\nWhile in the <color=#FFFFFF>Passion</color> state, Jane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 25%. Additionally, if Jane's Anomaly Proficiency exceeds 120, each extra point raises her ATK by 2, up to a maximum of 600.\nIn the <color=#FFFFFF>Passion</color> state, Jane's skills that deal damage consume <color=#FFFFFF>Passion Stream</color>. Activating a <color=#FFFFFF>Perfect Dodge</color> or <color=#FFFFFF>Defensive Assist</color> regenerates <color=#FFFFFF>Passion Stream</color>. Jane exits the <color=#FFFFFF>Passion</color> state when all of her <color=#FFFFFF>Passion Stream</color> is consumed.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Salchow Jump",
-          "Desc": "Entering the <color=#FFFFFF>Passion</color> state grants Jane one use of <color=#FFFFFF>Basic Attack: Salchow Jump</color>.\nWhen available, hold <IconMap:Icon_Normal> to activate:\nLaunch rapid consecutive attacks forward, followed by a Finishing Move, dealing <color=#F0D12B>Physical DMG</color>.\nHold the button during the consecutive attacks to extend the skill duration. Release <IconMap:Icon_Normal> to trigger the Finishing Move early.\nAnti-Interrupt level is increased during the consecutive attacks, and Jane takes 40% reduced DMG. Jane is invulnerable during the Finishing Move.\nUsing and damaging an enemy with <color=#FFFFFF>Basic Attack: Salchow Jump</color> while in the <color=#FFFFFF>Passion</color> state generates <color=#FFFFFF>Passion Stream</color>."
+          "Desc": "Entering the <color=#FFFFFF>Passion</color> state grants Jane one use of <color=#FFFFFF>Basic Attack: Salchow Jump</color>.\nWhen available, hold <IconMap:Icon_Normal> to activate:\nLaunch rapid consecutive attacks forward, followed by a Finishing Move, dealing <color=#F0D12B>Physical DMG</color>.\nHold the button during the consecutive attacks to extend the skill duration. Release <IconMap:Icon_Normal> to trigger the Finishing Move early.\nAnti-Interrupt level is increased during the consecutive attacks, and Jane takes 40% reduced DMG. Jane is invulnerable during the Finishing Move.\nUsing and damaging an enemy with <color=#FFFFFF>Basic Attack: Salchow Jump</color> while in the <color=#FFFFFF>Passion</color> state generates <color=#FFFFFF>Passion Stream</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Dancing Blades",
@@ -281,9 +279,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2134,
                   "SpConsume": 0,
-                  "AttackData": [41695, 33356]
+                  "AttackData": [41695, 33356],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -303,9 +304,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5206,
                   "SpConsume": 0,
-                  "AttackData": [66493, 53194]
+                  "AttackData": [66493, 53194],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -325,9 +329,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6878,
                   "SpConsume": 0,
-                  "AttackData": [82623, 66098]
+                  "AttackData": [82623, 66098],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -347,9 +354,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12745,
                   "SpConsume": 0,
-                  "AttackData": [155541, 124433]
+                  "AttackData": [155541, 124433],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit DMG Multiplier",
@@ -369,9 +379,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7671,
                   "SpConsume": 0,
-                  "AttackData": [80264, 64211]
+                  "AttackData": [80264, 64211],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "6th-Hit DMG Multiplier",
@@ -391,9 +404,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 22662,
                   "SpConsume": 0,
-                  "AttackData": [251293, 201034]
+                  "AttackData": [251293, 201034],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -413,9 +429,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2134,
                   "SpConsume": 0,
-                  "AttackData": [41695, 33356]
+                  "AttackData": [41695, 33356],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -435,9 +454,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5206,
                   "SpConsume": 0,
-                  "AttackData": [66493, 53194]
+                  "AttackData": [66493, 53194],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -457,9 +479,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6878,
                   "SpConsume": 0,
-                  "AttackData": [82623, 66098]
+                  "AttackData": [82623, 66098],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -479,9 +504,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12745,
                   "SpConsume": 0,
-                  "AttackData": [155541, 124433]
+                  "AttackData": [155541, 124433],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Daze Multiplier",
@@ -501,9 +529,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7671,
                   "SpConsume": 0,
-                  "AttackData": [80264, 64211]
+                  "AttackData": [80264, 64211],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "6th-Hit Daze Multiplier",
@@ -523,11 +554,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 22662,
                   "SpConsume": 0,
-                  "AttackData": [251293, 201034]
+                  "AttackData": [251293, 201034],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Salchow Jump",
@@ -550,9 +585,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 27340,
                   "SpConsume": 0,
-                  "AttackData": [249960, 249960]
+                  "AttackData": [249960, 249960],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Move DMG Multiplier",
@@ -572,9 +610,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 14656,
                   "SpConsume": 0,
-                  "AttackData": [134000, 134000]
+                  "AttackData": [134000, 134000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Consecutive Attack Daze Multiplier",
@@ -594,9 +635,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 27340,
                   "SpConsume": 0,
-                  "AttackData": [249960, 249960]
+                  "AttackData": [249960, 249960],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Move Daze Multiplier",
@@ -616,11 +660,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 14656,
                   "SpConsume": 0,
-                  "AttackData": [134000, 134000]
+                  "AttackData": [134000, 134000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -642,23 +690,28 @@
       "Description": [
         {
           "Name": "Dodge: Phantom",
-          "Desc": "Press <IconMap:Icon_Evade> to trigger.\nA quick slide dodge.\nCharacter is invulnerable while using this skill.\nJane has an extra dodge. Before she enters the <color=#FFFFFF>Passion</color> state, she alternates between the two dodges. After entering the <color=#FFFFFF>Passion</color> state, Jane can pass through enemies in front when dodging."
+          "Desc": "Press <IconMap:Icon_Evade> to trigger.\nA quick slide dodge.\nCharacter is invulnerable while using this skill.\nJane has an extra dodge. Before she enters the <color=#FFFFFF>Passion</color> state, she alternates between the two dodges. After entering the <color=#FFFFFF>Passion</color> state, Jane can pass through enemies in front when dodging.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Edge Jump",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nIf after the first dodge, launch an upward slash in front, dealing <color=#F0D12B>Physical DMG</color>.\nIf after the second dodge, perform a consecutive slashes in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nIf after the first dodge, launch an upward slash in front, dealing <color=#F0D12B>Physical DMG</color>.\nIf after the second dodge, perform a consecutive slashes in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Phantom Thrust",
-          "Desc": "While in the <color=#FFFFFF>Passion</color> state, press <IconMap:Icon_Normal> during a dodge to activate:\nLaunch three quick rushing slashes in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "While in the <color=#FFFFFF>Passion</color> state, press <IconMap:Icon_Normal> during a dodge to activate:\nLaunch three quick rushing slashes in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Swift Shadow",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nIf after the first dodge, unleash multiple slashes at enemies in front, followed by a downward thrust, dealing <color=#F0D12B>Physical DMG</color>.\nIf after the second dodge, leap up and deliver three consecutive attacks to enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nIf after the first dodge, unleash multiple slashes at enemies in front, followed by a downward thrust, dealing <color=#F0D12B>Physical DMG</color>.\nIf after the second dodge, leap up and deliver three consecutive attacks to enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Swift Shadow Dance",
-          "Desc": "While in the <color=#FFFFFF>Passion</color> state, press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlash enemies in front quickly multiple times, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "While in the <color=#FFFFFF>Passion</color> state, press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlash enemies in front quickly multiple times, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Edge Jump",
@@ -681,9 +734,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3250,
                   "SpConsume": 0,
-                  "AttackData": [97500, 0]
+                  "AttackData": [97500, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Dodge Daze Multiplier",
@@ -703,9 +759,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3250,
                   "SpConsume": 0,
-                  "AttackData": [97500, 0]
+                  "AttackData": [97500, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Dodge DMG Multiplier",
@@ -725,9 +784,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3250,
                   "SpConsume": 0,
-                  "AttackData": [97500, 0]
+                  "AttackData": [97500, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Dodge Daze Multiplier",
@@ -747,11 +809,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3250,
                   "SpConsume": 0,
-                  "AttackData": [97500, 0]
+                  "AttackData": [97500, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Phantom Thrust",
@@ -774,9 +840,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4748,
                   "SpConsume": 0,
-                  "AttackData": [0, 113961]
+                  "AttackData": [0, 113961],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -796,11 +865,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4748,
                   "SpConsume": 0,
-                  "AttackData": [0, 113961]
+                  "AttackData": [0, 113961],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Swift Shadow",
@@ -823,9 +896,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17767,
                   "SpConsume": 0,
-                  "AttackData": [54167, 0]
+                  "AttackData": [54167, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Dodge Daze Multiplier",
@@ -845,9 +921,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17767,
                   "SpConsume": 0,
-                  "AttackData": [54167, 0]
+                  "AttackData": [54167, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Dodge DMG Multiplier",
@@ -867,9 +946,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17767,
                   "SpConsume": 0,
-                  "AttackData": [54167, 0]
+                  "AttackData": [54167, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Dodge Daze Multiplier",
@@ -889,11 +971,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17767,
                   "SpConsume": 0,
-                  "AttackData": [54167, 0]
+                  "AttackData": [54167, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Swift Shadow Dance",
@@ -916,9 +1002,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19431,
                   "SpConsume": 0,
-                  "AttackData": [0, 100000]
+                  "AttackData": [0, 100000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -938,11 +1027,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19431,
                   "SpConsume": 0,
-                  "AttackData": [0, 100000]
+                  "AttackData": [0, 100000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -964,11 +1057,13 @@
       "Description": [
         {
           "Name": "Special Attack: Aerial Sweep",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nLeaps into the air to launch consecutive kicks forward, then sweeps across, dealing <color=#F0D12B>Physical DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nLeaps into the air to launch consecutive kicks forward, then sweeps across, dealing <color=#F0D12B>Physical DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Aerial Sweep - Clearout",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLeaps into the air to launch multiple consecutive kicks forward, then sweeps across, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLeaps into the air to launch multiple consecutive kicks forward, then sweeps across, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Aerial Sweep",
@@ -991,9 +1086,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5250,
                   "SpConsume": 0,
-                  "AttackData": [78750, 126000]
+                  "AttackData": [78750, 126000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1013,11 +1111,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5250,
                   "SpConsume": 0,
-                  "AttackData": [78750, 126000]
+                  "AttackData": [78750, 126000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Aerial Sweep - Clearout",
@@ -1040,9 +1142,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 47396,
                   "SpConsume": 0,
-                  "AttackData": [425544, 212772]
+                  "AttackData": [425544, 212772],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1062,12 +1167,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 47396,
                   "SpConsume": 0,
-                  "AttackData": [425544, 212772]
+                  "AttackData": [425544, 212772],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60" }
-          ]
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1089,11 +1198,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Flowers of Sin",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nWeaves between and slashes enemies in a large area in front, dealing massive <color=#F0D12B>Physical DMG</color>.\nJane directly enters the <color=#FFFFFF>Passion</color> state upon activating the skill, and gains max <color=#FFFFFF>Passion Stream</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nWeaves between and slashes enemies in a large area in front, dealing massive <color=#F0D12B>Physical DMG</color>.\nJane directly enters the <color=#FFFFFF>Passion</color> state upon activating the skill, and gains max <color=#FFFFFF>Passion Stream</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Final Curtain",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nWeaves between and slashes enemies with a powerful attack in a large area in front, followed by a Finishing Move, dealing massive <color=#F0D12B>Physical DMG</color>.\nJane directly enters the <color=#FFFFFF>Passion</color> state upon activating the skill, and gains max <color=#FFFFFF>Passion Stream</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nWeaves between and slashes enemies with a powerful attack in a large area in front, followed by a Finishing Move, dealing massive <color=#F0D12B>Physical DMG</color>.\nJane directly enters the <color=#FFFFFF>Passion</color> state upon activating the skill, and gains max <color=#FFFFFF>Passion Stream</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Flowers of Sin",
@@ -1116,9 +1227,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 43946,
                   "SpConsume": 0,
-                  "AttackData": [0, 350000]
+                  "AttackData": [0, 350000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1138,11 +1252,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 43946,
                   "SpConsume": 0,
-                  "AttackData": [0, 350000]
+                  "AttackData": [0, 350000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Final Curtain",
@@ -1165,9 +1283,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 96658,
                   "SpConsume": 0,
-                  "AttackData": [0, 350000]
+                  "AttackData": [0, 350000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1187,11 +1308,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 96658,
                   "SpConsume": 0,
-                  "AttackData": [0, 350000]
+                  "AttackData": [0, 350000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1213,19 +1338,23 @@
       "Description": [
         {
           "Name": "Quick Assist: Dark Thorn",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nUnleash multiple slashes at enemies in front, followed by a downward thrust, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nUnleash multiple slashes at enemies in front, followed by a downward thrust, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Lutz Jump",
-          "Desc": "While in the <color=#FFFFFF>Passion</color> state, when the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlash enemies in front quickly multiple times, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "While in the <color=#FFFFFF>Passion</color> state, when the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlash enemies in front quickly multiple times, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Last Defense",
-          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Gale Sweep",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nLeap up and swiftly slash the enemy, then execute a wide sweeping slash across a large area in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nLeap up and swiftly slash the enemy, then execute a wide sweeping slash across a large area in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Dark Thorn",
@@ -1248,9 +1377,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10833,
                   "SpConsume": 0,
-                  "AttackData": [158334, 0]
+                  "AttackData": [158334, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1270,11 +1402,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10833,
                   "SpConsume": 0,
-                  "AttackData": [158334, 0]
+                  "AttackData": [158334, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Lutz Jump",
@@ -1297,9 +1433,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12496,
                   "SpConsume": 0,
-                  "AttackData": [0, 149960]
+                  "AttackData": [0, 149960],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1319,11 +1458,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12496,
                   "SpConsume": 0,
-                  "AttackData": [0, 149960]
+                  "AttackData": [0, 149960],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Last Defense",
@@ -1346,9 +1489,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0, 0]
+                  "AttackData": [0, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1368,9 +1514,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0, 0]
+                  "AttackData": [0, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1390,11 +1539,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0, 0]
+                  "AttackData": [0, 0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Gale Sweep",
@@ -1417,9 +1570,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 29292,
                   "SpConsume": 0,
-                  "AttackData": [407686, 173961]
+                  "AttackData": [407686, 173961],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1439,11 +1595,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 29292,
                   "SpConsume": 0,
-                  "AttackData": [407686, 173961]
+                  "AttackData": [407686, 173961],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1467,151 +1627,179 @@
       "Name": "Basic Attack: Dancing Blades",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261002": {
       "Name": "Basic Attack: Salchow Jump",
       "Desc": "<IconMap:Icon_Normal> (If there are remaining uses) (Hold)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261003": {
       "Name": "Special Attack: Aerial Sweep",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261004": {
       "Name": "EX Special Attack: Aerial Sweep - Clearout",
       "Desc": "<IconMap:Icon_SpecialReady>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261005": {
       "Name": "Dash Attack: Edge Jump",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261006": {
       "Name": "Dash Attack: Phantom Thrust",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal> (Passion State)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261007": {
       "Name": "Dodge Counter: Swift Shadow",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261008": {
       "Name": "Dodge Counter: Swift Shadow Dance",
       "Desc": "<IconMap:Icon_Evade>(Perfect);<IconMap:Icon_Normal>(Passion State)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261009": {
       "Name": "Chain Attack: Flowers of Sin",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261010": {
       "Name": "Ultimate: Final Curtain",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261011": {
       "Name": "Quick Assist: Dark Thorn",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261012": {
       "Name": "Quick Assist: Lutz Jump",
       "Desc": "<IconMap:Icon_Switch>(When Triggering Quick Assist) (Passion State)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1261013": {
       "Name": "Defensive Assist: Last Defense",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1261014": {
       "Name": "Assist Follow-Up: Gale Sweep",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1261501": {
         "Level": 1,
         "Id": 1261501,
         "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>20%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.1%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1261502": {
         "Level": 2,
         "Id": 1261502,
         "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>25%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.11%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1261503": {
         "Level": 3,
         "Id": 1261503,
         "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>28%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.12%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1261504": {
         "Level": 4,
         "Id": 1261504,
         "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>31%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.13%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1261505": {
         "Level": 5,
         "Id": 1261505,
         "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>34%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.14%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1261506": {
         "Level": 6,
         "Id": 1261506,
         "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>37%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.15%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1261507": {
         "Level": 7,
         "Id": 1261507,
         "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>40%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.16%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1689,5 +1877,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
-  }
+  },
+  "Potential": []
 }

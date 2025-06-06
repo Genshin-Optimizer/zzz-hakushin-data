@@ -53,12 +53,6 @@
     "AttackGrowth": 53249,
     "AvatarPieceId": 5031,
     "BreakStun": 88,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -70,7 +64,6 @@
     "Endurance": 0,
     "HpGrowth": 888787,
     "HpMax": 655,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -80,7 +73,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Nostradamus",
@@ -90,8 +82,11 @@
       "Camp1",
       "Size2",
       "AidTypeParry",
-      "Nicole"
-    ]
+      "Nicole",
+      "EtherEyesSize2"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -260,11 +255,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Cunning Combo",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 3 strikes, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 3 strikes, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Do As I Please",
-          "Desc": "After using a <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, Nicole can reload, and her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> are enhanced, increasing the power of her bullets."
+          "Desc": "After using a <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, Nicole can reload, and her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> are enhanced, increasing the power of her bullets.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Cunning Combo",
@@ -287,7 +284,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031002": {
                   "Main": 2710,
@@ -303,9 +302,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -325,7 +327,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031005": {
                   "Main": 3610,
@@ -341,9 +345,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -363,7 +370,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031008": {
                   "Main": 18040,
@@ -379,9 +388,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -401,7 +413,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031002": {
                   "Main": 2090,
@@ -417,9 +431,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -439,7 +456,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031005": {
                   "Main": 2780,
@@ -455,9 +474,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -477,7 +499,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031008": {
                   "Main": 13880,
@@ -493,11 +517,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Do As I Please",
@@ -520,7 +548,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031003": {
                   "Main": 4940,
@@ -536,9 +566,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -558,7 +591,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031006": {
                   "Main": 6580,
@@ -574,9 +609,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -596,7 +634,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031009": {
                   "Main": 32900,
@@ -612,9 +652,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -634,7 +677,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031003": {
                   "Main": 2090,
@@ -650,9 +695,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -672,7 +720,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031006": {
                   "Main": 2780,
@@ -688,9 +738,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -710,7 +763,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031009": {
                   "Main": 13880,
@@ -726,11 +781,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -752,15 +811,18 @@
       "Description": [
         {
           "Name": "Dodge: Speed Demon",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.\nDrag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to dodge, then hold <IconMap:Icon_Evade> to reload while dodging, enhancing <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> up to 8 times."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.\nDrag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to dodge, then hold <IconMap:Icon_Evade> to reload while dodging, enhancing <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> up to 8 times.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Jack in the Box",
-          "Desc": "When dragging the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during a dodge, press <IconMap:Icon_Normal>:\nDashes in the target direction and strikes nearby enemies, dealing <color=#F0D12B>Physical DMG</color>.\nWhen not dragging the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during a dodge, press <IconMap:Icon_Normal>:\nVaults backward and launches a ranged strike against enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nAutomatically reloads after the attack to enhance her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color>, up to 8 times."
+          "Desc": "When dragging the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during a dodge, press <IconMap:Icon_Normal>:\nDashes in the target direction and strikes nearby enemies, dealing <color=#F0D12B>Physical DMG</color>.\nWhen not dragging the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during a dodge, press <IconMap:Icon_Normal>:\nVaults backward and launches a ranged strike against enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nAutomatically reloads after the attack to enhance her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color>, up to 8 times.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Diverted Bombard",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nDodge backwards and send a ranged strike at enemies in front, dealing <color=#FE437E>Ether DMG</color>.\nCharacter is invulnerable while using this skill.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nDodge backwards and send a ranged strike at enemies in front, dealing <color=#FE437E>Ether DMG</color>.\nCharacter is invulnerable while using this skill.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Jack in the Box",
@@ -783,7 +845,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031202": {
                   "Main": 11730,
@@ -799,9 +863,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Backward Vault DMG Multiplier",
@@ -821,9 +888,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Forward Dash Daze Multiplier",
@@ -843,7 +913,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031202": {
                   "Main": 4510,
@@ -859,9 +931,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Backward Vault Daze Multiplier",
@@ -881,11 +956,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Do As I Please",
@@ -908,7 +987,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031203": {
                   "Main": 11730,
@@ -924,9 +1005,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12129,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Forward Dash Daze Multiplier",
@@ -946,7 +1030,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031203": {
                   "Main": 4510,
@@ -962,11 +1048,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12129,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Diverted Bombard",
@@ -989,7 +1079,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3164,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031206": {
                   "Main": 9120,
@@ -1005,9 +1097,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3164,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1027,7 +1122,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3164,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031206": {
                   "Main": 8170,
@@ -1043,11 +1140,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3164,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1069,11 +1170,13 @@
       "Description": [
         {
           "Name": "Special Attack: Sugarcoated Bullet",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nUnleashes a ranged strike against enemies in front, dealing <color=#FE437E>Ether DMG</color>.\nAnti-Interrupt level is increased while using this skill.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nUnleashes a ranged strike against enemies in front, dealing <color=#FE437E>Ether DMG</color>.\nAnti-Interrupt level is increased while using this skill.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Stuffed Sugarcoated Bullet",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nA powerful ranged strike, generating an energy field that pulls enemies towards its center to deal <color=#FE437E>Ether DMG</color>.\nHold <IconMap:Icon_SpecialReady> down to charge up this attack, during which a small energy field is generated at the muzzle as Energy is consumed, dealing bonus DMG to enemies nearby.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nA powerful ranged strike, generating an energy field that pulls enemies towards its center to deal <color=#FE437E>Ether DMG</color>.\nHold <IconMap:Icon_SpecialReady> down to charge up this attack, during which a small energy field is generated at the muzzle as Energy is consumed, dealing bonus DMG to enemies nearby.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Sugarcoated Bullet",
@@ -1096,7 +1199,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2624,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031102": {
                   "Main": 2630,
@@ -1112,9 +1217,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2624,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1134,7 +1242,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2624,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031102": {
                   "Main": 2500,
@@ -1150,11 +1260,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2624,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Stuffed Sugarcoated Bullet",
@@ -1177,9 +1291,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19735,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Bombard DMG Multiplier",
@@ -1199,7 +1316,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9867,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031105": {
                   "Main": 10750,
@@ -1215,9 +1334,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9867,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Energy Field DMG Multiplier",
@@ -1237,9 +1359,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 39471,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Charged Daze Multiplier",
@@ -1259,9 +1384,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19735,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Bombard Daze Multiplier",
@@ -1281,7 +1409,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9867,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031105": {
                   "Main": 8990,
@@ -1297,9 +1427,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9867,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Energy Field Daze Multiplier",
@@ -1319,13 +1452,21 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 39471,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Charged Attack Energy Cost", "Desc": "20 Energy/sec" },
-            { "Name": "Bombard Energy Cost", "Desc": "60" }
-          ]
+            {
+              "Name": "Charged Attack Energy Cost",
+              "Desc": "20 Energy/sec",
+              "Potential": []
+            },
+            { "Name": "Bombard Energy Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1347,11 +1488,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Ether Shellacking",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful ranged strike at enemies in a small area, generating an energy field that pulls enemies towards its center to deal <color=#FE437E>Ether DMG</color>.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful ranged strike at enemies in a small area, generating an energy field that pulls enemies towards its center to deal <color=#FE437E>Ether DMG</color>.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Ether Grenade",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful ranged strike at enemies in a small area, generating an energy field that pulls enemies towards its center to deal <color=#FE437E>Ether DMG</color>.\nWhen using this skill, other squad members recover 10 Energy. The next character to switch in gains an additional 20 Energy.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful ranged strike at enemies in a small area, generating an energy field that pulls enemies towards its center to deal <color=#FE437E>Ether DMG</color>.\nWhen using this skill, other squad members recover 10 Energy. The next character to switch in gains an additional 20 Energy.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Ether Shellacking",
@@ -1374,7 +1517,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6489,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031302": {
                   "Main": 10480,
@@ -1390,9 +1535,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6489,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Energy Field DMG Multiplier",
@@ -1412,9 +1560,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19469,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Bombard Daze Multiplier",
@@ -1434,7 +1585,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6489,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031302": {
                   "Main": 2500,
@@ -1450,9 +1603,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6489,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Energy Field Daze Multiplier",
@@ -1472,11 +1628,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19469,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Ether Grenade",
@@ -1499,9 +1659,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3599,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Energy Field DMG Multiplier",
@@ -1521,9 +1684,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5399,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Bombard Daze Multiplier",
@@ -1543,9 +1709,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3599,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Energy Field Daze Multiplier",
@@ -1565,11 +1734,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5399,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1591,15 +1764,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Emergency Bombard",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nDodge backwards and send a ranged strike at enemies in front, dealing <color=#FE437E>Ether DMG</color>.\nCharacter is invulnerable while using this skill.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nDodge backwards and send a ranged strike at enemies in front, dealing <color=#FE437E>Ether DMG</color>.\nCharacter is invulnerable while using this skill.\nAutomatically reloads after the attack to enhance <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color> up to 8 times.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: The Hare Strikes Back!",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Window of Opportunity",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCharge forward and bombard enemies, dealing <color=#FE437E>Ether DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCharge forward and bombard enemies, dealing <color=#FE437E>Ether DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Emergency Bombard",
@@ -1622,7 +1798,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3164,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031402": {
                   "Main": 3170,
@@ -1638,9 +1816,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3164,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1660,7 +1841,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3164,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1031402": {
                   "Main": 3170,
@@ -1676,11 +1859,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3164,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: The Hare Strikes Back!",
@@ -1703,9 +1890,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1725,9 +1915,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1747,11 +1940,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Window of Opportunity",
@@ -1774,9 +1971,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 35367,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1796,11 +1996,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 35367,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1824,84 +2028,97 @@
       "Name": "Basic Attack: Cunning Combo",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1031002": {
       "Name": "Basic Attack: Do As I Please",
       "Desc": "<IconMap:Icon_Normal>(After reloading)",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1031003": {
       "Name": "Special Attack: Sugarcoated Bullet",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 205,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1031004": {
       "Name": "EX Special Attack: Stuffed Sugarcoated Bullet",
       "Desc": "<IconMap:Icon_SpecialReady>(Can Hold Down)",
       "ElementType": 205,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1031005": {
       "Name": "Dodge Reload",
       "Desc": "<IconMap:Icon_Evade> (Any direction) (Hold)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1031006": {
       "Name": "Dash Attack: Jack in the Box (Scattered)",
       "Desc": "<IconMap:Icon_Evade> (Any direction) ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1031007": {
       "Name": "Dash Attack: Jack in the Box (Focused)",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1031008": {
       "Name": "Dodge Counter: Diverted Bombard",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 205,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1031009": {
       "Name": "Chain Attack: Ether Shellacking",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 205,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1031010": {
       "Name": "Ultimate: Ether Grenade",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 205,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1031011": {
       "Name": "Quick Assist: Emergency Bombard",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 205,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1031012": {
       "Name": "Defensive Assist: The Hare Strikes Back!",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1031013": {
       "Name": "Assist Follow-Up: Window of Opportunity",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 205,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1031501": {
         "Level": 1,
         "Id": 1031501,
         "Name": [
@@ -1910,10 +2127,12 @@
         ],
         "Desc": [
           "After hitting an enemy with a <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, Nicole can reload, enhancing her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color>. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by <color=#2BAD00>20%</color> for 3.5s.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all squad members deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
-        ]
+          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all units deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1031502": {
         "Level": 2,
         "Id": 1031502,
         "Name": [
@@ -1922,10 +2141,12 @@
         ],
         "Desc": [
           "After hitting an enemy with a <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, Nicole can reload, enhancing her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color>. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by <color=#2BAD00>25%</color> for 3.5s.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all squad members deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
-        ]
+          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all units deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1031503": {
         "Level": 3,
         "Id": 1031503,
         "Name": [
@@ -1934,10 +2155,12 @@
         ],
         "Desc": [
           "After hitting an enemy with a <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, Nicole can reload, enhancing her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color>. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by <color=#2BAD00>30%</color> for 3.5s.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all squad members deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
-        ]
+          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all units deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1031504": {
         "Level": 4,
         "Id": 1031504,
         "Name": [
@@ -1946,10 +2169,12 @@
         ],
         "Desc": [
           "After hitting an enemy with a <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, Nicole can reload, enhancing her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color>. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by <color=#2BAD00>34%</color> for 3.5s.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all squad members deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
-        ]
+          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all units deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1031505": {
         "Level": 5,
         "Id": 1031505,
         "Name": [
@@ -1958,10 +2183,12 @@
         ],
         "Desc": [
           "After hitting an enemy with a <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, Nicole can reload, enhancing her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color>. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by <color=#2BAD00>36%</color> for 3.5s.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all squad members deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
-        ]
+          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all units deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1031506": {
         "Level": 6,
         "Id": 1031506,
         "Name": [
@@ -1970,10 +2197,12 @@
         ],
         "Desc": [
           "After hitting an enemy with a <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, Nicole can reload, enhancing her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color>. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by <color=#2BAD00>38%</color> for 3.5s.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all squad members deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
-        ]
+          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all units deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1031507": {
         "Level": 7,
         "Id": 1031507,
         "Name": [
@@ -1982,8 +2211,10 @@
         ],
         "Desc": [
           "After hitting an enemy with a <color=#FFFFFF>Special Attack</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, Nicole can reload, enhancing her <color=#FFFFFF>Basic Attack</color> and <color=#FFFFFF>Dash Attack</color>. When her enhanced bullets or Energy Field hits an enemy, the target's DEF is reduced by <color=#2BAD00>40%</color> for 3.5s.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all squad members deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
-        ]
+          "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all units deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -2029,7 +2260,7 @@
     "6": {
       "Level": 6,
       "Name": "Corrupting Energy Field",
-      "Desc": "When Nicole's energy fields deal DMG to an enemy, all squad member's CRIT Rate against that enemy increases by 1.5%, stacking up to 10 times, and lasting 12s. The duration of each stack is calculated separately.",
+      "Desc": "When Nicole's energy fields deal DMG to an enemy, all units' CRIT Rate against that enemy increases by 1.5%, stacking up to 10 times, and lasting 12s. The duration of each stack is calculated separately.",
       "Desc2": "A switch to higher quality ammo with better firepower and increased compressed Etheric Matter leads to higher damage, longer use duration... and higher costs."
     }
   },
@@ -2061,5 +2292,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
-  }
+  },
+  "Potential": []
 }

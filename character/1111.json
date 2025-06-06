@@ -43,12 +43,6 @@
     "AttackGrowth": 67737,
     "AvatarPieceId": 5111,
     "BreakStun": 95,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -60,7 +54,6 @@
     "Endurance": 0,
     "HpGrowth": 787644,
     "HpMax": 580,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -70,7 +63,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Anton",
@@ -78,10 +70,13 @@
       "Electric",
       "Male",
       "Camp3",
-      "Size2",
+      "Size3",
       "AidTypeParry",
-      "Anton"
-    ]
+      "Anton",
+      "EtherEyesSize2"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -250,11 +245,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Enthusiastic Drills",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 mixed attacks in front, dealing <color=#F0D12B>Physical DMG</color>.\nThe 4th hit is a <color=#FFFFFF>Piledriver Attack</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 mixed attacks in front, dealing <color=#F0D12B>Physical DMG</color>.\nThe 4th hit is a <color=#FFFFFF>Piledriver Attack</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Enthusiastic Drills (Burst Mode)",
-          "Desc": "Press <IconMap:Icon_Normal> while Anton is in <color=#FFFFFF>Burst Mode</color> to activate:\nUnleashes up to 3 mixed attacks in front, dealing massive <color=#2EB6FF>Electric DMG</color>.\nDuring the 2nd <color=#FFFFFF>Drill Attack</color> and 3rd <color=#FFFFFF>Piledriver Attack</color>, press repeatedly or hold <IconMap:Icon_Normal> to extend the skill duration."
+          "Desc": "Press <IconMap:Icon_Normal> while Anton is in <color=#FFFFFF>Burst Mode</color> to activate:\nUnleashes up to 3 mixed attacks in front, dealing massive <color=#2EB6FF>Electric DMG</color>.\nDuring the 2nd <color=#FFFFFF>Drill Attack</color> and 3rd <color=#FFFFFF>Piledriver Attack</color>, press repeatedly or hold <IconMap:Icon_Normal> to extend the skill duration.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Enthusiastic Drills",
@@ -277,9 +274,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -299,9 +299,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -321,9 +324,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -343,9 +349,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -365,9 +374,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -387,9 +399,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -409,9 +424,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -431,11 +449,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Enthusiastic Drills (Burst Mode)",
@@ -458,9 +480,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17749,
                   "SpConsume": 96666,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -480,9 +505,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34573,
                   "SpConsume": 186000,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -502,9 +530,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 33668,
                   "SpConsume": 183366,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -524,9 +555,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17749,
                   "SpConsume": 96666,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -546,9 +580,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34573,
                   "SpConsume": 186000,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -568,11 +605,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 33668,
                   "SpConsume": 183366,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -594,19 +635,23 @@
       "Description": [
         {
           "Name": "Dodge: Let's Move",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Fire With Fire",
-          "Desc": "Press <IconMap:Icon_Normal> during a Dodge to activate:\nRams into enemies in front of him, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a Dodge to activate:\nRams into enemies in front of him, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Retaliation",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nContinuously strikes enemies in front with heavy punches, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nContinuously strikes enemies in front with heavy punches, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Overload Drill (Burst Mode)",
-          "Desc": "While in <color=#FFFFFF>Burst Mode</color>, press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nLaunches a <color=#FFFFFF>Drill Attack</color> at enemies in front of him, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable during the attack."
+          "Desc": "While in <color=#FFFFFF>Burst Mode</color>, press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nLaunches a <color=#FFFFFF>Drill Attack</color> at enemies in front of him, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable during the attack.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Fire With Fire",
@@ -629,9 +674,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -651,11 +699,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Retaliation",
@@ -678,9 +730,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -700,11 +755,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Overload Drill (Burst Mode)",
@@ -727,9 +786,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 26923,
                   "SpConsume": 230033,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -749,11 +811,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 26923,
                   "SpConsume": 230033,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -775,15 +841,18 @@
       "Description": [
         {
           "Name": "Special Attack: Spin, Bro!",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nUnleashes a <color=#FFFFFF>Piledriver Attack</color> against enemies in a line in front, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nUnleashes a <color=#FFFFFF>Piledriver Attack</color> against enemies in a line in front, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Smash the Horizon, Bro!",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLaunches several <color=#FFFFFF>Piledriver Attacks</color> at enemies in a line in front of him, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.\nAnton enters <color=#FFFFFF>Burst Mode</color> after using this skill. When in <color=#FFFFFF>Burst Mode</color>, Anton's attacks become more powerful, dealing massive <color=#2EB6FF>Electric DMG</color> while continually consuming Energy upon hitting an enemy. Burst Mode remains active until his Energy is depleted."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLaunches several <color=#FFFFFF>Piledriver Attacks</color> at enemies in a line in front of him, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.\nAnton enters <color=#FFFFFF>Burst Mode</color> after using this skill. When in <color=#FFFFFF>Burst Mode</color>, Anton's attacks become more powerful, dealing massive <color=#2EB6FF>Electric DMG</color> while continually consuming Energy upon hitting an enemy. Burst Mode remains active until his Energy is depleted.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Explosive Drill (Burst Mode)",
-          "Desc": "Press <IconMap:Icon_Special> while in <color=#FFFFFF>Burst Mode</color> to activate:\nLaunches a <color=#FFFFFF>Piledriver Attack</color> at enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> while in <color=#FFFFFF>Burst Mode</color> to activate:\nLaunches a <color=#FFFFFF>Piledriver Attack</color> at enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Spin, Bro!",
@@ -806,9 +875,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4418,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -828,11 +900,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4418,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Special Attack: Explosive Drill (Burst Mode)",
@@ -855,9 +931,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 21721,
                   "SpConsume": 116500,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -877,11 +956,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 21721,
                   "SpConsume": 116500,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Smash the Horizon, Bro!",
@@ -904,9 +987,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19503,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -926,12 +1012,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19503,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost to Use", "Desc": "40" }
-          ]
+            { "Name": "Energy Cost to Use", "Desc": "40", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -953,11 +1043,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Go Go Go!",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a <color=#FFFFFF>Piledriver Attack</color> onto the ground in front of him over a large area, dealing massive <color=#2EB6FF>Electric DMG</color> to enemies within range.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a <color=#FFFFFF>Piledriver Attack</color> onto the ground in front of him over a large area, dealing massive <color=#2EB6FF>Electric DMG</color> to enemies within range.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Go Go Go Go Go!",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a <color=#FFFFFF>Piledriver Attack</color> onto the ground in front of him over a large area, dealing massive <color=#2EB6FF>Electric DMG</color> to enemies within range.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a <color=#FFFFFF>Piledriver Attack</color> onto the ground in front of him over a large area, dealing massive <color=#2EB6FF>Electric DMG</color> to enemies within range.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Go Go Go!",
@@ -980,9 +1072,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 44113,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1002,11 +1097,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 44113,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Go Go Go Go Go!",
@@ -1029,9 +1128,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24336,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1051,11 +1153,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24336,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1077,19 +1183,23 @@
       "Description": [
         {
           "Name": "Quick Assist: Shoulder-To-Shoulder",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nContinuously strikes enemies in front of him with heavy punches, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nContinuously strikes enemies in front of him with heavy punches, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Protective Drill (Burst Mode)",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nAttacks enemies in front with a <color=#FFFFFF>Drill Attack</color>, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable during the attack."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nAttacks enemies in front with a <color=#FFFFFF>Drill Attack</color>, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable during the attack.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Iron Wrist",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Limit Burst",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nLaunches a <color=#FFFFFF>Drill Attack</color> that ends in a <color=#FFFFFF>Piledriver Attack</color>, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nLaunches a <color=#FFFFFF>Drill Attack</color> that ends in a <color=#FFFFFF>Piledriver Attack</color>, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Shoulder-To-Shoulder",
@@ -1112,9 +1222,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1134,11 +1247,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Protective Drill (Burst Mode)",
@@ -1161,9 +1278,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 26923,
                   "SpConsume": 230033,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1183,11 +1303,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 26923,
                   "SpConsume": 230033,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Iron Wrist",
@@ -1210,9 +1334,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1232,9 +1359,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1254,11 +1384,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Limit Burst",
@@ -1281,9 +1415,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 30422,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1303,11 +1440,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 30422,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1331,90 +1472,104 @@
       "Name": "Basic Attack: Enthusiastic Drills",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1111002": {
       "Name": "Basic Attack: Enthusiastic Drills (Burst Mode)",
       "Desc": "<IconMap:Icon_Normal> (Burst Mode) ;<IconMap:Icon_Normal> (Mash or hold down) ; <IconMap:Icon_Normal>(Mash or hold down)",
       "ElementType": 203,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1111003": {
       "Name": "Special Attack: Spin, Bro!",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 203,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1111004": {
       "Name": "EX Special Attack: Smash the Horizon, Bro!",
       "Desc": "<IconMap:Icon_SpecialReady>",
       "ElementType": 203,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1111005": {
       "Name": "Special Attack: Explosive Drill (Burst Mode)",
       "Desc": "<IconMap:Icon_Special> (Burst Mode)",
       "ElementType": 203,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1111006": {
       "Name": "Dash Attack: Fire With Fire",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1111008": {
       "Name": "Dodge Counter: Retaliation",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1111009": {
       "Name": "Dodge Counter: Overload Drill (Burst Mode)",
       "Desc": "<IconMap:Icon_Evade>(Perfect);<IconMap:Icon_Normal>(Burst Mode)",
       "ElementType": 203,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1111010": {
       "Name": "Chain Attack: Go Go Go!",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 203,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1111011": {
       "Name": "Ultimate: Go Go Go Go Go!",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 203,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1111012": {
       "Name": "Quick Assist: Shoulder-To-Shoulder",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1111013": {
       "Name": "Quick Assist: Protective Drill (Burst Mode)",
       "Desc": "<IconMap:Icon_Switch>(When Triggering Quick Assist) (Burst Mode)",
       "ElementType": 203,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1111014": {
       "Name": "Defensive Assist: Iron Wrist",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1111015": {
       "Name": "Assist Follow-Up: Limit Burst",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 203,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1111501": {
         "Level": 1,
         "Id": 1111501,
         "Name": [
@@ -1424,9 +1579,11 @@
         "Desc": [
           "When Anton uses his <color=#FFFFFF>Piledriver Attack</color>, the skill's DMG is increased by <color=#2BAD00>12%</color> and when he uses his <color=#FFFFFF>Drill Attack</color>, the skill's DMG is increased by <color=#2BAD00>20%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in <color=#FFFFFF>Burst Mode</color>, for every 4 critical hits, the next attack hitting <color=#2EB6FF>Shocked</color> enemies triggers an additional bout of <color=#2EB6FF>Shock</color> DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1111502": {
         "Level": 2,
         "Id": 1111502,
         "Name": [
@@ -1436,9 +1593,11 @@
         "Desc": [
           "When Anton uses his <color=#FFFFFF>Piledriver Attack</color>, the skill's DMG is increased by <color=#2BAD00>14%</color> and when he uses his <color=#FFFFFF>Drill Attack</color>, the skill's DMG is increased by <color=#2BAD00>23.3%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in <color=#FFFFFF>Burst Mode</color>, for every 4 critical hits, the next attack hitting <color=#2EB6FF>Shocked</color> enemies triggers an additional bout of <color=#2EB6FF>Shock</color> DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1111503": {
         "Level": 3,
         "Id": 1111503,
         "Name": [
@@ -1448,9 +1607,11 @@
         "Desc": [
           "When Anton uses his <color=#FFFFFF>Piledriver Attack</color>, the skill's DMG is increased by <color=#2BAD00>16%</color> and when he uses his <color=#FFFFFF>Drill Attack</color>, the skill's DMG is increased by <color=#2BAD00>26.6%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in <color=#FFFFFF>Burst Mode</color>, for every 4 critical hits, the next attack hitting <color=#2EB6FF>Shocked</color> enemies triggers an additional bout of <color=#2EB6FF>Shock</color> DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1111504": {
         "Level": 4,
         "Id": 1111504,
         "Name": [
@@ -1460,9 +1621,11 @@
         "Desc": [
           "When Anton uses his <color=#FFFFFF>Piledriver Attack</color>, the skill's DMG is increased by <color=#2BAD00>18%</color> and when he uses his <color=#FFFFFF>Drill Attack</color>, the skill's DMG is increased by <color=#2BAD00>30%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in <color=#FFFFFF>Burst Mode</color>, for every 4 critical hits, the next attack hitting <color=#2EB6FF>Shocked</color> enemies triggers an additional bout of <color=#2EB6FF>Shock</color> DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1111505": {
         "Level": 5,
         "Id": 1111505,
         "Name": [
@@ -1472,9 +1635,11 @@
         "Desc": [
           "When Anton uses his <color=#FFFFFF>Piledriver Attack</color>, the skill's DMG is increased by <color=#2BAD00>20%</color> and when he uses his <color=#FFFFFF>Drill Attack</color>, the skill's DMG is increased by <color=#2BAD00>33.3%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in <color=#FFFFFF>Burst Mode</color>, for every 4 critical hits, the next attack hitting <color=#2EB6FF>Shocked</color> enemies triggers an additional bout of <color=#2EB6FF>Shock</color> DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1111506": {
         "Level": 6,
         "Id": 1111506,
         "Name": [
@@ -1484,9 +1649,11 @@
         "Desc": [
           "When Anton uses his <color=#FFFFFF>Piledriver Attack</color>, the skill's DMG is increased by <color=#2BAD00>22%</color> and when he uses his <color=#FFFFFF>Drill Attack</color>, the skill's DMG is increased by <color=#2BAD00>36.6%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in <color=#FFFFFF>Burst Mode</color>, for every 4 critical hits, the next attack hitting <color=#2EB6FF>Shocked</color> enemies triggers an additional bout of <color=#2EB6FF>Shock</color> DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1111507": {
         "Level": 7,
         "Id": 1111507,
         "Name": [
@@ -1496,7 +1663,9 @@
         "Desc": [
           "When Anton uses his <color=#FFFFFF>Piledriver Attack</color>, the skill's DMG is increased by <color=#2BAD00>24%</color> and when he uses his <color=#FFFFFF>Drill Attack</color>, the skill's DMG is increased by <color=#2BAD00>40%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhile Anton is in <color=#FFFFFF>Burst Mode</color>, for every 4 critical hits, the next attack hitting <color=#2EB6FF>Shocked</color> enemies triggers an additional bout of <color=#2EB6FF>Shock</color> DMG at 45% of the original DMG. This effect can trigger once every 0.5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1574,5 +1743,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
-  }
+  },
+  "Potential": []
 }

@@ -43,12 +43,6 @@
     "AttackGrowth": 64272,
     "AvatarPieceId": 5251,
     "BreakStun": 118,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -60,7 +54,6 @@
     "Endurance": 0,
     "HpGrowth": 900269,
     "HpMax": 663,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -70,7 +63,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "QingYi",
@@ -80,8 +72,11 @@
       "Camp7",
       "Size1",
       "AidTypeParry",
-      "QingYi"
-    ]
+      "QingYi",
+      "EtherEyesSize1"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -250,19 +245,23 @@
       "Description": [
         {
           "Name": "Basic Attack: Penultimate",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nLaunch up to four strikes forward, dealing <color=#F0D12B>Physical DMG</color> and <color=#2EB6FF>Electric DMG</color>.\nDuring the 3rd hit, repeatedly press <IconMap:Icon_Normal> to continue the attack, continuously striking the enemy. Using <color=#FFFFFF>Dodge</color> during this period will not interrupt Qingyi's <color=#FFFFFF>Basic Attack</color> combo count.\nDuring the 3rd hit, stop pressing <IconMap:Icon_Normal> to interrupt the continuous attack, transitioning automatically to the 4th hit. If the continuous attack lasts for a certain time, the 4th hit will be enhanced.\nAnti-Interrupt Level is increased and DMG received is reduced by 40% during the 3rd and 4th hit."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nLaunch up to four strikes forward, dealing <color=#F0D12B>Physical DMG</color> and <color=#2EB6FF>Electric DMG</color>.\nDuring the 3rd hit, repeatedly press <IconMap:Icon_Normal> to continue the attack, continuously striking the enemy. Using <color=#FFFFFF>Dodge</color> during this period will not interrupt Qingyi's <color=#FFFFFF>Basic Attack</color> combo count.\nDuring the 3rd hit, stop pressing <IconMap:Icon_Normal> to interrupt the continuous attack, transitioning automatically to the 4th hit. If the continuous attack lasts for a certain time, the 4th hit will be enhanced.\nAnti-Interrupt Level is increased and DMG received is reduced by 40% during the 3rd and 4th hit.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Enchanted Blossoms",
-          "Desc": "Hold <IconMap:Icon_Normal> to activate:\nLaunches a forward rush attack, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Hold <IconMap:Icon_Normal> to activate:\nLaunches a forward rush attack, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Flash Connect",
-          "Desc": "When Qingyi deals <color=#2EB6FF>Electric DMG</color> with a skill, she accumulates <color=#FFFFFF>Flash Connect Voltage</color>. When <color=#FFFFFF>Flash Connect Voltage</color> reaches 75%, she will enter the <color=#FFFFFF>Flash Connect</color> state. When using her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, Qingyi will consume all <color=#FFFFFF>Flash Connect Voltage</color> and exit the <color=#FFFFFF>Flash Connect</color> state. For every 1% of <color=#FFFFFF>Flash Connect Voltage</color> consumed over 75%, her Damage and Daze inflicted by this skill will be increased by 1%/0.5%. <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color> itself does not accumulate <color=#FFFFFF>Flash Connect Voltage</color>."
+          "Desc": "When Qingyi deals <color=#2EB6FF>Electric DMG</color> with a skill, she accumulates <color=#FFFFFF>Flash Connect Voltage</color>. When <color=#FFFFFF>Flash Connect Voltage</color> reaches 75%, she will enter the <color=#FFFFFF>Flash Connect</color> state. When using her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, Qingyi will consume all <color=#FFFFFF>Flash Connect Voltage</color> and exit the <color=#FFFFFF>Flash Connect</color> state. For every 1% of <color=#FFFFFF>Flash Connect Voltage</color> consumed over 75%, her Damage and Daze inflicted by this skill will be increased by 1%/0.5%. <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color> itself does not accumulate <color=#FFFFFF>Flash Connect Voltage</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Enchanted Moonlit Blossoms",
-          "Desc": "During the <color=#FFFFFF>Flash Connect</color> state, hold <IconMap:Icon_Normal> to activate:\nLaunch five consecutive forward rush attacks, then execute a Finishing Move that inflicts massive <color=#2EB6FF>Electric DMG</color>. Release <IconMap:Icon_Normal> during the move to trigger the Finishing Move early.\nActivate the Finishing Move just before the character is attacked to trigger <color=#FFFFFF>Perfect Dodge</color>.\nAnti-Interrupt level is increased and DMG received is reduced by 40% during the rush attack. Qingyi is invulnerable during the Finishing Move."
+          "Desc": "During the <color=#FFFFFF>Flash Connect</color> state, hold <IconMap:Icon_Normal> to activate:\nLaunch five consecutive forward rush attacks, then execute a Finishing Move that inflicts massive <color=#2EB6FF>Electric DMG</color>. Release <IconMap:Icon_Normal> during the move to trigger the Finishing Move early.\nActivate the Finishing Move just before the character is attacked to trigger <color=#FFFFFF>Perfect Dodge</color>.\nAnti-Interrupt level is increased and DMG received is reduced by 40% during the rush attack. Qingyi is invulnerable during the Finishing Move.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Penultimate",
@@ -285,9 +284,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit DMG Multiplier (ALT)",
@@ -307,9 +309,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -329,9 +334,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -351,9 +359,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 1333,
                   "SpConsume": 0,
-                  "AttackData": [33334]
+                  "AttackData": [33334],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -373,9 +384,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6454,
                   "SpConsume": 0,
-                  "AttackData": [32271]
+                  "AttackData": [32271],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier (Enhanced)",
@@ -395,9 +409,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 15399,
                   "SpConsume": 0,
-                  "AttackData": [76999]
+                  "AttackData": [76999],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -417,9 +434,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier (ALT)",
@@ -439,9 +459,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -461,9 +484,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -483,9 +509,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 1333,
                   "SpConsume": 0,
-                  "AttackData": [33334]
+                  "AttackData": [33334],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -505,9 +534,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6454,
                   "SpConsume": 0,
-                  "AttackData": [32271]
+                  "AttackData": [32271],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier (Enhanced)",
@@ -527,11 +559,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 15399,
                   "SpConsume": 0,
-                  "AttackData": [76999]
+                  "AttackData": [76999],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Enchanted Blossoms",
@@ -554,9 +590,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7774,
                   "SpConsume": 0,
-                  "AttackData": [19436]
+                  "AttackData": [19436],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -576,11 +615,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7774,
                   "SpConsume": 0,
-                  "AttackData": [19436]
+                  "AttackData": [19436],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Enchanted Moonlit Blossoms",
@@ -603,9 +646,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19013,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Move DMG Multiplier",
@@ -625,9 +671,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 15214,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Rush Attack Daze Multiplier",
@@ -647,9 +696,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19013,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Move Daze Multiplier",
@@ -669,11 +721,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 15214,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -695,15 +751,18 @@
       "Description": [
         {
           "Name": "Dodge: Swan Song",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Breach",
-          "Desc": "Press <IconMap:Icon_Normal> during a Dodge to activate:\nRush forward and then launch an upward attack, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a Dodge to activate:\nRush forward and then launch an upward attack, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Lingering Sentiments",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nLeap into the air and then perform a downward attack, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nLeap into the air and then perform a downward attack, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Breach",
@@ -726,9 +785,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -748,11 +810,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Lingering Sentiments",
@@ -775,9 +841,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12166,
                   "SpConsume": 0,
-                  "AttackData": [160834]
+                  "AttackData": [160834],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -797,11 +866,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12166,
                   "SpConsume": 0,
-                  "AttackData": [160834]
+                  "AttackData": [160834],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -823,11 +896,13 @@
       "Description": [
         {
           "Name": "Special Attack: Sunlit Glory",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nQuickly swings upward, followed by a downward smash, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nQuickly swings upward, followed by a downward smash, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Moonlit Begonia",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nQuickly swings upward and leaps into the air, turning around to launch a series of attacks, then follows up with a powerful downward smash, dealing massive <color=#2EB6FF>Electric DMG</color>.\nHold <IconMap:Icon_SpecialReady> to consume additional energy to increase the number of hits of the series of attacks.\nCharacter is invulnerable while using this skill.\nAfter executing the move, you can immediately follow up with the 3rd hit of a <color=#FFFFFF>Basic Attack</color>."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nQuickly swings upward and leaps into the air, turning around to launch a series of attacks, then follows up with a powerful downward smash, dealing massive <color=#2EB6FF>Electric DMG</color>.\nHold <IconMap:Icon_SpecialReady> to consume additional energy to increase the number of hits of the series of attacks.\nCharacter is invulnerable while using this skill.\nAfter executing the move, you can immediately follow up with the 3rd hit of a <color=#FFFFFF>Basic Attack</color>.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Sunlit Glory",
@@ -850,9 +925,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5668,
                   "SpConsume": 0,
-                  "AttackData": [28342]
+                  "AttackData": [28342],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -872,11 +950,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5668,
                   "SpConsume": 0,
-                  "AttackData": [28342]
+                  "AttackData": [28342],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Moonlit Begonia",
@@ -899,7 +981,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12465,
                   "SpConsume": 0,
-                  "AttackData": [56162]
+                  "AttackData": [56162],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1251021": {
                   "Main": 21100,
@@ -915,7 +999,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17451,
                   "SpConsume": 0,
-                  "AttackData": [78626]
+                  "AttackData": [78626],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1251022": {
                   "Main": 24110,
@@ -931,9 +1017,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19944,
                   "SpConsume": 0,
-                  "AttackData": [89858]
+                  "AttackData": [89858],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -953,7 +1042,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12465,
                   "SpConsume": 0,
-                  "AttackData": [56162]
+                  "AttackData": [56162],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1251021": {
                   "Main": 15550,
@@ -969,7 +1060,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17451,
                   "SpConsume": 0,
-                  "AttackData": [78626]
+                  "AttackData": [78626],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1251022": {
                   "Main": 17770,
@@ -985,13 +1078,17 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19944,
                   "SpConsume": 0,
-                  "AttackData": [89858]
+                  "AttackData": [89858],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60" },
-            { "Name": "Additional Energy Cost", "Desc": "20" }
-          ]
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] },
+            { "Name": "Additional Energy Cost", "Desc": "20", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1013,11 +1110,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Tranquil Serenade",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nLaunch a series of powerful strikes over a large area in front, dealing massive <color=#2EB6FF>Electric DMG</color>\nWhen this attack hits an enemy, the skill's DMG increases by 3% for every stack of <color=#FFFFFF>Subjugation</color> in <color=#FFFFFF>Core Passive: Eternal Seasons</color> the target has.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nLaunch a series of powerful strikes over a large area in front, dealing massive <color=#2EB6FF>Electric DMG</color>\nWhen this attack hits an enemy, the skill's DMG increases by 3% for every stack of <color=#FFFFFF>Subjugation</color> in <color=#FFFFFF>Core Passive: Eternal Seasons</color> the target has.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Eight Sounds of Ganzhou",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nLaunch a series of powerful strikes over a large area in front, followed by a Finishing Move, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nLaunch a series of powerful strikes over a large area in front, followed by a Finishing Move, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Tranquil Serenade",
@@ -1040,9 +1139,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 38946,
                   "SpConsume": 0,
-                  "AttackData": [250000]
+                  "AttackData": [250000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1062,11 +1164,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 38946,
                   "SpConsume": 0,
-                  "AttackData": [250000]
+                  "AttackData": [250000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Eight Sounds of Ganzhou",
@@ -1089,9 +1195,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 21503,
                   "SpConsume": 0,
-                  "AttackData": [800000]
+                  "AttackData": [800000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1111,11 +1220,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 21503,
                   "SpConsume": 0,
-                  "AttackData": [800000]
+                  "AttackData": [800000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1137,15 +1250,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Wind Through the Pines",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nLeap into the air and perform a downward attack, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nLeap into the air and perform a downward attack, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Graceful Embellishment",
-          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Song of the Clear River",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nRush forward with an attack and inject electrical energy into the ground, then pull back to trigger an explosion, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nRush forward with an attack and inject electrical energy into the ground, then pull back to trigger an explosion, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Wind Through the Pines",
@@ -1168,9 +1284,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12166,
                   "SpConsume": 0,
-                  "AttackData": [60834]
+                  "AttackData": [60834],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1190,11 +1309,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12166,
                   "SpConsume": 0,
-                  "AttackData": [60834]
+                  "AttackData": [60834],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Graceful Embellishment",
@@ -1217,9 +1340,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1239,9 +1365,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1261,11 +1390,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Song of the Clear River",
@@ -1288,9 +1421,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 32001,
                   "SpConsume": 0,
-                  "AttackData": [148939]
+                  "AttackData": [148939],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1310,11 +1446,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 32001,
                   "SpConsume": 0,
-                  "AttackData": [148939]
+                  "AttackData": [148939],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1338,78 +1478,90 @@
       "Name": "Basic Attack: Penultimate",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1251002": {
       "Name": "Basic Attack: Enchanted Blossoms",
       "Desc": "<IconMap:Icon_Normal>(Hold)",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1251003": {
       "Name": "Basic Attack: Enchanted Moonlit Blossoms",
       "Desc": "<IconMap:Icon_Normal> (Flash Connect State) (Hold)",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1251004": {
       "Name": "Special Attack: Sunlit Glory",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1251005": {
       "Name": "EX Special Attack: Moonlit Begonia",
       "Desc": "<IconMap:Icon_SpecialReady>(Can Hold Down)",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1251006": {
       "Name": "Dash Attack: Breach",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1251007": {
       "Name": "Dodge Counter: Lingering Sentiments",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1251008": {
       "Name": "Chain Attack: Tranquil Serenade",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1251009": {
       "Name": "Ultimate: Eight Sounds of Ganzhou",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1251010": {
       "Name": "Quick Assist: Wind Through the Pines",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1251011": {
       "Name": "Defensive Assist: Graceful Embellishment",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1251012": {
       "Name": "Assist Follow-Up: Song of the Clear River",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1251501": {
         "Level": 1,
         "Id": 1251501,
         "Name": [
@@ -1419,9 +1571,11 @@
         "Desc": [
           "When Qingyi lands a Finishing Move on an enemy with her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, it applies 5 stacks of <color=#FFFFFF>Subjugation</color> to the enemy, stacking up to 20 times. Each stack of <color=#FFFFFF>Subjugation</color> increases the target's Stun DMG Multiplier by <color=#2BAD00>2</color>%. For each rush attack performed during <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, the Finishing Move will apply 1 extra stack of <color=#FFFFFF>Subjugation</color>. If <color=#FFFFFF>Perfect Dodge</color> is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of <color=#FFFFFF>Subjugation</color>. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of <color=#FFFFFF>Subjugation</color> are reset.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attacks</color> deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1251502": {
         "Level": 2,
         "Id": 1251502,
         "Name": [
@@ -1431,9 +1585,11 @@
         "Desc": [
           "When Qingyi lands a Finishing Move on an enemy with her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, it applies 5 stacks of <color=#FFFFFF>Subjugation</color> to the enemy, stacking up to 20 times. Each stack of <color=#FFFFFF>Subjugation</color> increases the target's Stun DMG Multiplier by <color=#2BAD00>2.4</color>%. For each rush attack performed during <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, the Finishing Move will apply an extra stack of <color=#FFFFFF>Subjugation</color>. If <color=#FFFFFF>Perfect Dodge</color> is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of <color=#FFFFFF>Subjugation</color>. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of <color=#FFFFFF>Subjugation</color> are reset.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attacks</color> deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1251503": {
         "Level": 3,
         "Id": 1251503,
         "Name": [
@@ -1443,9 +1599,11 @@
         "Desc": [
           "When Qingyi lands a Finishing Move on an enemy with her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, it applies 5 stacks of <color=#FFFFFF>Subjugation</color> to the enemy, stacking up to 20 times. Each stack of <color=#FFFFFF>Subjugation</color> increases the target's Stun DMG Multiplier by <color=#2BAD00>2.7</color>%. For each rush attack performed during <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, the Finishing Move will apply an extra stack of <color=#FFFFFF>Subjugation</color>. If <color=#FFFFFF>Perfect Dodge</color> is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of <color=#FFFFFF>Subjugation</color>. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of <color=#FFFFFF>Subjugation</color> are reset.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attacks</color> deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1251504": {
         "Level": 4,
         "Id": 1251504,
         "Name": [
@@ -1455,9 +1613,11 @@
         "Desc": [
           "When Qingyi lands a Finishing Move on an enemy with her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, it applies 5 stacks of <color=#FFFFFF>Subjugation</color> to the enemy, stacking up to 20 times. Each stack of <color=#FFFFFF>Subjugation</color> increases the target's Stun DMG Multiplier by <color=#2BAD00>3</color>%. For each rush attack performed during <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, the Finishing Move will apply an extra stack of <color=#FFFFFF>Subjugation</color>. If <color=#FFFFFF>Perfect Dodge</color> is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of <color=#FFFFFF>Subjugation</color>. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of <color=#FFFFFF>Subjugation</color> are reset.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attacks</color> deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1251505": {
         "Level": 5,
         "Id": 1251505,
         "Name": [
@@ -1467,9 +1627,11 @@
         "Desc": [
           "When Qingyi lands a Finishing Move on an enemy with her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, it applies 5 stacks of <color=#FFFFFF>Subjugation</color> to the enemy, stacking up to 20 times. Each stack of <color=#FFFFFF>Subjugation</color> increases the target's Stun DMG Multiplier by <color=#2BAD00>3.4</color>%. For each rush attack performed during <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, the Finishing Move will apply an extra stack of <color=#FFFFFF>Subjugation</color>. If <color=#FFFFFF>Perfect Dodge</color> is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of <color=#FFFFFF>Subjugation</color>. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of <color=#FFFFFF>Subjugation</color> are reset.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attacks</color> deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1251506": {
         "Level": 6,
         "Id": 1251506,
         "Name": [
@@ -1479,9 +1641,11 @@
         "Desc": [
           "When Qingyi lands a Finishing Move on an enemy with her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, it applies 5 stacks of <color=#FFFFFF>Subjugation</color> to the enemy, stacking up to 20 times. Each stack of <color=#FFFFFF>Subjugation</color> increases the target's Stun DMG Multiplier by <color=#2BAD00>3.7</color>%. For each rush attack performed during <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, the Finishing Move will apply an extra stack of <color=#FFFFFF>Subjugation</color>. If <color=#FFFFFF>Perfect Dodge</color> is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of <color=#FFFFFF>Subjugation</color>. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of <color=#FFFFFF>Subjugation</color> are reset.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attacks</color> deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1251507": {
         "Level": 7,
         "Id": 1251507,
         "Name": [
@@ -1491,7 +1655,9 @@
         "Desc": [
           "When Qingyi lands a Finishing Move on an enemy with her <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, it applies 5 stacks of <color=#FFFFFF>Subjugation</color> to the enemy, stacking up to 20 times. Each stack of <color=#FFFFFF>Subjugation</color> increases the target's Stun DMG Multiplier by <color=#2BAD00>4</color>%. For each rush attack performed during <color=#FFFFFF>Basic Attack: Enchanted Moonlit Blossoms</color>, the Finishing Move will apply an extra stack of <color=#FFFFFF>Subjugation</color>. If <color=#FFFFFF>Perfect Dodge</color> is triggered when using the Finishing Move, it directly applies {CAL:5+5,1,2} stacks of <color=#FFFFFF>Subjugation</color>. When applying Subjugation to normal and elite enemies, the target receives double the stacks. When the target recovers from being Stunned, the corresponding stacks of <color=#FFFFFF>Subjugation</color> are reset.",
           "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attacks</color> deal 20% increased Daze. If Qingyi's Impact is greater than 120, each point over increases her ATK by 6, up to a maximum of 600."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1569,5 +1735,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
-  }
+  },
+  "Potential": []
 }

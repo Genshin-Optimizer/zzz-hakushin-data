@@ -25,7 +25,7 @@
     "codename": "Exploreboo",
     "EN": "Exploreboo",
     "desc": "Beep-beep-beep-beep. Does that mean there treasure or that it's running outta battery?",
-    "KO": "��험부",
+    "KO": "탐험부",
     "CHS": "寻宝布",
     "JA": "タンケンボンプ"
   },
@@ -237,7 +237,7 @@
     "desc": "Accumulating Ether energy...",
     "KO": "공명부",
     "CHS": "共鸣布",
-    "JA": "��ゾナンボンプ"
+    "JA": "レゾナンボンプ"
   },
   "54011": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole26.png",
@@ -298,5 +298,15 @@
     "KO": "로빈",
     "CHS": "罗宾",
     "JA": "ロビン"
+  },
+  "54017": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole36.png",
+    "rank": 4,
+    "codename": "Belion",
+    "EN": "Belion",
+    "desc": "The true essence of martial arts is the lightness and purity of heart.",
+    "KO": "사야",
+    "CHS": "狮耶",
+    "JA": "オシシ"
   }
 }

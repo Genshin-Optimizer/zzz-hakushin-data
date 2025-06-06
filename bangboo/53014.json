@@ -259,7 +259,8 @@
   "SkillProp": {
     "5301401": {
       "1001": { "Main": 33600, "Growth": 3360, "Format": "%" },
-      "1002": { "Main": 28100, "Growth": 2810, "Format": "%" }
+      "1002": { "Main": 28100, "Growth": 2810, "Format": "%" },
+      "ElementAccumulationValue": 36000
     }
   }
 }

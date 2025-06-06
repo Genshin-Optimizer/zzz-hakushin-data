@@ -47,12 +47,6 @@
     "AttackGrowth": 76728,
     "AvatarPieceId": 5091,
     "BreakStun": 86,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -64,7 +58,6 @@
     "Endurance": 0,
     "HpGrowth": 837238,
     "HpMax": 617,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -74,7 +67,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Unagi",
@@ -84,8 +76,11 @@
       "Camp6",
       "Size2",
       "AidTypeParry",
-      "Unagi"
-    ]
+      "Unagi",
+      "EtherEyesSize2"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -254,11 +249,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Kazahana",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to five slashes ahead, the first two deal <color=#F0D12B>Physical DMG</color>, and the last three deal <color=#98EFF0>Frost DMG</color>.\nBlock enemy attacks during the 5th hit of the <color=#FFFFFF>Basic Attack</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to five slashes ahead, the first two deal <color=#F0D12B>Physical DMG</color>, and the last three deal <color=#98EFF0>Frost DMG</color>.\nBlock enemy attacks during the 5th hit of the <color=#FFFFFF>Basic Attack</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Shimotsuki",
-          "Desc": "With at least 2 points of <color=#FFFFFF>Fallen Frost</color>, hold <IconMap:Icon_Normal> to activate:\nHoshimi Miyabi sheaths her blade, enters <color=#FFFFFF>Shimotsuki Stance</color> and starts to charge up. Every level of charge will consume 2 points of <color=#FFFFFF>Fallen Frost</color>, up to a maximum of three levels of charge.\nWhen releasing <IconMap:Icon_Normal>, or when <color=#FFFFFF>Fallen Frost</color> is completely depleted, Hoshimi Miyabi will draw her blade and unleash a powerful slash ahead based on the current charge level, dealing massive <color=#98EFF0>Frost DMG</color>. She then exits <color=#FFFFFF>Shimotsuki Stance</color>.\nCharacter is invulnerable during <color=#FFFFFF>Shimotsuki Stance</color>.\nHoshimi Miyabi can have up to 6 points of <color=#FFFFFF>Fallen Frost</color>. Upon entering the battlefield, Hoshimi Miyabi immediately obtains 3 points of <color=#FFFFFF>Fallen Frost</color>."
+          "Desc": "With at least 2 points of <color=#FFFFFF>Fallen Frost</color>, hold <IconMap:Icon_Normal> to activate:\nHoshimi Miyabi sheaths her blade, enters <color=#FFFFFF>Shimotsuki Stance</color> and starts to charge up. Every level of charge will consume 2 points of <color=#FFFFFF>Fallen Frost</color>, up to a maximum of three levels of charge.\nWhen releasing <IconMap:Icon_Normal>, or when <color=#FFFFFF>Fallen Frost</color> is completely depleted, Hoshimi Miyabi will draw her blade and unleash a powerful slash ahead based on the current charge level, dealing massive <color=#98EFF0>Frost DMG</color>. She then exits <color=#FFFFFF>Shimotsuki Stance</color>.\nCharacter is invulnerable during <color=#FFFFFF>Shimotsuki Stance</color>.\nHoshimi Miyabi can have up to 6 points of <color=#FFFFFF>Fallen Frost</color>. Upon entering the battlefield, Hoshimi Miyabi immediately obtains 3 points of <color=#FFFFFF>Fallen Frost</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Kazahana",
@@ -281,9 +278,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -303,9 +303,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -325,9 +328,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6290,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -347,9 +353,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9121,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit DMG Multiplier",
@@ -369,9 +378,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12927,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -391,9 +403,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -413,9 +428,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -435,9 +453,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6290,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -457,9 +478,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9121,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Daze Multiplier",
@@ -479,11 +503,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12927,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Shimotsuki",
@@ -506,9 +534,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3998,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Charge Level Two Slash DMG Multiplier",
@@ -528,9 +559,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5668,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Charge Level Three Slash DMG Multiplier",
@@ -550,9 +584,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34336,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Charge Level One Slash Daze Multiplier",
@@ -572,9 +609,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3998,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Charge Level Two Slash Daze Multiplier",
@@ -594,9 +634,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5668,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Charge Level Three Slash Daze Multiplier",
@@ -616,11 +659,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34336,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -642,15 +689,18 @@
       "Description": [
         {
           "Name": "Dodge: Mizutori",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.\nWhile dodging, repeatedly press or hold <IconMap:Icon_Evade> to activate:\nA dash dodge that covers a lot of ground.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.\nWhile dodging, repeatedly press or hold <IconMap:Icon_Evade> to activate:\nA dash dodge that covers a lot of ground.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Fuyubachi",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Kan Suzume",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlashes enemies in front, dealing <color=#98EFF0>Frost DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlashes enemies in front, dealing <color=#98EFF0>Frost DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Fuyubachi",
@@ -673,9 +723,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -695,11 +748,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Kan Suzume",
@@ -722,9 +779,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9499,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -744,11 +804,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9499,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -770,11 +834,13 @@
       "Description": [
         {
           "Name": "Special Attack: Miyuki",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nQuickly draws her blade and slashes ahead, dealing <color=#98EFF0>Frost DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nQuickly draws her blade and slashes ahead, dealing <color=#98EFF0>Frost DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Hisetsu",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nRush forward, unleashing powerful slashes against enemies along the way, dealing massive <color=#98EFF0>Frost DMG</color>.\nUpon activating this skill, gain 2 points of <color=#FFFFFF>Fallen Frost</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, with enough Energy, press <IconMap:Icon_SpecialReady> again to activate:\nConsume extra Energy and unleash a powerful follow-up attack against enemies in front, dealing massive <color=#98EFF0>Frost DMG</color>.\nUpon activating this skill, gain 2 points of <color=#FFFFFF>Fallen Frost</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nRush forward, unleashing powerful slashes against enemies along the way, dealing massive <color=#98EFF0>Frost DMG</color>.\nUpon activating this skill, gain 2 points of <color=#FFFFFF>Fallen Frost</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, with enough Energy, press <IconMap:Icon_SpecialReady> again to activate:\nConsume extra Energy and unleash a powerful follow-up attack against enemies in front, dealing massive <color=#98EFF0>Frost DMG</color>.\nUpon activating this skill, gain 2 points of <color=#FFFFFF>Fallen Frost</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Miyuki",
@@ -797,9 +863,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3251,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -819,11 +888,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3251,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Hisetsu",
@@ -846,7 +919,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 15775,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1091010": {
                   "Main": 23600,
@@ -862,9 +937,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 25052,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up DMG Multiplier",
@@ -884,7 +962,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18925,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1091012": {
                   "Main": 28990,
@@ -900,9 +980,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 29777,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Slash Daze Multiplier",
@@ -922,7 +1005,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 15775,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1091010": {
                   "Main": 19300,
@@ -938,9 +1023,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 25052,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Follow-Up Daze Multiplier",
@@ -960,7 +1048,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18925,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1091012": {
                   "Main": 24300,
@@ -976,13 +1066,17 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 29777,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Slash Energy Cost", "Desc": "40" },
-            { "Name": "Follow-Up Energy Cost", "Desc": "40" }
-          ]
+            { "Name": "Slash Energy Cost", "Desc": "40", "Potential": [] },
+            { "Name": "Follow-Up Energy Cost", "Desc": "40", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1004,11 +1098,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Spring's Call",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful slash at enemies in front in a large area, dealing massive <color=#98EFF0>Frost DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful slash at enemies in front in a large area, dealing massive <color=#98EFF0>Frost DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Lingering Snow",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes powerful slashes at enemies ahead in a large area then pauses, before unleashing a Finishing Move, dealing massive <color=#98EFF0>Frost DMG</color>.\nUpon activating this skill, gain 3 points of <color=#FFFFFF>Fallen Frost</color> and increase <color=#98EFF0>Ice DMG</color> by 30% for 12s.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes powerful slashes at enemies ahead in a large area then pauses, before unleashing a Finishing Move, dealing massive <color=#98EFF0>Frost DMG</color>.\nUpon activating this skill, gain 3 points of <color=#FFFFFF>Fallen Frost</color> and increase <color=#98EFF0>Ice DMG</color> by 30% for 12s.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Spring's Call",
@@ -1031,7 +1127,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11136,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1091016": {
                   "Main": 18840,
@@ -1047,7 +1145,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11136,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1091017": {
                   "Main": 25120,
@@ -1063,9 +1163,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 14848,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1085,7 +1188,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11136,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1091016": {
                   "Main": 5670,
@@ -1101,7 +1206,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11136,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1091017": {
                   "Main": 7560,
@@ -1117,11 +1224,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 14848,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Lingering Snow",
@@ -1144,9 +1255,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 113716,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1166,11 +1280,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 113716,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1192,15 +1310,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Dancing Petals",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlashes enemies in front, dealing <color=#98EFF0>Frost DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlashes enemies in front, dealing <color=#98EFF0>Frost DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Drifting Petals",
-          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Falling Petals",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCharges and slashes enemies in front, dealing <color=#98EFF0>Frost DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCharges and slashes enemies in front, dealing <color=#98EFF0>Frost DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Dancing Petals",
@@ -1223,9 +1344,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9499,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1245,11 +1369,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9499,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Drifting Petals",
@@ -1272,9 +1400,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1294,9 +1425,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1316,11 +1450,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Falling Petals",
@@ -1343,9 +1481,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 28617,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1365,11 +1506,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 28617,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1393,78 +1538,90 @@
       "Name": "Basic Attack: Kazahana (1st and 2nd hit)",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1091002": {
       "Name": "Basic Attack: Kazahana (3rd, 4th, and 5th hit)",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1091003": {
       "Name": "Basic Attack: Shimotsuki",
       "Desc": "<IconMap:Icon_Normal> (Hold) (With at least 2 points of Fallen Frost)",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1091004": {
       "Name": "Special Attack: Miyuki",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1091005": {
       "Name": "EX Special Attack: Hisetsu",
       "Desc": "<IconMap:Icon_SpecialReady> ; <IconMap:Icon_SpecialReady>",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1091006": {
       "Name": "Dash Attack: Fuyubachi",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1091007": {
       "Name": "Dodge Counter: Kan Suzume",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1091008": {
       "Name": "Chain Attack: Spring's Call",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1091009": {
       "Name": "Ultimate: Lingering Snow",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1091010": {
       "Name": "Quick Assist: Dancing Petals",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1091011": {
       "Name": "Defensive Assist: Drifting Petals",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1091012": {
       "Name": "Assist Follow-Up: Falling Petals",
       "Desc": "<IconMap:Icon_Special> (After Defensive Assist)",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1091501": {
         "Level": 1,
         "Id": 1091501,
         "Name": [
@@ -1472,11 +1629,13 @@
           "Additional Ability: Bask in Frost"
         ],
         "Desc": [
-          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>750%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All squad members accumulate <color=#2BAD00>14%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
+          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>750%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All units accumulate <color=#2BAD00>14%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attack: Shimotsuki</color> DMG increases by 60%. When any squad member triggers <color=#FFFFFF>Disorder</color>, Hoshimi Miyabi obtains 2 points of <color=#FFFFFF>Fallen Frost</color> and <color=#FFFFFF>Basic Attack: Shimotsuki</color> during the next <color=#FFFFFF>Shimotsuki Stance</color> will ignore 30% of the target's <color=#98EFF0>Ice RES</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1091502": {
         "Level": 2,
         "Id": 1091502,
         "Name": [
@@ -1484,11 +1643,13 @@
           "Additional Ability: Bask in Frost"
         ],
         "Desc": [
-          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>875%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All squad members accumulate <color=#2BAD00>15%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
+          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>875%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All units accumulate <color=#2BAD00>15%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attack: Shimotsuki</color> DMG increases by 60%. When any squad member triggers <color=#FFFFFF>Disorder</color>, Hoshimi Miyabi obtains 2 points of <color=#FFFFFF>Fallen Frost</color> and <color=#FFFFFF>Basic Attack: Shimotsuki</color> during the next <color=#FFFFFF>Shimotsuki Stance</color> will ignore 30% of the target's <color=#98EFF0>Ice RES</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1091503": {
         "Level": 3,
         "Id": 1091503,
         "Name": [
@@ -1496,11 +1657,13 @@
           "Additional Ability: Bask in Frost"
         ],
         "Desc": [
-          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>1,000%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All squad members accumulate <color=#2BAD00>16%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
+          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>1,000%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All units accumulate <color=#2BAD00>16%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attack: Shimotsuki</color> DMG increases by 60%. When any squad member triggers <color=#FFFFFF>Disorder</color>, Hoshimi Miyabi obtains 2 points of <color=#FFFFFF>Fallen Frost</color> and <color=#FFFFFF>Basic Attack: Shimotsuki</color> during the next <color=#FFFFFF>Shimotsuki Stance</color> will ignore 30% of the target's <color=#98EFF0>Ice RES</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1091504": {
         "Level": 4,
         "Id": 1091504,
         "Name": [
@@ -1508,11 +1671,13 @@
           "Additional Ability: Bask in Frost"
         ],
         "Desc": [
-          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>1,125%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All squad members accumulate <color=#2BAD00>17%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
+          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>1,125%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All units accumulate <color=#2BAD00>17%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attack: Shimotsuki</color> DMG increases by 60%. When any squad member triggers <color=#FFFFFF>Disorder</color>, Hoshimi Miyabi obtains 2 points of <color=#FFFFFF>Fallen Frost</color> and <color=#FFFFFF>Basic Attack: Shimotsuki</color> during the next <color=#FFFFFF>Shimotsuki Stance</color> will ignore 30% of the target's <color=#98EFF0>Ice RES</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1091505": {
         "Level": 5,
         "Id": 1091505,
         "Name": [
@@ -1520,11 +1685,13 @@
           "Additional Ability: Bask in Frost"
         ],
         "Desc": [
-          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>1,250%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All squad members accumulate <color=#2BAD00>18%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
+          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>1,250%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All units accumulate <color=#2BAD00>18%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attack: Shimotsuki</color> DMG increases by 60%. When any squad member triggers <color=#FFFFFF>Disorder</color>, Hoshimi Miyabi obtains 2 points of <color=#FFFFFF>Fallen Frost</color> and <color=#FFFFFF>Basic Attack: Shimotsuki</color> during the next <color=#FFFFFF>Shimotsuki Stance</color> will ignore 30% of the target's <color=#98EFF0>Ice RES</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1091506": {
         "Level": 6,
         "Id": 1091506,
         "Name": [
@@ -1532,11 +1699,13 @@
           "Additional Ability: Bask in Frost"
         ],
         "Desc": [
-          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>1,375%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All squad members accumulate <color=#2BAD00>19%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
+          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>1,375%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All units accumulate <color=#2BAD00>19%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attack: Shimotsuki</color> DMG increases by 60%. When any squad member triggers <color=#FFFFFF>Disorder</color>, Hoshimi Miyabi obtains 2 points of <color=#FFFFFF>Fallen Frost</color> and <color=#FFFFFF>Basic Attack: Shimotsuki</color> during the next <color=#FFFFFF>Shimotsuki Stance</color> will ignore 30% of the target's <color=#98EFF0>Ice RES</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1091507": {
         "Level": 7,
         "Id": 1091507,
         "Name": [
@@ -1544,9 +1713,11 @@
           "Additional Ability: Bask in Frost"
         ],
         "Desc": [
-          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>1,500%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All squad members accumulate <color=#2BAD00>20%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
+          "When Hoshimi Miyabi deals <color=#98EFF0>Frost DMG</color>, she applies <color=#FFFFFF>Icefire</color> to the target, lasting 30s. When accumulating <color=#98EFF0>Frost Anomaly Buildup</color> against targets with <color=#FFFFFF>Icefire</color>, increases <color=#98EFF0>Frost Anomaly Buildup Rate</color> by 100% of Hoshimi Miyabi's CRIT Rate, up to a maximum increase of 80%. As Hoshimi Miyabi accumulates <color=#98EFF0>Frost Anomaly Buildup</color>, it has its own independent Attribute Anomaly Buildup gauge and triggers <color=#98EFF0>Freeze</color>, <color=#98EFF0>Shatter</color>, and <color=#98EFF0>Frostbite</color> that can react with other Attribute Anomalies, including <color=#98EFF0>Ice Attribute Anomaly</color>, to trigger <color=#FFFFFF>Disorder</color>.\nWhen Hoshimi Miyabi applies <color=#98EFF0>Frostbite</color> to enemies with <color=#FFFFFF>Icefire</color>, it will consume the <color=#FFFFFF>Icefire</color> to trigger <color=#FFFFFF>Frostburn - Break</color>, dealing <color=#98EFF0>Frost DMG</color> equal to <color=#2BAD00>1,500%</color> of Hoshimi Miyabi's ATK and causing the target to enter the <color=#FFFFFF>Frostburn</color> state. All units accumulate <color=#2BAD00>20%</color> more Anomaly Buildup against enemies under the <color=#FFFFFF>Frostburn</color> state, but Hoshimi Miyabi cannot reapply <color=#FFFFFF>Icefire</color> to these enemies. The <color=#FFFFFF>Frostburn</color> state ends when <color=#98EFF0>Frostbite</color> expires. While this state remains active, triggering another Attribute Anomaly will overwrite <color=#98EFF0>Frostbite</color> and remove <color=#FFFFFF>Frostburn</color>.\nUpon triggering <color=#FFFFFF>Frostburn - Break</color>, Hoshimi Miyabi obtains 1 point of <color=#FFFFFF>Fallen Frost</color>. This effect can trigger once every 10s.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\n<color=#FFFFFF>Basic Attack: Shimotsuki</color> DMG increases by 60%. When any squad member triggers <color=#FFFFFF>Disorder</color>, Hoshimi Miyabi obtains 2 points of <color=#FFFFFF>Fallen Frost</color> and <color=#FFFFFF>Basic Attack: Shimotsuki</color> during the next <color=#FFFFFF>Shimotsuki Stance</color> will ignore 30% of the target's <color=#98EFF0>Ice RES</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1624,5 +1795,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
-  }
+  },
+  "Potential": []
 }

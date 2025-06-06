@@ -42,12 +42,6 @@
     "AttackGrowth": 64308,
     "AvatarPieceId": 5281,
     "BreakStun": 86,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -59,7 +53,6 @@
     "Endurance": 0,
     "HpGrowth": 761177,
     "HpMax": 561,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -69,7 +62,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Clara",
@@ -79,8 +71,11 @@
       "Camp4",
       "Size1",
       "AidTypeParry",
-      "Clara"
-    ]
+      "Clara",
+      "EtherEyesSize1"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -249,7 +244,8 @@
       "Description": [
         {
           "Name": "Basic Attack: Load Up and Roll Out",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 slashes, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 slashes, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Load Up and Roll Out",
@@ -272,9 +268,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2948,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -294,9 +293,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6440,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -316,9 +318,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12189,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -338,9 +343,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 25211,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -360,9 +368,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2948,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -382,9 +393,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6440,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -404,9 +418,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12189,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -426,11 +443,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 25211,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -452,15 +473,18 @@
       "Description": [
         {
           "Name": "Dodge: Handbrake Drift",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Pedal to the Metal",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Power Drift",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nUnleash a downward smash attack in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nUnleash a downward smash attack in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Pedal to the Metal",
@@ -483,9 +507,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4501,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -505,11 +532,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4501,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Power Drift",
@@ -532,9 +563,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12996,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -554,11 +588,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12996,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -580,19 +618,23 @@
       "Description": [
         {
           "Name": "Special Attack: Tire Spin",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nPiper spins and launches a sweeping slash around her, dealing <color=#F0D12B>Physical DMG</color>.\nHold <IconMap:Icon_Special> to extend the skill duration, unleashing increasingly powerful spinning slashes and increasing the charge level of the skill up to 2 times.\nIf the skill is used after the first 3 hits of a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, or <color=#FFFFFF>Dodge Counter</color>, you can quickly activate <color=#FFFFFF>Special Attack: Tire Spin</color> of an increased charge level.\nDuring the skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nPiper spins and launches a sweeping slash around her, dealing <color=#F0D12B>Physical DMG</color>.\nHold <IconMap:Icon_Special> to extend the skill duration, unleashing increasingly powerful spinning slashes and increasing the charge level of the skill up to 2 times.\nIf the skill is used after the first 3 hits of a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, or <color=#FFFFFF>Dodge Counter</color>, you can quickly activate <color=#FFFFFF>Special Attack: Tire Spin</color> of an increased charge level.\nDuring the skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: One Trillion Tons",
-          "Desc": "While <color=#FFFFFF>Special Attack: Tire Spin</color> is active, release <IconMap:Icon_Special> to trigger a downward smash attack based on the charge level of <color=#FFFFFF>Special Attack: Tire Spin</color>, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "While <color=#FFFFFF>Special Attack: Tire Spin</color> is active, release <IconMap:Icon_Special> to trigger a downward smash attack based on the charge level of <color=#FFFFFF>Special Attack: Tire Spin</color>, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Engine Spin",
-          "Desc": "With enough Energy, continue holding <IconMap:Icon_SpecialReady> after <color=#FFFFFF>Special Attack: Tire Spin</color> reaches maximum charge level to activate:\nRapidly spins, unleashing powerful spinning slashes around her and dealing massive <color=#F0D12B>Physical DMG</color>.\nThis skill consumes Energy continuously for up to 3s.\nDuring the skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%."
+          "Desc": "With enough Energy, continue holding <IconMap:Icon_SpecialReady> after <color=#FFFFFF>Special Attack: Tire Spin</color> reaches maximum charge level to activate:\nRapidly spins, unleashing powerful spinning slashes around her and dealing massive <color=#F0D12B>Physical DMG</color>.\nThis skill consumes Energy continuously for up to 3s.\nDuring the skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Really Heavy",
-          "Desc": "During <color=#FFFFFF>EX Special Attack: Engine Spin</color>, release <IconMap:Icon_SpecialReady> to activate:\nPiper unleashes a downward smash attack, dealing massive <color=#F0D12B>Physical DMG</color>.\nIf the duration of <color=#FFFFFF>EX Special Attack: Engine Spin</color> reaches its limit or Energy drops to 20, <color=#FFFFFF>EX Special Attack: Really Heavy</color> will automatically activate.\nCharacter is invulnerable while using this skill."
+          "Desc": "During <color=#FFFFFF>EX Special Attack: Engine Spin</color>, release <IconMap:Icon_SpecialReady> to activate:\nPiper unleashes a downward smash attack, dealing massive <color=#F0D12B>Physical DMG</color>.\nIf the duration of <color=#FFFFFF>EX Special Attack: Engine Spin</color> reaches its limit or Energy drops to 20, <color=#FFFFFF>EX Special Attack: Really Heavy</color> will automatically activate.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Tire Spin",
@@ -615,9 +657,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 27166,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -637,11 +682,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 27166,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Special Attack: One Trillion Tons",
@@ -664,9 +713,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Level-2 Charged Attack DMG Multiplier",
@@ -686,9 +738,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10336,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Level-3 Charged Attack DMG Multiplier",
@@ -708,9 +763,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 23500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Level-1 Charged Daze Multiplier",
@@ -730,9 +788,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Level-2 Charged Daze Multiplier",
@@ -752,9 +813,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10336,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Level-3 Charged Attack Daze Multiplier",
@@ -774,11 +838,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 23500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Engine Spin",
@@ -801,9 +869,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 16125,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier Every Spin",
@@ -823,12 +894,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 16125,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "20 Energy/s" }
-          ]
+            { "Name": "Energy Cost", "Desc": "20 Energy/s", "Potential": [] }
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Really Heavy",
@@ -851,9 +926,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 53255,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -873,12 +951,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 53255,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "20" }
-          ]
+            { "Name": "Energy Cost", "Desc": "20", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -900,11 +982,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Buckle Up",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful downward smash at enemies ahead in a large area, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful downward smash at enemies ahead in a large area, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Hold~ On~ Tight~",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nRapidly spins, unleashing powerful spinning slashes at enemies in a large area ahead, followed by a downward smash, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nRapidly spins, unleashing powerful spinning slashes at enemies in a large area ahead, followed by a downward smash, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Buckle Up",
@@ -927,9 +1011,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 45279,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -949,11 +1036,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 45279,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Hold~ On~ Tight~",
@@ -976,9 +1067,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 112754,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -998,11 +1092,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 112754,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1024,15 +1122,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Brake Tap",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nLaunches a downward smash attack at enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nLaunches a downward smash attack at enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Emergency Brake",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Overtaking Maneuver",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCharge and slash enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCharge and slash enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Brake Tap",
@@ -1055,9 +1156,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12996,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1077,11 +1181,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12996,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Emergency Brake",
@@ -1104,9 +1212,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1126,9 +1237,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1148,11 +1262,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Overtaking Maneuver",
@@ -1175,9 +1293,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 37622,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1197,11 +1318,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 37622,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1225,90 +1350,104 @@
       "Name": "Basic Attack: Load Up and Roll Out",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281002": {
       "Name": "Special Attack: Tire Spin",
       "Desc": "<IconMap:Icon_Special> (Hold Down)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281003": {
       "Name": "Special Attack: Tire Spin (Quick Launch)",
       "Desc": "<IconMap:Icon_Special> (Basic Attack Combo) (Hold)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281004": {
       "Name": "Special Attack: One Trillion Tons",
       "Desc": "<IconMap:Icon_Special> (Hold Down) ; <IconMap:Icon_Special> (Release)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281005": {
       "Name": "EX Special Attack: Engine Spin",
       "Desc": "<IconMap:Icon_SpecialReady>(Hold)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281006": {
       "Name": "EX Special Attack: Engine Spin (Quick Launch)",
       "Desc": "<IconMap:Icon_SpecialReady> (Basic Attack Combo) (Hold)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281007": {
       "Name": "EX Special Attack: Really Heavy",
       "Desc": "<IconMap:Icon_SpecialReady> (Hold) ; <IconMap:Icon_SpecialReady> (Release)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281008": {
       "Name": "Dash Attack: Pedal to the Metal",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281009": {
       "Name": "Dodge Counter: Power Drift",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281010": {
       "Name": "Chain Attack: Buckle Up",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281011": {
       "Name": "Ultimate: Hold~ On~ Tight~",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281012": {
       "Name": "Quick Assist: Brake Tap",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281013": {
       "Name": "Defensive Assist: Emergency Brake",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1281014": {
       "Name": "Assist Follow-Up: Overtaking Maneuver",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1281501": {
         "Level": 1,
         "Id": 1281501,
         "Name": [
@@ -1318,9 +1457,11 @@
         "Desc": [
           "When Piper's <color=#FFFFFF>EX Special Attack: Engine Spin</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, she gains 1 stack of <color=#FFFFFF>Power</color>, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of <color=#FFFFFF>Power</color>, Piper's <color=#F0D12B>Physical Anomaly Buildup Rate</color> increases by <color=#2BAD00>2%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of <color=#FFFFFF>Power</color>, all squad members' DMG is increased by 18%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1281502": {
         "Level": 2,
         "Id": 1281502,
         "Name": [
@@ -1330,9 +1471,11 @@
         "Desc": [
           "When Piper's <color=#FFFFFF>EX Special Attack: Engine Spin</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, she gains 1 stack of <color=#FFFFFF>Power</color>, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of <color=#FFFFFF>Power</color>, Piper's <color=#F0D12B>Physical Anomaly Buildup Rate</color> increases by <color=#2BAD00>2.3%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of <color=#FFFFFF>Power</color>, all squad members' DMG is increased by 18%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1281503": {
         "Level": 3,
         "Id": 1281503,
         "Name": [
@@ -1342,9 +1485,11 @@
         "Desc": [
           "When Piper's <color=#FFFFFF>EX Special Attack: Engine Spin</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, she gains 1 stack of <color=#FFFFFF>Power</color>, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of <color=#FFFFFF>Power</color>, Piper's <color=#F0D12B>Physical Anomaly Buildup Rate</color> increases by <color=#2BAD00>2.6%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of <color=#FFFFFF>Power</color>, all squad members' DMG is increased by 18%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1281504": {
         "Level": 4,
         "Id": 1281504,
         "Name": [
@@ -1354,9 +1499,11 @@
         "Desc": [
           "When Piper's <color=#FFFFFF>EX Special Attack: Engine Spin</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, she gains 1 stack of <color=#FFFFFF>Power</color>, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of <color=#FFFFFF>Power</color>, Piper's <color=#F0D12B>Physical Anomaly Buildup Rate</color> increases by <color=#2BAD00>3%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of <color=#FFFFFF>Power</color>, all squad members' DMG is increased by 18%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1281505": {
         "Level": 5,
         "Id": 1281505,
         "Name": [
@@ -1366,9 +1513,11 @@
         "Desc": [
           "When Piper's <color=#FFFFFF>EX Special Attack: Engine Spin</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, she gains 1 stack of <color=#FFFFFF>Power</color>, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of <color=#FFFFFF>Power</color>, Piper's <color=#F0D12B>Physical Anomaly Buildup Rate</color> increases by <color=#2BAD00>3.3%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of <color=#FFFFFF>Power</color>, all squad members' DMG is increased by 18%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1281506": {
         "Level": 6,
         "Id": 1281506,
         "Name": [
@@ -1378,9 +1527,11 @@
         "Desc": [
           "When Piper's <color=#FFFFFF>EX Special Attack: Engine Spin</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, she gains 1 stack of <color=#FFFFFF>Power</color>, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of <color=#FFFFFF>Power</color>, Piper's <color=#F0D12B>Physical Anomaly Buildup Rate</color> increases by <color=#2BAD00>3.6%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of <color=#FFFFFF>Power</color>, all squad members' DMG is increased by 18%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1281507": {
         "Level": 7,
         "Id": 1281507,
         "Name": [
@@ -1390,7 +1541,9 @@
         "Desc": [
           "When Piper's <color=#FFFFFF>EX Special Attack: Engine Spin</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, she gains 1 stack of <color=#FFFFFF>Power</color>, up to a maximum of 20 stacks, lasting for 12s. Repeated triggers reset the duration. For every stack of <color=#FFFFFF>Power</color>, Piper's <color=#F0D12B>Physical Anomaly Buildup Rate</color> increases by <color=#2BAD00>4%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of <color=#FFFFFF>Power</color>, all squad members' DMG is increased by 18%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1468,5 +1621,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
-  }
+  },
+  "Potential": []
 }

@@ -42,12 +42,6 @@
     "AttackGrowth": 54887,
     "AvatarPieceId": 5351,
     "BreakStun": 118,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -59,7 +53,6 @@
     "Endurance": 0,
     "HpGrowth": 830642,
     "HpMax": 612,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -69,7 +62,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Pulchra",
@@ -79,8 +71,11 @@
       "Camp4",
       "Size3",
       "AidTypeEvade",
-      "Pulchra"
-    ]
+      "Pulchra",
+      "EtherEyesSize3"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -249,11 +244,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Swift Strike",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 3 attacks forward, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 3 attacks forward, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Leaping Strike",
-          "Desc": "Hold <IconMap:Icon_Normal> to activate:\nLeap forward and unleash a series of slashes, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Hold <IconMap:Icon_Normal> to activate:\nLeap forward and unleash a series of slashes, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Swift Strike",
@@ -276,9 +273,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2848,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -298,9 +298,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7522,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -320,9 +323,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13405,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -342,9 +348,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2848,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -364,9 +373,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7522,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -386,11 +398,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13405,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Leaping Strike",
@@ -413,9 +429,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10797,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -435,11 +454,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10797,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -461,15 +484,18 @@
       "Description": [
         {
           "Name": "Dodge: Reversal Shot",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: First Strike Advantage",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nDash forward and slash, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nDash forward and slash, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Relentless Retribution",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nThrust at enemies in front, then follow up with a swift slash, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nThrust at enemies in front, then follow up with a swift slash, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: First Strike Advantage",
@@ -492,9 +518,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2414,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -514,11 +543,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2414,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Relentless Retribution",
@@ -541,9 +574,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7829,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -563,11 +599,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7829,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -589,15 +629,18 @@
       "Description": [
         {
           "Name": "Special Attack: Rending Claw",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nPerform a rapid back-and-forth piercing attack, dealing <color=#F0D12B>Physical DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nPerform a rapid back-and-forth piercing attack, dealing <color=#F0D12B>Physical DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Rending Claw - Nightmare Shadow",
-          "Desc": "While Pulchra is in the <color=#FFFFFF>Hunter's Gait</color> state, and when another active character in the squad hits an enemy with a heavy attack from a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>:\nDash back-and-forth piercing enemies surrounding the target, dealing <color=#F0D12B>Physical DMG</color>.\nAfter using this skill, if another active character in the squad hits an enemy, Pulchra will repeat the attack up to 5 additional times, with the final attack being a more powerful Finishing Move.\nCharacter is invulnerable while using this skill.\n<color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color> is an <color=#FFFFFF>Aftershock</color> attack."
+          "Desc": "While Pulchra is in the <color=#FFFFFF>Hunter's Gait</color> state, and when another active character in the squad hits an enemy with a heavy attack from a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>:\nDash back-and-forth piercing enemies centered on the target, dealing <color=#F0D12B>Physical DMG</color>.\nAfter using this skill, if another active character in the squad hits an enemy, Pulchra will repeat the attack up to 5 additional times, with the final attack being a more powerful Finishing Move.\nCharacter is invulnerable while using this skill.\n<color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color> is an <color=#FFFFFF>Aftershock</color> attack.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Rending Claw - Flashstep",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nPierce back and forth times, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nPierce back and forth times, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Rending Claw",
@@ -620,9 +663,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -642,11 +688,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Special Attack: Rending Claw - Nightmare Shadow",
@@ -669,9 +719,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 1736,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Move DMG Multiplier",
@@ -691,9 +744,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 1736,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -713,9 +769,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 1736,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Move Daze Multiplier",
@@ -735,11 +794,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 1736,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Rending Claw - Flashstep",
@@ -762,9 +825,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 25548,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -784,12 +850,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 25548,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60" }
-          ]
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -811,11 +881,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Hey, Didn't Expect That, Right?",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a charged shot forward, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a charged shot forward, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Oh, Time to Play?",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleash a powerful shot at enemies in a large area ahead, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleash a powerful shot at enemies in a large area ahead, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Hey, Didn't Expect That, Right?",
@@ -838,9 +910,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 33453,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -860,11 +935,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 33453,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Oh, Time to Play?",
@@ -887,9 +966,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11496,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -909,11 +991,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11496,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -935,15 +1021,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Contract - Bodyguard",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nThrust at enemies in front, followed by rapid slashes, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nThrust at enemies in front, followed by rapid slashes, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Evasive Assist: Contract - Outsourced Combat",
-          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nDodges the enemy's attack and activates <color=#FFFFFF>Vital View</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nDodges the enemy's attack and activates <color=#FFFFFF>Vital View</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Independent Pricing",
-          "Desc": "Press <IconMap:Icon_Normal> after an <color=#FFFFFF>Evasive Assist</color> to activate:\nLeap forward into the air and fire, dealing <color=#F0D12B>Physical DMG</color>.\nUpon activating this skill, consume 1 <color=#FFFFFF>Assist Point</color> to enter the <color=#FFFFFF>Hunter's Gait</color> state.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after an <color=#FFFFFF>Evasive Assist</color> to activate:\nLeap forward into the air and fire, dealing <color=#F0D12B>Physical DMG</color>.\nUpon activating this skill, consume 1 <color=#FFFFFF>Assist Point</color> to enter the <color=#FFFFFF>Hunter's Gait</color> state.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Contract - Bodyguard",
@@ -966,9 +1055,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7829,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -988,11 +1080,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7829,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Independent Pricing",
@@ -1015,9 +1111,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 28617,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1037,11 +1136,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 28617,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1065,72 +1168,83 @@
       "Name": "Basic Attack: Swift Strike",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1351002": {
       "Name": "Basic Attack: Leaping Strike",
       "Desc": "<IconMap:Icon_Normal> (Hold)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1351003": {
       "Name": "Special Attack: Rending Claw",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1351004": {
       "Name": "EX Special Attack: Rending Claw - Flashstep",
       "Desc": "<IconMap:Icon_SpecialReady>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1351005": {
       "Name": "Dash Attack: First Strike Advantage",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1351006": {
       "Name": "Dodge Counter: Relentless Retribution",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1351007": {
       "Name": "Chain Attack: Hey, Didn't Expect That, Right?",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1351008": {
       "Name": "Ultimate: Oh, Time to Play?",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1351009": {
       "Name": "Quick Assist: Contract - Bodyguard",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1351010": {
       "Name": "Evasive Assist: Contract - Outsourced Combat",
       "Desc": "<IconMap:Icon_Switch>(When Triggering Evasive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1351011": {
       "Name": "Assist Follow-Up: Independent Pricing",
       "Desc": "<IconMap:Icon_Normal> (After Evasive Assist)",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1351501": {
         "Level": 1,
         "Id": 1351501,
         "Name": [
@@ -1139,10 +1253,12 @@
         ],
         "Desc": [
           "When Pulchra activates an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she enters the <color=#FFFFFF>Hunter's Gait</color> state, increasing the Daze she deals by <color=#2BAD00>15%</color> for 6s. After switching to another character, if Pulchra is still in the <color=#FFFFFF>Hunter's Gait</color> state, the state will last until Pulchra switches back in. While in the <color=#FFFFFF>Hunter's Gait</color> state and as the active character, when Pulchra lands a heavy attack on enemies, she can trigger a <color=#FFFFFF>Quick Assist</color> from the previous character in the squad.",
-          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
-        ]
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Rupture</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, <color=#FFFFFF>EX Special Attack: Rending Claw - Flashstep</color>, <color=#FFFFFF>Assist Follow-Up: Independent Pricing</color>, <color=#FFFFFF>Chain Attack: Hey, Didn't Expect That, Right?</color>, or <color=#FFFFFF>Ultimate: Oh, Time to Play?</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1351502": {
         "Level": 2,
         "Id": 1351502,
         "Name": [
@@ -1151,10 +1267,12 @@
         ],
         "Desc": [
           "When Pulchra activates an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she enters the <color=#FFFFFF>Hunter's Gait</color> state, increasing the Daze she deals by <color=#2BAD00>17.5%</color> for 6s. After switching to another character, if Pulchra is still in the <color=#FFFFFF>Hunter's Gait</color> state, the state will last until Pulchra switches back in. While in the <color=#FFFFFF>Hunter's Gait</color> state and as the active character, when Pulchra lands a heavy attack on enemies, she can trigger a <color=#FFFFFF>Quick Assist</color> from the previous character in the squad.",
-          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
-        ]
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Rupture</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, <color=#FFFFFF>EX Special Attack: Rending Claw - Flashstep</color>, <color=#FFFFFF>Assist Follow-Up: Independent Pricing</color>, <color=#FFFFFF>Chain Attack: Hey, Didn't Expect That, Right?</color>, or <color=#FFFFFF>Ultimate: Oh, Time to Play?</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1351503": {
         "Level": 3,
         "Id": 1351503,
         "Name": [
@@ -1163,10 +1281,12 @@
         ],
         "Desc": [
           "When Pulchra activates an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she enters the <color=#FFFFFF>Hunter's Gait</color> state, increasing the Daze she deals by <color=#2BAD00>20%</color> for 6s. After switching to another character, if Pulchra is still in the <color=#FFFFFF>Hunter's Gait</color> state, the state will last until Pulchra switches back in. While in the <color=#FFFFFF>Hunter's Gait</color> state and as the active character, when Pulchra lands a heavy attack on enemies, she can trigger a <color=#FFFFFF>Quick Assist</color> from the previous character in the squad.",
-          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
-        ]
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Rupture</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, <color=#FFFFFF>EX Special Attack: Rending Claw - Flashstep</color>, <color=#FFFFFF>Assist Follow-Up: Independent Pricing</color>, <color=#FFFFFF>Chain Attack: Hey, Didn't Expect That, Right?</color>, or <color=#FFFFFF>Ultimate: Oh, Time to Play?</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1351504": {
         "Level": 4,
         "Id": 1351504,
         "Name": [
@@ -1175,10 +1295,12 @@
         ],
         "Desc": [
           "When Pulchra activates an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she enters the <color=#FFFFFF>Hunter's Gait</color> state, increasing the Daze she deals by <color=#2BAD00>22.5%</color> for 6s. After switching to another character, if Pulchra is still in the <color=#FFFFFF>Hunter's Gait</color> state, the state will last until Pulchra switches back in. While in the <color=#FFFFFF>Hunter's Gait</color> state and as the active character, when Pulchra lands a heavy attack on enemies, she can trigger a <color=#FFFFFF>Quick Assist</color> from the previous character in the squad.",
-          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
-        ]
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Rupture</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, <color=#FFFFFF>EX Special Attack: Rending Claw - Flashstep</color>, <color=#FFFFFF>Assist Follow-Up: Independent Pricing</color>, <color=#FFFFFF>Chain Attack: Hey, Didn't Expect That, Right?</color>, or <color=#FFFFFF>Ultimate: Oh, Time to Play?</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1351505": {
         "Level": 5,
         "Id": 1351505,
         "Name": [
@@ -1187,10 +1309,12 @@
         ],
         "Desc": [
           "When Pulchra activates an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she enters the <color=#FFFFFF>Hunter's Gait</color> state, increasing the Daze she deals by <color=#2BAD00>25%</color> for 6s. After switching to another character, if Pulchra is still in the <color=#FFFFFF>Hunter's Gait</color> state, the state will last until Pulchra switches back in. While in the <color=#FFFFFF>Hunter's Gait</color> state and as the active character, when Pulchra lands a heavy attack on enemies, she can trigger a <color=#FFFFFF>Quick Assist</color> from the previous character in the squad.",
-          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
-        ]
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Rupture</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, <color=#FFFFFF>EX Special Attack: Rending Claw - Flashstep</color>, <color=#FFFFFF>Assist Follow-Up: Independent Pricing</color>, <color=#FFFFFF>Chain Attack: Hey, Didn't Expect That, Right?</color>, or <color=#FFFFFF>Ultimate: Oh, Time to Play?</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1351506": {
         "Level": 6,
         "Id": 1351506,
         "Name": [
@@ -1199,10 +1323,12 @@
         ],
         "Desc": [
           "When Pulchra activates an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she enters the <color=#FFFFFF>Hunter's Gait</color> state, increasing the Daze she deals by <color=#2BAD00>27.5%</color> for 6s. After switching to another character, if Pulchra is still in the <color=#FFFFFF>Hunter's Gait</color> state, the state will last until Pulchra switches back in. While in the <color=#FFFFFF>Hunter's Gait</color> state and as the active character, when Pulchra lands a heavy attack on enemies, she can trigger a <color=#FFFFFF>Quick Assist</color> from the previous character in the squad.",
-          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
-        ]
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Rupture</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, <color=#FFFFFF>EX Special Attack: Rending Claw - Flashstep</color>, <color=#FFFFFF>Assist Follow-Up: Independent Pricing</color>, <color=#FFFFFF>Chain Attack: Hey, Didn't Expect That, Right?</color>, or <color=#FFFFFF>Ultimate: Oh, Time to Play?</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1351507": {
         "Level": 7,
         "Id": 1351507,
         "Name": [
@@ -1211,8 +1337,10 @@
         ],
         "Desc": [
           "When Pulchra activates an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she enters the <color=#FFFFFF>Hunter's Gait</color> state, increasing the Daze she deals by <color=#2BAD00>30%</color> for 6s. After switching to another character, if Pulchra is still in the <color=#FFFFFF>Hunter's Gait</color> state, the state will last until Pulchra switches back in. While in the <color=#FFFFFF>Hunter's Gait</color> state and as the active character, when Pulchra lands a heavy attack on enemies, she can trigger a <color=#FFFFFF>Quick Assist</color> from the previous character in the squad.",
-          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
-        ]
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Rupture</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, <color=#FFFFFF>EX Special Attack: Rending Claw - Flashstep</color>, <color=#FFFFFF>Assist Follow-Up: Independent Pricing</color>, <color=#FFFFFF>Chain Attack: Hey, Didn't Expect That, Right?</color>, or <color=#FFFFFF>Ultimate: Oh, Time to Play?</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1290,5 +1418,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
-  }
+  },
+  "Potential": []
 }

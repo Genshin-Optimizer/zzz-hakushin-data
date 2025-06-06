@@ -95,23 +95,23 @@
   "Talents": {
     "1": {
       "Name": "Game Start!",
-      "Desc": "Whenever the equipper's attack triggers an Attribute Counter effect, all squad members' CRIT Rate against the struck enemy increases by <color=#2BAD00>12%</color> for 12s. Passive effects of the same name do not stack."
+      "Desc": "Whenever the equipper's attack triggers an Attribute Counter effect, all units' CRIT Rate against the struck enemy increases by <color=#2BAD00>12%</color> for 12s. Passive effects of the same name do not stack."
     },
     "2": {
       "Name": "Game Start!",
-      "Desc": "Whenever the equipper's attack triggers an Attribute Counter effect, all squad members' CRIT Rate against the struck enemy increases by <color=#2BAD00>13.5%</color> for 12s. Passive effects of the same name do not stack."
+      "Desc": "Whenever the equipper's attack triggers an Attribute Counter effect, all units' CRIT Rate against the struck enemy increases by <color=#2BAD00>13.5%</color> for 12s. Passive effects of the same name do not stack."
     },
     "3": {
       "Name": "Game Start!",
-      "Desc": "Whenever the equipper's attack triggers an Attribute Counter effect, all squad members' CRIT Rate against the struck enemy increases by <color=#2BAD00>15.5%</color> for 12s. Passive effects of the same name do not stack."
+      "Desc": "Whenever the equipper's attack triggers an Attribute Counter effect, all units' CRIT Rate against the struck enemy increases by <color=#2BAD00>15.5%</color> for 12s. Passive effects of the same name do not stack."
     },
     "4": {
       "Name": "Game Start!",
-      "Desc": "Whenever the equipper's attack triggers an Attribute Counter effect, all squad members' CRIT Rate against the struck enemy increases by <color=#2BAD00>17.5%</color> for 12s. Passive effects of the same name do not stack."
+      "Desc": "Whenever the equipper's attack triggers an Attribute Counter effect, all units' CRIT Rate against the struck enemy increases by <color=#2BAD00>17.5%</color> for 12s. Passive effects of the same name do not stack."
     },
     "5": {
       "Name": "Game Start!",
-      "Desc": "Whenever the equipper's attack triggers an Attribute Counter effect, all squad members' CRIT Rate against the struck enemy increases by <color=#2BAD00>20%</color> for 12s. Passive effects of the same name do not stack."
+      "Desc": "Whenever the equipper's attack triggers an Attribute Counter effect, all units' CRIT Rate against the struck enemy increases by <color=#2BAD00>20%</color> for 12s. Passive effects of the same name do not stack."
     }
   }
 }

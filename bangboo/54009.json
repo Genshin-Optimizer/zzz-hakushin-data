@@ -322,15 +322,18 @@
   "SkillProp": {
     "5400901": {
       "1001": { "Main": 89600, "Growth": 8960, "Format": "%" },
-      "1002": { "Main": 32800, "Growth": 3280, "Format": "%" }
+      "1002": { "Main": 32800, "Growth": 3280, "Format": "%" },
+      "ElementAccumulationValue": 42000
     },
     "5400902": {
       "1001": { "Main": 65300, "Growth": 6530, "Format": "%" },
-      "1002": { "Main": 9300, "Growth": 930, "Format": "%" }
+      "1002": { "Main": 9300, "Growth": 930, "Format": "%" },
+      "ElementAccumulationValue": 28000
     },
     "5400903": {
       "1001": { "Main": 180000, "Growth": 18000, "Format": "%" },
-      "1002": { "Main": 52700, "Growth": 5270, "Format": "%" }
+      "1002": { "Main": 52700, "Growth": 5270, "Format": "%" },
+      "ElementAccumulationValue": 67500
     }
   }
 }

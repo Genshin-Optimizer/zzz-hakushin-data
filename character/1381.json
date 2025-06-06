@@ -19,12 +19,6 @@
     "AttackGrowth": 81654,
     "AvatarPieceId": 5381,
     "BreakStun": 93,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -36,7 +30,6 @@
     "Endurance": 0,
     "HpGrowth": 837238,
     "HpMax": 617,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -46,7 +39,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "SilverAnby",
@@ -56,8 +48,11 @@
       "Camp5",
       "Size2",
       "AidTypeParry",
-      "SilverAnby"
-    ]
+      "SilverAnby",
+      "EtherEyesSize2"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -226,7 +221,8 @@
       "Description": [
         {
           "Name": "Basic Attack: Penetrating Shock",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nPerform up to five slashes ahead, dealing <color=#2EB6FF>Electric DMG</color>. After the 4th attack hits the enemy, repeatedly press or hold <IconMap:Icon_Normal> to quickly pass through enemies in front up to 5 times."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nPerform up to five slashes ahead, dealing <color=#2EB6FF>Electric DMG</color>. After the 4th attack hits the enemy, repeatedly press or hold <IconMap:Icon_Normal> to quickly pass through enemies in front up to 5 times.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Penetrating Shock",
@@ -249,9 +245,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2532,
                   "SpConsume": 0,
-                  "AttackData": [47029]
+                  "AttackData": [47029],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -271,9 +270,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4954,
                   "SpConsume": 0,
-                  "AttackData": [74633]
+                  "AttackData": [74633],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -293,9 +295,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6527,
                   "SpConsume": 0,
-                  "AttackData": [80766]
+                  "AttackData": [80766],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Finisher DMG Multiplier",
@@ -315,9 +320,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5640,
                   "SpConsume": 0,
-                  "AttackData": [73327]
+                  "AttackData": [73327],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -337,9 +345,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12516,
                   "SpConsume": 0,
-                  "AttackData": [162717]
+                  "AttackData": [162717],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit DMG Multiplier",
@@ -359,9 +370,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11895,
                   "SpConsume": 0,
-                  "AttackData": [171818]
+                  "AttackData": [171818],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -381,9 +395,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2532,
                   "SpConsume": 0,
-                  "AttackData": [47029]
+                  "AttackData": [47029],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -403,9 +420,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4954,
                   "SpConsume": 0,
-                  "AttackData": [74633]
+                  "AttackData": [74633],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -425,9 +445,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6527,
                   "SpConsume": 0,
-                  "AttackData": [80766]
+                  "AttackData": [80766],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Finisher Daze Multiplier",
@@ -447,9 +470,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5640,
                   "SpConsume": 0,
-                  "AttackData": [73327]
+                  "AttackData": [73327],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -469,9 +495,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12516,
                   "SpConsume": 0,
-                  "AttackData": [162717]
+                  "AttackData": [162717],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Daze Multiplier",
@@ -491,11 +520,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11895,
                   "SpConsume": 0,
-                  "AttackData": [171818]
+                  "AttackData": [171818],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -517,15 +550,18 @@
       "Description": [
         {
           "Name": "Dodge: Strobe",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Torrent",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nPerform a horizontal slash forward, then follow up with a thrust attack, dealing <color=#2EB6FF>Electric DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nPerform a horizontal slash forward, then follow up with a thrust attack, dealing <color=#2EB6FF>Electric DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Ground Flash Counter",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nRepeatedly slash enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nRepeatedly slash enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Torrent",
@@ -548,9 +584,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3748,
                   "SpConsume": 0,
-                  "AttackData": [48729]
+                  "AttackData": [48729],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -570,11 +609,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3748,
                   "SpConsume": 0,
-                  "AttackData": [48729]
+                  "AttackData": [48729],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Ground Flash Counter",
@@ -597,9 +640,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9830,
                   "SpConsume": 0,
-                  "AttackData": [500000]
+                  "AttackData": [500000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -619,11 +665,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9830,
                   "SpConsume": 0,
-                  "AttackData": [500000]
+                  "AttackData": [500000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -645,19 +695,23 @@
       "Description": [
         {
           "Name": "Special Attack: Celestial Thunder",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nDash diagonally forward, then unleash a cross slash, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nDash diagonally forward, then unleash a cross slash, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Azure Flash",
-          "Desc": "When Soldier 0 - Anby's attacks hit an enemy, they apply the <color=#FFFFFF>Silver Star</color> mark and charges the target \nFor every one-third of charge, the enemy receives 1 stack of <color=#FFFFFF>White Thunder</color>, stacking up to 3 times.\nWhen the enemy has <color=#FFFFFF>White Thunder</color>, press <IconMap:Icon_Special> to activate:\nQuickly dash forward, slashing through enemies and dealing multiple hits of <color=#2EB6FF>Electric DMG</color>.\nWhen the skill hits an enemy, it will consume 1 stack of <color=#FFFFFF>White Thunder</color> to trigger an <color=#FFFFFF>Aftershock</color> that deals 1 extra instance of <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Soldier 0 - Anby's attacks hit an enemy, they apply the <color=#FFFFFF>Silver Star</color> mark and charges the target \nFor every one-third of charge, the enemy receives 1 stack of <color=#FFFFFF>White Thunder</color>, stacking up to 3 times.\nWhen the enemy has <color=#FFFFFF>White Thunder</color>, press <IconMap:Icon_Special> to activate:\nQuickly dash forward, slashing through enemies and dealing multiple hits of <color=#2EB6FF>Electric DMG</color>.\nWhen the skill hits an enemy, it will consume 1 stack of <color=#FFFFFF>White Thunder</color> to trigger an <color=#FFFFFF>Aftershock</color> that deals 1 extra instance of <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Thunder Smite",
-          "Desc": "When the additional damage from <color=#FFFFFF>White Thunder</color> triggers 3 times on the same enemy:\nA lightning strike will fall at the enemy's location, dealing <color=#2EB6FF>Electric DMG</color> to enemies within range.\nThis DMG is considered <color=#FFFFFF>Aftershock</color> DMG."
+          "Desc": "When the additional damage from <color=#FFFFFF>White Thunder</color> triggers 3 times on the same enemy:\nA lightning strike will fall at the enemy's location, dealing <color=#2EB6FF>Electric DMG</color> to enemies within range.\nThis DMG is considered <color=#FFFFFF>Aftershock</color> DMG.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Sundering Bolt",
-          "Desc": "With enough energy, hold <IconMap:Icon_SpecialReady> to activate:\nCombines her twin swords and throws them forward for a high-speed slash, dealing massive <color=#2EB6FF>Electric DMG</color>.\nWhen the skill hits an enemy, it will fully charge <color=#FFFFFF>Silver Star</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "With enough energy, hold <IconMap:Icon_SpecialReady> to activate:\nCombines her twin swords and throws them forward for a high-speed slash, dealing massive <color=#2EB6FF>Electric DMG</color>.\nWhen the skill hits an enemy, it will fully charge <color=#FFFFFF>Silver Star</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Celestial Thunder",
@@ -680,9 +734,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5416,
                   "SpConsume": 0,
-                  "AttackData": [140834]
+                  "AttackData": [140834],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -702,11 +759,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5416,
                   "SpConsume": 0,
-                  "AttackData": [140834]
+                  "AttackData": [140834],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Special Attack: Azure Flash",
@@ -729,9 +790,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "White Thunder Daze Multiplier",
@@ -751,9 +815,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "DMG Multiplier",
@@ -773,9 +840,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3003,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -795,11 +865,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3003,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Special Attack: Thunder Smite",
@@ -822,9 +896,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Thunder Smite Daze Multiplier",
@@ -844,11 +921,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Sundering Bolt",
@@ -871,9 +952,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 46496,
                   "SpConsume": 0,
-                  "AttackData": [1000000]
+                  "AttackData": [1000000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -893,12 +977,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 46496,
                   "SpConsume": 0,
-                  "AttackData": [1000000]
+                  "AttackData": [1000000],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60" }
-          ]
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -920,11 +1008,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Leaping Thunderstrike",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nLeap forward, then quickly dive and perform a cross slash, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nLeap forward, then quickly dive and perform a cross slash, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Voidstrike",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nPerform a powerful series of slashes at a large area in front, followed by a lightning strike, dealing massive <color=#2EB6FF>Electric DMG</color>.\nWhen the skill hits an enemy, it will fully charge <color=#FFFFFF>Silver Star</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nPerform a powerful series of slashes at a large area in front, followed by a lightning strike, dealing massive <color=#2EB6FF>Electric DMG</color>.\nWhen the skill hits an enemy, it will fully charge <color=#FFFFFF>Silver Star</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Leaping Thunderstrike",
@@ -947,9 +1037,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 37950,
                   "SpConsume": 0,
-                  "AttackData": [234001]
+                  "AttackData": [234001],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -969,11 +1062,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 37950,
                   "SpConsume": 0,
-                  "AttackData": [234001]
+                  "AttackData": [234001],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Voidstrike",
@@ -996,9 +1093,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 25166,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1018,11 +1118,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 25166,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1044,15 +1148,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Cloud Flash",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nRepeatedly slash enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nRepeatedly slash enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Counter Surge",
-          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Conducting Blow",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nDash forward and unleash a series of slashes at enemies ahead, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nDash forward and unleash a series of slashes at enemies ahead, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Cloud Flash",
@@ -1075,9 +1182,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9830,
                   "SpConsume": 0,
-                  "AttackData": [63896]
+                  "AttackData": [63896],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1097,11 +1207,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9830,
                   "SpConsume": 0,
-                  "AttackData": [63896]
+                  "AttackData": [63896],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Counter Surge",
@@ -1124,9 +1238,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1146,9 +1263,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1168,11 +1288,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0]
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Conducting Blow",
@@ -1195,9 +1319,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34692,
                   "SpConsume": 0,
-                  "AttackData": [240457]
+                  "AttackData": [240457],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1217,11 +1344,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34692,
                   "SpConsume": 0,
-                  "AttackData": [240457]
+                  "AttackData": [240457],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1245,78 +1376,90 @@
       "Name": "Basic Attack: Penetrating Shock",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381002": {
       "Name": "Special Attack: Celestial Thunder",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381003": {
       "Name": "Special Attack: Azure Flash",
       "Desc": "<IconMap:Icon_Special> (When the target has White Thunder stacks)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381004": {
       "Name": "Special Attack: Thunder Smite",
       "Desc": "<IconMap:Icon_Special> ; <IconMap:Icon_Special> ; <IconMap:Icon_Special> (When the target has 3 stacks of White Thunder)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381005": {
       "Name": "EX Special Attack: Sundering Bolt",
       "Desc": "<IconMap:Icon_SpecialReady> (Hold)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381006": {
       "Name": "Dash Attack: Torrent",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381007": {
       "Name": "Dodge Counter: Ground Flash Counter",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381008": {
       "Name": "Chain Attack: Leaping Thunderstrike",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381009": {
       "Name": "Ultimate: Voidstrike",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381010": {
       "Name": "Quick Assist: Cloud Flash",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381011": {
       "Name": "Defensive Assist: Counter Surge",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1381012": {
       "Name": "Assist Follow-Up: Conducting Blow",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1381501": {
         "Level": 1,
         "Id": 1381501,
         "Name": [
@@ -1326,9 +1469,11 @@
         "Desc": [
           "Soldier 0 - Anby's DMG against enemies with the <color=#FFFFFF>Silver Star</color> mark increases by <color=#2BAD00>12.5%</color>. After an enemy is marked with <color=#FFFFFF>Silver Star</color>, the CRIT DMG received from <color=#FFFFFF>Aftershock</color> attacks is further increased by <color=#2BAD00>15%</color> of Soldier 0 - Anby's CRIT DMG.",
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1381502": {
         "Level": 2,
         "Id": 1381502,
         "Name": [
@@ -1338,9 +1483,11 @@
         "Desc": [
           "Soldier 0 - Anby's DMG against enemies with the <color=#FFFFFF>Silver Star</color> mark increases by <color=#2BAD00>14.5%</color>. After an enemy is marked with <color=#FFFFFF>Silver Star</color>, the CRIT DMG received from <color=#FFFFFF>Aftershock</color> attacks is further increased by <color=#2BAD00>17.5%</color> of Soldier 0 - Anby's CRIT DMG.",
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1381503": {
         "Level": 3,
         "Id": 1381503,
         "Name": [
@@ -1350,9 +1497,11 @@
         "Desc": [
           "Soldier 0 - Anby's DMG against enemies with the <color=#FFFFFF>Silver Star</color> mark increases by <color=#2BAD00>16.5%</color>. After an enemy is marked with <color=#FFFFFF>Silver Star</color>, the CRIT DMG received from <color=#FFFFFF>Aftershock</color> attacks is further increased by <color=#2BAD00>20%</color> of Soldier 0 - Anby's CRIT DMG.",
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1381504": {
         "Level": 4,
         "Id": 1381504,
         "Name": [
@@ -1362,9 +1511,11 @@
         "Desc": [
           "Soldier 0 - Anby's DMG against enemies with the <color=#FFFFFF>Silver Star</color> mark increases by <color=#2BAD00>18.8%</color>. After an enemy is marked with <color=#FFFFFF>Silver Star</color>, the CRIT DMG received from <color=#FFFFFF>Aftershock</color> attacks is further increased by <color=#2BAD00>22.5%</color> of Soldier 0 - Anby's CRIT DMG.",
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1381505": {
         "Level": 5,
         "Id": 1381505,
         "Name": [
@@ -1374,9 +1525,11 @@
         "Desc": [
           "Soldier 0 - Anby's DMG against enemies with the <color=#FFFFFF>Silver Star</color> mark increases by <color=#2BAD00>20.8%</color>. After an enemy is marked with <color=#FFFFFF>Silver Star</color>, the CRIT DMG received from <color=#FFFFFF>Aftershock</color> attacks is further increased by <color=#2BAD00>25%</color> of Soldier 0 - Anby's CRIT DMG.",
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1381506": {
         "Level": 6,
         "Id": 1381506,
         "Name": [
@@ -1386,9 +1539,11 @@
         "Desc": [
           "Soldier 0 - Anby's DMG against enemies with the <color=#FFFFFF>Silver Star</color> mark increases by <color=#2BAD00>23%</color>. After an enemy is marked with <color=#FFFFFF>Silver Star</color>, the CRIT DMG received from <color=#FFFFFF>Aftershock</color> attacks is further increased by <color=#2BAD00>27.5%</color> of Soldier 0 - Anby's CRIT DMG.",
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1381507": {
         "Level": 7,
         "Id": 1381507,
         "Name": [
@@ -1398,7 +1553,9 @@
         "Desc": [
           "Soldier 0 - Anby's DMG against enemies with the <color=#FFFFFF>Silver Star</color> mark increases by <color=#2BAD00>25%</color>. After an enemy is marked with <color=#FFFFFF>Silver Star</color>, the CRIT DMG received from <color=#FFFFFF>Aftershock</color> attacks is further increased by <color=#2BAD00>30%</color> of Soldier 0 - Anby's CRIT DMG.",
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1476,5 +1633,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
-  }
+  },
+  "Potential": []
 }

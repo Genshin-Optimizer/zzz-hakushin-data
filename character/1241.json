@@ -43,12 +43,6 @@
     "AttackGrowth": 80729,
     "AvatarPieceId": 5241,
     "BreakStun": 90,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -60,7 +54,6 @@
     "Endurance": 0,
     "HpGrowth": 816391,
     "HpMax": 602,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -70,7 +63,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "ZhuYuan",
@@ -80,8 +72,11 @@
       "Camp7",
       "Size3",
       "AidTypeEvade",
-      "ZhuYuan"
-    ]
+      "ZhuYuan",
+      "EtherEyesSize3"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -250,11 +245,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Don't Move!",
-          "Desc": "<color=#FFFFFF>[Assault Mode]</color>\nPress <IconMap:Icon_Normal> to activate.\nUnleash a flurry of martial arts, bullets, and Ether Buckshots in a series of up to 5 attacks, dealing <color=#F0D12B>Physical DMG</color> and <color=#FE437E>Ether DMG</color>.\nWhen the 4th or 5th hit strikes an enemy, obtain 1 <color=#FFFFFF>Enhanced Shotshell</color> per hit. A max of 1 can be obtained per activation of this Basic Attack.\nWhile using this skill, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} and press <IconMap:Icon_Normal> to activate <color=#FFFFFF>Dash Attack: Firepower Offensive</color> and readjust to face the selected direction.\nWhile under <color=#FFFFFF>Assault Mode</color>, hold <IconMap:Icon_Normal> to switch to <color=#FFFFFF>Suppressive Mode</color>."
+          "Desc": "<color=#FFFFFF>[Assault Mode]</color>\nPress <IconMap:Icon_Normal> to activate.\nUnleash a flurry of martial arts, bullets, and Ether Buckshots in a series of up to 5 attacks, dealing <color=#F0D12B>Physical DMG</color> and <color=#FE437E>Ether DMG</color>.\nWhen the 4th or 5th hit strikes an enemy, obtain 1 <color=#FFFFFF>Enhanced Shotshell</color> per hit. A max of 1 can be obtained per activation of this Basic Attack.\nWhile using this skill, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} and press <IconMap:Icon_Normal> to activate <color=#FFFFFF>Dash Attack: Firepower Offensive</color> and readjust to face the selected direction.\nWhile under <color=#FFFFFF>Assault Mode</color>, hold <IconMap:Icon_Normal> to switch to <color=#FFFFFF>Suppressive Mode</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Please Do Not Resist",
-          "Desc": "<color=#FFFFFF>[Suppressive Mode]</color>\nHold <IconMap:Icon_Normal> to activate:\nUnleash up to 3 Shotshell piercing attacks, dealing <color=#F0D12B>Physical DMG</color>. If Zhu Yuan has <color=#FFFFFF>Enhanced Shotshells</color> upon firing, 1 <color=#FFFFFF>Enhanced Shotshell</color> will be consumed, dealing massive <color=#FE437E>Ether DMG</color>.\nWhile using this skill, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to activate her <color=#FFFFFF>Dash Attack: Overwhelming Firepower</color> and readjust to face the selected direction.\nWhile in <color=#FFFFFF>Suppressive Mode</color>, release <IconMap:Icon_Normal> to return to <color=#FFFFFF>Assault Mode</color>."
+          "Desc": "<color=#FFFFFF>[Suppressive Mode]</color>\nHold <IconMap:Icon_Normal> to activate:\nUnleash up to 3 Shotshell piercing attacks, dealing <color=#F0D12B>Physical DMG</color>. If Zhu Yuan has <color=#FFFFFF>Enhanced Shotshells</color> upon firing, 1 <color=#FFFFFF>Enhanced Shotshell</color> will be consumed, dealing massive <color=#FE437E>Ether DMG</color>.\nWhile using this skill, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to activate her <color=#FFFFFF>Dash Attack: Overwhelming Firepower</color> and readjust to face the selected direction.\nWhile in <color=#FFFFFF>Suppressive Mode</color>, release <IconMap:Icon_Normal> to return to <color=#FFFFFF>Assault Mode</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Don't Move!",
@@ -277,9 +274,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -299,9 +299,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10477,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -321,9 +324,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -343,9 +349,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5912,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit DMG Multiplier",
@@ -365,9 +374,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6005,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -387,9 +399,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -409,9 +424,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10477,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -431,9 +449,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -453,9 +474,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5912,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Daze Multiplier",
@@ -475,11 +499,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6005,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Please Do Not Resist",
@@ -502,9 +530,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier (Physical)",
@@ -524,9 +555,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier (Physical)",
@@ -546,9 +580,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier (Physical)",
@@ -568,9 +605,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier (Physical)",
@@ -590,9 +630,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier (Physical)",
@@ -612,9 +655,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit DMG Multiplier (Ether)",
@@ -634,9 +680,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5415,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier (Ether)",
@@ -656,9 +705,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5415,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier (Ether)",
@@ -678,9 +730,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 16245,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier (Ether)",
@@ -700,9 +755,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5415,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier (Ether)",
@@ -722,9 +780,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5415,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier (Ether)",
@@ -744,11 +805,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 16245,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -770,19 +835,23 @@
       "Description": [
         {
           "Name": "Dodge: Tactical Detour",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Firepower Offensive",
-          "Desc": "<color=#FFFFFF>Assault Mode</color>\nPress <IconMap:Icon_Normal> during a dodge to activate:\nUses handgun to attack, dealing <color=#FE437E>Ether DMG</color>."
+          "Desc": "<color=#FFFFFF>Assault Mode</color>\nPress <IconMap:Icon_Normal> during a dodge to activate:\nUses handgun to attack, dealing <color=#FE437E>Ether DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Overwhelming Firepower",
-          "Desc": "<color=#FFFFFF>Suppressive Mode</color>\nDrag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during <color=#FFFFFF>Basic Attack: Please Do Not Resist</color> to activate:\nUnleashes a Shotshell piercing attack, dealing <color=#F0D12B>Physical DMG</color>. If Zhu Yuan has <color=#FFFFFF>Enhanced Shotshells</color> when firing, 1 <color=#FFFFFF>Enhanced Shotshell</color> will be consumed, dealing massive <color=#FE437E>Ether DMG</color>."
+          "Desc": "<color=#FFFFFF>Suppressive Mode</color>\nDrag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} during <color=#FFFFFF>Basic Attack: Please Do Not Resist</color> to activate:\nUnleashes a Shotshell piercing attack, dealing <color=#F0D12B>Physical DMG</color>. If Zhu Yuan has <color=#FFFFFF>Enhanced Shotshells</color> when firing, 1 <color=#FFFFFF>Enhanced Shotshell</color> will be consumed, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Fire Blast",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate.\nShoots enemies in front with an Ether Buckshot, dealing <color=#FE437E>Ether DMG</color>.\nGain 1 <color=#FFFFFF>Enhanced Shotshell</color> on skill use.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate.\nShoots enemies in front with an Ether Buckshot, dealing <color=#FE437E>Ether DMG</color>.\nGain 1 <color=#FFFFFF>Enhanced Shotshell</color> on skill use.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Firepower Offensive",
@@ -805,9 +874,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -827,11 +899,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Overwhelming Firepower",
@@ -854,9 +930,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier (Physical)",
@@ -876,9 +955,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "DMG Multiplier (Ether)",
@@ -898,9 +980,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5415,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier (Ether)",
@@ -920,11 +1005,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5415,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Fire Blast",
@@ -947,9 +1036,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -969,11 +1061,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -995,11 +1091,13 @@
       "Description": [
         {
           "Name": "Special Attack: Buckshot Blast",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nShoots Ether Buckshots that deal <color=#FE437E>Ether DMG</color>. This can be repeated 3 times by repeatedly pressing <IconMap:Icon_Special>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nShoots Ether Buckshots that deal <color=#FE437E>Ether DMG</color>. This can be repeated 3 times by repeatedly pressing <IconMap:Icon_Special>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Full Barrage",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nShoots a series of Ether Buckshots, that explode and deal massive <color=#FE437E>Ether DMG</color>.\nUpon activation, gain 3 <color=#FFFFFF>Enhanced Shotshells</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nShoots a series of Ether Buckshots, that explode and deal massive <color=#FE437E>Ether DMG</color>.\nUpon activation, gain 3 <color=#FFFFFF>Enhanced Shotshells</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Buckshot Blast",
@@ -1022,9 +1120,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 1665,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1044,11 +1145,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 1665,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Full Barrage",
@@ -1071,9 +1176,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 48512,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1093,12 +1201,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 48512,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60" }
-          ]
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1120,11 +1232,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Eradication Mode",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUses Modified Master Firearm to execute a saturated attack, firing lasers and seeking missiles to deal massive <color=#FE437E>Ether DMG</color>.\nUpon activation, gain 3 <color=#FFFFFF>Enhanced Shotshells</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUses Modified Master Firearm to execute a saturated attack, firing lasers and seeking missiles to deal massive <color=#FE437E>Ether DMG</color>.\nUpon activation, gain 3 <color=#FFFFFF>Enhanced Shotshells</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Max Eradication Mode",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUses Modified Master Firearm to execute a saturated attack, firing lasers and seeking missiles to deal massive <color=#FE437E>Ether DMG</color>.\nUpon activation, gain 3 <color=#FFFFFF>Enhanced Shotshells</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUses Modified Master Firearm to execute a saturated attack, firing lasers and seeking missiles to deal massive <color=#FE437E>Ether DMG</color>.\nUpon activation, gain 3 <color=#FFFFFF>Enhanced Shotshells</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Eradication Mode",
@@ -1147,9 +1261,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 33450,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1169,11 +1286,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 33450,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Max Eradication Mode",
@@ -1196,9 +1317,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1218,11 +1342,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10333,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1244,15 +1372,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Covering Shot",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nShoots enemies in front with an Ether Buckshot, dealing <color=#FE437E>Ether DMG</color>.\nGain 1 <color=#FFFFFF>Enhanced Shotshell</color> on skill use.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nShoots enemies in front with an Ether Buckshot, dealing <color=#FE437E>Ether DMG</color>.\nGain 1 <color=#FFFFFF>Enhanced Shotshell</color> on skill use.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Evasive Assist: Guarded Backup",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nDodges the enemy's attack and activates <color=#FFFFFF>Vital View</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nDodges the enemy's attack and activates <color=#FFFFFF>Vital View</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Defensive Counter",
-          "Desc": "Press <IconMap:Icon_Normal> after an <color=#FFFFFF>Evasive Assist</color> to activate:\nAttack with a combination of martial arts and shotshells, dealing <color=#F0D12B>Physical DMG</color> and <color=#FE437E>Ether DMG</color>.\nUpon activation, gain 3 <color=#FFFFFF>Enhanced Shotshells</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after an <color=#FFFFFF>Evasive Assist</color> to activate:\nAttack with a combination of martial arts and shotshells, dealing <color=#F0D12B>Physical DMG</color> and <color=#FE437E>Ether DMG</color>.\nUpon activation, gain 3 <color=#FFFFFF>Enhanced Shotshells</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Covering Shot",
@@ -1275,9 +1406,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1297,11 +1431,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Defensive Counter",
@@ -1324,9 +1462,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 30197,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1346,11 +1487,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 30197,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1374,78 +1519,90 @@
       "Name": "Basic Attack: Don't Move!",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1241002": {
       "Name": "Basic Attack: Please Do Not Resist",
       "Desc": "<IconMap:Icon_Normal>(Hold)",
       "ElementType": 205,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1241003": {
       "Name": "Special Attack: Buckshot Blast",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 205,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1241004": {
       "Name": "EX Special Attack: Full Barrage",
       "Desc": "<IconMap:Icon_SpecialReady>",
       "ElementType": 205,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1241005": {
       "Name": "Dash Attack: Firepower Offensive",
       "Desc": "<IconMap:Icon_Evade>;<IconMap:Icon_Normal>",
       "ElementType": 205,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1241006": {
       "Name": "Dash Attack: Overwhelming Firepower",
       "Desc": "<IconMap:Icon_Normal> (Hold) ; <IconMap:Icon_JoyStick>",
       "ElementType": 205,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1241007": {
       "Name": "Dodge Counter: Fire Blast",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 205,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1241008": {
       "Name": "Chain Attack: Eradication Mode",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 205,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1241009": {
       "Name": "Ultimate: Max Eradication Mode",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 205,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1241010": {
       "Name": "Quick Assist: Covering Shot",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 205,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1241011": {
       "Name": "Evasive Assist: Guarded Backup",
       "Desc": "<IconMap:Icon_Switch>(When Triggering Evasive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1241012": {
       "Name": "Assist Follow-Up: Defensive Counter",
       "Desc": "<IconMap:Icon_Normal> (After Evasive Assist)",
       "ElementType": 205,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1241501": {
         "Level": 1,
         "Id": 1241501,
         "Name": [
@@ -1455,9 +1612,11 @@
         "Desc": [
           "When Zhu Yuan is under <color=#FFFFFF>Suppressive Mode</color>, using <color=#FFFFFF>Enhanced Shotshells</color> increases her DMG by <color=#2BAD00>20%</color>. When attacking Stunned enemies, this DMG buff is increased by an additional <color=#2BAD00>20%</color>. When Zhu Yuan enters the battlefield, she immediately gains 6 <color=#FFFFFF>Enhanced Shotshells</color>.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1241502": {
         "Level": 2,
         "Id": 1241502,
         "Name": [
@@ -1467,9 +1626,11 @@
         "Desc": [
           "When Zhu Yuan is under <color=#FFFFFF>Suppressive Mode</color>, using <color=#FFFFFF>Enhanced Shotshells</color> increases her DMG by <color=#2BAD00>23.3%</color>. When attacking Stunned enemies, this DMG buff is increased by an additional <color=#2BAD00>23.3%</color>. When Zhu Yuan enters the battlefield, she immediately gains 6 <color=#FFFFFF>Enhanced Shotshells</color>.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1241503": {
         "Level": 3,
         "Id": 1241503,
         "Name": [
@@ -1479,9 +1640,11 @@
         "Desc": [
           "When Zhu Yuan is under <color=#FFFFFF>Suppressive Mode</color>, using <color=#FFFFFF>Enhanced Shotshells</color> increases her DMG by <color=#2BAD00>26.6%</color>. When attacking Stunned enemies, this DMG buff is increased by an additional <color=#2BAD00>26.6%</color>. When Zhu Yuan enters the battlefield, she immediately gains 6 <color=#FFFFFF>Enhanced Shotshells</color>.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1241504": {
         "Level": 4,
         "Id": 1241504,
         "Name": [
@@ -1491,9 +1654,11 @@
         "Desc": [
           "When Zhu Yuan is under <color=#FFFFFF>Suppressive Mode</color>, using <color=#FFFFFF>Enhanced Shotshells</color> increases her DMG by <color=#2BAD00>30%</color>. When attacking Stunned enemies, this DMG buff is increased by an additional <color=#2BAD00>30%</color>. When Zhu Yuan enters the battlefield, she immediately gains 6 <color=#FFFFFF>Enhanced Shotshells</color>.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1241505": {
         "Level": 5,
         "Id": 1241505,
         "Name": [
@@ -1503,9 +1668,11 @@
         "Desc": [
           "When Zhu Yuan is under <color=#FFFFFF>Suppressive Mode</color>, using <color=#FFFFFF>Enhanced Shotshells</color> increases her DMG by <color=#2BAD00>33.3%</color>. When attacking Stunned enemies, this DMG buff is increased by an additional <color=#2BAD00>33.3%</color>. When Zhu Yuan enters the battlefield, she immediately gains 6 <color=#FFFFFF>Enhanced Shotshells</color>.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1241506": {
         "Level": 6,
         "Id": 1241506,
         "Name": [
@@ -1515,9 +1682,11 @@
         "Desc": [
           "When Zhu Yuan is under <color=#FFFFFF>Suppressive Mode</color>, using <color=#FFFFFF>Enhanced Shotshells</color> increases her DMG by <color=#2BAD00>36.6%</color>. When attacking Stunned enemies, this DMG buff is increased by an additional <color=#2BAD00>36.6%</color>. When Zhu Yuan enters the battlefield, she immediately gains 6 <color=#FFFFFF>Enhanced Shotshells</color>.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1241507": {
         "Level": 7,
         "Id": 1241507,
         "Name": [
@@ -1527,7 +1696,9 @@
         "Desc": [
           "When Zhu Yuan is under <color=#FFFFFF>Suppressive Mode</color>, using <color=#FFFFFF>Enhanced Shotshells</color> increases her DMG by <color=#2BAD00>40%</color>. When attacking Stunned enemies, this DMG buff is increased by an additional <color=#2BAD00>40%</color>. When Zhu Yuan enters the battlefield, she immediately gains 6 <color=#FFFFFF>Enhanced Shotshells</color>.",
           "When another character in your squad is a <color=#FFFFFF>Support</color> character or shares the same Faction:\nZhu Yuan's CRIT Rate is increased by 30% for 10s after using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1605,5 +1776,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
-  }
+  },
+  "Potential": []
 }

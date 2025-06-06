@@ -42,12 +42,6 @@
     "AttackGrowth": 54887,
     "AvatarPieceId": 5131,
     "BreakStun": 86,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -59,7 +53,6 @@
     "Endurance": 0,
     "HpGrowth": 875757,
     "HpMax": 645,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -69,7 +62,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Aokaku",
@@ -79,8 +71,11 @@
       "Camp6",
       "Size1",
       "AidTypeParry",
-      "Aokaku"
-    ]
+      "Aokaku",
+      "EtherEyesSize1"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -249,11 +244,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Making Rice Cakes",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 3 attacks, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 3 attacks, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Making Rice Cakes (Frosted Banner)",
-          "Desc": "When <color=#FFFFFF>Frosted Banner</color> is active, press <IconMap:Icon_Normal> to activate:\nUnleashes up to 3 faster attacks in front, dealing <color=#98EFF0>Ice DMG</color>."
+          "Desc": "When <color=#FFFFFF>Frosted Banner</color> is active, press <IconMap:Icon_Normal> to activate:\nUnleashes up to 3 faster attacks in front, dealing <color=#98EFF0>Ice DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Making Rice Cakes",
@@ -276,9 +273,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -298,9 +298,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -320,9 +323,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -342,9 +348,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -364,9 +373,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -386,11 +398,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Making Rice Cakes (Frosted Banner)",
@@ -413,9 +429,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4657,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -435,9 +454,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12743,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -457,9 +479,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 26321,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -479,9 +504,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4657,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -501,9 +529,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12743,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -523,11 +554,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 26321,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -549,19 +584,23 @@
       "Description": [
         {
           "Name": "Dodge: Grab a Bite",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: 50/50",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: 50/50 (Frosted Banner)",
-          "Desc": "When <color=#FFFFFF>Frosted Banner</color> is active, press <IconMap:Icon_Normal> during a Dodge to activate:\nSlashes enemies in front, dealing <color=#98EFF0>Ice DMG</color>."
+          "Desc": "When <color=#FFFFFF>Frosted Banner</color> is active, press <IconMap:Icon_Normal> during a Dodge to activate:\nSlashes enemies in front, dealing <color=#98EFF0>Ice DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Away From My Snacks",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlashes enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlashes enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: 50/50",
@@ -584,9 +623,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -606,11 +648,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dash Attack: 50/50 (Frosted Banner)",
@@ -633,9 +679,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8003,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -655,11 +704,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8003,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Away From My Snacks",
@@ -682,9 +735,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11330,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -704,11 +760,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11330,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -730,15 +790,18 @@
       "Description": [
         {
           "Name": "Special Attack: Cooling Bento",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nSoukaku releases a wind current in front of her and unleashes her finishing move, dealing <color=#98EFF0>Ice DMG</color>.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.\nHolding <IconMap:Icon_Special> while using this skill allows for a quick transition to <color=#FFFFFF>Fly the Flag</color>."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nSoukaku releases a wind current in front of her and unleashes her finishing move, dealing <color=#98EFF0>Ice DMG</color>.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.\nHolding <IconMap:Icon_Special> while using this skill allows for a quick transition to <color=#FFFFFF>Fly the Flag</color>.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Fanning Mosquitoes",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nReleases wind currents of extended range in front of her, dealing massive <color=#98EFF0>Ice DMG</color>.\nThis skill can be triggered consecutively by pressing repeatedly. Each use consumes a specified amount of Energy. When Soukaku's Energy is depleted, or you stop pressing the button, she unleashes a powerful finishing move that deals massive <color=#98EFF0>Ice DMG</color>.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.\nHolding <IconMap:Icon_Special> while using this skill allows for a quick transition to <color=#FFFFFF>Fly the Flag</color>."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nReleases wind currents of extended range in front of her, dealing massive <color=#98EFF0>Ice DMG</color>.\nThis skill can be triggered consecutively by pressing repeatedly. Each use consumes a specified amount of Energy. When Soukaku's Energy is depleted, or you stop pressing the button, she unleashes a powerful finishing move that deals massive <color=#98EFF0>Ice DMG</color>.\nDuring skill activation, Anti-Interrupt level increases, and DMG taken is reduced by 40%.\nHolding <IconMap:Icon_Special> while using this skill allows for a quick transition to <color=#FFFFFF>Fly the Flag</color>.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Rally!",
-          "Desc": "Hold <IconMap:Icon_Special> to activate:\nSoukaku plunges her weapon into the ground, morphs it into a flag, and launches <color=#FFFFFF>Fly the Flag</color>, dealing <color=#98EFF0>Ice DMG</color>. Hitting an enemy with <color=#FFFFFF>Fly the Flag</color> triggers a <color=#FFFFFF>Quick Assist</color>.\nPressing <IconMap:Icon_Normal> or <IconMap:Icon_Special> after <color=#FFFFFF>Fly the Flag</color> activates a Special Attack as she retracts the flag, dealing <color=#98EFF0>Ice DMG</color>.\nIf Soukaku owns 3 stacks of <color=#FFFFFF>Vortex</color> on using <color=#FFFFFF>Fly the Flag</color>, she consumes all 3 stacks and enters the <color=#FFFFFF>Frosted Banner</color> state. In the <color=#FFFFFF>Frosted Banner</color> state, she can unleash an enhanced <color=#FFFFFF>Basic Attack</color> or an enhanced <color=#FFFFFF>Dash Attack</color>, dealing massive <color=#98EFF0>Ice DMG</color>. This effect can last up to 45s or stack up to 6 times.\nSoukaku's weapon gains <color=#FFFFFF>Vortexes</color> in the following circumstances:\nGains 1 stack of <color=#FFFFFF>Vortex</color> when launching an <color=#FFFFFF>EX Special Attack</color>,\nGains 1 stack of <color=#FFFFFF>Vortex</color> when launching a <color=#FFFFFF>Chain Attack</color>,\nGains 3 stacks of <color=#FFFFFF>Vortex</color> when launching an <color=#FFFFFF>Ultimate</color>.\nSoukaku can accumulate a maximum of 3 stacks of <color=#FFFFFF>Vortex</color>."
+          "Desc": "Hold <IconMap:Icon_Special> to activate:\nSoukaku plunges her weapon into the ground, morphs it into a flag, and launches <color=#FFFFFF>Fly the Flag</color>, dealing <color=#98EFF0>Ice DMG</color>. Hitting an enemy with <color=#FFFFFF>Fly the Flag</color> triggers a <color=#FFFFFF>Quick Assist</color>.\nPressing <IconMap:Icon_Normal> or <IconMap:Icon_Special> after <color=#FFFFFF>Fly the Flag</color> activates a Special Attack as she retracts the flag, dealing <color=#98EFF0>Ice DMG</color>.\nIf Soukaku owns 3 stacks of <color=#FFFFFF>Vortex</color> on using <color=#FFFFFF>Fly the Flag</color>, she consumes all 3 stacks and enters the <color=#FFFFFF>Frosted Banner</color> state. In the <color=#FFFFFF>Frosted Banner</color> state, she can unleash an enhanced <color=#FFFFFF>Basic Attack</color> or an enhanced <color=#FFFFFF>Dash Attack</color>, dealing massive <color=#98EFF0>Ice DMG</color>. This effect can last up to 45s or stack up to 6 times.\nSoukaku's weapon gains <color=#FFFFFF>Vortexes</color> in the following circumstances:\nGains 1 stack of <color=#FFFFFF>Vortex</color> when launching an <color=#FFFFFF>EX Special Attack</color>,\nGains 1 stack of <color=#FFFFFF>Vortex</color> when launching a <color=#FFFFFF>Chain Attack</color>,\nGains 3 stacks of <color=#FFFFFF>Vortex</color> when launching an <color=#FFFFFF>Ultimate</color>.\nSoukaku can accumulate a maximum of 3 stacks of <color=#FFFFFF>Vortex</color>.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Cooling Bento",
@@ -761,9 +824,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2834,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Move DMG Multiplier",
@@ -783,9 +849,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5001,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -805,9 +874,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2834,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Move Daze Multiplier",
@@ -827,11 +899,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5001,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Fanning Mosquitoes",
@@ -854,9 +930,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24407,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Wind Current DMG Multiplier",
@@ -876,9 +955,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9491,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Consecutive Attack Daze Multiplier",
@@ -898,9 +980,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24407,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Wind Current Daze Multiplier",
@@ -920,13 +1005,21 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9491,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost to Use", "Desc": "60" },
-            { "Name": "Energy Cost of Each Attack", "Desc": "30" }
-          ]
+            { "Name": "Energy Cost to Use", "Desc": "60", "Potential": [] },
+            {
+              "Name": "Energy Cost of Each Attack",
+              "Desc": "30",
+              "Potential": []
+            }
+          ],
+          "Potential": []
         },
         {
           "Name": "Special Attack: Rally!",
@@ -949,9 +1042,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Quick Fly the Flag DMG Multiplier",
@@ -971,9 +1067,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7001,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Lowering the Flag DMG Multiplier",
@@ -993,9 +1092,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12250,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Fly the Flag Daze Multiplier",
@@ -1015,9 +1117,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Quick Fly the Flag Daze Multiplier",
@@ -1037,9 +1142,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7001,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Lowering the Flag Daze Multiplier",
@@ -1059,11 +1167,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12250,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1085,11 +1197,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Pudding Slash",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nSoukaku quickly unleashes a series of strikes at enemies in front of her and follows up with <color=#FFFFFF>Fly the Flag</color>, dealing massive <color=#98EFF0>Ice DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nSoukaku quickly unleashes a series of strikes at enemies in front of her and follows up with <color=#FFFFFF>Fly the Flag</color>, dealing massive <color=#98EFF0>Ice DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Jumbo Pudding Slash",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nSoukaku quickly unleashes an extended series of strikes at enemies in front of her and follows up with <color=#FFFFFF>Fly the Flag</color>, dealing massive <color=#98EFF0>Ice DMG</color>.\nUpon activating this skill, Soukaku enters the <color=#FFFFFF>Masked</color> state, increasing her CRIT Rate by 15% for 15s.\nUpon activating this skill, other squad members recover 10 Energy. The next character to switch in gains an additional 20 Energy.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nSoukaku quickly unleashes an extended series of strikes at enemies in front of her and follows up with <color=#FFFFFF>Fly the Flag</color>, dealing massive <color=#98EFF0>Ice DMG</color>.\nUpon activating this skill, Soukaku enters the <color=#FFFFFF>Masked</color> state, increasing her CRIT Rate by 15% for 15s.\nUpon activating this skill, other squad members recover 10 Energy. The next character to switch in gains an additional 20 Energy.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Pudding Slash",
@@ -1112,9 +1226,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 54620,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1134,11 +1251,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 54620,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Jumbo Pudding Slash",
@@ -1161,9 +1282,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 37670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1183,11 +1307,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 37670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1209,15 +1337,18 @@
       "Description": [
         {
           "Name": "Quick Assist: A Set for Two",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlashes enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlashes enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Guarding Tactics",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Sweeping Strike",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCharges and strikes enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nCharacter is invulnerable while using this skill.\nHolding <IconMap:Icon_Normal> while using this skill allows for a quick transition to <color=#FFFFFF>Fly the Flag</color>."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCharges and strikes enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nCharacter is invulnerable while using this skill.\nHolding <IconMap:Icon_Normal> while using this skill allows for a quick transition to <color=#FFFFFF>Fly the Flag</color>.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: A Set for Two",
@@ -1240,9 +1371,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11330,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1262,11 +1396,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11330,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Guarding Tactics",
@@ -1289,9 +1427,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1311,9 +1452,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1333,11 +1477,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Sweeping Strike",
@@ -1360,7 +1508,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24757,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1131026": {
                   "Main": 11320,
@@ -1376,9 +1526,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10610,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1398,7 +1551,9 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24757,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 },
                 "1131026": {
                   "Main": 9910,
@@ -1414,11 +1569,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10610,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1442,84 +1601,97 @@
       "Name": "Basic Attack: Making Rice Cakes",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1131002": {
       "Name": "Basic Attack: Making Rice Cakes (Frosted Banner)",
       "Desc": "<IconMap:Icon_Normal> (Frosted Banner)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1131003": {
       "Name": "Special Attack: Cooling Bento",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 202,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1131004": {
       "Name": "Special Attack: Rally!",
       "Desc": "<IconMap:Icon_Special> (Hold Down)",
       "ElementType": 202,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1131005": {
       "Name": "EX Special Attack: Fanning Mosquitoes",
       "Desc": "<IconMap:Icon_SpecialReady> (Repeatedly press)",
       "ElementType": 202,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1131006": {
       "Name": "Dash Attack: 50/50",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1131007": {
       "Name": "Dash Attack: 50/50 (Frosted Banner)",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal> (Frosted Banner)",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1131008": {
       "Name": "Dodge Counter: Away From My Snacks",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1131009": {
       "Name": "Chain Attack: Pudding Slash",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 202,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1131010": {
       "Name": "Ultimate: Jumbo Pudding Slash",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 202,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1131011": {
       "Name": "Quick Assist: A Set for Two",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 202,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1131012": {
       "Name": "Defensive Assist: Guarding Tactics",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1131013": {
       "Name": "Assist Follow-Up: Sweeping Strike",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 202,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1131501": {
         "Level": 1,
         "Id": 1131501,
         "Name": [
@@ -1529,9 +1701,11 @@
         "Desc": [
           "When Soukaku launches <color=#FFFFFF>Fly the Flag</color>, her ATK is increased by <color=#2BAD00>10%</color> of her initial ATK, up to 500, for 22s. When consuming <color=#FFFFFF>Vortex</color> during <color=#FFFFFF>Fly the Flag</color>, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via <color=#FFFFFF>Quick Assists</color> or <color=#FFFFFF>Chain Attacks</color> triggered by <color=#FFFFFF>Fly the Flag</color>, and it refreshes the duration of the buff.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes <color=#FFFFFF>Vortex</color> to activate <color=#FFFFFF>Fly the Flag</color>, the <color=#98EFF0>Ice DMG</color> of all squad members is increased by 20% for 22s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1131502": {
         "Level": 2,
         "Id": 1131502,
         "Name": [
@@ -1541,9 +1715,11 @@
         "Desc": [
           "When Soukaku launches <color=#FFFFFF>Fly the Flag</color>, her ATK is increased by <color=#2BAD00>12.5%</color> of her initial ATK, up to 500, for 22s. When consuming <color=#FFFFFF>Vortex</color> during <color=#FFFFFF>Fly the Flag</color>, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via <color=#FFFFFF>Quick Assists</color> or <color=#FFFFFF>Chain Attacks</color> triggered by <color=#FFFFFF>Fly the Flag</color>, and it refreshes the duration of the buff.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes <color=#FFFFFF>Vortex</color> to activate <color=#FFFFFF>Fly the Flag</color>, the <color=#98EFF0>Ice DMG</color> of all squad members is increased by 20% for 22s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1131503": {
         "Level": 3,
         "Id": 1131503,
         "Name": [
@@ -1553,9 +1729,11 @@
         "Desc": [
           "When Soukaku launches <color=#FFFFFF>Fly the Flag</color>, her ATK is increased by <color=#2BAD00>15%</color> of her initial ATK, up to 500, for 22s. When consuming <color=#FFFFFF>Vortex</color> during <color=#FFFFFF>Fly the Flag</color>, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via <color=#FFFFFF>Quick Assists</color> or <color=#FFFFFF>Chain Attacks</color> triggered by <color=#FFFFFF>Fly the Flag</color>, and it refreshes the duration of the buff.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes <color=#FFFFFF>Vortex</color> to activate <color=#FFFFFF>Fly the Flag</color>, the <color=#98EFF0>Ice DMG</color> of all squad members is increased by 20% for 22s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1131504": {
         "Level": 4,
         "Id": 1131504,
         "Name": [
@@ -1565,9 +1743,11 @@
         "Desc": [
           "When Soukaku launches <color=#FFFFFF>Fly the Flag</color>, her ATK is increased by <color=#2BAD00>17%</color> of her initial ATK, up to 500, for 22s. When consuming <color=#FFFFFF>Vortex</color> during <color=#FFFFFF>Fly the Flag</color>, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via <color=#FFFFFF>Quick Assists</color> or <color=#FFFFFF>Chain Attacks</color> triggered by <color=#FFFFFF>Fly the Flag</color>, and it refreshes the duration of the buff.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes <color=#FFFFFF>Vortex</color> to activate <color=#FFFFFF>Fly the Flag</color>, the <color=#98EFF0>Ice DMG</color> of all squad members is increased by 20% for 22s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1131505": {
         "Level": 5,
         "Id": 1131505,
         "Name": [
@@ -1577,9 +1757,11 @@
         "Desc": [
           "When Soukaku launches <color=#FFFFFF>Fly the Flag</color>, her ATK is increased by <color=#2BAD00>18%</color> of her initial ATK, up to 500, for 22s. When consuming <color=#FFFFFF>Vortex</color> during <color=#FFFFFF>Fly the Flag</color>, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via <color=#FFFFFF>Quick Assists</color> or <color=#FFFFFF>Chain Attacks</color> triggered by <color=#FFFFFF>Fly the Flag</color>, and it refreshes the duration of the buff.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes <color=#FFFFFF>Vortex</color> to activate <color=#FFFFFF>Fly the Flag</color>, the <color=#98EFF0>Ice DMG</color> of all squad members is increased by 20% for 22s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1131506": {
         "Level": 6,
         "Id": 1131506,
         "Name": [
@@ -1589,9 +1771,11 @@
         "Desc": [
           "When Soukaku launches <color=#FFFFFF>Fly the Flag</color>, her ATK is increased by <color=#2BAD00>19%</color> of her initial ATK, up to 500, for 22s. When consuming <color=#FFFFFF>Vortex</color> during <color=#FFFFFF>Fly the Flag</color>, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via <color=#FFFFFF>Quick Assists</color> or <color=#FFFFFF>Chain Attacks</color> triggered by <color=#FFFFFF>Fly the Flag</color>, and it refreshes the duration of the buff.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes <color=#FFFFFF>Vortex</color> to activate <color=#FFFFFF>Fly the Flag</color>, the <color=#98EFF0>Ice DMG</color> of all squad members is increased by 20% for 22s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1131507": {
         "Level": 7,
         "Id": 1131507,
         "Name": [
@@ -1601,7 +1785,9 @@
         "Desc": [
           "When Soukaku launches <color=#FFFFFF>Fly the Flag</color>, her ATK is increased by <color=#2BAD00>20%</color> of her initial ATK, up to 500, for 22s. When consuming <color=#FFFFFF>Vortex</color> during <color=#FFFFFF>Fly the Flag</color>, the ATK increase is doubled, up to a max of 1,000. This buff can be passed along to characters switching in via <color=#FFFFFF>Quick Assists</color> or <color=#FFFFFF>Chain Attacks</color> triggered by <color=#FFFFFF>Fly the Flag</color>, and it refreshes the duration of the buff.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes <color=#FFFFFF>Vortex</color> to activate <color=#FFFFFF>Fly the Flag</color>, the <color=#98EFF0>Ice DMG</color> of all squad members is increased by 20% for 22s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1679,5 +1865,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementAbnormalPower.png"
     }
-  }
+  },
+  "Potential": []
 }

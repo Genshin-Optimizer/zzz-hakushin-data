@@ -43,12 +43,6 @@
     "AttackGrowth": 77554,
     "AvatarPieceId": 5041,
     "BreakStun": 93,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -60,7 +54,6 @@
     "Endurance": 0,
     "HpGrowth": 837238,
     "HpMax": 617,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -70,7 +63,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Longinus",
@@ -80,8 +72,11 @@
       "Camp5",
       "Size2",
       "AidTypeParry",
-      "Longinus"
-    ]
+      "Longinus",
+      "EtherEyesSize2"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -250,11 +245,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Warmup Sparks",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 slashes, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 slashes, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Fire Suppression",
-          "Desc": "Press <IconMap:Icon_Normal> at the right moment to activate:\nUnleashes a set of more powerful slashes, dealing <color=#FF5521>Fire DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> at the right moment to activate:\nUnleashes a set of more powerful slashes, dealing <color=#FF5521>Fire DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Warmup Sparks",
@@ -277,9 +274,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -299,9 +299,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -321,9 +324,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -343,9 +349,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -365,9 +374,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -387,9 +399,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -409,9 +424,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -431,11 +449,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Fire Suppression",
@@ -458,9 +480,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 1705,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -480,9 +505,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3191,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -502,9 +530,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7157,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -524,9 +555,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18280,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -546,9 +580,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 1705,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -568,9 +605,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3191,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -590,9 +630,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7157,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -612,11 +655,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18280,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -638,19 +685,23 @@
       "Description": [
         {
           "Name": "Dodge: Tempered Fire",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Blazing Fire",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Fire Suppression",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#FF5521>Fire DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes enemies in front, dealing <color=#FF5521>Fire DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Backdraft",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nExecutes a powerful slash against enemies in front, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nExecutes a powerful slash against enemies in front, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Blazing Fire",
@@ -673,9 +724,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -695,11 +749,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Fire Suppression",
@@ -722,9 +780,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -744,11 +805,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Backdraft",
@@ -771,9 +836,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11499,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -793,11 +861,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11499,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -819,11 +891,13 @@
       "Description": [
         {
           "Name": "Special Attack: Raging Fire",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nSlashes enemies nearby, dealing <color=#FF5521>Fire DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nSlashes enemies nearby, dealing <color=#FF5521>Fire DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Fervent Fire",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nSlashes enemies nearby, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> will trigger <color=#FFFFFF>Fire Suppression</color> for up to 15s or 8 times."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nSlashes enemies nearby, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> will trigger <color=#FFFFFF>Fire Suppression</color> for up to 15s or 8 times.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Raging Fire",
@@ -846,9 +920,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5001,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -868,11 +945,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5001,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Fervent Fire",
@@ -895,9 +976,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 58018,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -917,12 +1001,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 58018,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "80" }
-          ]
+            { "Name": "Energy Cost", "Desc": "80", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -944,11 +1032,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Uplifting Flame",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful upward slash at enemies in a small area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> trigger <color=#FFFFFF>Fire Suppression</color> for the next 15s, up to 8 times."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful upward slash at enemies in a small area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> trigger <color=#FFFFFF>Fire Suppression</color> for the next 15s, up to 8 times.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Bellowing Flame",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful upward slash at enemies in a small area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> trigger <color=#FFFFFF>Fire Suppression</color> for the next 15s, up to 8 times."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful upward slash at enemies in a small area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> trigger <color=#FFFFFF>Fire Suppression</color> for the next 15s, up to 8 times.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Uplifting Flame",
@@ -971,9 +1061,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 40286,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -993,11 +1086,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 40286,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Bellowing Flame",
@@ -1020,9 +1117,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1042,11 +1142,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1068,15 +1172,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Covering Fire",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlashes enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlashes enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Hold the Line",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Reignition",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCharge and cross slash enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCharge and cross slash enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Covering Fire",
@@ -1099,9 +1206,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11499,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1121,11 +1231,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11499,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Hold the Line",
@@ -1148,9 +1262,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1170,9 +1287,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1192,11 +1312,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Reignition",
@@ -1219,9 +1343,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34242,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1241,11 +1368,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34242,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1269,72 +1400,83 @@
       "Name": "Basic Attack: Warmup Sparks",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1041002": {
       "Name": "Basic Attack: Fire Suppression",
       "Desc": "<IconMap:Icon_Normal> ; <IconMap:Icon_Normal> (Perfect timing)",
       "ElementType": 201,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1041003": {
       "Name": "Special Attack: Raging Fire",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 201,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1041004": {
       "Name": "EX Special Attack: Fervent Fire",
       "Desc": "<IconMap:Icon_SpecialReady>",
       "ElementType": 201,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1041005": {
       "Name": "Dash Attack: Blazing Fire",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1041006": {
       "Name": "Dodge Counter: Backdraft",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 201,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1041007": {
       "Name": "Chain Attack: Uplifting Flame",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 201,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1041008": {
       "Name": "Ultimate: Bellowing Flame",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 201,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1041009": {
       "Name": "Quick Assist: Covering Fire",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 201,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1041010": {
       "Name": "Defensive Assist: Hold the Line",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1041011": {
       "Name": "Assist Follow-Up: Reignition",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 201,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1041501": {
         "Level": 1,
         "Id": 1041501,
         "Name": [
@@ -1344,9 +1486,11 @@
         "Desc": [
           "When triggering <color=#FFFFFF>Fire Suppression</color> during a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color>, increase that attack's DMG by <color=#2BAD00>35%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more <color=#FF5521>Fire DMG</color>. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1041502": {
         "Level": 2,
         "Id": 1041502,
         "Name": [
@@ -1356,9 +1500,11 @@
         "Desc": [
           "When triggering <color=#FFFFFF>Fire Suppression</color> during a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color>, increase that attack's DMG by <color=#2BAD00>40.8%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more <color=#FF5521>Fire DMG</color>. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1041503": {
         "Level": 3,
         "Id": 1041503,
         "Name": [
@@ -1368,9 +1514,11 @@
         "Desc": [
           "When triggering <color=#FFFFFF>Fire Suppression</color> during a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color>, increase that attack's DMG by <color=#2BAD00>46.6%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more <color=#FF5521>Fire DMG</color>. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1041504": {
         "Level": 4,
         "Id": 1041504,
         "Name": [
@@ -1380,9 +1528,11 @@
         "Desc": [
           "When triggering <color=#FFFFFF>Fire Suppression</color> during a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color>, increase that attack's DMG by <color=#2BAD00>52.5%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more <color=#FF5521>Fire DMG</color>. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1041505": {
         "Level": 5,
         "Id": 1041505,
         "Name": [
@@ -1392,9 +1542,11 @@
         "Desc": [
           "When triggering <color=#FFFFFF>Fire Suppression</color> during a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color>, increase that attack's DMG by <color=#2BAD00>58.3%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more <color=#FF5521>Fire DMG</color>. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1041506": {
         "Level": 6,
         "Id": 1041506,
         "Name": [
@@ -1404,9 +1556,11 @@
         "Desc": [
           "When triggering <color=#FFFFFF>Fire Suppression</color> during a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color>, increase that attack's DMG by <color=#2BAD00>64.1%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more <color=#FF5521>Fire DMG</color>. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1041507": {
         "Level": 7,
         "Id": 1041507,
         "Name": [
@@ -1416,7 +1570,9 @@
         "Desc": [
           "When triggering <color=#FFFFFF>Fire Suppression</color> during a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color>, increase that attack's DMG by <color=#2BAD00>70%</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nSoldier 11 deals 10% more <color=#FF5521>Fire DMG</color>. When attacking Stunned enemies, this effect is further enhanced by an additional 22.5%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1494,5 +1650,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
-  }
+  },
+  "Potential": []
 }

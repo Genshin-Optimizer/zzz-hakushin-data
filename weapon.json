@@ -95,7 +95,7 @@
     "type": 3,
     "EN": "[Magnetic Storm] Alpha",
     "desc": "A special W-Engine that can analyze the target's weak spots through real-time calculations.",
-    "KO": "「자기 폭풍」-알파",
+    "KO": "「자기 ���풍」-알파",
     "CHS": "「电磁暴」-壹式",
     "JA": "「磁気嵐」-壱式"
   },
@@ -138,6 +138,16 @@
     "KO": "「아이덴티티」-인플렉션",
     "CHS": "「恒等式」-变格",
     "JA": "「恒等式」-変格"
+  },
+  "12015": {
+    "icon": "Weapon_B_Common_15",
+    "rank": 2,
+    "type": 6,
+    "EN": "[Cinder] Cobalt",
+    "desc": "A W-Engine with a built-in heating component. When operating at high speeds, it resembles a blazing blue flame.",
+    "KO": "「잿더미」-코발트블루",
+    "CHS": "「灰烬」-钴蓝",
+    "JA": "「灰燼」-蒼藍"
   },
   "13001": {
     "icon": "Weapon_A_Common_01",
@@ -207,7 +217,7 @@
     "desc": "An epic W-Engine favored by Starlight Knight fans. Its high popularity and scarcity marketing strategy have caused an influx of knock-offs.",
     "KO": "오리지널 변신 아이템",
     "CHS": "正版变身器",
-    "JA": "正規版変身装���"
+    "JA": "正規版変身装置"
   },
   "13008": {
     "icon": "Weapon_A_Common_08",
@@ -249,6 +259,16 @@
     "CHS": "春日融融",
     "JA": "ホットスプリング"
   },
+  "13012": {
+    "icon": "Weapon_A_Common_12",
+    "rank": 3,
+    "type": 6,
+    "EN": "Puzzle Sphere",
+    "desc": "The W-Engine, with its bright colors and great performance, saw poor sales at first because it resembled a toy. But with its reasonable price, it slowly gained a positive reputation.",
+    "KO": "기변의 큐브",
+    "CHS": "幻变魔方",
+    "JA": "魔法の立体パズル"
+  },
   "13013": {
     "icon": "Weapon_A_Common_13",
     "rank": 3,
@@ -259,6 +279,16 @@
     "CHS": "鎏金花信",
     "JA": "金メッキの花信"
   },
+  "13014": {
+    "icon": "Weapon_A_Common_14",
+    "rank": 3,
+    "type": 6,
+    "EN": "Radiowave Journey",
+    "desc": "Designed for those Hollow-dwelling bards who refuse to listen to the same albums repeatedly, this W-Engine comes equipped with a radio module that can transform Etheric frequencies into melodies.",
+    "KO": "일렉트로 워크",
+    "CHS": "电波漫步",
+    "JA": "エレクトロウォーク"
+  },
   "13015": {
     "icon": "Weapon_A_Common_15",
     "rank": 3,
@@ -268,6 +298,16 @@
     "KO": "열망의 악센트",
     "CHS": "强音热望",
     "JA": "強音デザイア"
+  },
+  "13016": {
+    "icon": "Weapon_A_Common_16",
+    "rank": 3,
+    "type": 5,
+    "EN": "Reel Projector",
+    "desc": "Clearly a W-Engine is for sound, and not images. What kind of lunatic genius would insist on stuffing a 16mm film camera into a W-Engine?",
+    "KO": "조명을 새기는 칼",
+    "CHS": "光影刻刀",
+    "JA": "光と影のカット"
   },
   "13101": {
     "icon": "Weapon_A_1011",
@@ -378,6 +418,16 @@
     "KO": "커터칼",
     "CHS": "裁纸刀",
     "JA": "ペーパーカッター"
+  },
+  "13142": {
+    "icon": "Weapon_A_1421",
+    "rank": 3,
+    "type": 5,
+    "EN": "Tremor Trigram Vessel",
+    "desc": "Pressing acupoints is like cooking. Striking the fatal acupoint is like setting the stove on fire, bringing disaster.",
+    "KO": "진괘를 담은 함",
+    "CHS": "震元奇枢",
+    "JA": "雷鳴が如き八卦"
   },
   "14001": {
     "icon": "Weapon_S_Common_01",
@@ -535,7 +585,7 @@
     "type": 3,
     "EN": "Timeweaver",
     "desc": "A new model of supercomputing W-Engine custom-made by HSO Section 6, equipped with the most elite calculation and analysis functions.",
-    "KO": "시류�� 현자",
+    "KO": "시류의 현자",
     "CHS": "时流贤者",
     "JA": "刻流の賢者"
   },
@@ -619,6 +669,16 @@
     "CHS": "索魂影眸",
     "JA": "奪魂の瞑目"
   },
+  "14137": {
+    "icon": "Weapon_S_1371",
+    "rank": 4,
+    "type": 6,
+    "EN": "Qingming Birdcage",
+    "desc": "The world is vast and full of change, and fate is unpredictable. But regardless of hardship or lack thereof, one must stay true to one's heart.",
+    "KO": "청명의 보금자리",
+    "CHS": "青溟笼舍",
+    "JA": "青溟の鳥籠"
+  },
   "14138": {
     "icon": "Weapon_S_1381",
     "rank": 4,
@@ -628,5 +688,15 @@
     "KO": "순결한 희생",
     "CHS": "牺牲洁纯",
     "JA": "純然たる犠牲"
+  },
+  "14139": {
+    "icon": "Weapon_S_1391",
+    "rank": 4,
+    "type": 2,
+    "EN": "Roaring Fur-nace",
+    "desc": "The warm fire blazes through the long night, casting light on the tiger's roar in my heart.",
+    "KO": "복을 뿜는 맹호",
+    "CHS": "福虓炉炉",
+    "JA": "招福の虎炉"
   }
 }

@@ -42,12 +42,6 @@
     "AttackGrowth": 54230,
     "AvatarPieceId": 5151,
     "BreakStun": 86,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -59,7 +53,6 @@
     "Endurance": 0,
     "HpGrowth": 875757,
     "HpMax": 645,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -69,7 +62,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Lucy",
@@ -79,8 +71,11 @@
       "Camp4",
       "Size1",
       "AidTypeParry",
-      "Lucy"
-    ]
+      "Lucy",
+      "EtherEyesSize1"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -249,15 +244,18 @@
       "Description": [
         {
           "Name": "Basic Attack: Lady's Bat",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nStrike forward up to 4 times, dealing <color=#F0D12B>Physical DMG</color> and <color=#FF5521>Fire DMG</color>.\nWhen Lucy uses her fourth <color=#FFFFFF>Basic Attack</color>, the currently on-field guard boars will launch <color=#FFFFFF>Guard Boars: Spinning Swing!</color> together."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nStrike forward up to 4 times, dealing <color=#F0D12B>Physical DMG</color> and <color=#FF5521>Fire DMG</color>.\nWhen Lucy uses her fourth <color=#FFFFFF>Basic Attack</color>, the currently on-field guard boars will launch <color=#FFFFFF>Guard Boars: Spinning Swing!</color> together.",
+          "Potential": []
         },
         {
           "Name": "Guard Boars: To Arms!",
-          "Desc": "In combat, the guard boars will randomly use a baseball bat, boxing gloves, or a slingshot to automatically attack enemies, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "In combat, the guard boars will randomly use a baseball bat, boxing gloves, or a slingshot to automatically attack enemies, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Guard Boars: Spinning Swing!",
-          "Desc": "When Lucy uses the fourth <color=#FFFFFF>Basic Attack</color>, or when she gains the <color=#FFFFFF>Cheer On!</color> status, the guard boars will whirl their baseball bats in a continuous motion, dealing <color=#F0D12B>Physical DMG</color> to nearby enemies. If the attack cannot be executed immediately, the guard boars will remember the required number of times to execute it."
+          "Desc": "When Lucy uses the fourth <color=#FFFFFF>Basic Attack</color>, or when she gains the <color=#FFFFFF>Cheer On!</color> status, the guard boars will whirl their baseball bats in a continuous motion, dealing <color=#F0D12B>Physical DMG</color> to nearby enemies. If the attack cannot be executed immediately, the guard boars will remember the required number of times to execute it.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Lady's Bat",
@@ -280,9 +278,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -302,9 +303,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -324,9 +328,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13401,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit (ALT) DMG Multiplier",
@@ -346,9 +353,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -368,9 +378,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18625,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -390,9 +403,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -412,9 +428,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -434,9 +453,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13401,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit (ALT) Daze Multiplier",
@@ -456,9 +478,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -478,11 +503,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18625,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Guard Boars: To Arms!",
@@ -505,9 +534,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Boxing Gloves DMG Multiplier",
@@ -527,9 +559,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Slingshot DMG Multiplier",
@@ -549,9 +584,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Baseball Bat Daze Multiplier",
@@ -571,9 +609,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Boxing Gloves Daze Multiplier",
@@ -593,9 +634,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Slingshot Daze Multiplier",
@@ -615,11 +659,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Guard Boars: Spinning Swing!",
@@ -642,9 +690,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Spinning Swing Daze Multiplier",
@@ -664,11 +715,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -690,15 +745,18 @@
       "Description": [
         {
           "Name": "Dodge: Foul Ball!",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Fearless Boar!",
-          "Desc": "Press <IconMap:Icon_Normal> during dodge to activate:\nRapidly strikes enemies in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during dodge to activate:\nRapidly strikes enemies in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Returning Tusk!",
-          "Desc": "Press <IconMap:Icon_Normal> during a Perfect Dodge to activate:\nStrike enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a Perfect Dodge to activate:\nStrike enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Fearless Boar!",
@@ -721,9 +779,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -743,11 +804,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Returning Tusk!",
@@ -770,9 +835,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 15996,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -792,11 +860,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 15996,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -818,24 +890,29 @@
       "Description": [
         {
           "Name": "Special Attack: Solid Hit!",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nRecall a guard boar and launch it as a <color=#FFFFFF>Line Drive</color>. The guard boar will cause an explosion upon hitting enemies or walls, dealing <color=#FF5521>Fire DMG</color>.\nHold <IconMap:Icon_Special> to activate:\nRecall a guard boar and launch it as a <color=#FFFFFF>Fly Ball</color>. The guard boar will cause an explosion upon landing, dealing <color=#FF5521>Fire DMG</color>."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nRecall a guard boar and launch it as a <color=#FFFFFF>Line Drive</color>. The guard boar will cause an explosion upon hitting enemies or walls, dealing <color=#FF5521>Fire DMG</color>.\nHold <IconMap:Icon_Special> to activate:\nRecall a guard boar and launch it as a <color=#FFFFFF>Fly Ball</color>. The guard boar will cause an explosion upon landing, dealing <color=#FF5521>Fire DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Home Run!",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nRecall a guard boar and launch it as a <color=#FFFFFF>Line Drive</color>. The guard boar will cause an explosion upon hitting enemies or walls, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a <color=#FFFFFF>Quick Assist</color>.\nWith enough Energy, hold <IconMap:Icon_SpecialReady> to activate:\nRecall a guard boar and launch it as a <color=#FFFFFF>Fly Ball</color>. The guard boar will cause an explosion upon landing, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a <color=#FFFFFF>Quick Assist</color>."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nRecall a guard boar and launch it as a <color=#FFFFFF>Line Drive</color>. The guard boar will cause an explosion upon hitting enemies or walls, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a <color=#FFFFFF>Quick Assist</color>.\nWith enough Energy, hold <IconMap:Icon_SpecialReady> to activate:\nRecall a guard boar and launch it as a <color=#FFFFFF>Fly Ball</color>. The guard boar will cause an explosion upon landing, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a <color=#FFFFFF>Quick Assist</color>.",
+          "Potential": []
         },
         {
           "Name": "Cheer On!",
-          "Desc": "After using <color=#FFFFFF>EX Special Attack</color>, when a guard boar triggers an explosion, it will apply the <color=#FFFFFF>Cheer On!</color> status to all allies, Bangboo, and the guard boars themselves. While under the <color=#FFFFFF>Cheer On!</color> status, allies' ATK increases by <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color> of Lucy's initial ATK + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color>, up to a maximum of 600. The <color=#FFFFFF>Cheer On!</color> status lasts for 10s when a <color=#FFFFFF>Line Drive</color> is hit, and 15s when a <color=#FFFFFF>Fly Ball</color> is hit. Repeated triggers reset the duration."
+          "Desc": "After using <color=#FFFFFF>EX Special Attack</color>, when a guard boar triggers an explosion, it will apply the <color=#FFFFFF>Cheer On!</color> status to all squad members and Bangboo, and the guard boars themselves. While under the <color=#FFFFFF>Cheer On!</color> status, allies' ATK increases by <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color> of Lucy's initial ATK + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color>, up to a maximum of 600. The <color=#FFFFFF>Cheer On!</color> status lasts for 10s when a <color=#FFFFFF>Line Drive</color> is hit, and 15s when a <color=#FFFFFF>Fly Ball</color> is hit. Repeated triggers reset the duration.",
+          "Potential": []
         },
         {
           "Name": "Cheer On!",
           "Param": [
             {
               "Name": "ATK Increase",
-              "Desc": "{CAL:13+AvatarSkillLevel(1)*0.8,1,2}% of Lucy's ATK + {CAL:40+AvatarSkillLevel(1)*4,1,2}"
+              "Desc": "{CAL:13+AvatarSkillLevel(1)*0.8,1,2}% of Lucy's ATK + {CAL:40+AvatarSkillLevel(1)*4,1,2}",
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Special Attack: Solid Hit!",
@@ -858,9 +935,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6165,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Fly Ball DMG Multiplier",
@@ -880,9 +960,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6915,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Line Drive Daze Multiplier",
@@ -902,9 +985,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6165,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Fly Ball Daze Multiplier",
@@ -924,11 +1010,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6915,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Home Run!",
@@ -951,9 +1041,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 33541,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Fly Ball DMG Multiplier",
@@ -973,9 +1066,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34241,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Line Drive Daze Multiplier",
@@ -995,9 +1091,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 33541,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Fly Ball Daze Multiplier",
@@ -1017,12 +1116,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34241,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60" }
-          ]
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1044,11 +1147,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Grand Slam!",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nLucy jumps up and sends a guard boar at enemies in front in a large area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a <color=#FFFFFF>Quick Assist</color>."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nLucy jumps up and sends a guard boar at enemies in front in a large area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a <color=#FFFFFF>Quick Assist</color>.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Walk-Off Home Run!",
-          "Desc": "When Decibel Rating is at Maximum, press <IconMap:Icon_UltimateReady> to activate:\nLaunch all guard boars sequentially, dealing massive <color=#FF5521>Fire DMG</color> in a large area to enemies ahead.\nWhile using this skill, other squad members recover 10 energy, and the next character to switch in gains an additional 20 energy.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a <color=#FFFFFF>Quick Assist</color>."
+          "Desc": "When Decibel Rating is at Maximum, press <IconMap:Icon_UltimateReady> to activate:\nLaunch all guard boars sequentially, dealing massive <color=#FF5521>Fire DMG</color> in a large area to enemies ahead.\nWhile using this skill, other squad members recover 10 energy, and the next character to switch in gains an additional 20 energy.\nCharacter is invulnerable while using this skill.\nWhen the skill hits an enemy, it triggers a <color=#FFFFFF>Quick Assist</color>.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Grand Slam!",
@@ -1071,9 +1176,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 29280,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1093,11 +1201,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 29280,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Walk-Off Home Run!",
@@ -1120,9 +1232,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 31500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1142,11 +1257,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 31500,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1168,15 +1287,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Hit By Pitch!",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nStrikes enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable during the attack."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nStrikes enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable during the attack.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Safe on Base!",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Scored a Run!",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nStrikes enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nStrikes enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Hit By Pitch!",
@@ -1199,9 +1321,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 15996,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1221,11 +1346,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 15996,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Safe on Base!",
@@ -1248,9 +1377,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1270,9 +1402,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1292,11 +1427,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Scored a Run!",
@@ -1319,9 +1458,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 32667,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1341,11 +1483,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 32667,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1369,78 +1515,90 @@
       "Name": "Basic Attack: Lady's Bat",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1151002": {
       "Name": "Special Attack: Solid Hit! (Line Drive)",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1151003": {
       "Name": "Special Attack: Solid Hit! (Fly Ball)",
       "Desc": "<IconMap:Icon_Special> (Hold Down)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1151004": {
       "Name": "EX Special Attack: Home Run! (Line Drive)",
       "Desc": "<IconMap:Icon_SpecialReady>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1151005": {
       "Name": "EX Special Attack: Home Run! (Fly Ball)",
       "Desc": "<IconMap:Icon_SpecialReady>(Hold Down)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1151006": {
       "Name": "Dash Attack: Fearless Boar!",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1151007": {
       "Name": "Dodge Counter: Returning Tusk!",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1151008": {
       "Name": "Chain Attack: Grand Slam!",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1151009": {
       "Name": "Ultimate: Walk-Off Home Run!",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1151010": {
       "Name": "Quick Assist: Hit By Pitch!",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1151011": {
       "Name": "Defensive Assist: Safe on Base!",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1151012": {
       "Name": "Assist Follow-Up: Scored a Run!",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1151501": {
         "Level": 1,
         "Id": 1151501,
         "Name": [
@@ -1449,10 +1607,12 @@
         ],
         "Desc": [
           "When Lucy uses her <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The <color=#FFFFFF>Cheer On!</color> buff for the guard boars is increased to <color=#2BAD00>140%</color> of the original effect, and their attack frequency is increased.",
-          "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1151502": {
         "Level": 2,
         "Id": 1151502,
         "Name": [
@@ -1461,10 +1621,12 @@
         ],
         "Desc": [
           "When Lucy uses her <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The <color=#FFFFFF>Cheer On!</color> buff for the guard boars is increased to <color=#2BAD00>150%</color> of the original effect, and their attack frequency is increased.",
-          "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1151503": {
         "Level": 3,
         "Id": 1151503,
         "Name": [
@@ -1473,10 +1635,12 @@
         ],
         "Desc": [
           "When Lucy uses her <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The <color=#FFFFFF>Cheer On!</color> buff for the guard boars is increased to <color=#2BAD00>160%</color> of the original effect, and their attack frequency is increased.",
-          "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1151504": {
         "Level": 4,
         "Id": 1151504,
         "Name": [
@@ -1485,10 +1649,12 @@
         ],
         "Desc": [
           "When Lucy uses her <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The <color=#FFFFFF>Cheer On!</color> buff for the guard boars is increased to <color=#2BAD00>170%</color> of the original effect, and their attack frequency is increased.",
-          "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1151505": {
         "Level": 5,
         "Id": 1151505,
         "Name": [
@@ -1497,10 +1663,12 @@
         ],
         "Desc": [
           "When Lucy uses her <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The <color=#FFFFFF>Cheer On!</color> buff for the guard boars is increased to <color=#2BAD00>180%</color> of the original effect, and their attack frequency is increased.",
-          "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1151506": {
         "Level": 6,
         "Id": 1151506,
         "Name": [
@@ -1509,10 +1677,12 @@
         ],
         "Desc": [
           "When Lucy uses her <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The <color=#FFFFFF>Cheer On!</color> buff for the guard boars is increased to <color=#2BAD00>190%</color> of the original effect, and their attack frequency is increased.",
-          "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1151507": {
         "Level": 7,
         "Id": 1151507,
         "Name": [
@@ -1521,8 +1691,10 @@
         ],
         "Desc": [
           "When Lucy uses her <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>, a guard boar will join the battle and call in two other guard boars. The guard boars inherit Lucy's ATK, Impact, and Anomaly Proficiency. The <color=#FFFFFF>Cheer On!</color> buff for the guard boars is increased to <color=#2BAD00>200%</color> of the original effect, and their attack frequency is increased.",
-          "When another character in your squad shares the same Attribute or Faction:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nThe guard boars inherit Lucy's CRIT Rate and CRIT DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1544,7 +1716,7 @@
     "2": {
       "Level": 2,
       "Name": "Little Boar Captain",
-      "Desc": "When Lucy uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, it grants all squad members, Bangboo, and the guard boars the <color=#FFFFFF>Cheer On!</color> status for 10s.",
+      "Desc": "When Lucy uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, it grants all squad members and Bangboo, and the guard boars themselves the <color=#FFFFFF>Cheer On!</color> status for 10s.",
       "Desc2": "\"Without a doubt, Captain Lucy is the best leader of the Calydon Boar Thirens!\"\nThis was Woody's conclusion in the \"Sons of Calydon Annual Report.\""
     },
     "3": {
@@ -1568,7 +1740,7 @@
     "6": {
       "Level": 6,
       "Name": "Fierce Fangs of Fire",
-      "Desc": "When another squad member in the <color=#FFFFFF>Cheer On!</color> state hits an enemy with an <color=#FFFFFF>EX Special Attack</color>, a guard boar will drop from the sky and cause an explosion, dealing <color=#FF5521>Fire DMG</color> equal to 300% of the guard boar's ATK. This will extend the duration of the <color=#FFFFFF>Cheer On!</color> buff for all squad members by 5s. The duration can increase up to 3 times, with a maximum duration of 30s. Refreshing the <color=#FFFFFF>Cheer On!</color> state resets the stack count. After the guard boar's explosion, it will launch <color=#FFFFFF>Guard Boars: Spinning Swing!</color>.",
+      "Desc": "When another squad member in the <color=#FFFFFF>Cheer On!</color> state hits an enemy with an <color=#FFFFFF>EX Special Attack</color>, a guard boar will drop from the sky and cause an explosion, dealing <color=#FF5521>Fire DMG</color> equal to 300% of the guard boar's ATK. This will extend the duration of the <color=#FFFFFF>Cheer On!</color> buff for all squad members and Bangboo, and for the guard boars themselves by 5s. The duration can increase up to 3 times, with a maximum duration of 30s. Refreshing the <color=#FFFFFF>Cheer On!</color> state resets the stack count. After the guard boar's explosion, it will launch <color=#FFFFFF>Guard Boars: Spinning Swing!</color>.",
       "Desc2": "The little boar Thirens known as the Crimson Mane Guard are always at the forefront of battle!\nThough it's hard to tell if, at the moment they're launched by the bat, they feel total despair or just accept their fate.\nBrave little boars, leading the charge!"
     }
   },
@@ -1600,5 +1772,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png"
     }
-  }
+  },
+  "Potential": []
 }

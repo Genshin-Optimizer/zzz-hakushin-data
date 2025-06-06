@@ -95,23 +95,23 @@
   "Talents": {
     "1": {
       "Name": "Money-Lover",
-      "Desc": "Dealing <color=#FE437E>Ether DMG</color> using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> increases all squad members' DMG against the target by <color=#2BAD00>15%</color> and increases the equipper's Energy Regen by <color=#2BAD00>0.5</color>/s for 2s. Passive effects of the same name do not stack."
+      "Desc": "Dealing <color=#FE437E>Ether DMG</color> using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> increases all units' DMG against the target by <color=#2BAD00>15%</color> and increases the equipper's Energy Regen by <color=#2BAD00>0.5</color>/s for 2s. Passive effects of the same name do not stack."
     },
     "2": {
       "Name": "Money-Lover",
-      "Desc": "Dealing <color=#FE437E>Ether DMG</color> using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> increases all squad members' DMG against the target by <color=#2BAD00>17.5%</color> and increases the equipper's Energy Regen by <color=#2BAD00>0.58</color>/s for 2s. Passive effects of the same name do not stack."
+      "Desc": "Dealing <color=#FE437E>Ether DMG</color> using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> increases all units' DMG against the target by <color=#2BAD00>17.5%</color> and increases the equipper's Energy Regen by <color=#2BAD00>0.58</color>/s for 2s. Passive effects of the same name do not stack."
     },
     "3": {
       "Name": "Money-Lover",
-      "Desc": "Dealing <color=#FE437E>Ether DMG</color> using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> increases all squad members' DMG against the target by <color=#2BAD00>20%</color> and increases the equipper's Energy Regen by <color=#2BAD00>0.65</color>/s for 2s. Passive effects of the same name do not stack."
+      "Desc": "Dealing <color=#FE437E>Ether DMG</color> using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> increases all units' DMG against the target by <color=#2BAD00>20%</color> and increases the equipper's Energy Regen by <color=#2BAD00>0.65</color>/s for 2s. Passive effects of the same name do not stack."
     },
     "4": {
       "Name": "Money-Lover",
-      "Desc": "Dealing <color=#FE437E>Ether DMG</color> using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> increases all squad members' DMG against the target by <color=#2BAD00>22%</color> and increases the equipper's Energy Regen by <color=#2BAD00>0.72</color>/s for 2s. Passive effects of the same name do not stack."
+      "Desc": "Dealing <color=#FE437E>Ether DMG</color> using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> increases all units' DMG against the target by <color=#2BAD00>22%</color> and increases the equipper's Energy Regen by <color=#2BAD00>0.72</color>/s for 2s. Passive effects of the same name do not stack."
     },
     "5": {
       "Name": "Money-Lover",
-      "Desc": "Dealing <color=#FE437E>Ether DMG</color> using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> increases all squad members' DMG against the target by <color=#2BAD00>24%</color> and increases the equipper's Energy Regen by <color=#2BAD00>0.8</color>/s for 2s. Passive effects of the same name do not stack."
+      "Desc": "Dealing <color=#FE437E>Ether DMG</color> using an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> increases all units' DMG against the target by <color=#2BAD00>24%</color> and increases the equipper's Energy Regen by <color=#2BAD00>0.8</color>/s for 2s. Passive effects of the same name do not stack."
     }
   }
 }

@@ -42,12 +42,6 @@
     "AttackGrowth": 54230,
     "AvatarPieceId": 5011,
     "BreakStun": 118,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -59,7 +53,6 @@
     "Endurance": 0,
     "HpGrowth": 818426,
     "HpMax": 603,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -69,7 +62,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Anbi",
@@ -79,8 +71,11 @@
       "Camp1",
       "Size2",
       "AidTypeParry",
-      "Anbi"
-    ]
+      "Anbi",
+      "EtherEyesSize2"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -249,11 +244,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Turbo Volt",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 slashes. The first 3 hits deal <color=#F0D12B>Physical DMG</color>, the 4th hit deals <color=#2EB6FF>Electric DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 slashes. The first 3 hits deal <color=#F0D12B>Physical DMG</color>, the 4th hit deals <color=#2EB6FF>Electric DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Thunderbolt",
-          "Desc": "After unleashing the 3rd hit of the <color=#FFFFFF>Basic Attack</color>, hold down or pause for a short while, and then press <IconMap:Icon_Normal> to activate:\nUnleashes a downward strike that deals <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "After unleashing the 3rd hit of the <color=#FFFFFF>Basic Attack</color>, hold down or pause for a short while, and then press <IconMap:Icon_Normal> to activate:\nUnleashes a downward strike that deals <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Turbo Volt",
@@ -276,9 +273,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -298,9 +298,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -320,9 +323,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -342,9 +348,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17247,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -364,9 +373,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -386,9 +398,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -408,9 +423,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -430,11 +448,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17247,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Thunderbolt",
@@ -457,9 +479,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12750,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -479,11 +504,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12750,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -505,15 +534,18 @@
       "Description": [
         {
           "Name": "Dodge: Slide",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Taser Blast",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes all nearby enemies, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nSlashes all nearby enemies, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Thunderclap",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlashes enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlashes enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Taser Blast",
@@ -536,9 +568,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -558,11 +593,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Thunderclap",
@@ -585,9 +624,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6163,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -607,11 +649,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6163,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -633,11 +679,13 @@
       "Description": [
         {
           "Name": "Special Attack: Fork Lightning",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nUnleashes an upward slash that deals <color=#2EB6FF>Electric DMG</color>.\nThis attack launches faster when used after the 3rd hit of the <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Basic Attack: Thunderbolt</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nUnleashes an upward slash that deals <color=#2EB6FF>Electric DMG</color>.\nThis attack launches faster when used after the 3rd hit of the <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Basic Attack: Thunderbolt</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Lightning Bolt",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nUnleashes a powerful upward slash that deals massive <color=#2EB6FF>Electric DMG</color>.\nThis attack launches faster when used after the 3rd hit of her <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Basic Attack: Thunderbolt</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nUnleashes a powerful upward slash that deals massive <color=#2EB6FF>Electric DMG</color>.\nThis attack launches faster when used after the 3rd hit of her <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Basic Attack: Thunderbolt</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Fork Lightning",
@@ -660,9 +708,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9330,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -682,11 +733,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9330,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Lightning Bolt",
@@ -709,9 +764,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 53237,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -731,12 +789,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 53237,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60" }
-          ]
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -758,11 +820,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Electro Engine",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful upwards slash at enemies in a small area, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful upwards slash at enemies in a small area, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Overdrive Engine",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful upward slash at enemies in a small area followed by several downward strikes, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful upward slash at enemies in a small area followed by several downward strikes, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Electro Engine",
@@ -785,9 +849,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34283,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -807,11 +874,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34283,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Overdrive Engine",
@@ -834,9 +905,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 21003,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -856,11 +930,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 21003,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -882,15 +960,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Thunderfall",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlashes enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlashes enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Flash",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Lightning Whirl",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nPerform a spinning slash against enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nPerform a spinning slash against enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Thunderfall",
@@ -913,9 +994,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6163,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -935,11 +1019,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6163,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Flash",
@@ -962,9 +1050,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -984,9 +1075,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1006,11 +1100,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Lightning Whirl",
@@ -1033,9 +1131,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 31322,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1055,11 +1156,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 31322,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1083,84 +1188,97 @@
       "Name": "Basic Attack: Turbo Volt",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1011002": {
       "Name": "Basic Attack: Thunderbolt",
       "Desc": "<IconMap:Icon_Normal> ; <IconMap:Icon_Normal> ; <IconMap:Icon_Normal> ; <IconMap:Icon_Normal> (Delayed press or hold down)",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1011003": {
       "Name": "Special Attack: Fork Lightning",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1011004": {
       "Name": "Special Attack: Fork Lightning (Quick Launch)",
       "Desc": "<IconMap:Icon_Normal> ; <IconMap:Icon_Normal> ; <IconMap:Icon_Normal> ; <IconMap:Icon_Special>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1011005": {
       "Name": "EX Special Attack: Lightning Bolt",
       "Desc": "<IconMap:Icon_SpecialReady>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1011006": {
       "Name": "EX Special Attack: Lightning Bolt (Quick Launch)",
       "Desc": "<IconMap:Icon_Normal> ; <IconMap:Icon_Normal> ; <IconMap:Icon_Normal> ; <IconMap:Icon_SpecialReady>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1011007": {
       "Name": "Dash Attack: Taser Blast",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1011008": {
       "Name": "Dodge Counter: Thunderclap",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1011009": {
       "Name": "Chain Attack: Electro Engine",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1011010": {
       "Name": "Ultimate: Overdrive Engine",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1011011": {
       "Name": "Quick Assist: Thunderfall",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1011012": {
       "Name": "Defensive Assist: Flash",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1011013": {
       "Name": "Assist Follow-Up: Lightning Whirl",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1011501": {
         "Level": 1,
         "Id": 1011501,
         "Name": [
@@ -1170,9 +1288,11 @@
         "Desc": [
           "Launch a <color=#FFFFFF>Basic Attack: Thunderbolt</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> after the 3rd hit of Anby's <color=#FFFFFF>Basic Attack</color> for an extra <color=#2BAD00>32%</color> Daze.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's <color=#FFFFFF>Dodge Counter</color> hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1011502": {
         "Level": 2,
         "Id": 1011502,
         "Name": [
@@ -1182,9 +1302,11 @@
         "Desc": [
           "Launch a <color=#FFFFFF>Basic Attack: Thunderbolt</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> after the 3rd hit of Anby's <color=#FFFFFF>Basic Attack</color> for an extra <color=#2BAD00>37.3%</color> Daze.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's <color=#FFFFFF>Dodge Counter</color> hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1011503": {
         "Level": 3,
         "Id": 1011503,
         "Name": [
@@ -1194,9 +1316,11 @@
         "Desc": [
           "Launch a <color=#FFFFFF>Basic Attack: Thunderbolt</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> after the 3rd hit of Anby's <color=#FFFFFF>Basic Attack</color> for an extra <color=#2BAD00>42.6%</color> Daze.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's <color=#FFFFFF>Dodge Counter</color> hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1011504": {
         "Level": 4,
         "Id": 1011504,
         "Name": [
@@ -1206,9 +1330,11 @@
         "Desc": [
           "Launch a <color=#FFFFFF>Basic Attack: Thunderbolt</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> after the 3rd hit of Anby's <color=#FFFFFF>Basic Attack</color> for an extra <color=#2BAD00>48%</color> Daze.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's <color=#FFFFFF>Dodge Counter</color> hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1011505": {
         "Level": 5,
         "Id": 1011505,
         "Name": [
@@ -1218,9 +1344,11 @@
         "Desc": [
           "Launch a <color=#FFFFFF>Basic Attack: Thunderbolt</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> after the 3rd hit of Anby's <color=#FFFFFF>Basic Attack</color> for an extra <color=#2BAD00>53.3%</color> Daze.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's <color=#FFFFFF>Dodge Counter</color> hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1011506": {
         "Level": 6,
         "Id": 1011506,
         "Name": [
@@ -1230,9 +1358,11 @@
         "Desc": [
           "Launch a <color=#FFFFFF>Basic Attack: Thunderbolt</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> after the 3rd hit of Anby's <color=#FFFFFF>Basic Attack</color> for an extra <color=#2BAD00>58.6%</color> Daze.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's <color=#FFFFFF>Dodge Counter</color> hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1011507": {
         "Level": 7,
         "Id": 1011507,
         "Name": [
@@ -1242,7 +1372,9 @@
         "Desc": [
           "Launch a <color=#FFFFFF>Basic Attack: Thunderbolt</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> after the 3rd hit of Anby's <color=#FFFFFF>Basic Attack</color> for an extra <color=#2BAD00>64%</color> Daze.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Anby's <color=#FFFFFF>Dodge Counter</color> hits an enemy, she gains an extra 7.2 Energy. This effect can trigger once every 5s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1320,5 +1452,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
-  }
+  },
+  "Potential": []
 }

@@ -42,12 +42,6 @@
     "AttackGrowth": 58761,
     "AvatarPieceId": 5071,
     "BreakStun": 105,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -59,7 +53,6 @@
     "Endurance": 0,
     "HpGrowth": 1039361,
     "HpMax": 766,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -69,7 +62,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Caesar",
@@ -80,8 +72,11 @@
       "Camp4",
       "Size3",
       "AidTypeParry",
-      "Caesar"
-    ]
+      "Caesar",
+      "EtherEyesSize3"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -250,11 +245,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Rampaging Slash",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 6 slashes ahead, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 6 slashes ahead, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Dead End",
-          "Desc": "When there are sufficient <color=#FFFFFF>Assist Points</color>, hold <IconMap:Icon_Normal> to activate:\nConsume 1 <color=#FFFFFF>Assist Point</color> to toss the shield and attack nearby enemies in all directions, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When there are sufficient <color=#FFFFFF>Assist Points</color>, hold <IconMap:Icon_Normal> to activate:\nConsume 1 <color=#FFFFFF>Assist Point</color> to toss the shield and attack nearby enemies in all directions, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Rampaging Slash",
@@ -277,9 +274,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2142,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -299,9 +299,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3409,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -321,9 +324,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11104,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit (ALT) DMG Multiplier",
@@ -343,9 +349,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7432,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -365,9 +374,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6812,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit DMG Multiplier",
@@ -387,9 +399,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13879,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "6th-Hit DMG Multiplier",
@@ -409,9 +424,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 26524,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -431,9 +449,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2142,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -453,9 +474,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3409,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -475,9 +499,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11104,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit (ALT) Daze Multiplier",
@@ -497,9 +524,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7432,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -519,9 +549,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6812,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "5th-Hit Daze Multiplier",
@@ -541,9 +574,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13879,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "6th-Hit Daze Multiplier",
@@ -563,11 +599,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 26524,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Dead End",
@@ -590,9 +630,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9410,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -612,12 +655,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 9410,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Assist Point Cost", "Desc": "1" }
-          ]
+            { "Name": "Assist Point Cost", "Desc": "1", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -639,15 +686,18 @@
       "Description": [
         {
           "Name": "Dodge: Adrift",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Hog Rush",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nStrikes forward with the shield, dealing <color=#F0D12B>Physical DMG</color>.\nDuring skill activation, DMG taken is reduced by 40%, and when attacked by an enemy, Caesar blocks with the shield and gets knocked back. Following that, press <IconMap:Icon_Special> or <IconMap:Icon_SpecialReady> to trigger <color=#FFFFFF>Retaliation</color> and activate <color=#FFFFFF>Special Attack: Roaring Thrust</color> or <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nStrikes forward with the shield, dealing <color=#F0D12B>Physical DMG</color>.\nDuring skill activation, DMG taken is reduced by 40%, and when attacked by an enemy, Caesar blocks with the shield and gets knocked back. Following that, press <IconMap:Icon_Special> or <IconMap:Icon_SpecialReady> to trigger <color=#FFFFFF>Retaliation</color> and activate <color=#FFFFFF>Special Attack: Roaring Thrust</color> or <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Eye For an Eye",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nStabs at enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nStabs at enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Hog Rush",
@@ -670,9 +720,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2831,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -692,11 +745,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2831,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Eye For an Eye",
@@ -719,9 +776,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5833,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -741,11 +801,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5833,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -767,32 +831,39 @@
       "Description": [
         {
           "Name": "Special Attack: Shockwave Shield Bash",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nStrike forward with the shield, dealing <color=#F0D12B>Physical DMG</color>.\nIf Caesar is hit by an enemy at the beginning of the skill's activation, it will trigger a <color=#FFFFFF>Perfect Block</color>, negating the damage once and automatically following up with a <color=#FFFFFF>Special Attack: Roaring Thrust</color>.\nAfter using the skill, Caesar enters a guard stance, reducing incoming damage by 40%. When attacked by an enemy, Caesar blocks with the shield and gets slightly knocked back. Press <IconMap:Icon_Special> or <IconMap:Icon_SpecialReady> to trigger <color=#FFFFFF>Retaliation</color>, activating <color=#FFFFFF>Special Attack: Roaring Thrust</color> or <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color>\nWhen <color=#FFFFFF>Retaliation</color> is triggered, Caesar is invulnerable while using the skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nStrike forward with the shield, dealing <color=#F0D12B>Physical DMG</color>.\nIf Caesar is hit by an enemy at the beginning of the skill's activation, it will trigger a <color=#FFFFFF>Perfect Block</color>, negating the damage once and automatically following up with a <color=#FFFFFF>Special Attack: Roaring Thrust</color>.\nAfter using the skill, Caesar enters a guard stance, reducing incoming damage by 40%. When attacked by an enemy, Caesar blocks with the shield and gets slightly knocked back. Press <IconMap:Icon_Special> or <IconMap:Icon_SpecialReady> to trigger <color=#FFFFFF>Retaliation</color>, activating <color=#FFFFFF>Special Attack: Roaring Thrust</color> or <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color>\nWhen <color=#FFFFFF>Retaliation</color> is triggered, Caesar is invulnerable while using the skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Roaring Thrust",
-          "Desc": "After activating <color=#FFFFFF>Special Attack: Shockwave Shield Bash</color>, press <IconMap:Icon_Special> to activate:\nThrusts forward, dealing <color=#F0D12B>Physical DMG</color>.\nIf <color=#FFFFFF>Perfect Block</color> or <color=#FFFFFF>Retaliation</color> is not triggered, the Anti-Interrupt level is increased while using this skill.\nCharacter is invulnerable while using this skill when <color=#FFFFFF>Perfect Block</color> or <color=#FFFFFF>Retaliation</color> is triggered."
+          "Desc": "After activating <color=#FFFFFF>Special Attack: Shockwave Shield Bash</color>, press <IconMap:Icon_Special> to activate:\nThrusts forward, dealing <color=#F0D12B>Physical DMG</color>.\nIf <color=#FFFFFF>Perfect Block</color> or <color=#FFFFFF>Retaliation</color> is not triggered, the Anti-Interrupt level is increased while using this skill.\nCharacter is invulnerable while using this skill when <color=#FFFFFF>Perfect Block</color> or <color=#FFFFFF>Retaliation</color> is triggered.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Parry Counter",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nStrikes forward with the shield, followed by a powerful thrust, dealing massive <color=#F0D12B>Physical DMG</color>.\nIf Caesar is hit by an enemy at the beginning of the skill activation or an <color=#FFFFFF>Interrupt</color> is triggered with the shield strike, it will trigger <color=#FFFFFF>Perfect Block</color>, negating incoming damage once and countering with a shield attack. After triggering <color=#FFFFFF>Perfect Block</color>, press <IconMap:Icon_SpecialReady> to activate <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> without consuming energy.\nAfter using the skill, Caesar enters a guard stance, reducing incoming damage by 40%. When attacked by an enemy, Caesar blocks the attack and is knocked back. Press <IconMap:Icon_Special> or <IconMap:Icon_SpecialReady> to trigger <color=#FFFFFF>Retaliation</color> and activate <color=#FFFFFF>Special Attack: Roaring Thrust</color> or <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color>\nCharacter is invulnerable while using this skill."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nStrikes forward with the shield, followed by a powerful thrust, dealing massive <color=#F0D12B>Physical DMG</color>.\nIf Caesar is hit by an enemy at the beginning of the skill activation or an <color=#FFFFFF>Interrupt</color> is triggered with the shield strike, it will trigger <color=#FFFFFF>Perfect Block</color>, negating incoming damage once and countering with a shield attack. After triggering <color=#FFFFFF>Perfect Block</color>, press <IconMap:Icon_SpecialReady> to activate <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> without consuming energy.\nAfter using the skill, Caesar enters a guard stance, reducing incoming damage by 40%. When attacked by an enemy, Caesar blocks the attack and is knocked back. Press <IconMap:Icon_Special> or <IconMap:Icon_SpecialReady> to trigger <color=#FFFFFF>Retaliation</color> and activate <color=#FFFFFF>Special Attack: Roaring Thrust</color> or <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color>\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Overpowered Shield Bash",
-          "Desc": "After activating <color=#FFFFFF>EX Special Attack: Parry Counter</color>, with enough energy, press <IconMap:Icon_SpecialReady> to activate:\nStrikes forward with the shield, dealing massive <color=#F0D12B>Physical DMG</color>.\nIf Caesar is hit by an enemy at the beginning of the skill activation or an <color=#FFFFFF>Interrupt</color> is triggered with the shield strike, it will trigger <color=#FFFFFF>Perfect Block</color>, negating incoming damage once and recovering the Energy used to activate the skill.\nWhen the skill is activated through <color=#FFFFFF>Perfect Block</color> or <color=#FFFFFF>Retaliation</color>, it cannot trigger <color=#FFFFFF>Perfect Block</color> again.\nCharacter is invulnerable while using this skill."
+          "Desc": "After activating <color=#FFFFFF>EX Special Attack: Parry Counter</color>, with enough energy, press <IconMap:Icon_SpecialReady> to activate:\nStrikes forward with the shield, dealing massive <color=#F0D12B>Physical DMG</color>.\nIf Caesar is hit by an enemy at the beginning of the skill activation or an <color=#FFFFFF>Interrupt</color> is triggered with the shield strike, it will trigger <color=#FFFFFF>Perfect Block</color>, negating incoming damage once and recovering the Energy used to activate the skill.\nWhen the skill is activated through <color=#FFFFFF>Perfect Block</color> or <color=#FFFFFF>Retaliation</color>, it cannot trigger <color=#FFFFFF>Perfect Block</color> again.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Stance Switch",
-          "Desc": "When Caesar triggers a <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, or <color=#FFFFFF>Defensive Assist</color>, her impact is increased by <color=#2BAD00>{CAL:8+AvatarSkillLevel(1)*1,1,2}</color>% for 3s."
+          "Desc": "When Caesar triggers a <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, or <color=#FFFFFF>Defensive Assist</color>, her impact is increased by <color=#2BAD00>{CAL:8+AvatarSkillLevel(1)*1,1,2}</color>% for 3s.",
+          "Potential": []
         },
         {
           "Name": "Stance Switch",
           "Param": [
             {
               "Name": "Impact Increase",
-              "Desc": "{CAL:8+AvatarSkillLevel(1)*1,1,2}%"
+              "Desc": "{CAL:8+AvatarSkillLevel(1)*1,1,2}%",
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Special Attack: Shockwave Shield Bash",
@@ -815,9 +886,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2418,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -837,9 +911,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2418,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "[Perfect Block] Daze Multiplier",
@@ -859,11 +936,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Special Attack: Roaring Thrust",
@@ -886,9 +967,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2668,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -908,11 +992,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2668,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Parry Counter",
@@ -935,9 +1023,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24911,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -957,9 +1048,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24911,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "[Perfect Block] Daze Multiplier",
@@ -979,9 +1073,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "[Perfect Block] Counter DMG Multiplier",
@@ -1001,9 +1098,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24911,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "[Perfect Block] Counter Daze Multiplier",
@@ -1023,12 +1123,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 24911,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "40" }
-          ]
+            { "Name": "Energy Cost", "Desc": "40", "Potential": [] }
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Overpowered Shield Bash",
@@ -1051,9 +1155,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 28287,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1073,9 +1180,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 28287,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "[Perfect Block] Daze Multiplier",
@@ -1095,12 +1205,20 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Press Activation Energy Cost", "Desc": "20" }
-          ]
+            {
+              "Name": "Press Activation Energy Cost",
+              "Desc": "20",
+              "Potential": []
+            }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1122,11 +1240,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Road Rage Slam",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful downward strike at enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful downward strike at enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Savage Smash",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nTosses the shield forward, unleashing a powerful spinning attack on enemies in front, followed by a downward strike, dealing massive <color=#F0D12B>Physical DMG</color>.\nWhen hitting shielded enemies, the Daze dealt is increased by <color=#2BAD00>{CAL:40+AvatarSkillLevel(3)*5,1,2}%</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nTosses the shield forward, unleashing a powerful spinning attack on enemies in front, followed by a downward strike, dealing massive <color=#F0D12B>Physical DMG</color>.\nWhen hitting shielded enemies, the Daze dealt is increased by <color=#2BAD00>{CAL:40+AvatarSkillLevel(3)*5,1,2}%</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Road Rage Slam",
@@ -1149,9 +1269,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 38116,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1171,11 +1294,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 38116,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Savage Smash",
@@ -1198,9 +1325,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 25329,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1220,15 +1350,20 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 25329,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Increase",
-              "Desc": "{CAL:40+AvatarSkillLevel(3)*5,1,2}%"
+              "Desc": "{CAL:40+AvatarSkillLevel(3)*5,1,2}%",
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1250,15 +1385,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Lane Change",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nThrust at enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nThrust at enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Aegis Shield",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Aiding Blade",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nTosses the shield forward, unleashing a powerful spinning attack on enemies in front, followed by a slash that deals <color=#F0D12B>Physical DMG</color>.\nAfter activating the skill, press <IconMap:Icon_Special> or <IconMap:Icon_SpecialReady> to trigger a <color=#FFFFFF>Retaliation</color>, activating <color=#FFFFFF>Special Attack: Roaring Thrust</color> or <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nTosses the shield forward, unleashing a powerful spinning attack on enemies in front, followed by a slash that deals <color=#F0D12B>Physical DMG</color>.\nAfter activating the skill, press <IconMap:Icon_Special> or <IconMap:Icon_SpecialReady> to trigger a <color=#FFFFFF>Retaliation</color>, activating <color=#FFFFFF>Special Attack: Roaring Thrust</color> or <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Lane Change",
@@ -1281,9 +1419,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5833,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1303,11 +1444,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5833,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Aegis Shield",
@@ -1330,9 +1475,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1352,9 +1500,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1374,11 +1525,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Aiding Blade",
@@ -1401,9 +1556,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34697,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1423,11 +1581,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 34697,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1451,90 +1613,104 @@
       "Name": "Basic Attack: Rampaging Slash",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1071002": {
       "Name": "Basic Attack: Dead End",
       "Desc": "<IconMap:Icon_Normal> (Hold) (With sufficient Assist Points)",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1071003": {
       "Name": "Special Attack: Shockwave Shield Bash",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1071004": {
       "Name": "Special Attack: Roaring Thrust",
       "Desc": "<IconMap:Icon_Special> ; <IconMap:Icon_Special>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1071005": {
       "Name": "EX Special Attack: Parry Counter",
       "Desc": "<IconMap:Icon_SpecialReady>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1071006": {
       "Name": "EX Special Attack: Overpowered Shield Bash",
       "Desc": "<IconMap:Icon_SpecialReady> ; <IconMap:Icon_SpecialReady>",
       "ElementType": 200,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1071007": {
       "Name": "EX Special Attack: Overpowered Shield Bash (Retaliation)",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist); <IconMap:Icon_Normal> ; <IconMap:Icon_SpecialReady>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1071008": {
       "Name": "Dash Attack: Hog Rush",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1071009": {
       "Name": "Dodge Counter: Eye For an Eye",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1071010": {
       "Name": "Chain Attack: Road Rage Slam",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1071011": {
       "Name": "Ultimate: Savage Smash",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1071012": {
       "Name": "Assist: Lane Change",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1071013": {
       "Name": "Defensive Assist: Aegis Shield",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1071014": {
       "Name": "Assist Follow-Up: Aiding Blade",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1071501": {
         "Level": 1,
         "Id": 1071501,
         "Name": [
@@ -1544,9 +1720,11 @@
         "Desc": [
           "When Caesar activates <color=#FFFFFF>EX Special Attack: Parry Counter</color>, <color=#FFFFFF>Chain Attack</color>, <color=#FFFFFF>Ultimate</color>, or triggers <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> through <color=#FFFFFF>Retaliation</color>, she buffs all squad members with a <color=#FFFFFF>Radiant Aegis</color> shield equal to <color=#2BAD00>300%</color> of her base Impact + <color=#2BAD00>200</color>. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's Anti-Interrupt level is increased.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's ATK is increased by <color=#2BAD00>40</color>. After <color=#FFFFFF>Radiant Aegis</color> expires, this buff remains for an additional 5s.",
           "When another character in your squad can activate <color=#FFFFFF>Defensive Assist</color> or shares the same Faction:\nWhen Caesar activates <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Basic Attack: Dead End</color>, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1071502": {
         "Level": 2,
         "Id": 1071502,
         "Name": [
@@ -1556,9 +1734,11 @@
         "Desc": [
           "When Caesar activates <color=#FFFFFF>EX Special Attack: Parry Counter</color>, <color=#FFFFFF>Chain Attack</color>, <color=#FFFFFF>Ultimate</color>, or triggers <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> through <color=#FFFFFF>Retaliation</color>, she buffs all squad members with a <color=#FFFFFF>Radiant Aegis</color> shield equal to <color=#2BAD00>500%</color> of her base Impact + <color=#2BAD00>400</color>. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's Anti-Interrupt level is increased.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's ATK is increased by <color=#2BAD00>135</color>. After <color=#FFFFFF>Radiant Aegis</color> expires, this buff remains for an additional 5s.",
           "When another character in your squad can activate <color=#FFFFFF>Defensive Assist</color> or shares the same Faction:\nWhen Caesar activates <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Basic Attack: Dead End</color>, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1071503": {
         "Level": 3,
         "Id": 1071503,
         "Name": [
@@ -1568,9 +1748,11 @@
         "Desc": [
           "When Caesar activates <color=#FFFFFF>EX Special Attack: Parry Counter</color>, <color=#FFFFFF>Chain Attack</color>, <color=#FFFFFF>Ultimate</color>, or triggers <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> through <color=#FFFFFF>Retaliation</color>, she buffs all squad members with a <color=#FFFFFF>Radiant Aegis</color> shield equal to <color=#2BAD00>700%</color> of her base Impact + <color=#2BAD00>700</color>. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's Anti-Interrupt level is increased.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's ATK is increased by <color=#2BAD00>240</color>. After <color=#FFFFFF>Radiant Aegis</color> expires, this buff remains for an additional 5s.",
           "When another character in your squad can activate <color=#FFFFFF>Defensive Assist</color> or shares the same Faction:\nWhen Caesar activates <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Basic Attack: Dead End</color>, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1071504": {
         "Level": 4,
         "Id": 1071504,
         "Name": [
@@ -1580,9 +1762,11 @@
         "Desc": [
           "When Caesar activates <color=#FFFFFF>EX Special Attack: Parry Counter</color>, <color=#FFFFFF>Chain Attack</color>, <color=#FFFFFF>Ultimate</color>, or triggers <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> through <color=#FFFFFF>Retaliation</color>, she buffs all squad members with a <color=#FFFFFF>Radiant Aegis</color> shield equal to <color=#2BAD00>900%</color> of her base Impact + <color=#2BAD00>900</color>. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's Anti-Interrupt level is increased.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's ATK is increased by <color=#2BAD00>400</color>. After <color=#FFFFFF>Radiant Aegis</color> expires, this buff remains for an additional 5s.",
           "When another character in your squad can activate <color=#FFFFFF>Defensive Assist</color> or shares the same Faction:\nWhen Caesar activates <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Basic Attack: Dead End</color>, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1071505": {
         "Level": 5,
         "Id": 1071505,
         "Name": [
@@ -1592,9 +1776,11 @@
         "Desc": [
           "When Caesar activates <color=#FFFFFF>EX Special Attack: Parry Counter</color>, <color=#FFFFFF>Chain Attack</color>, <color=#FFFFFF>Ultimate</color>, or triggers <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> through <color=#FFFFFF>Retaliation</color>, she buffs all squad members with a <color=#FFFFFF>Radiant Aegis</color> shield equal to <color=#2BAD00>1,100%</color> of her base Impact + <color=#2BAD00>1,100</color>. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's Anti-Interrupt level is increased.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's ATK is increased by <color=#2BAD00>650</color>. After <color=#FFFFFF>Radiant Aegis</color> expires, this buff remains for an additional 5s.",
           "When another character in your squad can activate <color=#FFFFFF>Defensive Assist</color> or shares the same Faction:\nWhen Caesar activates <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Basic Attack: Dead End</color>, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1071506": {
         "Level": 6,
         "Id": 1071506,
         "Name": [
@@ -1604,9 +1790,11 @@
         "Desc": [
           "When Caesar activates <color=#FFFFFF>EX Special Attack: Parry Counter</color>, <color=#FFFFFF>Chain Attack</color>, <color=#FFFFFF>Ultimate</color>, or triggers <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> through <color=#FFFFFF>Retaliation</color>, she buffs all squad members with a <color=#FFFFFF>Radiant Aegis</color> shield equal to <color=#2BAD00>1,300%</color> of her base Impact + <color=#2BAD00>1,300</color>. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's Anti-Interrupt level is increased.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's ATK is increased by <color=#2BAD00>900</color>. After <color=#FFFFFF>Radiant Aegis</color> expires, this buff remains for an additional 5s.",
           "When another character in your squad can activate <color=#FFFFFF>Defensive Assist</color> or shares the same Faction:\nWhen Caesar activates <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Basic Attack: Dead End</color>, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1071507": {
         "Level": 7,
         "Id": 1071507,
         "Name": [
@@ -1616,7 +1804,9 @@
         "Desc": [
           "When Caesar activates <color=#FFFFFF>EX Special Attack: Parry Counter</color>, <color=#FFFFFF>Chain Attack</color>, <color=#FFFFFF>Ultimate</color>, or triggers <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> through <color=#FFFFFF>Retaliation</color>, she buffs all squad members with a <color=#FFFFFF>Radiant Aegis</color> shield equal to <color=#2BAD00>1,400%</color> of her base Impact + <color=#2BAD00>1,400</color>. The shield lasts for 60s and is equipped by the active character, with its value shared among all squad members. Any single instance of DMG will not exceed the shield value.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's Anti-Interrupt level is increased.\nWhile <color=#FFFFFF>Radiant Aegis</color> is active, the shield bearer's ATK is increased by <color=#2BAD00>1,000</color>. After <color=#FFFFFF>Radiant Aegis</color> expires, this buff remains for an additional 5s.",
           "When another character in your squad can activate <color=#FFFFFF>Defensive Assist</color> or shares the same Faction:\nWhen Caesar activates <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, <color=#FFFFFF>Defensive Assist</color>, or <color=#FFFFFF>Basic Attack: Dead End</color>, she applies a Debuff effect to enemies within a 7m radius, increasing the damage they take from all squad members by 25% for 30s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1662,7 +1852,7 @@
     "6": {
       "Level": 6,
       "Name": "Overlord's Will",
-      "Desc": "<color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> and <color=#FFFFFF>Assist Follow-Up</color> are guaranteed to trigger a critical hit. The skill's DMG is increased by 50% and deals additional 50% DMG to the primary target. When Caesar uses <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> or <color=#FFFFFF>Assist Follow-Up</color>, her CRIT Rate is increased by 30% and her CRIT DMG is increased by 60% for 15s.",
+      "Desc": "<color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> and <color=#FFFFFF>Assist Follow-Up: Aiding Blade</color> are guaranteed to trigger a critical hit. The skill's DMG is increased by 50% and deals additional 50% DMG to the primary target. When Caesar uses <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> or <color=#FFFFFF>Assist Follow-Up: Aiding Blade</color>, her CRIT Rate is increased by 30% and her CRIT DMG is increased by 60% for 15s.",
       "Desc2": "\"I used to keep my eyes straight ahead, thinking that as long as I was strong enough, I could do anything.\"\n\"But being a great leader takes more than just power.\"\n\"I need to protect my friends behind me — they are the reason I can keep going.\""
     }
   },
@@ -1694,5 +1884,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
-  }
+  },
+  "Potential": []
 }

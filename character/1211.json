@@ -42,12 +42,6 @@
     "AttackGrowth": 60201,
     "AvatarPieceId": 5211,
     "BreakStun": 83,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -59,7 +53,6 @@
     "Endurance": 0,
     "HpGrowth": 939358,
     "HpMax": 692,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -69,7 +62,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Rina",
@@ -79,8 +71,11 @@
       "Camp2",
       "Size3",
       "AidTypeEvade",
-      "Rina"
-    ]
+      "Rina",
+      "EtherEyesSize3"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -249,11 +244,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Whack the Dimwit",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nOrder Drusilla and Anastella to attack up to 4 times, dealing <color=#F0D12B>Physical DMG</color> and <color=#2EB6FF>Electric DMG</color>.\nPerforming other actions with Rina during Drusilla and Anastella's attacks will not interrupt Rina's <color=#FFFFFF>Basic Attack</color> combo count."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nOrder Drusilla and Anastella to attack up to 4 times, dealing <color=#F0D12B>Physical DMG</color> and <color=#2EB6FF>Electric DMG</color>.\nPerforming other actions with Rina during Drusilla and Anastella's attacks will not interrupt Rina's <color=#FFFFFF>Basic Attack</color> combo count.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Shoo the Fool",
-          "Desc": "Hold <IconMap:Icon_Normal> or <IconMap:Icon_Special> to activate:\nCalls back Drusilla and Anastella to swing them around for a ranged attack, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Hold <IconMap:Icon_Normal> or <IconMap:Icon_Special> to activate:\nCalls back Drusilla and Anastella to swing them around for a ranged attack, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Whack the Dimwit",
@@ -276,9 +273,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -298,9 +298,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -320,9 +323,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8363,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -342,9 +348,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10474,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -364,9 +373,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -386,9 +398,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -408,9 +423,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8363,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -430,11 +448,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10474,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Shoo the Fool",
@@ -457,9 +479,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 30003,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -479,11 +504,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 30003,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -505,15 +534,18 @@
       "Description": [
         {
           "Name": "Dodge: Dress Adjustment",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Sudden Surprise",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nOrder Drusilla and Anastella to execute a piercing attack, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nOrder Drusilla and Anastella to execute a piercing attack, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Bangboo Callback",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nOrder Drusilla and Anastella to spin forward and trigger an explosion, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nOrder Drusilla and Anastella to spin forward and trigger an explosion, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Sudden Surprise",
@@ -536,9 +568,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -558,11 +593,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Bangboo Callback",
@@ -585,9 +624,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -607,11 +649,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -633,11 +679,13 @@
       "Description": [
         {
           "Name": "Special Attack: Beat the Blockhead",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nOrder Anastella to execute a downward smash, dealing <color=#2EB6FF>Electric DMG</color>\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nOrder Anastella to execute a downward smash, dealing <color=#2EB6FF>Electric DMG</color>\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Dimwit Disappearing Trick",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nOrder Drusilla and Anastella to execute multiple downward smashes, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nOrder Drusilla and Anastella to execute multiple downward smashes, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Beat the Blockhead",
@@ -660,9 +708,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5835,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -682,11 +733,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5835,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Dimwit Disappearing Trick",
@@ -709,9 +764,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 47162,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -731,12 +789,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 47162,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60" }
-          ]
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -758,11 +820,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Code of Conduct",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nOrder Drusilla and Anastella to push forward and generate a ball-shaped electrical field that deals massive <color=#2EB6FF>Electric DMG</color>.\nDuring this skill, Drusilla and Anastella are unable to perform <color=#FFFFFF>Basic Attacks</color>, <color=#FFFFFF>Dash Attacks</color>, <color=#FFFFFF>Special Attacks</color>, and <color=#FFFFFF>EX Special Attacks</color>, but can be recalled to Rina's side through <color=#FFFFFF>Basic Attack: Shoo the Fool</color>.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nOrder Drusilla and Anastella to push forward and generate a ball-shaped electrical field that deals massive <color=#2EB6FF>Electric DMG</color>.\nDuring this skill, Drusilla and Anastella are unable to perform <color=#FFFFFF>Basic Attacks</color>, <color=#FFFFFF>Dash Attacks</color>, <color=#FFFFFF>Special Attacks</color>, and <color=#FFFFFF>EX Special Attacks</color>, but can be recalled to Rina's side through <color=#FFFFFF>Basic Attack: Shoo the Fool</color>.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: The Queen's Attendants",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nOrder Drusilla and Anastella to spin forward, dealing massive <color=#2EB6FF>Electric DMG</color>.\nDuring this skill, Drusilla and Anastella are unable to respond to <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> commands, but can be recalled to Rina's side through <color=#FFFFFF>Basic Attack: Shoo the Fool</color>.\nUpon activating this skill, the other squad members recover 10 Energy. The next character to switch in recovers an additional 20 Energy.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nOrder Drusilla and Anastella to spin forward, dealing massive <color=#2EB6FF>Electric DMG</color>.\nDuring this skill, Drusilla and Anastella are unable to respond to <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> commands, but can be recalled to Rina's side through <color=#FFFFFF>Basic Attack: Shoo the Fool</color>.\nUpon activating this skill, the other squad members recover 10 Energy. The next character to switch in recovers an additional 20 Energy.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Code of Conduct",
@@ -785,9 +849,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 36620,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -807,11 +874,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 36620,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: The Queen's Attendants",
@@ -834,9 +905,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10837,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -856,11 +930,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10837,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -882,15 +960,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Duple Meter Allemande",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nOrder Drusilla and Anastella to spin forward and trigger an explosion, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nOrder Drusilla and Anastella to spin forward and trigger an explosion, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Evasive Assist: Triple Meter Courante",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nDodges the enemy's attack and activates <color=#FFFFFF>Vital View</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nDodges the enemy's attack and activates <color=#FFFFFF>Vital View</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Quadruple Meter Gavotte",
-          "Desc": "Press <IconMap:Icon_Normal> after an <color=#FFFFFF>Evasive Assist</color> to activate:\nOrder Drusilla and Anastella to push forward and generate an electrical vortex, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after an <color=#FFFFFF>Evasive Assist</color> to activate:\nOrder Drusilla and Anastella to push forward and generate an electrical vortex, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Duple Meter Allemande",
@@ -913,9 +994,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -935,11 +1019,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 11670,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Quadruple Meter Gavotte",
@@ -962,9 +1050,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 31092,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -984,11 +1075,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 31092,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1012,72 +1107,83 @@
       "Name": "Basic Attack: Whack the Dimwit",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1211002": {
       "Name": "Basic Attack: Shoo the Fool",
       "Desc": "<IconMap:Icon_Normal>(Hold)",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1211003": {
       "Name": "Special Attack: Beat the Blockhead",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1211004": {
       "Name": "EX Special Attack: Dimwit Disappearing Trick",
       "Desc": "<IconMap:Icon_SpecialReady>",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1211005": {
       "Name": "Dash Attack: Sudden Surprise",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 103
+      "HitType": 103,
+      "Potential": []
     },
     "1211006": {
       "Name": "Dodge Counter: Bangboo Callback",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1211007": {
       "Name": "Chain Attack: Code of Conduct",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1211008": {
       "Name": "Ultimate: The Queen's Attendants",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1211009": {
       "Name": "Quick Assist: Duple Meter Allemande",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1211010": {
       "Name": "Evasive Assist: Triple Meter Courante",
       "Desc": "<IconMap:Icon_Switch>(When Triggering Evasive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1211011": {
       "Name": "Assist Follow-Up: Quadruple Meter Gavotte",
       "Desc": "<IconMap:Icon_Normal> (After Evasive Assist)",
       "ElementType": 203,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1211501": {
         "Level": 1,
         "Id": 1211501,
         "Name": [
@@ -1087,9 +1193,11 @@
         "Desc": [
           "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + <color=#2BAD00>6%</color>, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
           "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of <color=#2EB6FF>Shock</color> inflicted on enemies by any character by 3s. When <color=#2EB6FF>Shocked</color> enemies are on the field, all squad members' <color=#2EB6FF>Electric DMG</color> increases by 10%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1211502": {
         "Level": 2,
         "Id": 1211502,
         "Name": [
@@ -1099,9 +1207,11 @@
         "Desc": [
           "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + <color=#2BAD00>7.5%</color>, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
           "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of <color=#2EB6FF>Shock</color> inflicted on enemies by any character by 3s. When <color=#2EB6FF>Shocked</color> enemies are on the field, all squad members' <color=#2EB6FF>Electric DMG</color> increases by 10%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1211503": {
         "Level": 3,
         "Id": 1211503,
         "Name": [
@@ -1111,9 +1221,11 @@
         "Desc": [
           "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + <color=#2BAD00>9%</color>, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
           "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of <color=#2EB6FF>Shock</color> inflicted on enemies by any character by 3s. When <color=#2EB6FF>Shocked</color> enemies are on the field, all squad members' <color=#2EB6FF>Electric DMG</color> increases by 10%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1211504": {
         "Level": 4,
         "Id": 1211504,
         "Name": [
@@ -1123,9 +1235,11 @@
         "Desc": [
           "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + <color=#2BAD00>10.2%</color>, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
           "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of <color=#2EB6FF>Shock</color> inflicted on enemies by any character by 3s. When <color=#2EB6FF>Shocked</color> enemies are on the field, all squad members' <color=#2EB6FF>Electric DMG</color> increases by 10%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1211505": {
         "Level": 5,
         "Id": 1211505,
         "Name": [
@@ -1135,9 +1249,11 @@
         "Desc": [
           "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + <color=#2BAD00>10.8%</color>, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
           "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of <color=#2EB6FF>Shock</color> inflicted on enemies by any character by 3s. When <color=#2EB6FF>Shocked</color> enemies are on the field, all squad members' <color=#2EB6FF>Electric DMG</color> increases by 10%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1211506": {
         "Level": 6,
         "Id": 1211506,
         "Name": [
@@ -1147,9 +1263,11 @@
         "Desc": [
           "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + <color=#2BAD00>11.4%</color>, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
           "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of <color=#2EB6FF>Shock</color> inflicted on enemies by any character by 3s. When <color=#2EB6FF>Shocked</color> enemies are on the field, all squad members' <color=#2EB6FF>Electric DMG</color> increases by 10%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1211507": {
         "Level": 7,
         "Id": 1211507,
         "Name": [
@@ -1159,7 +1277,9 @@
         "Desc": [
           "When ordering Drusilla or Anastella to attack, other squad members' PEN Ratio increases together with Rina's, by 25% of Rina's PEN Ratio + <color=#2BAD00>12%</color>, up to 30%. The effect ends when both Drusilla and Anastella return to Rina.",
           "When another character in your squad shares the same Attribute or Faction:\nIncreases the duration of <color=#2EB6FF>Shock</color> inflicted on enemies by any character by 3s. When <color=#2EB6FF>Shocked</color> enemies are on the field, all squad members' <color=#2EB6FF>Electric DMG</color> increases by 10%."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1237,5 +1357,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
-  }
+  },
+  "Potential": []
 }

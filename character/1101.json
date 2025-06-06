@@ -18,7 +18,7 @@
     "ImpressionF": "What's that line from that detective movie we watched again?\n\"She may look like a child...\" Well, no matter how old she is or how she looks, Koleda really is a kid, and she's so cute!",
     "ImpressionM": "I hope your comment isn't seen by a certain someone, or our video store will be end up smashed to bits by a hammer.",
     "Name": "",
-    "OutlookDesc": "New Eridu Citizen Verification Profile Info:\nHollow Investigator ��� Koleda, possessing high Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: \"Young girls should limit their activity in environments like Hollows.\"\n— Excerpt from a handwritten medical record by a doctor. Surprisingly, the time spent deciphering the handwriting in this sentence took longer than the entire search process itself.",
+    "OutlookDesc": "New Eridu Citizen Verification Profile Info:\nHollow Investigator — Koleda, possessing high Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: \"Young girls should limit their activity in environments like Hollows.\"\n— Excerpt from a handwritten medical record by a doctor. Surprisingly, the time spent deciphering the handwriting in this sentence took longer than the entire search process itself.",
     "ProfileDesc": "Koleda is the current head of Belobog Industries, and the biological daughter of the company's founder, Khors.\nHer father, Khors, vanished due to a scandal involving embezzlement and fled, which severely shook the company, nearly driving it to the brink of collapse. Once she came of age, Koleda willingly stepped up to untangle the mess, rallying the remaining company workforce and resources to revive the financially and reputationally vulnerable Belobog Heavy Industries.\nWith the help of new invaluable team members, Belobog eventually managed to regain its prominence in relevant sectors. Though not as resplendent as its prime, Belobog in its current state is still a notable newcomer in the field.\nThroughout her journey, Koleda amassed practical life experiences and professional know-how, building a circle of colleagues who back her up like family. Yet, to present herself as a leader, Koleda appears to intentionally adopt a stern tone when communicating with others.\nThis distinct growth trajectory has also contributed to Koleda's heightened maturity in certain aspects compared to her peers. \nNaturally, she might display a bit of childishness in certain aspects as well.\nHypothesis: Koleda's comparatively smaller stature among her peers may stem from her prolonged involvement in the Hollows. \nCurrently, there aren't any publicly accessible papers or research substantiating this theory, but I will continue to track this topic.",
     "Race": "Belobog Heavy Industries",
     "RoleIcon": "IconRole/UnPacker/IconRole14",
@@ -43,12 +43,6 @@
     "AttackGrowth": 62007,
     "AvatarPieceId": 5101,
     "BreakStun": 116,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -60,7 +54,6 @@
     "Endurance": 0,
     "HpGrowth": 886832,
     "HpMax": 653,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -70,7 +63,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "OokumaMari",
@@ -80,8 +72,11 @@
       "Camp3",
       "Size1",
       "AidTypeParry",
-      "Koleda"
-    ]
+      "Koleda",
+      "EtherEyesSize1"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -250,7 +245,8 @@
       "Description": [
         {
           "Name": "Basic Attack: Smash 'n' Bash",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 strikes, dealing <color=#F0D12B>Physical DMG</color>.\nWhen Koleda has the <color=#FFFFFF>Furnace Fire</color> effect, she can launch an enhanced <color=#FFFFFF>Basic Attack</color> after the 2nd hit, consuming the <color=#FFFFFF>Furnace Fire</color> effect and dealing massive <color=#FF5521>Fire DMG</color>.\nWhen Koleda and Ben are deployed together, executing an enhanced <color=#FFFFFF>Basic Attack</color> will trigger a coordinated attack from both, further increasing the move's power;\nKoleda is invulnerable during the <color=#FFFFFF>Basic Attack's</color> 4th hit and enhanced <color=#FFFFFF>Basic Attack</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 strikes, dealing <color=#F0D12B>Physical DMG</color>.\nWhen Koleda has the <color=#FFFFFF>Furnace Fire</color> effect, she can launch an enhanced <color=#FFFFFF>Basic Attack</color> after the 2nd hit, consuming the <color=#FFFFFF>Furnace Fire</color> effect and dealing massive <color=#FF5521>Fire DMG</color>.\nWhen Koleda and Ben are deployed together, executing an enhanced <color=#FFFFFF>Basic Attack</color> will trigger a coordinated attack from both, further increasing the move's power;\nKoleda is invulnerable during the <color=#FFFFFF>Basic Attack's</color> 4th hit and enhanced <color=#FFFFFF>Basic Attack</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Smash 'n' Bash",
@@ -273,9 +269,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -295,9 +294,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -317,9 +319,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -339,9 +344,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Enhanced Basic Attack 1st-Hit DMG Multiplier",
@@ -361,9 +369,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4435,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Enhanced Basic Attack 2nd-Hit DMG Multiplier",
@@ -383,9 +394,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 14908,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Enhanced Basic Attack 2nd-Hit Dmg Multiplier (Teamwork)",
@@ -405,9 +419,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18629,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -427,9 +444,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -449,9 +469,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -471,9 +494,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -493,9 +519,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Enhanced Basic Attack 1st-Hit Daze Multiplier",
@@ -515,9 +544,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4435,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Enhanced Basic Attack 2nd-Hit Daze Multiplier",
@@ -537,9 +569,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 14908,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Enhanced Basic Attack 2nd-Hit Daze Multiplier (Teamwork)",
@@ -559,11 +594,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18629,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -585,15 +624,18 @@
       "Description": [
         {
           "Name": "Dodge: Wait 'n' See",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Tremble!",
-          "Desc": "Press <IconMap:Icon_Normal> during a Dodge to activate:\nStrikes enemies in front, dealing <color=#F0D12B>Physical DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> during a Dodge to activate:\nStrikes enemies in front, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Don't Look Down on Me",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nStrikes enemies in front and creates an explosion, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nStrikes enemies in front and creates an explosion, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Tremble!",
@@ -616,9 +658,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -638,11 +683,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Don't Look Down on Me",
@@ -665,9 +714,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17496,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -687,11 +739,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17496,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -713,11 +769,13 @@
       "Description": [
         {
           "Name": "Special Attack: Hammer Time",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nStrikes enemies in front and triggers an explosion, dealing <color=#FF5521>Fire DMG</color>.\nThis skill launches faster and triggers an explosion when used after the 2nd or 4th hit of Koleda's <color=#FFFFFF>Basic Attack</color> or enhanced <color=#FFFFFF>Basic Attack</color>.\nWhen Koleda and Ben are both in your squad, and this skill is quickly launched after an enhanced <color=#FFFFFF>Basic Attack</color>, they team up to launch a coordinated attack, further increasing the power of the skill.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nStrikes enemies in front and triggers an explosion, dealing <color=#FF5521>Fire DMG</color>.\nThis skill launches faster and triggers an explosion when used after the 2nd or 4th hit of Koleda's <color=#FFFFFF>Basic Attack</color> or enhanced <color=#FFFFFF>Basic Attack</color>.\nWhen Koleda and Ben are both in your squad, and this skill is quickly launched after an enhanced <color=#FFFFFF>Basic Attack</color>, they team up to launch a coordinated attack, further increasing the power of the skill.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Boiling Furnace",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nStrikes enemies in front and triggers a powerful explosion, dealing massive <color=#FF5521>Fire DMG</color>. Koleda also gains the <color=#FFFFFF>Furnace Fire</color> effect.\nThis skill activates faster and triggers an explosion when used after the 2nd or 4th hit of Koleda's <color=#FFFFFF>Basic Attack</color> or enhanced <color=#FFFFFF>Basic Attack</color>.\nWhen Koleda and Ben are both in your squad and this skill is quickly launched after an enhanced <color=#FFFFFF>Basic Attack</color>, they team up to launch a coordinated attack, further increasing the power of the skill.\nCharacter is invulnerable while using this skill."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nStrikes enemies in front and triggers a powerful explosion, dealing massive <color=#FF5521>Fire DMG</color>. Koleda also gains the <color=#FFFFFF>Furnace Fire</color> effect.\nThis skill activates faster and triggers an explosion when used after the 2nd or 4th hit of Koleda's <color=#FFFFFF>Basic Attack</color> or enhanced <color=#FFFFFF>Basic Attack</color>.\nWhen Koleda and Ben are both in your squad and this skill is quickly launched after an enhanced <color=#FFFFFF>Basic Attack</color>, they team up to launch a coordinated attack, further increasing the power of the skill.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Hammer Time",
@@ -740,9 +798,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6418,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion DMG Multiplier",
@@ -762,9 +823,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5918,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion DMG Multiplier (Teamwork)",
@@ -784,9 +848,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5918,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Strike Daze Multiplier",
@@ -806,9 +873,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6418,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion Daze Multiplier",
@@ -828,9 +898,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5918,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion Daze Multiplier (Teamwork)",
@@ -850,11 +923,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5918,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Boiling Furnace",
@@ -877,9 +954,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7248,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion DMG Multiplier",
@@ -899,9 +979,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 47612,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion DMG Multiplier (Teamwork)",
@@ -921,9 +1004,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 47612,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Strike Daze Multiplier",
@@ -943,9 +1029,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7248,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion Daze Multiplier",
@@ -965,9 +1054,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 47612,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Explosion Daze Multiplier (Teamwork)",
@@ -987,12 +1079,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 47612,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60" }
-          ]
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1014,11 +1110,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Natural Disaster",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful explosion on enemies in a large area, dealing massive <color=#FF5521>Fire DMG</color> while also obtaining the <color=#FFFFFF>Furnace Fire</color> effect.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful explosion on enemies in a large area, dealing massive <color=#FF5521>Fire DMG</color> while also obtaining the <color=#FFFFFF>Furnace Fire</color> effect.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Hammerquake",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful explosion on enemies in a large area in front, dealing massive <color=#FF5521>Fire DMG</color> while also obtaining the <color=#FFFFFF>Furnace Fire</color> effect.\nKoleda and Ben can team up when fighting together to launch a coordinated attack, further increasing the power of the attack.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful explosion on enemies in a large area in front, dealing massive <color=#FF5521>Fire DMG</color> while also obtaining the <color=#FFFFFF>Furnace Fire</color> effect.\nKoleda and Ben can team up when fighting together to launch a coordinated attack, further increasing the power of the attack.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Natural Disaster",
@@ -1041,9 +1139,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 40613,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1063,11 +1164,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 40613,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Hammerquake",
@@ -1090,9 +1195,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18003,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "DMG Multiplier (Teamwork)",
@@ -1112,9 +1220,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19066,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1134,9 +1245,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 18003,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier (Teamwork)",
@@ -1156,11 +1270,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19066,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1182,15 +1300,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Coming Thru!",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nStrikes enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nStrikes enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Protective Hammer",
-          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Hammer Bell",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nKoleda charges and strikes enemies in front, dealing <color=#FF5521>Fire DMG</color> and obtaining <color=#FFFFFF>Furnace Fire</color> effect.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nKoleda charges and strikes enemies in front, dealing <color=#FF5521>Fire DMG</color> and obtaining <color=#FFFFFF>Furnace Fire</color> effect.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Coming Thru!",
@@ -1213,9 +1334,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17496,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1235,11 +1359,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17496,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Protective Hammer",
@@ -1262,9 +1390,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1284,9 +1415,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1306,11 +1440,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Hammer Bell",
@@ -1333,9 +1471,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 31992,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1355,11 +1496,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 31992,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1383,78 +1528,90 @@
       "Name": "Basic Attack: Smash 'n' Bash",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1101002": {
       "Name": "Special Attack: Hammer Time",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1101003": {
       "Name": "Special Attack: Hammer Time (Quick Detonation)",
       "Desc": "<IconMap:Icon_Special> (Basic Attack Combo)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1101004": {
       "Name": "EX Special Attack: Boiling Furnace",
       "Desc": "<IconMap:Icon_SpecialReady> (Consume Energy)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1101005": {
       "Name": "EX Special Attack: Boiling Furnace (Quick Detonation)",
       "Desc": "<IconMap:Icon_SpecialReady> (Basic Attack Combo) (Consume Energy)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1101006": {
       "Name": "Dash Attack: Tremble!",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1101007": {
       "Name": "Dodge Counter: Don't Look Down on Me",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1101008": {
       "Name": "Chain Attack: Natural Disaster",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1101009": {
       "Name": "Ultimate: Hammerquake",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1101010": {
       "Name": "Quick Assist: Coming Thru!",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1101011": {
       "Name": "Defensive Assist: Protective Hammer",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1101012": {
       "Name": "Assist Follow-Up: Hammer Bell",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 201,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1101501": {
         "Level": 1,
         "Id": 1101501,
         "Name": [
@@ -1463,10 +1620,12 @@
         ],
         "Desc": [
           "When Koleda uses her <color=#FFFFFF>EX Special Attack</color> or consumes <color=#FFFFFF>Furnace Fire</color> to use an enhanced <color=#FFFFFF>Basic Attack</color>, the Daze she deals increases by <color=#2BAD00>30%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1101502": {
         "Level": 2,
         "Id": 1101502,
         "Name": [
@@ -1475,10 +1634,12 @@
         ],
         "Desc": [
           "When Koleda uses her <color=#FFFFFF>EX Special Attack</color> or consumes <color=#FFFFFF>Furnace Fire</color> to use an enhanced <color=#FFFFFF>Basic Attack</color>, the Daze she deals increases by <color=#2BAD00>35%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1101503": {
         "Level": 3,
         "Id": 1101503,
         "Name": [
@@ -1487,10 +1648,12 @@
         ],
         "Desc": [
           "When Koleda uses her <color=#FFFFFF>EX Special Attack</color> or consumes <color=#FFFFFF>Furnace Fire</color> to use an enhanced <color=#FFFFFF>Basic Attack</color>, the Daze she deals increases by <color=#2BAD00>40%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1101504": {
         "Level": 4,
         "Id": 1101504,
         "Name": [
@@ -1499,10 +1662,12 @@
         ],
         "Desc": [
           "When Koleda uses her <color=#FFFFFF>EX Special Attack</color> or consumes <color=#FFFFFF>Furnace Fire</color> to use an enhanced <color=#FFFFFF>Basic Attack</color>, the Daze she deals increases by <color=#2BAD00>45%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1101505": {
         "Level": 5,
         "Id": 1101505,
         "Name": [
@@ -1511,10 +1676,12 @@
         ],
         "Desc": [
           "When Koleda uses her <color=#FFFFFF>EX Special Attack</color> or consumes <color=#FFFFFF>Furnace Fire</color> to use an enhanced <color=#FFFFFF>Basic Attack</color>, the Daze she deals increases by <color=#2BAD00>50%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1101506": {
         "Level": 6,
         "Id": 1101506,
         "Name": [
@@ -1523,10 +1690,12 @@
         ],
         "Desc": [
           "When Koleda uses her <color=#FFFFFF>EX Special Attack</color> or consumes <color=#FFFFFF>Furnace Fire</color> to use an enhanced <color=#FFFFFF>Basic Attack</color>, the Daze she deals increases by <color=#2BAD00>55%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1101507": {
         "Level": 7,
         "Id": 1101507,
         "Name": [
@@ -1535,8 +1704,10 @@
         ],
         "Desc": [
           "When Koleda uses her <color=#FFFFFF>EX Special Attack</color> or consumes <color=#FFFFFF>Furnace Fire</color> to use an enhanced <color=#FFFFFF>Basic Attack</color>, the Daze she deals increases by <color=#2BAD00>60%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, all squad members' <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
-        ]
+          "When another character in your squad shares the same Attribute or Faction or is a <color=#FFFFFF>Rupture</color> character:\nWhen the explosion from Koleda's <color=#FFFFFF>EX Special Attack</color> hits an enemy, it applies a debuff to the target. While the target is Stunned, <color=#FFFFFF>Chain Attacks</color> deal 35% more DMG to the target. This effect can stack up to 2 times and resets when the Stunned effect ends."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1570,7 +1741,7 @@
     "4": {
       "Level": 4,
       "Name": "Furnace's Glow",
-      "Desc": "Koleda gains one stack of Charge (max 2 stacks) when consuming <color=#FFFFFF>Furnace Fire</color> to use her Enhanced <color=#FFFFFF>Basic Attack</color>. When her <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> hits an enemy, she consumes all stacks of Charge to increase the attack's DMG by 18% per stack.",
+      "Desc": "Koleda gains one stack of Charge (max 2 stacks) when consuming <color=#FFFFFF>Furnace Fire</color> to use her Enhanced <color=#FFFFFF>Basic Attack</color>. When her <color=#FFFFFF>Chain Attack: Natural Disaster</color> or <color=#FFFFFF>Ultimate: Hammerquake</color> hits an enemy, she consumes all stacks of Charge to increase the attack's DMG by 18% per stack.",
       "Desc2": "Koleda feels the flames of war as her hammer swings raise the surrounding temperature.\nShe's now even more flammable and explosive than Ether."
     },
     "5": {
@@ -1614,5 +1785,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
-  }
+  },
+  "Potential": []
 }

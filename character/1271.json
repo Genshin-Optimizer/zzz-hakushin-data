@@ -43,12 +43,6 @@
     "AttackGrowth": 52593,
     "AvatarPieceId": 5271,
     "BreakStun": 94,
-    "BuffResistBurnPossibilityDelta": 0,
-    "BuffResistBurnPossibilityRatio": 0,
-    "BuffResistElectricPossibilityDelta": 0,
-    "BuffResistElectricPossibilityRatio": 0,
-    "BuffResistFrozenPossibilityDelta": 0,
-    "BuffResistFrozenPossibilityRatio": 0,
     "Crit": 500,
     "CritDamage": 5000,
     "CritDmgRes": 0,
@@ -60,7 +54,6 @@
     "Endurance": 0,
     "HpGrowth": 949375,
     "HpMax": 699,
-    "Luck": 10,
     "PenDelta": 0,
     "PenRate": 0,
     "Rbl": 1,
@@ -70,7 +63,6 @@
     "ShieldGrowth": 0,
     "SpBarPoint": 120,
     "SpRecover": 120,
-    "StarInitial": 1,
     "Stun": 0,
     "Tags": [
       "Seth",
@@ -80,8 +72,11 @@
       "Camp7",
       "Size1",
       "AidTypeParry",
-      "Seth"
-    ]
+      "Seth",
+      "EtherEyesSize1"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
   },
   "Level": {
     "1": {
@@ -250,11 +245,13 @@
       "Description": [
         {
           "Name": "Basic Attack: Lightning Strike",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 attacks in front, dealing <color=#F0D12B>Physical DMG</color> and <color=#2EB6FF>Electric DMG</color>."
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 attacks in front, dealing <color=#F0D12B>Physical DMG</color> and <color=#2EB6FF>Electric DMG</color>.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Lightning Strike - Electrified",
-          "Desc": "When <color=#FFFFFF>Resolve</color> is above or equal to 75%, hold <IconMap:Icon_Normal> to activate.\nConsume 75% <color=#FFFFFF>Resolve</color> to launch consecutive attacks in front, followed by a Finishing Move, dealing <color=#2EB6FF>Electric DMG</color>.\nWhen the Finishing Move hits an enemy, it triggers the <color=#FFFFFF>Quick Assist</color> of the squad member positioned before Seth.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "When <color=#FFFFFF>Resolve</color> is above or equal to 75%, hold <IconMap:Icon_Normal> to activate.\nConsume 75% <color=#FFFFFF>Resolve</color> to launch consecutive attacks in front, followed by a Finishing Move, dealing <color=#2EB6FF>Electric DMG</color>.\nWhen the Finishing Move hits an enemy, it triggers the <color=#FFFFFF>Quick Assist</color> of the squad member positioned before Seth.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Lightning Strike",
@@ -277,9 +274,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -299,9 +299,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit DMG Multiplier",
@@ -321,9 +324,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit DMG Multiplier",
@@ -343,9 +349,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8041,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -365,9 +374,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -387,9 +399,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "3rd-Hit Daze Multiplier",
@@ -409,9 +424,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "4th-Hit Daze Multiplier",
@@ -431,11 +449,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 8041,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Lightning Strike - Electrified",
@@ -458,9 +480,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 16168,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Move DMG Multiplier",
@@ -480,9 +505,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13220,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Consecutive Attack Daze Multiplier",
@@ -502,9 +530,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 16168,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Finishing Move Daze Multiplier",
@@ -524,11 +555,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13220,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -550,15 +585,18 @@
       "Description": [
         {
           "Name": "Dodge: Evasion Maneuver",
-          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Thunder Assault",
-          "Desc": "Press <IconMap:Icon_Normal> during a Dodge to activate:\nCharge forward with a shield attack, dealing <color=#F0D12B>Physical DMG</color>.\nDamage received during the move is decreased by 40%."
+          "Desc": "Press <IconMap:Icon_Normal> during a Dodge to activate:\nCharge forward with a shield attack, dealing <color=#F0D12B>Physical DMG</color>.\nDamage received during the move is decreased by 40%.",
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Retreat to Advance",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nUnleash a quick downward slash on enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nAfter the move, hold <IconMap:Icon_SpecialReady> to chain into <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, enabling faster charging.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nUnleash a quick downward slash on enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nAfter the move, hold <IconMap:Icon_SpecialReady> to chain into <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, enabling faster charging.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Thunder Assault",
@@ -581,9 +619,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -603,11 +644,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Dodge Counter: Retreat to Advance",
@@ -630,9 +675,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -652,11 +700,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -678,11 +730,13 @@
       "Description": [
         {
           "Name": "Special Attack: Thunder Shield Rush",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nLaunch two shield attacks forward, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill."
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nLaunch two shield attacks forward, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Thunder Shield Rush - High Voltage",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nUnleash a series of slashes in front, dealing massive <color=#2EB6FF>Electric DMG</color>.\nHold <IconMap:Icon_SpecialReady>to charge the move, and Seth will dash forward, unleashing a series of powerful slashes, dealing massive <color=#2EB6FF>Electric DMG</color>.\nActivating the move accumulates 75% <color=#FFFFFF>Resolve</color>.\nAnti-Interrupt level is increased while charging this skill, and damage taken is reduced by 40%.\nSeth is invulnerable during the consecutive slashes."
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nUnleash a series of slashes in front, dealing massive <color=#2EB6FF>Electric DMG</color>.\nHold <IconMap:Icon_SpecialReady>to charge the move, and Seth will dash forward, unleashing a series of powerful slashes, dealing massive <color=#2EB6FF>Electric DMG</color>.\nActivating the move accumulates 75% <color=#FFFFFF>Resolve</color>.\nAnti-Interrupt level is increased while charging this skill, and damage taken is reduced by 40%.\nSeth is invulnerable during the consecutive slashes.",
+          "Potential": []
         },
         {
           "Name": "Special Attack: Thunder Shield Rush",
@@ -705,9 +759,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6918,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -727,11 +784,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6918,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Thunder Shield Rush - High Voltage",
@@ -754,9 +815,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 59316,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -776,9 +840,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 59316,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "DMG Multiplier (Charged)",
@@ -798,9 +865,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 92438,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier (Charged)",
@@ -820,12 +890,16 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 92438,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "80" }
-          ]
+            { "Name": "Energy Cost", "Desc": "80", "Potential": [] }
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -847,11 +921,13 @@
       "Description": [
         {
           "Name": "Chain Attack: Final Judgment",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nLaunch a series of slashes in front, dealing massive <color=#2EB6FF>Electric DMG</color>.\nActivating the move accumulates 75% <color=#FFFFFF>Resolve</color>.\nAfter the move, hold <IconMap:Icon_SpecialReady> to chain into <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, enabling faster charging.\nCharacter is invulnerable while using this skill."
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nLaunch a series of slashes in front, dealing massive <color=#2EB6FF>Electric DMG</color>.\nActivating the move accumulates 75% <color=#FFFFFF>Resolve</color>.\nAfter the move, hold <IconMap:Icon_SpecialReady> to chain into <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, enabling faster charging.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Ultimate: Justice Prevails",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nLaunch a series of upward attacks in front, followed by a Finishing Move, dealing massive <color=#2EB6FF>Electric DMG</color>.\nActivating the move accumulates 75% <color=#FFFFFF>Resolve</color>, and grants 3 additional Assist Points.\nAfter the move, hold <IconMap:Icon_SpecialReady> to chain into <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, enabling faster charging.\nCharacter is invulnerable while using this skill."
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nLaunch a series of upward attacks in front, followed by a Finishing Move, dealing massive <color=#2EB6FF>Electric DMG</color>.\nActivating the move accumulates 75% <color=#FFFFFF>Resolve</color>, and grants 3 additional Assist Points.\nAfter the move, hold <IconMap:Icon_SpecialReady> to chain into <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, enabling faster charging.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Final Judgment",
@@ -874,9 +950,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 50453,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -896,11 +975,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 50453,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Ultimate: Justice Prevails",
@@ -923,9 +1006,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 40329,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -945,11 +1031,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 40329,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -971,15 +1061,18 @@
       "Description": [
         {
           "Name": "Quick Assist: Armed Support",
-          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nUnleash a quick downward slash on enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nAfter the move, hold <IconMap:Icon_SpecialReady> to chain into <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, enabling faster charging.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nUnleash a quick downward slash on enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nAfter the move, hold <IconMap:Icon_SpecialReady> to chain into <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, enabling faster charging.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Thundershield",
-          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nUpon activation, gain 25% <color=#FFFFFF>Resolve</color>.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill."
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nUpon activation, gain 25% <color=#FFFFFF>Resolve</color>.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Public Security Ruling",
-          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nLaunch a forward thrust attack, followed by two horizontal slashes, dealing <color=#2EB6FF>Electric DMG</color>.\nWhen the skill hits an enemy, it triggers the <color=#FFFFFF>Quick Assist</color> of the squad member positioned before Seth.\nAfter activating the move, hold <IconMap:Icon_SpecialReady> to transition to <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color> and charge faster.\nCharacter is invulnerable while using this skill."
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nLaunch a forward thrust attack, followed by two horizontal slashes, dealing <color=#2EB6FF>Electric DMG</color>.\nWhen the skill hits an enemy, it triggers the <color=#FFFFFF>Quick Assist</color> of the squad member positioned before Seth.\nAfter activating the move, hold <IconMap:Icon_SpecialReady> to transition to <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color> and charge faster.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
         },
         {
           "Name": "Quick Assist: Armed Support",
@@ -1002,9 +1095,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1024,11 +1120,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10000,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Defensive Assist: Thundershield",
@@ -1051,9 +1151,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Heavy Defensive Daze Multiplier",
@@ -1073,9 +1176,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Chain Defensive Daze Multiplier",
@@ -1095,11 +1201,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         },
         {
           "Name": "Assist Follow-Up: Public Security Ruling",
@@ -1122,9 +1232,12 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 40322,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             },
             {
               "Name": "Daze Multiplier",
@@ -1144,11 +1257,15 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 40322,
                   "SpConsume": 0,
-                  "AttackData": []
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0
                 }
-              }
+              },
+              "Potential": []
             }
-          ]
+          ],
+          "Potential": []
         }
       ],
       "Material": {
@@ -1172,133 +1289,158 @@
       "Name": "Basic Attack: Lightning Strike",
       "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1271002": {
       "Name": "Basic Attack: Lightning Strike - Electrified",
       "Desc": "<IconMap:Icon_Normal> (While resolve exceeds 75%) (Hold)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1271003": {
       "Name": "Special Attack: Thunder Shield Rush",
       "Desc": "<IconMap:Icon_Special>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1271004": {
       "Name": "EX Special Attack: Thunder Shield Rush - High Voltage",
       "Desc": "<IconMap:Icon_SpecialReady>(Can Hold Down)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1271005": {
       "Name": "Dash Attack: Thunder Assault",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
       "ElementType": 200,
-      "HitType": 102
+      "HitType": 102,
+      "Potential": []
     },
     "1271006": {
       "Name": "Dodge Counter: Retreat to Advance",
       "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1271007": {
       "Name": "Chain Attack: Final Judgment",
       "Desc": "<IconMap:Icon_QTE>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1271008": {
       "Name": "Ultimate: Justice Prevails",
       "Desc": "<IconMap:Icon_UltimateReady>",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1271009": {
       "Name": "Quick Assist: Armed Support",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     },
     "1271010": {
       "Name": "Defensive Assist: Thundershield",
       "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
       "ElementType": 0,
-      "HitType": 0
+      "HitType": 0,
+      "Potential": []
     },
     "1271011": {
       "Name": "Assist Follow-Up: Public Security Ruling",
       "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 203,
-      "HitType": 101
+      "HitType": 101,
+      "Potential": []
     }
   },
   "Passive": {
     "Level": {
-      "1": {
+      "1271501": {
         "Level": 1,
         "Id": 1271501,
         "Name": ["Core Passive: Protector", "Additional Ability: High Spirit"],
         "Desc": [
           "When Seth uses <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, he gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>40%</color> of his initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. When <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> or <color=#FFFFFF>Assist Follow-Up: Public Security Ruling</color> triggers a <color=#FFFFFF>Quick Assist</color> or <color=#FFFFFF>Chain Attack</color>, causing another squad member to enter the field, that squad member gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>40</color>% of Seth's initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. Having a <color=#FFFFFF>Shield of Firm Resolve</color> increases Anomaly Proficiency by <color=#2BAD00>50</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Seth's <color=#FFFFFF>Chain Attack: Final Judgment</color> or Finishing Move during <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> hits an enemy, the target's Anomaly Buildup RES to all Attributes is reduced by 20%, lasting 20s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "2": {
+      "1271502": {
         "Level": 2,
         "Id": 1271502,
         "Name": ["Core Passive: Protector", "Additional Ability: High Spirit"],
         "Desc": [
           "When Seth uses <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, he gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>50%</color> of his initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. When <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> or <color=#FFFFFF>Assist Follow-Up: Public Security Ruling</color> triggers a <color=#FFFFFF>Quick Assist</color> or <color=#FFFFFF>Chain Attack</color>, causing another squad member to enter the field, that squad member gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>50</color>% of Seth's initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. Having a <color=#FFFFFF>Shield of Firm Resolve</color> increases Anomaly Proficiency by <color=#2BAD00>62</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Seth's <color=#FFFFFF>Chain Attack: Final Judgment</color> or Finishing Move during <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> hits an enemy, the target's Anomaly Buildup RES to all Attributes is reduced by 20%, lasting 20s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "3": {
+      "1271503": {
         "Level": 3,
         "Id": 1271503,
         "Name": ["Core Passive: Protector", "Additional Ability: High Spirit"],
         "Desc": [
           "When Seth uses <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, he gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>60%</color> of his initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. When <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> or <color=#FFFFFF>Assist Follow-Up: Public Security Ruling</color> triggers a <color=#FFFFFF>Quick Assist</color> or <color=#FFFFFF>Chain Attack</color>, causing another squad member to enter the field, that squad member gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>60</color>% of Seth's initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. Having a <color=#FFFFFF>Shield of Firm Resolve</color> increases Anomaly Proficiency by <color=#2BAD00>75</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Seth's <color=#FFFFFF>Chain Attack: Final Judgment</color> or Finishing Move during <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> hits an enemy, the target's Anomaly Buildup RES to all Attributes is reduced by 20%, lasting 20s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "4": {
+      "1271504": {
         "Level": 4,
         "Id": 1271504,
         "Name": ["Core Passive: Protector", "Additional Ability: High Spirit"],
         "Desc": [
           "When Seth uses <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, he gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>68%</color> of his initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. When <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> or <color=#FFFFFF>Assist Follow-Up: Public Security Ruling</color> triggers a <color=#FFFFFF>Quick Assist</color> or <color=#FFFFFF>Chain Attack</color>, causing another squad member to enter the field, that squad member gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>68</color>% of Seth's initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. Having a <color=#FFFFFF>Shield of Firm Resolve</color> increases Anomaly Proficiency by <color=#2BAD00>85</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Seth's <color=#FFFFFF>Chain Attack: Final Judgment</color> or Finishing Move during <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> hits an enemy, the target's Anomaly Buildup RES to all Attributes is reduced by 20%, lasting 20s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "5": {
+      "1271505": {
         "Level": 5,
         "Id": 1271505,
         "Name": ["Core Passive: Protector", "Additional Ability: High Spirit"],
         "Desc": [
           "When Seth uses <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, he gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>72%</color> of his initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. When <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> or <color=#FFFFFF>Assist Follow-Up: Public Security Ruling</color> triggers a <color=#FFFFFF>Quick Assist</color> or <color=#FFFFFF>Chain Attack</color>, causing another squad member to enter the field, that squad member gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>72</color>% of Seth's initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. Having a <color=#FFFFFF>Shield of Firm Resolve</color> increases Anomaly Proficiency by <color=#2BAD00>90</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Seth's <color=#FFFFFF>Chain Attack: Final Judgment</color> or Finishing Move during <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> hits an enemy, the target's Anomaly Buildup RES to all Attributes is reduced by 20%, lasting 20s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "6": {
+      "1271506": {
         "Level": 6,
         "Id": 1271506,
         "Name": ["Core Passive: Protector", "Additional Ability: High Spirit"],
         "Desc": [
           "When Seth uses <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, he gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>76%</color> of his initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. When <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> or <color=#FFFFFF>Assist Follow-Up: Public Security Ruling</color> triggers a <color=#FFFFFF>Quick Assist</color> or <color=#FFFFFF>Chain Attack</color>, causing another squad member to enter the field, that squad member gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>76</color>% of Seth's initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. Having a <color=#FFFFFF>Shield of Firm Resolve</color> increases Anomaly Proficiency by <color=#2BAD00>95</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Seth's <color=#FFFFFF>Chain Attack: Final Judgment</color> or Finishing Move during <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> hits an enemy, the target's Anomaly Buildup RES to all Attributes is reduced by 20%, lasting 20s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       },
-      "7": {
+      "1271507": {
         "Level": 7,
         "Id": 1271507,
         "Name": ["Core Passive: Protector", "Additional Ability: High Spirit"],
         "Desc": [
           "When Seth uses <color=#FFFFFF>EX Special Attack: Thunder Shield Rush - High Voltage</color>, he gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>80%</color> of his initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. When <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> or <color=#FFFFFF>Assist Follow-Up: Public Security Ruling</color> triggers a <color=#FFFFFF>Quick Assist</color> or <color=#FFFFFF>Chain Attack</color>, causing another squad member to enter the field, that squad member gains a <color=#FFFFFF>Shield of Firm Resolve</color> equal to <color=#2BAD00>80</color>% of Seth's initial ATK, up to a max of 3,000 points, and lasting 25s. This effect can trigger once every 10s. Having a <color=#FFFFFF>Shield of Firm Resolve</color> increases Anomaly Proficiency by <color=#2BAD00>100</color>.",
           "When another character in your squad shares the same Attribute or Faction:\nWhen Seth's <color=#FFFFFF>Chain Attack: Final Judgment</color> or Finishing Move during <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> hits an enemy, the target's Anomaly Buildup RES to all Attributes is reduced by 20%, lasting 20s."
-        ]
+        ],
+        "ExtraProperty": {},
+        "Potential": []
       }
     },
     "Materials": {
@@ -1376,5 +1518,6 @@
       "Format": "{0:0.#%}",
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
     }
-  }
+  },
+  "Potential": []
 }
