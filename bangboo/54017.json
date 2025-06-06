@@ -1,0 +1,354 @@
+{
+  "Id": 54017,
+  "CodeName": "Belion",
+  "Name": "Belion",
+  "Desc": "The true essence of martial arts is the lightness and purity of heart.",
+  "Rarity": 4,
+  "Icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole36.png",
+  "Stats": {
+    "Stamina": 100,
+    "StaminaUpragde": 10,
+    "Endurance": 180,
+    "HpMax": 396,
+    "Hpupgrade": 471237,
+    "Attack": 72,
+    "AttackUpgrade": 360408,
+    "BreakStun": 103,
+    "ElementAbnormalPower": 110,
+    "Defence": 28,
+    "DefUpgrade": 78871,
+    "Crit": 500,
+    "PenRatio": 0,
+    "CritDmg": 5000
+  },
+  "Level": {
+    "1": {
+      "HpMax": 0,
+      "Attack": 0,
+      "Defence": 0,
+      "LevelMax": 10,
+      "LevelMin": 0,
+      "Materials": { "10": 15000, "102010": 4 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        }
+      }
+    },
+    "2": {
+      "HpMax": 207,
+      "Attack": 67,
+      "Defence": 35,
+      "LevelMax": 20,
+      "LevelMin": 10,
+      "Materials": { "10": 35000, "102020": 12 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 450
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        }
+      }
+    },
+    "3": {
+      "HpMax": 414,
+      "Attack": 333,
+      "Defence": 69,
+      "LevelMax": 30,
+      "LevelMin": 20,
+      "Materials": { "10": 75000, "102020": 20 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 2250
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        }
+      }
+    },
+    "4": {
+      "HpMax": 621,
+      "Attack": 1000,
+      "Defence": 104,
+      "LevelMax": 40,
+      "LevelMin": 30,
+      "Materials": { "10": 125000, "102030": 10 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 2250
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 2500
+        }
+      }
+    },
+    "5": {
+      "HpMax": 828,
+      "Attack": 2666,
+      "Defence": 139,
+      "LevelMax": 50,
+      "LevelMin": 40,
+      "Materials": { "10": 250000, "102030": 20 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 4500
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 2500
+        }
+      }
+    },
+    "6": {
+      "HpMax": 1034,
+      "Attack": 6665,
+      "Defence": 173,
+      "LevelMax": 60,
+      "LevelMin": 50,
+      "Materials": {},
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 4500
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 5000
+        }
+      }
+    }
+  },
+  "Skill": {
+    "A": {
+      "Level": {
+        "1": {
+          "Name": "Phoenix Ball Dance",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nHurl a stone ball at the enemy, that bounces between them, dealing massive <color=#F0D12B>Physical DMG</color> to all enemies hit.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5401701, Prop:1001}|{Skill:5401701, Prop:1002}|30s"
+        },
+        "2": {
+          "Name": "Phoenix Ball Dance",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nHurl a stone ball at the enemy, that bounces between them, dealing massive <color=#F0D12B>Physical DMG</color> to all enemies hit.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5401701, Prop:1001}|{Skill:5401701, Prop:1002}|30s"
+        },
+        "3": {
+          "Name": "Phoenix Ball Dance",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nHurl a stone ball at the enemy, that bounces between them, dealing massive <color=#F0D12B>Physical DMG</color> to all enemies hit.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5401701, Prop:1001}|{Skill:5401701, Prop:1002}|30s"
+        },
+        "4": {
+          "Name": "Phoenix Ball Dance",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nHurl a stone ball at the enemy, that bounces between them, dealing massive <color=#F0D12B>Physical DMG</color> to all enemies hit.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5401701, Prop:1001}|{Skill:5401701, Prop:1002}|30s"
+        },
+        "5": {
+          "Name": "Phoenix Ball Dance",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nHurl a stone ball at the enemy, that bounces between them, dealing massive <color=#F0D12B>Physical DMG</color> to all enemies hit.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5401701, Prop:1001}|{Skill:5401701, Prop:1002}|30s"
+        },
+        "6": {
+          "Name": "Phoenix Ball Dance",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nHurl a stone ball at the enemy, that bounces between them, dealing massive <color=#F0D12B>Physical DMG</color> to all enemies hit.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5401701, Prop:1001}|{Skill:5401701, Prop:1002}|30s"
+        },
+        "7": {
+          "Name": "Phoenix Ball Dance",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nHurl a stone ball at the enemy, that bounces between them, dealing massive <color=#F0D12B>Physical DMG</color> to all enemies hit.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5401701, Prop:1001}|{Skill:5401701, Prop:1002}|30s"
+        },
+        "8": {
+          "Name": "Phoenix Ball Dance",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nHurl a stone ball at the enemy, that bounces between them, dealing massive <color=#F0D12B>Physical DMG</color> to all enemies hit.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5401701, Prop:1001}|{Skill:5401701, Prop:1002}|30s"
+        },
+        "9": {
+          "Name": "Phoenix Ball Dance",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nHurl a stone ball at the enemy, that bounces between them, dealing massive <color=#F0D12B>Physical DMG</color> to all enemies hit.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5401701, Prop:1001}|{Skill:5401701, Prop:1002}|30s"
+        },
+        "10": {
+          "Name": "Phoenix Ball Dance",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nHurl a stone ball at the enemy, that bounces between them, dealing massive <color=#F0D12B>Physical DMG</color> to all enemies hit.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5401701, Prop:1001}|{Skill:5401701, Prop:1002}|30s"
+        }
+      }
+    },
+    "B": {
+      "Level": {
+        "1": {
+          "Name": "Way of Clouds",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Yunkui Summit</color> characters in your squad: Belion's DMG increases by 25%. When an Agent activates an <color=#FFFFFF>Ultimate</color>, the cooldown of Belion's <color=#FFFFFF>Active Skill</color> is reduced by 4s. Can trigger up to 2 times. Belion's <color=#FFFFFF>Active Skill</color> refreshes the available trigger count.",
+          "Property": [
+            "Required Yunkui Summit Characters",
+            "DMG Increase",
+            "Cooldown Reduction"
+          ],
+          "Param": "2|25%|4s"
+        },
+        "2": {
+          "Name": "Way of Clouds",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Yunkui Summit</color> characters in your squad: Belion's DMG increases by 31%. When an Agent activates an <color=#FFFFFF>Ultimate</color>, the cooldown of Belion's <color=#FFFFFF>Active Skill</color> is reduced by 4s. Can trigger up to 2 times. Belion's <color=#FFFFFF>Active Skill</color> refreshes the available trigger count.",
+          "Property": [
+            "Required Yunkui Summit Characters",
+            "DMG Increase",
+            "Cooldown Reduction"
+          ],
+          "Param": "2|31%|4s"
+        },
+        "3": {
+          "Name": "Way of Clouds",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 1 or more <color=#FFFFFF>Yunkui Summit</color> characters in your squad: Belion's DMG increases by 37%. When an Agent activates an <color=#FFFFFF>Ultimate</color>, the cooldown of Belion's <color=#FFFFFF>Active Skill</color> is reduced by 4s. Can trigger up to 2 times. Belion's <color=#FFFFFF>Active Skill</color> refreshes the available trigger count.",
+          "Property": [
+            "Required Yunkui Summit Characters",
+            "DMG Increase",
+            "Cooldown Reduction"
+          ],
+          "Param": "1|37%|4s"
+        },
+        "4": {
+          "Name": "Way of Clouds",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 1 or more <color=#FFFFFF>Yunkui Summit</color> characters in your squad: Belion's DMG increases by 43%. When an Agent activates an <color=#FFFFFF>Ultimate</color>, the cooldown of Belion's <color=#FFFFFF>Active Skill</color> is reduced by 4s. Can trigger up to 2 times. Belion's <color=#FFFFFF>Active Skill</color> refreshes the available trigger count.",
+          "Property": [
+            "Required Yunkui Summit Characters",
+            "DMG Increase",
+            "Cooldown Reduction"
+          ],
+          "Param": "1|43%|4s"
+        },
+        "5": {
+          "Name": "Way of Clouds",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 1 or more <color=#FFFFFF>Yunkui Summit</color> characters in your squad: Belion's DMG increases by 50%. When an Agent activates an <color=#FFFFFF>Ultimate</color>, the cooldown of Belion's <color=#FFFFFF>Active Skill</color> is reduced by 4s. Can trigger up to 2 times. Belion's <color=#FFFFFF>Active Skill</color> refreshes the available trigger count.",
+          "Property": [
+            "Required Yunkui Summit Characters",
+            "DMG Increase",
+            "Cooldown Reduction"
+          ],
+          "Param": "1|50%|4s"
+        }
+      }
+    },
+    "C": {
+      "Level": {
+        "1": {
+          "Name": "Silver Lion Crash",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nPerforms a spinning, ramming attack on enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401702, Prop:1001}|{Skill:5401702, Prop:1002}"
+        },
+        "2": {
+          "Name": "Silver Lion Crash",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nPerforms a spinning, ramming attack on enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401702, Prop:1001}|{Skill:5401702, Prop:1002}"
+        },
+        "3": {
+          "Name": "Silver Lion Crash",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nPerforms a spinning, ramming attack on enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401702, Prop:1001}|{Skill:5401702, Prop:1002}"
+        },
+        "4": {
+          "Name": "Silver Lion Crash",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nPerforms a spinning, ramming attack on enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401702, Prop:1001}|{Skill:5401702, Prop:1002}"
+        },
+        "5": {
+          "Name": "Silver Lion Crash",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nPerforms a spinning, ramming attack on enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401702, Prop:1001}|{Skill:5401702, Prop:1002}"
+        },
+        "6": {
+          "Name": "Silver Lion Crash",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nPerforms a spinning, ramming attack on enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401702, Prop:1001}|{Skill:5401702, Prop:1002}"
+        },
+        "7": {
+          "Name": "Silver Lion Crash",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nPerforms a spinning, ramming attack on enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401702, Prop:1001}|{Skill:5401702, Prop:1002}"
+        },
+        "8": {
+          "Name": "Silver Lion Crash",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nPerforms a spinning, ramming attack on enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401702, Prop:1001}|{Skill:5401702, Prop:1002}"
+        },
+        "9": {
+          "Name": "Silver Lion Crash",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nPerforms a spinning, ramming attack on enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401702, Prop:1001}|{Skill:5401702, Prop:1002}"
+        },
+        "10": {
+          "Name": "Silver Lion Crash",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nPerforms a spinning, ramming attack on enemies ahead, dealing massive <color=#F0D12B>Physical DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401702, Prop:1001}|{Skill:5401702, Prop:1002}"
+        }
+      }
+    }
+  },
+  "SkillProp": {
+    "5401701": {
+      "1001": { "Main": 96000, "Growth": 9600, "Format": "%" },
+      "1002": { "Main": 35100, "Growth": 3510, "Format": "%" },
+      "ElementAccumulationValue": 45000
+    },
+    "5401702": {
+      "1001": { "Main": 91000, "Growth": 9100, "Format": "%" },
+      "1002": { "Main": 13000, "Growth": 1300, "Format": "%" },
+      "ElementAccumulationValue": 39000
+    }
+  }
+}
