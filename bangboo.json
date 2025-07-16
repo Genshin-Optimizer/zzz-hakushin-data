@@ -308,5 +308,15 @@
     "KO": "사야",
     "CHS": "狮耶",
     "JA": "オシシ"
+  },
+  "54018": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole37.png",
+    "rank": 4,
+    "codename": "Miss Esme",
+    "EN": "Miss Esme",
+    "desc": "In the name of Starshine, I shall alter the course of destiny!",
+    "KO": "에스메 양",
+    "CHS": "艾丝弥小姐",
+    "JA": "ミス・エスメ"
   }
 }

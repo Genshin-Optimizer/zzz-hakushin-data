@@ -6,7 +6,7 @@
       "Id": 31091,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type1", "BigSceneReward"],
+      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type1", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -124,7 +124,7 @@
       "Id": 31092,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type2", "BigSceneReward"],
+      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type2", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -242,7 +242,7 @@
       "Id": 31093,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type3", "BigSceneReward"],
+      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type3", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -360,7 +360,7 @@
       "Id": 31094,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type4", "BigSceneReward"],
+      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type4", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -478,7 +478,7 @@
       "Id": 31095,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type1", "BigSceneReward"],
+      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type1", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -488,7 +488,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1628,
+        "Hp": 1991,
         "Attack": 79,
         "Defence": 40,
         "Crit": 0,
@@ -497,7 +497,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -596,7 +596,7 @@
       "Id": 31096,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type2", "BigSceneReward"],
+      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type2", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -606,7 +606,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1628,
+        "Hp": 1991,
         "Attack": 79,
         "Defence": 40,
         "Crit": 0,
@@ -615,7 +615,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -714,7 +714,7 @@
       "Id": 31097,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type3", "BigSceneReward"],
+      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type3", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -724,7 +724,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1628,
+        "Hp": 1991,
         "Attack": 79,
         "Defence": 40,
         "Crit": 0,
@@ -733,7 +733,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -832,7 +832,7 @@
       "Id": 31098,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type4", "BigSceneReward"],
+      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type4", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -842,7 +842,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1628,
+        "Hp": 1991,
         "Attack": 79,
         "Defence": 40,
         "Crit": 0,
@@ -851,7 +851,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,

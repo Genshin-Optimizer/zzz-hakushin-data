@@ -6,7 +6,7 @@
       "Id": 11311,
       "CodeName": "Monster_ThugAssaulter",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "BigSceneReward"],
+      "Tag": ["Bios", "Demote", "Small"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -124,7 +124,7 @@
       "Id": 11312,
       "CodeName": "Monster_ThugAssaulter",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "BigSceneReward"],
+      "Tag": ["Bios", "Promote", "Small"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -134,7 +134,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1123,
+        "Hp": 1373,
         "Attack": 63,
         "Defence": 40,
         "Crit": 0,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 600,
+        "Stun": 900,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,

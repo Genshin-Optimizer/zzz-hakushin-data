@@ -6,7 +6,7 @@
       "Id": 11831,
       "CodeName": "Monster_TyrfingInfested",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "BigSceneReward"],
+      "Tag": ["Ether", "Demote", "Small"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -124,7 +124,7 @@
       "Id": 11832,
       "CodeName": "Monster_TyrfingInfested",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "BigSceneReward"],
+      "Tag": ["Ether", "Promote", "Small"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -134,7 +134,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1550,
+        "Hp": 1895,
         "Attack": 79,
         "Defence": 36,
         "Crit": 0,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,

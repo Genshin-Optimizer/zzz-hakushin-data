@@ -6,7 +6,7 @@
       "Id": 11891,
       "CodeName": "Monster_TyphonDestroyer",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_TyphonDestroyer.png",
-      "Tag": ["Mech", "Large", "Black", "Boss", "BigSceneReward"],
+      "Tag": ["Mech", "Large", "Black", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

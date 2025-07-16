@@ -6,14 +6,7 @@
       "Id": 11295,
       "CodeName": "Monster_MandrakeRed",
       "Icon": "",
-      "Tag": [
-        "Ether",
-        "Demote",
-        "Middle",
-        "Mandrake_DEF",
-        "Red",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Demote", "Middle", "Mandrake_DEF", "Red"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -131,14 +124,7 @@
       "Id": 11296,
       "CodeName": "Monster_MandrakeRed",
       "Icon": "",
-      "Tag": [
-        "Ether",
-        "Demote",
-        "Middle",
-        "Mandrake_ATK",
-        "Red",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Demote", "Middle", "Mandrake_ATK", "Red"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -256,14 +242,7 @@
       "Id": 11297,
       "CodeName": "Monster_MandrakeRed",
       "Icon": "",
-      "Tag": [
-        "Ether",
-        "Promote",
-        "Middle",
-        "Mandrake_DEF",
-        "Red",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Promote", "Middle", "Mandrake_DEF", "Red"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -273,7 +252,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1081,
+        "Hp": 1153,
         "Attack": 63,
         "Defence": 36,
         "Crit": 0,
@@ -381,14 +360,7 @@
       "Id": 11298,
       "CodeName": "Monster_MandrakeRed",
       "Icon": "",
-      "Tag": [
-        "Ether",
-        "Promote",
-        "Middle",
-        "Mandrake_ATK",
-        "Red",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Promote", "Middle", "Mandrake_ATK", "Red"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -398,7 +370,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1081,
+        "Hp": 1153,
         "Attack": 63,
         "Defence": 36,
         "Crit": 0,

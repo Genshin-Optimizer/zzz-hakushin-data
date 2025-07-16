@@ -6,7 +6,7 @@
       "Id": 11531,
       "CodeName": "Monster_Nineveh",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Nineveh.png",
-      "Tag": ["Bios", "Gigantic", "BigSceneReward"],
+      "Tag": ["Bios", "Gigantic"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -131,5 +131,5 @@
   "GroupDesc": "Ether Mutants",
   "CardObtain": "[Unidentified] Defeat this monster in Hollow Zero 1 time to obtain its data",
   "CardQuote": "— Inter-Knot forum complaint from a Hollow Raider",
-  "CardSkillDesc": "CardSkillDesc_30029"
+  "CardSkillDesc": "During combat, this enemy can copy the moves of whoever it copies."
 }

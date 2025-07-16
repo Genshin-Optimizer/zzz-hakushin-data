@@ -6,7 +6,7 @@
       "Id": 31071,
       "CodeName": "Monster_Huskron",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "BigSceneReward"],
+      "Tag": ["Ether", "Demote", "Small", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -124,7 +124,7 @@
       "Id": 31072,
       "CodeName": "Monster_Huskron",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "BigSceneReward"],
+      "Tag": ["Ether", "Promote", "Small", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -134,7 +134,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1140,
+        "Hp": 1394,
         "Attack": 72,
         "Defence": 40,
         "Crit": 0,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -155,7 +155,7 @@
         "StunDamageTakenRatio": 5000,
         "StunResetCount": 1,
         "StunResetRecoverCd": 1000,
-        "ResistBreakLevel": 1,
+        "ResistBreakLevel": 3,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
         "FrozenTimeRes": 0,

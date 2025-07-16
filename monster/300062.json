@@ -6,7 +6,7 @@
       "Id": 11393,
       "CodeName": "Monster_PileDriverPurple",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_FridayOverclocked.png",
-      "Tag": ["Mech", "Gigantic", "Purple", "Boss", "BigSceneReward"],
+      "Tag": ["Mech", "Gigantic", "Purple", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

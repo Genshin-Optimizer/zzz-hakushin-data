@@ -6,7 +6,7 @@
       "Id": 11301,
       "CodeName": "Monster_BoringMachine",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_BoringMachine.png",
-      "Tag": ["Mech", "Gigantic", "Boss", "BigSceneReward"],
+      "Tag": ["Mech", "Gigantic", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -6,7 +6,7 @@
       "Id": 11096,
       "CodeName": "Monster_ClaymoreGrey",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Grey", "BigSceneReward"],
+      "Tag": ["Ether", "Demote", "Small", "Grey"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

@@ -6,7 +6,7 @@
       "Id": 11641,
       "CodeName": "Monster_JaneDoe",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_JaneDoe.png",
-      "Tag": ["Bios", "Small", "Boss", "NoRBLBuff", "BigSceneReward"],
+      "Tag": ["Bios", "Small", "Boss", "NoRBLBuff"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

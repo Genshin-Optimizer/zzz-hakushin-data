@@ -605,6 +605,60 @@
     "CHS": "橘福福",
     "JA": "橘福福"
   },
+  "1401": {
+    "code": "Alice",
+    "rank": 4,
+    "type": 3,
+    "element": 200,
+    "hit": 101,
+    "camp": 11,
+    "icon": "IconRole46",
+    "potential": [],
+    "EN": "Alice",
+    "skin": {
+      "3114010": {
+        "Name": "Alice: Celestian Etiquette",
+        "Desc": "The young woman's perfect symmetry is only ever slightly compromised when she wears the school crest — such is the elegant and noble Thymefield spirit.",
+        "Image": "IconRole46"
+      },
+      "3114011": {
+        "Name": "Alice: Sea of Thyme",
+        "Desc": "Though it wasn't completely symmetrical, she did not mind this gift from a dear friend.\nThe girl pushed open the locked door and walked along the pink beach after the sudden downpour, the cool waves brushing over her ankles. There were no unknowns left to frighten her.",
+        "Image": "IconRole46_01"
+      }
+    },
+    "desc": "Alice Thymefield, a new member of Spook Shack, is a young lady from the prestigious Thymefield family of New Eridu.\n\nAlice has studied fencing and Ether science since childhood, showing exceptional talent in both fields. She currently attends Celestia School for Girls, a subsidiary of High Ambitions Academy, where she's a model student excelling in both academics and conduct. It is predicted that she will one day inherit the family business and become a next-generation Ether scholar of New Eridu.\n\nShe places extreme importance on order and patterns, showing an almost obsessive pursuit of symmetry in particular. This even affects her aesthetic judgment, making symmetry the primary criterion in determining whether something is beautiful or ugly.\n\nFurthermore, she's easily frightened, with practically zero resistance to ghost stories and supernatural tales. Despite this, she seems to show considerable interest in encountering such phenomena. Suggestion: Master can use ghost stories as a topic of conversation with her. No matter how much she initially refuses, it is likely that she will eventually come closer to investigate.",
+    "KO": "앨리스",
+    "CHS": "爱丽丝",
+    "JA": "アリス"
+  },
+  "1411": {
+    "code": "Yuzuha",
+    "rank": 4,
+    "type": 4,
+    "element": 200,
+    "hit": 102,
+    "camp": 11,
+    "icon": "IconRole47",
+    "potential": [],
+    "EN": "Yuzuha",
+    "skin": {
+      "3114110": {
+        "Name": "Yuzuha: Tanuki Under the Shade",
+        "Desc": "Can you tell what the umbrella conceals? A tanuki, a trap, a ghost, or a girl's sly, spirited smile?",
+        "Image": "IconRole47"
+      },
+      "3114111": {
+        "Name": "Yuzuha: Tanuki in Broad Daylight",
+        "Desc": "Ghost stories aren't born only in shadows. Unconvinced? Just lock eyes with that playful young lady splashing in the water. She'll possess your thoughts, while Kama sneaks away with your drink.",
+        "Image": "IconRole47_01"
+      }
+    },
+    "desc": "Ukinami Yuzuha, a resident of Waifei Peninsula, currently attends a low-tuition company affiliated school in the city. Aside from being part of the Inter-Knot subforum Spook Shack, she's not affiliated with any other groups — though in New Eridu, such forums aren't typically seen as formal organizations, and are, instead, more like hobby clubs.\nYuzuha is the adopted daughter of Li Baorong, owner of the Mystic Wares Porcelume store. Word around Waifei Peninsula is that Baorong lost his wife and two daughters when the old capital fell. In the years that followed, he took in five children. Yuzuha is the second oldest, with an older brother, a younger brother, and two younger sisters. The family lived on the second floor above the store, and with just two bedrooms, Yuzuha shared one with her sisters, while the boys stayed with Baorong. Now that her older brother has moved out and she mostly stays in the school dorm, the apartment feels a bit less crowded. But on weekends and holidays, Yuzuha usually returns from school to help her father at the store.\nEven as a child, Yuzuha showed a surprising level of maturity. Her eloquence and cheerful nature have made her a favorite among neighbors — and a hit with the kids around Waifei Peninsula and Sailume Bay.\nOn the Spook Shack forum, Yuzuha goes by the username \"Yuzupepper.\" In addition to her real life friends Manato and Alice, she is also close with two other users known as \"Night Fiend Messenger\" and \"Strawberry Parfait\" on the forums.",
+    "KO": "유즈하",
+    "CHS": "柚叶",
+    "JA": "浮波柚葉"
+  },
   "1421": {
     "code": "Yinhu",
     "rank": 3,
@@ -620,5 +674,21 @@
     "KO": "반인호",
     "CHS": "潘引壶",
     "JA": "潘引壺"
+  },
+  "1441": {
+    "code": "Avatar_Male_Size03_Norano_En",
+    "rank": null,
+    "type": 2,
+    "element": 201,
+    "hit": 101,
+    "camp": 0,
+    "icon": "",
+    "potential": [],
+    "EN": "Komano Manato",
+    "skin": {},
+    "desc": "",
+    "KO": "코마노 마나토",
+    "CHS": "狛野真斗",
+    "JA": "狛野真斗"
   }
 }

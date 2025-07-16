@@ -6,7 +6,7 @@
       "Id": 11611,
       "CodeName": "Monster_Bellum",
       "Icon": "",
-      "Tag": ["Bios", "Middle", "NoRBLBuff", "BigSceneReward"],
+      "Tag": ["Bios", "Middle", "NoRBLBuff"],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

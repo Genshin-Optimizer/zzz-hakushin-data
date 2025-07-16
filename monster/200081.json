@@ -6,7 +6,7 @@
       "Id": 11441,
       "CodeName": "Monster_LightfootRover",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Middle", "BigSceneReward"],
+      "Tag": ["Mech", "Demote", "Middle"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -124,7 +124,7 @@
       "Id": 11442,
       "CodeName": "Monster_LightfootRover",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Middle", "BigSceneReward"],
+      "Tag": ["Mech", "Promote", "Middle"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -134,8 +134,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 7097,
-        "Attack": 79,
+        "Hp": 7351,
+        "Attack": 91,
         "Defence": 54,
         "Crit": 0,
         "CritDamage": 5000,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 3502,
+        "Stun": 3972,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -155,7 +155,7 @@
         "StunDamageTakenRatio": 5000,
         "StunResetCount": 2,
         "StunResetRecoverCd": 1000,
-        "ResistBreakLevel": 3,
+        "ResistBreakLevel": 5,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
         "FrozenTimeRes": 5000,

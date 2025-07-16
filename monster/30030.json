@@ -6,7 +6,7 @@
       "Id": 11981,
       "CodeName": "Monster_HugoVlad",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_HugoVlad.png",
-      "Tag": ["Bios", "Small", "Boss", "NoRBLBuff", "BigSceneReward"],
+      "Tag": ["Bios", "Small", "Boss", "NoRBLBuff"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -124,7 +124,7 @@
       "Id": 11983,
       "CodeName": "Monster_HugoVlad",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_HugoVlad.png",
-      "Tag": ["Bios", "Small", "Boss", "Easy", "NoRBLBuff", "BigSceneReward"],
+      "Tag": ["Bios", "Small", "Boss", "Easy", "NoRBLBuff"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

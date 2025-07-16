@@ -6,7 +6,7 @@
       "Id": 31011,
       "CodeName": "Monster_Avarus",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Avarus.png",
-      "Tag": ["Ether", "Large", "Boss", "EtherBarrierBoss", "BigSceneReward"],
+      "Tag": ["Ether", "Large", "Boss", "EtherBarrierBoss", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -130,7 +130,7 @@
         "Boss",
         "EtherBarrierBoss",
         "HighEtherBarrier",
-        "BigSceneReward"
+        "Miasma"
       ],
       "Type": "Monster",
       "Element": {

@@ -6,7 +6,7 @@
       "Id": 11982,
       "CodeName": "Monster_HugoVladSlime",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_HugoVlad_Boss.png",
-      "Tag": ["Ether", "Small", "Boss", "Slime", "NoRBLBuff", "BigSceneReward"],
+      "Tag": ["Ether", "Small", "Boss", "Slime", "NoRBLBuff"],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

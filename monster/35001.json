@@ -6,7 +6,7 @@
       "Id": 11531,
       "CodeName": "Monster_Nineveh",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Nineveh.png",
-      "Tag": ["Bios", "Gigantic", "BigSceneReward"],
+      "Tag": ["Bios", "Gigantic"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

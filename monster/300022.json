@@ -6,7 +6,7 @@
       "Id": 11057,
       "CodeName": "Monster_GuardianMech",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_GuardianBoss.png",
-      "Tag": ["Mech", "Large", "Boss", "BigSceneReward"],
+      "Tag": ["Mech", "Large", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

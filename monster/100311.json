@@ -6,7 +6,7 @@
       "Id": 11693,
       "CodeName": "Monster_SordidusRed",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Red", "BigSceneReward"],
+      "Tag": ["Ether", "Demote", "Small", "Red"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -124,7 +124,7 @@
       "Id": 11694,
       "CodeName": "Monster_SordidusRed",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Red", "BigSceneReward"],
+      "Tag": ["Ether", "Promote", "Small", "Red"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -134,7 +134,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1238,
+        "Hp": 1514,
         "Attack": 69,
         "Defence": 40,
         "Crit": 0,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 662,
+        "Stun": 992,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 500,

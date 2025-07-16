@@ -6,7 +6,7 @@
       "Id": 11421,
       "CodeName": "Monster_LampasBlackVeil",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_LampasBlackVeil.png",
-      "Tag": ["Ether", "Middle", "MainStoryBoss", "BigSceneReward"],
+      "Tag": ["Ether", "Middle", "MainStoryBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

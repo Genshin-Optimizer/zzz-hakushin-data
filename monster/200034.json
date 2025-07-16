@@ -6,7 +6,7 @@
       "Id": 11195,
       "CodeName": "Monster_HatiArmoredBoss",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_HatiArmoredBoss.png",
-      "Tag": ["Ether", "Middle", "Armored", "Boss", "BigSceneReward"],
+      "Tag": ["Ether", "Middle", "Armored", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

@@ -6,7 +6,7 @@
       "Id": 11621,
       "CodeName": "Monster_Pulchra",
       "Icon": "",
-      "Tag": ["Bios", "Small", "NoRBLBuff", "BigSceneReward"],
+      "Tag": ["Bios", "Small", "NoRBLBuff"],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

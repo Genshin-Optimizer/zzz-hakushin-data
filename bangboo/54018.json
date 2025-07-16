@@ -1,0 +1,394 @@
+{
+  "Id": 54018,
+  "CodeName": "Miss Esme",
+  "Name": "Miss Esme",
+  "Desc": "In the name of Starshine, I shall alter the course of destiny!",
+  "Rarity": 4,
+  "Icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole37.png",
+  "Stats": {
+    "Stamina": 100,
+    "StaminaUpragde": 10,
+    "Endurance": 180,
+    "HpMax": 479,
+    "Hpupgrade": 570196,
+    "Attack": 64,
+    "AttackUpgrade": 321091,
+    "BreakStun": 110,
+    "ElementAbnormalPower": 110,
+    "Defence": 28,
+    "DefUpgrade": 78871,
+    "Crit": 500,
+    "PenRatio": 0,
+    "CritDmg": 5000
+  },
+  "Level": {
+    "1": {
+      "HpMax": 0,
+      "Attack": 0,
+      "Defence": 0,
+      "LevelMax": 10,
+      "LevelMin": 0,
+      "Materials": { "10": 15000, "102010": 4 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        }
+      }
+    },
+    "2": {
+      "HpMax": 250,
+      "Attack": 59,
+      "Defence": 35,
+      "LevelMax": 20,
+      "LevelMin": 10,
+      "Materials": { "10": 35000, "102020": 12 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 450
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        }
+      }
+    },
+    "3": {
+      "HpMax": 501,
+      "Attack": 297,
+      "Defence": 69,
+      "LevelMax": 30,
+      "LevelMin": 20,
+      "Materials": { "10": 75000, "102020": 20 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 2250
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        }
+      }
+    },
+    "4": {
+      "HpMax": 751,
+      "Attack": 891,
+      "Defence": 104,
+      "LevelMax": 40,
+      "LevelMin": 30,
+      "Materials": { "10": 125000, "102030": 10 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 2250
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 2500
+        }
+      }
+    },
+    "5": {
+      "HpMax": 1001,
+      "Attack": 2375,
+      "Defence": 139,
+      "LevelMax": 50,
+      "LevelMin": 40,
+      "Materials": { "10": 250000, "102030": 20 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 4500
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 2500
+        }
+      }
+    },
+    "6": {
+      "HpMax": 1252,
+      "Attack": 5938,
+      "Defence": 173,
+      "LevelMax": 60,
+      "LevelMin": 50,
+      "Materials": {},
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 4500
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 5000
+        }
+      }
+    }
+  },
+  "Skill": {
+    "A": {
+      "Level": {
+        "1": {
+          "Name": "Starbeam Transformation",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nTransform and take flight, randomly summoning three <color=#FFFFFF>Spectral Bubbles</color> or <color=#FFFFFF>Twinkling Stars</color> in quick succession:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color> they restore HP.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color> they regain Energy.\nThe greater the on-field character's HP percentage, the higher the chance Miss Esme has of summoning a <color=#FFFFFF>Twinkling Star</color>.",
+          "Property": [
+            "Spectral Bubble: HP Recovery",
+            "Twinkling Star: Energy Generation",
+            "Cooldown"
+          ],
+          "Param": "4.4% HP|[0.6 + Level × 0.04]|30s"
+        },
+        "2": {
+          "Name": "Starbeam Transformation",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nTransform and take flight, randomly summoning three <color=#FFFFFF>Spectral Bubbles</color> or <color=#FFFFFF>Twinkling Stars</color> in quick succession:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color> they restore HP.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color> they regain Energy.\nThe greater the on-field character's HP percentage, the higher the chance Miss Esme has of summoning a <color=#FFFFFF>Twinkling Star</color>.",
+          "Property": [
+            "Spectral Bubble: HP Recovery",
+            "Twinkling Star: Energy Generation",
+            "Cooldown"
+          ],
+          "Param": "4.8% HP|[0.7 + Level × 0.04]|30s"
+        },
+        "3": {
+          "Name": "Starbeam Transformation",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nTransform and take flight, randomly summoning three <color=#FFFFFF>Spectral Bubbles</color> or <color=#FFFFFF>Twinkling Stars</color> in quick succession:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color> they restore HP.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color> they regain Energy.\nThe greater the on-field character's HP percentage, the higher the chance Miss Esme has of summoning a <color=#FFFFFF>Twinkling Star</color>.",
+          "Property": [
+            "Spectral Bubble: HP Recovery",
+            "Twinkling Star: Energy Generation",
+            "Cooldown"
+          ],
+          "Param": "5.2% HP|[0.8 + Level × 0.04]|30s"
+        },
+        "4": {
+          "Name": "Starbeam Transformation",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nTransform and take flight, randomly summoning three <color=#FFFFFF>Spectral Bubbles</color> or <color=#FFFFFF>Twinkling Stars</color> in quick succession:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color> they restore HP.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color> they regain Energy.\nThe greater the on-field character's HP percentage, the higher the chance Miss Esme has of summoning a <color=#FFFFFF>Twinkling Star</color>.",
+          "Property": [
+            "Spectral Bubble: HP Recovery",
+            "Twinkling Star: Energy Generation",
+            "Cooldown"
+          ],
+          "Param": "5.6% HP|[0.9 + Level × 0.04]|30s"
+        },
+        "5": {
+          "Name": "Starbeam Transformation",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nTransform and take flight, randomly summoning three <color=#FFFFFF>Spectral Bubbles</color> or <color=#FFFFFF>Twinkling Stars</color> in quick succession:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color> they restore HP.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color> they regain Energy.\nThe greater the on-field character's HP percentage, the higher the chance Miss Esme has of summoning a <color=#FFFFFF>Twinkling Star</color>.",
+          "Property": [
+            "Spectral Bubble: HP Recovery",
+            "Twinkling Star: Energy Generation",
+            "Cooldown"
+          ],
+          "Param": "6% HP|[1 + Level × 0.04]|30s"
+        },
+        "6": {
+          "Name": "Starbeam Transformation",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nTransform and take flight, randomly summoning three <color=#FFFFFF>Spectral Bubbles</color> or <color=#FFFFFF>Twinkling Stars</color> in quick succession:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color> they restore HP.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color> they regain Energy.\nThe greater the on-field character's HP percentage, the higher the chance Miss Esme has of summoning a <color=#FFFFFF>Twinkling Star</color>.",
+          "Property": [
+            "Spectral Bubble: HP Recovery",
+            "Twinkling Star: Energy Generation",
+            "Cooldown"
+          ],
+          "Param": "6.4% HP|[1.1 + Level × 0.04]|30s"
+        },
+        "7": {
+          "Name": "Starbeam Transformation",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nTransform and take flight, randomly summoning three <color=#FFFFFF>Spectral Bubbles</color> or <color=#FFFFFF>Twinkling Stars</color> in quick succession:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color> they restore HP.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color> they regain Energy.\nThe greater the on-field character's HP percentage, the higher the chance Miss Esme has of summoning a <color=#FFFFFF>Twinkling Star</color>.",
+          "Property": [
+            "Spectral Bubble: HP Recovery",
+            "Twinkling Star: Energy Generation",
+            "Cooldown"
+          ],
+          "Param": "6.8% HP|[1.2 + Level × 0.04]|30s"
+        },
+        "8": {
+          "Name": "Starbeam Transformation",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nTransform and take flight, randomly summoning three <color=#FFFFFF>Spectral Bubbles</color> or <color=#FFFFFF>Twinkling Stars</color> in quick succession:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color> they restore HP.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color> they regain Energy.\nThe greater the on-field character's HP percentage, the higher the chance Miss Esme has of summoning a <color=#FFFFFF>Twinkling Star</color>.",
+          "Property": [
+            "Spectral Bubble: HP Recovery",
+            "Twinkling Star: Energy Generation",
+            "Cooldown"
+          ],
+          "Param": "7.2% HP|[1.3 + Level × 0.04]|30s"
+        },
+        "9": {
+          "Name": "Starbeam Transformation",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nTransform and take flight, randomly summoning three <color=#FFFFFF>Spectral Bubbles</color> or <color=#FFFFFF>Twinkling Stars</color> in quick succession:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color> they restore HP.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color> they regain Energy.\nThe greater the on-field character's HP percentage, the higher the chance Miss Esme has of summoning a <color=#FFFFFF>Twinkling Star</color>.",
+          "Property": [
+            "Spectral Bubble: HP Recovery",
+            "Twinkling Star: Energy Generation",
+            "Cooldown"
+          ],
+          "Param": "7.6% HP|[1.4 + Level × 0.04]|30s"
+        },
+        "10": {
+          "Name": "Starbeam Transformation",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nTransform and take flight, randomly summoning three <color=#FFFFFF>Spectral Bubbles</color> or <color=#FFFFFF>Twinkling Stars</color> in quick succession:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color> they restore HP.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color> they regain Energy.\nThe greater the on-field character's HP percentage, the higher the chance Miss Esme has of summoning a <color=#FFFFFF>Twinkling Star</color>.",
+          "Property": [
+            "Spectral Bubble: HP Recovery",
+            "Twinkling Star: Energy Generation",
+            "Cooldown"
+          ],
+          "Param": "8% HP|[1.5 + Level × 0.04]|30s"
+        }
+      }
+    },
+    "B": {
+      "Level": {
+        "1": {
+          "Name": "Starshine Shift",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 2 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 20%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 20%.",
+          "Property": [
+            "Required Spook Shack Characters",
+            "Spectral Bubble: HP Recovery Increase",
+            "Twinkling Star: Energy Generation Increase"
+          ],
+          "Param": "2|20%|20%"
+        },
+        "2": {
+          "Name": "Starshine Shift",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 2 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 25%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 25%.",
+          "Property": [
+            "Required Spook Shack Characters",
+            "Spectral Bubble: HP Recovery Increase",
+            "Twinkling Star: Energy Generation Increase"
+          ],
+          "Param": "2|25%|25%"
+        },
+        "3": {
+          "Name": "Starshine Shift",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 30%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 30%.",
+          "Property": [
+            "Required Spook Shack Characters",
+            "Spectral Bubble: HP Recovery Increase",
+            "Twinkling Star: Energy Generation Increase"
+          ],
+          "Param": "1|30%|30%"
+        },
+        "4": {
+          "Name": "Starshine Shift",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 35%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 35%.",
+          "Property": [
+            "Required Spook Shack Characters",
+            "Spectral Bubble: HP Recovery Increase",
+            "Twinkling Star: Energy Generation Increase"
+          ],
+          "Param": "1|35%|35%"
+        },
+        "5": {
+          "Name": "Starshine Shift",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 40%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 40%.",
+          "Property": [
+            "Required Spook Shack Characters",
+            "Spectral Bubble: HP Recovery Increase",
+            "Twinkling Star: Energy Generation Increase"
+          ],
+          "Param": "1|40%|40%"
+        }
+      }
+    },
+    "C": {
+      "Level": {
+        "1": {
+          "Name": "Stellar Bomb",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nHurl a magical bomb, dealing <color=#F0D12B>Physical DMG</color> and accumulating massive <color=#F0D12B>Physical Anomaly Buildup</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401802, Prop:1001}|{Skill:5401802, Prop:1002}"
+        },
+        "2": {
+          "Name": "Stellar Bomb",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nHurl a magical bomb, dealing <color=#F0D12B>Physical DMG</color> and accumulating massive <color=#F0D12B>Physical Anomaly Buildup</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401802, Prop:1001}|{Skill:5401802, Prop:1002}"
+        },
+        "3": {
+          "Name": "Stellar Bomb",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nHurl a magical bomb, dealing <color=#F0D12B>Physical DMG</color> and accumulating massive <color=#F0D12B>Physical Anomaly Buildup</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401802, Prop:1001}|{Skill:5401802, Prop:1002}"
+        },
+        "4": {
+          "Name": "Stellar Bomb",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nHurl a magical bomb, dealing <color=#F0D12B>Physical DMG</color> and accumulating massive <color=#F0D12B>Physical Anomaly Buildup</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401802, Prop:1001}|{Skill:5401802, Prop:1002}"
+        },
+        "5": {
+          "Name": "Stellar Bomb",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nHurl a magical bomb, dealing <color=#F0D12B>Physical DMG</color> and accumulating massive <color=#F0D12B>Physical Anomaly Buildup</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401802, Prop:1001}|{Skill:5401802, Prop:1002}"
+        },
+        "6": {
+          "Name": "Stellar Bomb",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nHurl a magical bomb, dealing <color=#F0D12B>Physical DMG</color> and accumulating massive <color=#F0D12B>Physical Anomaly Buildup</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401802, Prop:1001}|{Skill:5401802, Prop:1002}"
+        },
+        "7": {
+          "Name": "Stellar Bomb",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nHurl a magical bomb, dealing <color=#F0D12B>Physical DMG</color> and accumulating massive <color=#F0D12B>Physical Anomaly Buildup</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401802, Prop:1001}|{Skill:5401802, Prop:1002}"
+        },
+        "8": {
+          "Name": "Stellar Bomb",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nHurl a magical bomb, dealing <color=#F0D12B>Physical DMG</color> and accumulating massive <color=#F0D12B>Physical Anomaly Buildup</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401802, Prop:1001}|{Skill:5401802, Prop:1002}"
+        },
+        "9": {
+          "Name": "Stellar Bomb",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nHurl a magical bomb, dealing <color=#F0D12B>Physical DMG</color> and accumulating massive <color=#F0D12B>Physical Anomaly Buildup</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401802, Prop:1001}|{Skill:5401802, Prop:1002}"
+        },
+        "10": {
+          "Name": "Stellar Bomb",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nHurl a magical bomb, dealing <color=#F0D12B>Physical DMG</color> and accumulating massive <color=#F0D12B>Physical Anomaly Buildup</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5401802, Prop:1001}|{Skill:5401802, Prop:1002}"
+        }
+      }
+    }
+  },
+  "SkillProp": {
+    "5401801": {
+      "1001": { "Main": 0, "Growth": 0, "Format": "%" },
+      "1002": { "Main": 0, "Growth": 0, "Format": "%" },
+      "ElementAccumulationValue": 0
+    },
+    "5401802": {
+      "1001": { "Main": 86300, "Growth": 8630, "Format": "%" },
+      "1002": { "Main": 12300, "Growth": 1230, "Format": "%" },
+      "ElementAccumulationValue": 37000
+    }
+  }
+}

@@ -6,7 +6,7 @@
       "Id": 11241,
       "CodeName": "Monster_GoldenBomb",
       "Icon": "",
-      "Tag": ["Mech", "Small", "GoldenBomb", "Bomb", "BigSceneReward"],
+      "Tag": ["Mech", "Small", "GoldenBomb", "Bomb"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -124,7 +124,7 @@
       "Id": 11242,
       "CodeName": "Monster_GoldenBomb",
       "Icon": "",
-      "Tag": ["Mech", "Small", "GoldenBomb", "Test", "Bomb", "BigSceneReward"],
+      "Tag": ["Mech", "Small", "GoldenBomb", "Test", "Bomb"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -155,7 +155,7 @@
         "StunDamageTakenRatio": 5000,
         "StunResetCount": 2,
         "StunResetRecoverCd": 1000,
-        "ResistBreakLevel": 1,
+        "ResistBreakLevel": 5,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
         "FrozenTimeRes": 5000,

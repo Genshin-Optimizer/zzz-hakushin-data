@@ -347,6 +347,18 @@
     "CHS": "索迪代斯",
     "JA": "ソルデドゥス"
   },
+  "10032": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MiasmaSpawn.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 1,
+    "group": 290,
+    "EN": "Miasma Spawn",
+    "desc": "These monsters, still vaguely humanoid after being injected with the Sacrifice serum, have their forms partially restrained by Porcelume — but the grotesque distortions on their bodies remain hard to look at.\nLab reports from the Hollow Investigative Association indicate that once the Porcelume is stripped from their bodies, these pitiful humanoids instantly lose control, rapidly deteriorating into more horrifying forms.\nDespite their seemingly sluggish movements, the Association strongly discourages any attempt to approach or \"rescue\" them, unless you're capable of taking them out in one blow before they go berserk.\n\n\"Look at those lumps bulging from their backs, like eternal baggage they can never shed... They're like some kind of evil backpackers, always ready to embark on another journey.\"",
+    "KO": "미아즈마 스폰",
+    "CHS": "秽息原牲",
+    "JA": "ミアズマのひな"
+  },
   "19999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
     "tag": ["Ether", "NotPro"],
@@ -440,7 +452,7 @@
     "EN": "Autonomous Support Unit - Sweeper",
     "desc": "An automatic combat mech utilized by Public Security. It possesses various combat modes tailored to various Ethereals types. Its weapons include circular chainsaws and fusion heat rays.\nSweepers can swiftly identify target Ethereals and adapt to the most effective combat strategy.\nHowever, their reliability diminishes to some extent when faced with Hollow Raiders who possess greater versatility than Ethereals.\n\"Stirring, chopping, heating... I wonder who came up with this? Maybe some undercover agent from a kitchenware company trying to boost sales?\"",
     "KO": "자율 보조 유닛·「스위퍼」",
-    "CHS": "自律辅助单位·「清扫者」",
+    "CHS": "自律辅助单��·「清扫者」",
     "JA": "自律補助ユニット・「スイーパー」"
   },
   "20007": {
@@ -979,9 +991,33 @@
     "group": 201,
     "EN": "Miasma Priest",
     "desc": "For New Eridu, the Hollow is a catastrophe of despair. And when a Hollow expands, fear, death, suffering... all forms of despair devour people's minds, altering the fates of countless souls.\nThe omens of doom began in the shadows of the Hollow, yet some heard a strange calling within, glimpsing a sliver of... hope and redemption amidst despair.\nSince then, they heeded that secret call to form a clandestine organization, and the Miasma Priests lurked in the shadows of Eridu... spreading Their blessing to those who had lost their way.\nThe \"Miasma Priests\" believe that the Hollow's expansion is no mere natural disaster. Generation after generation, the \"Priests\" have tirelessly pursued the hidden truth behind it, seeking to achieve their desired truth... that the will within the Hollow shall ultimately become reality.\nHowever, sacrifices are necessary in this process, and minor troubles are inevitable. Even being targeted by Void Hunters and hunted by major organizations are merely trivial setbacks on the path to truth.\nAfter a lengthy effort and thorough preparation, the \"Miasma Priests\" have finally summoned that will from the Hollow, allowing it to descend upon the world with near-perfect form. The Miasma that coils and covers the \"Miasma Priests,\" that corrupting substance untouchable to others, has become for them dazzling weapons and armor.\nAll of this serves as the ultimate proof of their blessed status.\n\"Their will... shall finally descend upon this world.\"\n\"What you must do is simple...\"\n\"Listen, obey, and then... accept Their blessing!\"",
-    "KO": "미아즈마 프리스트",
+    "KO": "미아��마 프리스트",
     "CHS": "秽息司祭",
     "JA": "ミアズマの司祭"
+  },
+  "30034": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_NamelessOne.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 4,
+    "group": 203,
+    "EN": "Miasmic Fiend - Unfathomable",
+    "desc": "A monster forged from Miasma and the memories of a mystic — every painful, haunting moment now sealed within this chaotic form.\nIt's nothing but an imitation in the end, never brave enough to rise up, never decisive enough to disappear without a trace. Yet for its creator, this was sufficient — as a mere pawn, those memories steeped in agony served as potent fuel, enough to turn the Hollow upside down and expose all secrets to the world.\nThus, driven by memories not its own, the Miasma that birthed it made it restless, the approaching Ethereals filled it with rage, and even while prowling its own territory, it remained forever uneasy.\nOnly once, when it chased a human to the edge of the Hollow and saw the fear on their face, was its hunting instinct unexpectedly overridden by a strange impulse. It came to an involuntary stop. And when that unlucky figure vanished from view, it felt something new: an emotion startlingly close to satisfaction.\nBut that sense of satisfaction didn't last. A group of humans in black armor began intruding into its territory again and again, unfazed by any threat. Agitation and exhaustion slowly wore it down — until all it wanted was for everything that moved to disappear. Disappear! DISAPPEAR!!!\n...\n\"...Let's... settle... this...\nStrange, what was that voice?\n\"It's deeply connected... The one who tied the knot must be the one to untie it!\"\nMemories long smothered by madness stirred back to life. Yes... yes! That was the sound — the one that had echoed endlessly in its mind. Though instinct screamed for it to attack, its body hesitated. Its gaze followed the glint of silver hair, so much like its own, desperate to see if the voice belonged to the figure that kept resurfacing in its memory.\nDistracted, it took a direct hit to its core from behind, the excruciating pain nearly breaking it. Yet it still heard that faint whisper:\n\"I'm sorry, I must do this...\"\nThough the words made no sense to it, that near-satisfying emotion returned. It became aware that something genuinely frightening now had it in its grip. It might die because of it... but it had no intention of fleeing.\nIn the end, its strength was completely spent. But in that final moment, it could finally see her clearly. She wasn't quite the same as in its memories, and that fleeting realization brought a trace of loneliness. But even so, it liked her current self more than the heart-shattering screams of the past.\n\n\"The 'Miasmic Fiend'... Hmm, though Ferox's subordinates named it first, this creature's ghostly and vicious nature certainly lives up to the name. We plan to register it as such — what does you think, Yixuan Shifu?\"\n\"Have you heard the ancient saying? 'A name makes the truth no less unfathomable.' A name is just a name — whatever rolls off the tongue will do.\"",
+    "KO": "미아즈마 핀드·네임리스",
+    "CHS": "秽息妖鬼·名可名",
+    "JA": "ミアズマ・フィーンド・名は名なれど"
+  },
+  "30035": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_HereticHunter.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
+    "group": 290,
+    "EN": "Sacrifice - Heretic Jester",
+    "desc": "Its peculiar energy fluctuations reveal its identity — an Exaltist creation, the source of nightmares.\nA fearsome hunter, it creeps up on its prey without a sound — yet at times, it's like a restless child playing hide-and-seek, unable to hold back a mischievous giggle. Perhaps the Miasma that birthed it carries too many echoes of lost souls, making it erratic and indecisive.\n\"If play is a privilege of the intelligent, then what it imitates is nothing more than a broken, mindless parody — there's no applause, only bloodshed.\"",
+    "KO": "새크리파이스·사악한 어릿광대",
+    "CHS": "牲鬼·凶魁愚者",
+    "JA": "サクリファイス・ヘレティック・ジェスター"
   },
   "35001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Nineveh.png",
@@ -1435,7 +1471,7 @@
     "group": 203,
     "EN": "Greedy Ranger",
     "desc": "This humanoid intelligent being is a result of potent Ether matter corruption in the Hollow, exhibiting both humanoid traits and remnants of its former clothing and combat style. It is likely that it was once a gang member or raider living in the Hollow.\nThe creature's physical characteristics indicate its past as a long-range weapon specialist. Despite losing its free will and life due to Etherealization, it retains its instincts and habits for long-range combat. Its corrupted form enables it to launch projectiles, attacking enemies from a distance. The Ether corruption has enhanced its shooting abilities and projectile firepower. (For example, these creatures may fire sharp Ether Crystals or mixed explosives.)\n\"I told him not to touch that crystal, but he wouldn't listen! That reckless idiot never listens! By the time we were about to leave the Hollow, he... he changed...\"",
-    "KO": "���욕스러운 총잡이",
+    "KO": "탐욕스러운 총잡이",
     "CHS": "贪婪射手",
     "JA": "強欲射手"
   },
@@ -1521,7 +1557,7 @@
     "desc": "Farbauti, possessing immense strength and often in a frenzied state, is one of the most formidable threats Hollow Raiders may face. Its hammer-like arms can effortlessly deflect damage and unleash storms of blows that crush everything in its path.\nSome Hollow Raiders have observed Farbauti frequently pounding the ground in a rhythmic, high-frequency manner, leading to speculation about its peculiar interest in drumming music.\nDespite the Hollow Investigative Association publicly debunking this rumor, many Hollow Raiders carry portable stereos in an attempt to distract Farbauti with music.\nNo successful escapes using this method have been reported however.\n\"The reason for their failure is simple: Even Farbauti think your taste in music sucks!\"",
     "KO": "플라스마·파르바우티",
     "CHS": "离子体·法布提",
-    "JA": "電離体・ファールバウティ"
+    "JA": "電離体・��ァールバウティ"
   },
   "200011": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HatiGreyPro.png",
@@ -2205,7 +2241,7 @@
     "desc": "People in the Outer Ring once called him the \"Overlord Pompey\" with true respect.\nBut now, his soul has been corrupted by potent Ether, his body polluted by sulfur and crude oil; the heart that once beat solely to protect the Outer Ring has turned into a supercritical Ether core filled with infinite power.\nThe former \"Lord of the Outer Ring\" has been reborn in flames, taking on a different form.\nFreedom, majesty... Violence, insanity.\nIt charges through the dust and flames, seizing anything that moves and then mercilessly tearing and shattering it.\nThose familiar with it before have guessed from its fractured whispers that what drives it is not a desire for petty revenge, but rather a desire to crush all outliers who dare to challenge the laws of the Outer Ring.\nMaybe it's the last vestige of the former Overlord Pompey's lingering will.\n\"Our leader has turned into that thing, but... he still feels like the same person.\"",
     "KO": "노토리우스·폼페이",
     "CHS": "恶名·庞培",
-    "JA": "要警戒・ポンペイ"
+    "JA": "��警戒・ポンペイ"
   },
   "300301": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_HugoVlad_Boss.png",
@@ -2538,7 +2574,7 @@
     "rarity": 1,
     "group": 201,
     "EN": "Huskron",
-    "desc": "The Huskron's dual forms — pre and post-hatching — have been giving headaches to new and veteran investigators alike. The Hollow Investigative Association offers this advice: Always watch for Miasmic substances at your feet. If you spot any rock-like spherical objects, attack immediately! Don't hesitate! Don't hesitate!\nAccording to insiders, the advice originally didn't have that repetition — until some clever Hollow Investigators still tried stepping around Huskrons even after reading it. That strategy worked about as well as trying to quietly open the fridge late at night without alerting one's dog.\n\n\"I prefer how it looks before hatching — all round and rolly.\"\n\"Is that why you didn't attack it first...?\"",
+    "desc": "The Huskron's dual forms — pre and post-hatching ��� have been giving headaches to new and veteran investigators alike. The Hollow Investigative Association offers this advice: Always watch for Miasmic substances at your feet. If you spot any rock-like spherical objects, attack immediately! Don't hesitate! Don't hesitate!\nAccording to insiders, the advice originally didn't have that repetition — until some clever Hollow Investigators still tried stepping around Huskrons even after reading it. That strategy worked about as well as trying to quietly open the fridge late at night without alerting one's dog.\n\n\"I prefer how it looks before hatching — all round and rolly.\"\n\"Is that why you didn't attack it first...?\"",
     "KO": "허스크론",
     "CHS": "赫斯克龙",
     "JA": "ハスクロン"

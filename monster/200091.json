@@ -6,7 +6,7 @@
       "Id": 11261,
       "CodeName": "Monster_HeavyFirePower",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Middle", "Black", "BigSceneReward"],
+      "Tag": ["Bios", "Demote", "Middle", "Black"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -124,7 +124,7 @@
       "Id": 11262,
       "CodeName": "Monster_HeavyFirePower",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Middle", "Black", "BigSceneReward"],
+      "Tag": ["Bios", "Promote", "Middle", "Black"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -134,8 +134,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 6640,
-        "Attack": 93,
+        "Hp": 6843,
+        "Attack": 106,
         "Defence": 54,
         "Crit": 0,
         "CritDamage": 5000,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 2653,
+        "Stun": 3030,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 100,
@@ -155,7 +155,7 @@
         "StunDamageTakenRatio": 5000,
         "StunResetCount": 2,
         "StunResetRecoverCd": 1000,
-        "ResistBreakLevel": 3,
+        "ResistBreakLevel": 5,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
         "FrozenTimeRes": 5000,

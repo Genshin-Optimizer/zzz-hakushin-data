@@ -6,7 +6,7 @@
       "Id": 11456,
       "CodeName": "Monster_HeavyStrikerBossCam",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_HeavyStrike.png",
-      "Tag": ["Mech", "Middle", "Boss", "Cam", "BigSceneReward"],
+      "Tag": ["Mech", "Middle", "Boss", "Cam"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

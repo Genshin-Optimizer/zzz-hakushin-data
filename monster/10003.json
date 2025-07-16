@@ -6,7 +6,7 @@
       "Id": 11203,
       "CodeName": "Monster_GolemGrey",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Grey", "BigSceneReward"],
+      "Tag": ["Ether", "Demote", "Small", "Grey"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -124,7 +124,7 @@
       "Id": 11204,
       "CodeName": "Monster_GolemGrey",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Grey", "BigSceneReward"],
+      "Tag": ["Ether", "Promote", "Small", "Grey"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -134,7 +134,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1123,
+        "Hp": 1373,
         "Attack": 60,
         "Defence": 46,
         "Crit": 0,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 600,
+        "Stun": 900,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,

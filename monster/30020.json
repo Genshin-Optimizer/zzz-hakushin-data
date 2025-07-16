@@ -6,7 +6,7 @@
       "Id": 11642,
       "CodeName": "Monster_JaneDoeSlime",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_JaneBoss.png",
-      "Tag": ["Ether", "Small", "Boss", "Slime", "NoRBLBuff", "BigSceneReward"],
+      "Tag": ["Ether", "Small", "Boss", "Slime", "NoRBLBuff"],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

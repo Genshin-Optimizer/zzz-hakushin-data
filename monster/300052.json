@@ -6,7 +6,7 @@
       "Id": 11403,
       "CodeName": "Monster_MaterialHandlerPurple",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_HansOverclocked.png",
-      "Tag": ["Mech", "Gigantic", "Purple", "Boss", "BigSceneReward"],
+      "Tag": ["Mech", "Gigantic", "Purple", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

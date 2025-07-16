@@ -6,7 +6,7 @@
       "Id": 11363,
       "CodeName": "Monster_ThugBulkyAbuserVest",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Middle", "Vest", "BigSceneReward"],
+      "Tag": ["Bios", "Demote", "Middle", "Vest"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -124,7 +124,7 @@
       "Id": 11364,
       "CodeName": "Monster_ThugBulkyAbuserVest",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Middle", "Vest", "BigSceneReward"],
+      "Tag": ["Bios", "Promote", "Middle", "Vest"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -134,8 +134,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 6324,
-        "Attack": 76,
+        "Hp": 6517,
+        "Attack": 86,
         "Defence": 50,
         "Crit": 0,
         "CritDamage": 5000,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 2527,
+        "Stun": 2886,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 100,
@@ -155,7 +155,7 @@
         "StunDamageTakenRatio": 5000,
         "StunResetCount": 2,
         "StunResetRecoverCd": 1000,
-        "ResistBreakLevel": 3,
+        "ResistBreakLevel": 5,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
         "FrozenTimeRes": 5000,

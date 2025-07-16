@@ -6,7 +6,7 @@
       "Id": 31021,
       "CodeName": "Monster_Anglercrab",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Anglercrab.png",
-      "Tag": ["Ether", "Boss", "Middle", "BigSceneReward"],
+      "Tag": ["Ether", "Boss", "Middle"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

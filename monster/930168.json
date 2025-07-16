@@ -6,7 +6,7 @@
       "Id": 31051,
       "CodeName": "Monster_Banyrek",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "BigSceneReward"],
+      "Tag": ["Ether", "Demote", "Middle", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -124,7 +124,7 @@
       "Id": 31052,
       "CodeName": "Monster_Banyrek",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "BigSceneReward"],
+      "Tag": ["Ether", "Promote", "Middle", "Miasma"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -134,8 +134,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 8747,
-        "Attack": 106,
+        "Hp": 9060,
+        "Attack": 121,
         "Defence": 45,
         "Crit": 0,
         "CritDamage": 5000,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 3852,
+        "Stun": 4369,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -155,7 +155,7 @@
         "StunDamageTakenRatio": 5000,
         "StunResetCount": 2,
         "StunResetRecoverCd": 1000,
-        "ResistBreakLevel": 3,
+        "ResistBreakLevel": 5,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
         "FrozenTimeRes": 5000,

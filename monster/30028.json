@@ -6,14 +6,7 @@
       "Id": 11911,
       "CodeName": "Monster_Bodyguard",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Bodyguard",
-        "Bodyguard_Type1",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Bodyguard", "Bodyguard_Type1"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -131,14 +124,7 @@
       "Id": 11912,
       "CodeName": "Monster_Bodyguard",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Bodyguard",
-        "Bodyguard_Type2",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Bodyguard", "Bodyguard_Type2"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -256,14 +242,7 @@
       "Id": 11913,
       "CodeName": "Monster_Bodyguard",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Bodyguard",
-        "Bodyguard_Type3",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Bodyguard", "Bodyguard_Type3"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -381,14 +360,7 @@
       "Id": 11914,
       "CodeName": "Monster_Bodyguard",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Bodyguard",
-        "Bodyguard_Type4",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Bodyguard", "Bodyguard_Type4"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -506,14 +478,7 @@
       "Id": 11915,
       "CodeName": "Monster_Bodyguard",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Bodyguard",
-        "Bodyguard_Type1",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Bodyguard", "Bodyguard_Type1"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -523,7 +488,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
+        "Hp": 1648,
         "Attack": 76,
         "Defence": 36,
         "Crit": 0,
@@ -532,7 +497,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -631,14 +596,7 @@
       "Id": 11916,
       "CodeName": "Monster_Bodyguard",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Bodyguard",
-        "Bodyguard_Type2",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Bodyguard", "Bodyguard_Type2"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -648,7 +606,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
+        "Hp": 1648,
         "Attack": 76,
         "Defence": 36,
         "Crit": 0,
@@ -657,7 +615,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -756,14 +714,7 @@
       "Id": 11917,
       "CodeName": "Monster_Bodyguard",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Bodyguard",
-        "Bodyguard_Type3",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Bodyguard", "Bodyguard_Type3"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -773,7 +724,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
+        "Hp": 1648,
         "Attack": 76,
         "Defence": 36,
         "Crit": 0,
@@ -782,7 +733,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -881,14 +832,7 @@
       "Id": 11918,
       "CodeName": "Monster_Bodyguard",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Bodyguard",
-        "Bodyguard_Type4",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Bodyguard", "Bodyguard_Type4"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -898,7 +842,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
+        "Hp": 1648,
         "Attack": 76,
         "Defence": 36,
         "Crit": 0,
@@ -907,7 +851,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -1006,14 +950,7 @@
       "Id": 11921,
       "CodeName": "Monster_Bruiser",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Bruiser",
-        "Bruiser_Type1",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Bruiser", "Bruiser_Type1"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -1023,8 +960,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1108,
+        "Attack": 72,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -1032,7 +969,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 396,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -1131,14 +1068,7 @@
       "Id": 11922,
       "CodeName": "Monster_Bruiser",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Bruiser",
-        "Bruiser_Type2",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Bruiser", "Bruiser_Type2"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -1148,8 +1078,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1108,
+        "Attack": 72,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -1157,7 +1087,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 396,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -1256,14 +1186,7 @@
       "Id": 11923,
       "CodeName": "Monster_Bruiser",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Bruiser",
-        "Bruiser_Type3",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Bruiser", "Bruiser_Type3"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -1273,8 +1196,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1108,
+        "Attack": 72,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -1282,7 +1205,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 396,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -1381,14 +1304,7 @@
       "Id": 11924,
       "CodeName": "Monster_Bruiser",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Bruiser",
-        "Bruiser_Type4",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Bruiser", "Bruiser_Type4"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -1398,8 +1314,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1108,
+        "Attack": 72,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -1407,7 +1323,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 396,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -1506,14 +1422,7 @@
       "Id": 11925,
       "CodeName": "Monster_Bruiser",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Bruiser",
-        "Bruiser_Type1",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Bruiser", "Bruiser_Type1"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -1523,8 +1432,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1288,
+        "Attack": 72,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -1532,7 +1441,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 594,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -1631,14 +1540,7 @@
       "Id": 11926,
       "CodeName": "Monster_Bruiser",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Bruiser",
-        "Bruiser_Type2",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Bruiser", "Bruiser_Type2"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -1648,8 +1550,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1288,
+        "Attack": 72,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -1657,7 +1559,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 594,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -1756,14 +1658,7 @@
       "Id": 11927,
       "CodeName": "Monster_Bruiser",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Bruiser",
-        "Bruiser_Type3",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Bruiser", "Bruiser_Type3"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -1773,8 +1668,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1288,
+        "Attack": 72,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -1782,7 +1677,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 594,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -1881,14 +1776,7 @@
       "Id": 11928,
       "CodeName": "Monster_Bruiser",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Bruiser",
-        "Bruiser_Type4",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Bruiser", "Bruiser_Type4"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -1898,8 +1786,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1288,
+        "Attack": 72,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -1907,7 +1795,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 594,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -2006,14 +1894,7 @@
       "Id": 11931,
       "CodeName": "Monster_Sharpshooter",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Sharpshooter",
-        "Sharpshooter_Type1",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Sharpshooter", "Sharpshooter_Type1"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -2024,7 +1905,7 @@
       },
       "Stats": {
         "Hp": 1348,
-        "Attack": 76,
+        "Attack": 65,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -2035,7 +1916,7 @@
         "Stun": 660,
         "IsStun": true,
         "BreakStun": 0,
-        "AutoRecoverRate": 0,
+        "AutoRecoverRate": 500,
         "AutoRecoverCd": 0,
         "StunValueFullRecoverCd": 0,
         "CanInterruptStunRecover": true,
@@ -2131,14 +2012,7 @@
       "Id": 11932,
       "CodeName": "Monster_Sharpshooter",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Sharpshooter",
-        "Sharpshooter_Type2",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Sharpshooter", "Sharpshooter_Type2"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -2149,7 +2023,7 @@
       },
       "Stats": {
         "Hp": 1348,
-        "Attack": 76,
+        "Attack": 65,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -2160,7 +2034,7 @@
         "Stun": 660,
         "IsStun": true,
         "BreakStun": 0,
-        "AutoRecoverRate": 0,
+        "AutoRecoverRate": 500,
         "AutoRecoverCd": 0,
         "StunValueFullRecoverCd": 0,
         "CanInterruptStunRecover": true,
@@ -2256,14 +2130,7 @@
       "Id": 11933,
       "CodeName": "Monster_Sharpshooter",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Sharpshooter",
-        "Sharpshooter_Type3",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Sharpshooter", "Sharpshooter_Type3"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -2274,7 +2141,7 @@
       },
       "Stats": {
         "Hp": 1348,
-        "Attack": 76,
+        "Attack": 65,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -2285,7 +2152,7 @@
         "Stun": 660,
         "IsStun": true,
         "BreakStun": 0,
-        "AutoRecoverRate": 0,
+        "AutoRecoverRate": 500,
         "AutoRecoverCd": 0,
         "StunValueFullRecoverCd": 0,
         "CanInterruptStunRecover": true,
@@ -2381,14 +2248,7 @@
       "Id": 11934,
       "CodeName": "Monster_Sharpshooter",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Sharpshooter",
-        "Sharpshooter_Type4",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Sharpshooter", "Sharpshooter_Type4"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -2399,7 +2259,7 @@
       },
       "Stats": {
         "Hp": 1348,
-        "Attack": 76,
+        "Attack": 65,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -2410,7 +2270,7 @@
         "Stun": 660,
         "IsStun": true,
         "BreakStun": 0,
-        "AutoRecoverRate": 0,
+        "AutoRecoverRate": 500,
         "AutoRecoverCd": 0,
         "StunValueFullRecoverCd": 0,
         "CanInterruptStunRecover": true,
@@ -2506,14 +2366,7 @@
       "Id": 11935,
       "CodeName": "Monster_Sharpshooter",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Sharpshooter",
-        "Sharpshooter_Type1",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Sharpshooter", "Sharpshooter_Type1"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -2523,8 +2376,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1648,
+        "Attack": 65,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -2532,10 +2385,10 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
-        "AutoRecoverRate": 0,
+        "AutoRecoverRate": 500,
         "AutoRecoverCd": 0,
         "StunValueFullRecoverCd": 0,
         "CanInterruptStunRecover": true,
@@ -2631,14 +2484,7 @@
       "Id": 11936,
       "CodeName": "Monster_Sharpshooter",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Sharpshooter",
-        "Sharpshooter_Type2",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Sharpshooter", "Sharpshooter_Type2"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -2648,8 +2494,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1648,
+        "Attack": 65,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -2657,10 +2503,10 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
-        "AutoRecoverRate": 0,
+        "AutoRecoverRate": 500,
         "AutoRecoverCd": 0,
         "StunValueFullRecoverCd": 0,
         "CanInterruptStunRecover": true,
@@ -2756,14 +2602,7 @@
       "Id": 11937,
       "CodeName": "Monster_Sharpshooter",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Sharpshooter",
-        "Sharpshooter_Type3",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Sharpshooter", "Sharpshooter_Type3"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -2773,8 +2612,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1648,
+        "Attack": 65,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -2782,10 +2621,10 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
-        "AutoRecoverRate": 0,
+        "AutoRecoverRate": 500,
         "AutoRecoverCd": 0,
         "StunValueFullRecoverCd": 0,
         "CanInterruptStunRecover": true,
@@ -2881,14 +2720,7 @@
       "Id": 11938,
       "CodeName": "Monster_Sharpshooter",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Sharpshooter",
-        "Sharpshooter_Type4",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Sharpshooter", "Sharpshooter_Type4"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -2898,8 +2730,8 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1348,
-        "Attack": 76,
+        "Hp": 1648,
+        "Attack": 65,
         "Defence": 36,
         "Crit": 0,
         "CritDamage": 5000,
@@ -2907,10 +2739,10 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 660,
+        "Stun": 990,
         "IsStun": true,
         "BreakStun": 0,
-        "AutoRecoverRate": 0,
+        "AutoRecoverRate": 500,
         "AutoRecoverCd": 0,
         "StunValueFullRecoverCd": 0,
         "CanInterruptStunRecover": true,

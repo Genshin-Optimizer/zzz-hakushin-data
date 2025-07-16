@@ -6,7 +6,7 @@
       "Id": 11245,
       "CodeName": "Monster_PlatinumBangboo",
       "Icon": "",
-      "Tag": ["Mech", "Small", "PlatinumBangboo", "Bomb", "BigSceneReward"],
+      "Tag": ["Mech", "Small", "PlatinumBangboo", "Bomb"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

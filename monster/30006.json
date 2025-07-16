@@ -6,7 +6,7 @@
       "Id": 11391,
       "CodeName": "Monster_PileDriver",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_PileDriver.png",
-      "Tag": ["Mech", "Gigantic", "Boss", "BigSceneReward"],
+      "Tag": ["Mech", "Gigantic", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -6,7 +6,7 @@
       "Id": 11951,
       "CodeName": "Monster_Palicus",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Hecate.png",
-      "Tag": ["Ether", "Middle", "Boss", "Palicus", "BigSceneReward"],
+      "Tag": ["Ether", "Middle", "Boss", "Palicus"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -124,7 +124,7 @@
       "Id": 11952,
       "CodeName": "Monster_Palicus_Clone",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Hecate.png",
-      "Tag": ["Ether", "Middle", "Boss", "Palicus", "Clone", "BigSceneReward"],
+      "Tag": ["Ether", "Middle", "Boss", "Palicus", "Clone"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

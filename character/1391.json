@@ -276,7 +276,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4407
                 }
               },
               "Potential": []
@@ -301,7 +302,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3552
                 }
               },
               "Potential": []
@@ -326,7 +328,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4405
                 }
               },
               "Potential": []
@@ -351,7 +354,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 12172
                 }
               },
               "Potential": []
@@ -376,7 +380,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4407
                 }
               },
               "Potential": []
@@ -401,7 +406,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3552
                 }
               },
               "Potential": []
@@ -426,7 +432,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4405
                 }
               },
               "Potential": []
@@ -451,7 +458,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 12172
                 }
               },
               "Potential": []
@@ -482,7 +490,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
                 }
               },
               "Potential": []
@@ -507,7 +516,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
                 }
               },
               "Potential": []
@@ -545,7 +555,7 @@
         },
         {
           "Name": "Dash Attack: Tiger Seven Forms - Mountain King's Game",
-          "Desc": "After using <color=#FFFFFF>Dash Attack: Tiger Seven Forms - Tiger Charge</color>, hold <IconMap:Icon_Normal> to activate:\nEnter a high-speed spinning state. While in this state, use the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to move and deal <color=#F0D12B>Physical DMG</color> upon contact with enemies.\nAfter Ju Fufu gains <color=#FFFFFF>Momentum</color> from other skills, she will be surrounded by flames in the high-speed spinning state. Upon contact with enemies, 1 point of <color=#FFFFFF>Momentum</color> is consumed, changing the DMG to <color=#FF5521>Fire DMG</color> and granting 25 points of <color=#FFFFFF>Might</color>. The maximum for <color=#FFFFFF>Momentum</color> is 15.\nWhen dealing <color=#FF5521>Fire DMG</color>, if <color=#FFFFFF>Might</color> is above 100 points, 100 points of <color=#FFFFFF>Might</color> will be automatically consumed to trigger <color=#FFFFFF>Chain Attack: Suppressing Tiger Cauldron</color>.\nReleasing <IconMap:Icon_Normal> will have Ju Fufu exit the spinning state and throw <color=#FFFFFF>Hu Wei</color> to attack enemies. When switching to another character, Ju Fufu will remain in the spinning state and attempt to collide with the nearest enemy.\nWhile Ju Fufu is the currently active character, DMG taken during the skill is reduced by 40%, and Anti-Interrupt Level is increased. If not the active character, she becomes Invulnerable.",
+          "Desc": "After using <color=#FFFFFF>Dash Attack: Tiger Seven Forms - Tiger Charge</color>, hold <IconMap:Icon_Normal> to activate:\nEnter a high-speed spinning state. While in this state, use the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to move and deal <color=#F0D12B>Physical DMG</color> upon contact with enemies.\nAfter Ju Fufu gains <color=#FFFFFF>Momentum</color> from other skills, she will be surrounded by flames in the high-speed spinning state. Upon contact with enemies, 1 point of <color=#FFFFFF>Momentum</color> is consumed, changing the DMG to <color=#FF5521>Fire DMG</color> and granting 25 points of <color=#FFFFFF>Might</color>. The maximum for <color=#FFFFFF>Momentum</color> is 15.\nWhen consuming <color=#FFFFFF>Momentum</color> to deal <color=#FF5521>Fire DMG</color>, if <color=#FFFFFF>Might</color> is above 100 points, 100 points of <color=#FFFFFF>Might</color> will be automatically consumed to trigger <color=#FFFFFF>Chain Attack: Suppressing Tiger Cauldron</color>.\nReleasing <IconMap:Icon_Normal> will have Ju Fufu exit the spinning state and throw <color=#FFFFFF>Hu Wei</color> to attack enemies, dealing <color=#FF5521>Fire DMG</color>. When switching to another character, Ju Fufu will remain in the spinning state and attempt to collide with the nearest enemy.\nWhile Ju Fufu is the currently active character, DMG taken during the skill is reduced by 40%, and Anti-Interrupt Level is increased. If not the active character, she becomes Invulnerable.",
           "Potential": []
         },
         {
@@ -576,7 +586,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 1669
                 }
               },
               "Potential": []
@@ -601,7 +612,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 1669
                 }
               },
               "Potential": []
@@ -632,7 +644,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
                 }
               },
               "Potential": []
@@ -657,7 +670,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
                 }
               },
               "Potential": []
@@ -688,7 +702,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
                 }
               },
               "Potential": []
@@ -713,7 +728,66 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Dash Attack: Tiger Seven Forms - Mountain King's Game - Hu Wei",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1391022, Prop:1001}",
+              "Param": {
+                "1391022": {
+                  "Main": 9240,
+                  "Growth": 840,
+                  "Format": "%",
+                  "DamagePercentage": 9240,
+                  "DamagePercentageGrowth": 840,
+                  "StunRatio": 6930,
+                  "StunRatioGrowth": 320,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1391022, Prop:1002}",
+              "Param": {
+                "1391022": {
+                  "Main": 6930,
+                  "Growth": 320,
+                  "Format": "%",
+                  "DamagePercentage": 9240,
+                  "DamagePercentageGrowth": 840,
+                  "StunRatio": 6930,
+                  "StunRatioGrowth": 320,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
                 }
               },
               "Potential": []
@@ -744,7 +818,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 21837
                 }
               },
               "Potential": []
@@ -769,7 +844,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 21837
                 }
               },
               "Potential": []
@@ -828,7 +904,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6002
                 }
               },
               "Potential": []
@@ -853,7 +930,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6002
                 }
               },
               "Potential": []
@@ -884,7 +962,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 16331
                 }
               },
               "Potential": []
@@ -909,7 +988,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 16331
                 }
               },
               "Potential": []
@@ -943,7 +1023,7 @@
         },
         {
           "Name": "Chain Attack: Suppressing Tiger Cauldron",
-          "Desc": "With at least 100 points of <color=#FFFFFF>Might</color>, after triggering a <color=#FFFFFF>Chain Attack</color>, automatically activate:\nConsume 100 <color=#FFFFFF>Might</color> to open Hu Wei and fire flames and popcorn at enemies, striking them in a small area ahead, dealing massive <color=#FF5521>Fire DMG</color>.\nIf <color=#FFFFFF>Momentum</color> is available, and while not the active character, <color=#FFFFFF>Fiery Spin</color> will activate after the skill ends.\nThis is an <color=#FFFFFF>Aftershock</color>. Character is invulnerable while using this skill.",
+          "Desc": "With at least 100 points of <color=#FFFFFF>Might</color>, after triggering a <color=#FFFFFF>Chain Attack</color>, automatically activate:\nConsume 100 <color=#FFFFFF>Might</color> to open Hu Wei and fire flames and popcorn at enemies, striking them in a small area ahead, dealing massive <color=#FF5521>Fire DMG</color>.\nIf <color=#FFFFFF>Momentum</color> is available, and while not the active character, the high-speed spinning state will activate after the skill ends.\nThis is an <color=#FFFFFF>Aftershock</color>. Character is invulnerable while using this skill.",
           "Potential": []
         },
         {
@@ -974,7 +1054,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 20834
                 }
               },
               "Potential": []
@@ -999,7 +1080,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 20834
                 }
               },
               "Potential": []
@@ -1030,7 +1112,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
                 }
               },
               "Potential": []
@@ -1055,7 +1138,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
                 }
               },
               "Potential": []
@@ -1086,7 +1170,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 71004
                 }
               },
               "Potential": []
@@ -1111,7 +1196,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 71004
                 }
               },
               "Potential": []
@@ -1175,7 +1261,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3419
                 }
               },
               "Potential": []
@@ -1200,7 +1287,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3419
                 }
               },
               "Potential": []
@@ -1231,7 +1319,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 36664
                 }
               },
               "Potential": []
@@ -1256,7 +1345,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 41664
                 }
               },
               "Potential": []
@@ -1281,7 +1371,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11664
                 }
               },
               "Potential": []
@@ -1312,7 +1403,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 18501
                 }
               },
               "Potential": []
@@ -1337,7 +1429,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 18501
                 }
               },
               "Potential": []
@@ -1569,7 +1662,7 @@
       "Level": 2,
       "Name": "Almighty Qingming Warrior",
       "Desc": "While in the <color=#FFFFFF>Tiger's Roar</color> state, character CRIT DMG increases by an additional 22%. Whenever any character activates an <color=#FFFFFF>Ultimate</color>, Ju Fufu gains 3 points of <color=#FFFFFF>Momentum</color>.",
-      "Desc2": ""
+      "Desc2": "\"The techniques Shifu taught me are truly amazing, though it can't compare to those of fairy tales and legend.\"\n\"If I were a little stronger — just a little stronger — could I rewrite those fated pasts, like in the stories and legends?\n\"At first, I was just as puzzled, but once you grasp the trick, it's actually quite simple! Let me teach you, Junior!\""
     },
     "3": {
       "Level": 3,

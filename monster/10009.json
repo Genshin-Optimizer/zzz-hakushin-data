@@ -6,7 +6,7 @@
       "Id": 11763,
       "CodeName": "Monster_GrenadierJaegerCam",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_TyrantPompeyPro.png",
-      "Tag": ["Bios", "Demote", "Small", "BigSceneReward"],
+      "Tag": ["Bios", "Demote", "Small"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -124,7 +124,7 @@
       "Id": 11764,
       "CodeName": "Monster_GrenadierJaegerCam",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_TyrantPompeyPro.png",
-      "Tag": ["Bios", "Promote", "Small", "BigSceneReward"],
+      "Tag": ["Bios", "Promote", "Small"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -134,7 +134,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1235,
+        "Hp": 1510,
         "Attack": 59,
         "Defence": 40,
         "Crit": 0,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 630,
+        "Stun": 945,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,

@@ -11,8 +11,7 @@
         "MainStoryBoss",
         "Middle",
         "UniqueDeathEff",
-        "DeathEffMiddle",
-        "BigSceneReward"
+        "DeathEffMiddle"
       ],
       "Type": "Monster",
       "Element": {
@@ -136,8 +135,7 @@
         "MainStoryBoss",
         "Middle",
         "UniqueDeathEff",
-        "DeathEffMiddle",
-        "BigSceneReward"
+        "DeathEffMiddle"
       ],
       "Type": "Monster",
       "Element": {
@@ -148,8 +146,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 11129,
-        "Attack": 132,
+        "Hp": 18925,
+        "Attack": 158,
         "Defence": 60,
         "Crit": 0,
         "CritDamage": 5000,
@@ -262,8 +260,7 @@
         "Middle",
         "UniqueDeathEff",
         "DeathEffMiddle",
-        "OnlyP2",
-        "BigSceneReward"
+        "OnlyP2"
       ],
       "Type": "Monster",
       "Element": {
@@ -274,8 +271,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 11129,
-        "Attack": 132,
+        "Hp": 20728,
+        "Attack": 173,
         "Defence": 60,
         "Crit": 0,
         "CritDamage": 5000,
@@ -283,7 +280,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 6762,
+        "Stun": 7084,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,

@@ -6,15 +6,7 @@
       "Id": 11253,
       "CodeName": "Monster_LightJaegerCam",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Demote",
-        "Small",
-        "Light",
-        "Jaeger",
-        "Cam",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Demote", "Small", "Light", "Jaeger", "Cam"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -132,15 +124,7 @@
       "Id": 11254,
       "CodeName": "Monster_LightJaegerCam",
       "Icon": "",
-      "Tag": [
-        "Bios",
-        "Promote",
-        "Small",
-        "Light",
-        "Jaeger",
-        "Cam",
-        "BigSceneReward"
-      ],
+      "Tag": ["Bios", "Promote", "Small", "Light", "Jaeger", "Cam"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -150,7 +134,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1123,
+        "Hp": 1373,
         "Attack": 66,
         "Defence": 40,
         "Crit": 0,
@@ -159,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 600,
+        "Stun": 900,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,

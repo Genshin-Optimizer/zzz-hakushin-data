@@ -6,15 +6,7 @@
       "Id": 11901,
       "CodeName": "Monster_NotoriousDeadEndButcher",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_NotoriousDeadEndButcher.png",
-      "Tag": [
-        "Ether",
-        "Large",
-        "CottusP1",
-        "Black",
-        "P1Only",
-        "MainStoryBoss",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Large", "CottusP1", "Black", "P1Only", "MainStoryBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

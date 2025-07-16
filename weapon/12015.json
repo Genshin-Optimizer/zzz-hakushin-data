@@ -95,23 +95,23 @@
   "Talents": {
     "1": {
       "Name": "Dim Flame",
-      "Desc": "Upon entering combat or switching in, the equipper's ATK increases by <color=#2BAD00>7.2%</color> for 10s. This effect can trigger once every 20s."
+      "Desc": "Upon becoming the active character in combat, the equipper's ATK increases by <color=#2BAD00>7.2%</color> for 10s. This effect can trigger once every 20s."
     },
     "2": {
       "Name": "Dim Flame",
-      "Desc": "Upon entering combat or switching in, the equipper's ATK increases by <color=#2BAD00>8.2%</color> for 10s. This effect can trigger once every 20s."
+      "Desc": "Upon becoming the active character in combat, the equipper's ATK increases by <color=#2BAD00>8.2%</color> for 10s. This effect can trigger once every 20s."
     },
     "3": {
       "Name": "Dim Flame",
-      "Desc": "Upon entering combat or switching in, the equipper's ATK increases by <color=#2BAD00>9.3%</color> for 10s. This effect can trigger once every 20s."
+      "Desc": "Upon becoming the active character in combat, the equipper's ATK increases by <color=#2BAD00>9.3%</color> for 10s. This effect can trigger once every 20s."
     },
     "4": {
       "Name": "Dim Flame",
-      "Desc": "Upon entering combat or switching in, the equipper's ATK increases by <color=#2BAD00>10.4%</color> for 10s. This effect can trigger once every 20s."
+      "Desc": "Upon becoming the active character in combat, the equipper's ATK increases by <color=#2BAD00>10.4%</color> for 10s. This effect can trigger once every 20s."
     },
     "5": {
       "Name": "Dim Flame",
-      "Desc": "Upon entering combat or switching in, the equipper's ATK increases by <color=#2BAD00>11.5%</color> for 10s. This effect can trigger once every 20s."
+      "Desc": "Upon becoming the active character in combat, the equipper's ATK increases by <color=#2BAD00>11.5%</color> for 10s. This effect can trigger once every 20s."
     }
   }
 }

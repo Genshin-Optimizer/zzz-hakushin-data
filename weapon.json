@@ -95,7 +95,7 @@
     "type": 3,
     "EN": "[Magnetic Storm] Alpha",
     "desc": "A special W-Engine that can analyze the target's weak spots through real-time calculations.",
-    "KO": "「자기 ���풍」-알파",
+    "KO": "「자기 폭풍」-알파",
     "CHS": "「电磁暴」-壹式",
     "JA": "「磁気嵐」-壱式"
   },
@@ -576,7 +576,7 @@
     "EN": "Weeping Cradle",
     "desc": "A special W-Engine with multiple layers embedded inside. It can quickly recharge \tspecial-model Bangboo and custom-made combat equipment. This model is favored by Rina.",
     "KO": "흐느끼는 요람",
-    "CHS": "啜泣摇篮",
+    "CHS": "啜���摇篮",
     "JA": "啜り泣くゆりかご"
   },
   "14122": {
@@ -698,5 +698,25 @@
     "KO": "복을 뿜는 맹호",
     "CHS": "福虓炉炉",
     "JA": "招福の虎炉"
+  },
+  "14140": {
+    "icon": "Weapon_S_1401",
+    "rank": 4,
+    "type": 3,
+    "EN": "Practiced Perfection",
+    "desc": "Starlight became her blade, and she held courage and love firmly in her hands.",
+    "KO": "완벽하게 단조된 별",
+    "CHS": "十方锻星",
+    "JA": "十面百錬の星"
+  },
+  "14141": {
+    "icon": "Weapon_S_1411",
+    "rank": 4,
+    "type": 4,
+    "EN": "Metanukimorphosis",
+    "desc": "A masterfully crafted design, infused with the creator's pursuit of beauty.",
+    "KO": "너구리의 7단 변신",
+    "CHS": "狸法七变化",
+    "JA": "狸の七変化"
   }
 }

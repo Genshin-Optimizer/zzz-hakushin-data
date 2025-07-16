@@ -6,7 +6,7 @@
       "Id": 11127,
       "CodeName": "Monster_HatiRedBoss",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_HatiGreyPro.png",
-      "Tag": ["Ether", "Boss", "Middle", "Red", "UnArmored", "BigSceneReward"],
+      "Tag": ["Ether", "Boss", "Middle", "Red", "UnArmored"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

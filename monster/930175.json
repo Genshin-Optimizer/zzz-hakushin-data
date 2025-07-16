@@ -13,7 +13,7 @@
         "Slime",
         "EtherBarrierBoss",
         "NoRBLBuff",
-        "BigSceneReward"
+        "Miasma"
       ],
       "Type": "Monster",
       "Element": {
@@ -140,7 +140,7 @@
         "EtherBarrierBoss",
         "NoRBLBuff",
         "HighEtherBarrier",
-        "BigSceneReward"
+        "Miasma"
       ],
       "Type": "Monster",
       "Element": {

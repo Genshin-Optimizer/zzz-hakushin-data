@@ -6,7 +6,7 @@
       "Id": 11303,
       "CodeName": "Monster_BoringMachinePurple",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_GretelOverclocked.png",
-      "Tag": ["Mech", "Gigantic", "Purple", "Boss", "BigSceneReward"],
+      "Tag": ["Mech", "Gigantic", "Purple", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

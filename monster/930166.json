@@ -6,7 +6,7 @@
       "Id": 11961,
       "CodeName": "Monster_Tepes",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Tepes.png",
-      "Tag": ["Ether", "Large", "Boss", "BigSceneReward"],
+      "Tag": ["Ether", "Large", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

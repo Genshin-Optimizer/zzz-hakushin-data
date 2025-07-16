@@ -6,7 +6,7 @@
       "Id": 11402,
       "CodeName": "Monster_MaterialHandlerRed",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_MaterialHandlerRed.png",
-      "Tag": ["Mech", "Gigantic", "Red", "Boss", "BigSceneReward"],
+      "Tag": ["Mech", "Gigantic", "Red", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -6,7 +6,7 @@
       "Id": 11156,
       "CodeName": "Monster_DurahanBoss",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_DurahanBoss.png",
-      "Tag": ["Ether", "Middle", "Boss", "BigSceneReward"],
+      "Tag": ["Ether", "Middle", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

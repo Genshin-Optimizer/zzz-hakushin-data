@@ -267,7 +267,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4100
                 }
               },
               "Potential": []
@@ -292,7 +293,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7017
                 }
               },
               "Potential": []
@@ -317,7 +319,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 12377
                 }
               },
               "Potential": []
@@ -342,7 +345,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 18634
                 }
               },
               "Potential": []
@@ -367,7 +371,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 34195
                 }
               },
               "Potential": []
@@ -392,7 +397,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4100
                 }
               },
               "Potential": []
@@ -417,7 +423,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7017
                 }
               },
               "Potential": []
@@ -442,7 +449,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 12377
                 }
               },
               "Potential": []
@@ -467,7 +475,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 18634
                 }
               },
               "Potential": []
@@ -492,7 +501,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 34195
                 }
               },
               "Potential": []
@@ -556,7 +566,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4835
                 }
               },
               "Potential": []
@@ -581,7 +592,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4835
                 }
               },
               "Potential": []
@@ -612,7 +624,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14082
                 },
                 "1061016": {
                   "Main": 13560,
@@ -630,7 +643,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14082
                 }
               },
               "Potential": []
@@ -655,7 +669,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14082
                 },
                 "1061016": {
                   "Main": 6590,
@@ -673,7 +688,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14082
                 }
               },
               "Potential": []
@@ -732,7 +748,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6669
                 }
               },
               "Potential": []
@@ -757,7 +774,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3750
                 }
               },
               "Potential": []
@@ -782,7 +800,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2500
                 }
               },
               "Potential": []
@@ -807,7 +826,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6669
                 }
               },
               "Potential": []
@@ -832,7 +852,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3750
                 }
               },
               "Potential": []
@@ -857,7 +878,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2500
                 }
               },
               "Potential": []
@@ -888,7 +910,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9301
                 }
               },
               "Potential": []
@@ -913,7 +936,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 27903
                 }
               },
               "Potential": []
@@ -938,7 +962,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9301
                 }
               },
               "Potential": []
@@ -963,7 +988,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9301
                 }
               },
               "Potential": []
@@ -988,7 +1014,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 27903
                 }
               },
               "Potential": []
@@ -1013,7 +1040,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9301
                 }
               },
               "Potential": []
@@ -1083,7 +1111,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 28830
                 }
               },
               "Potential": []
@@ -1108,7 +1137,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 28830
                 }
               },
               "Potential": []
@@ -1139,7 +1169,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 90671
                 }
               },
               "Potential": []
@@ -1164,7 +1195,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 90671
                 }
               },
               "Potential": []
@@ -1228,7 +1260,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6582
                 },
                 "1061020": {
                   "Main": 8330,
@@ -1246,7 +1279,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4165
                 }
               },
               "Potential": []
@@ -1271,7 +1305,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6582
                 },
                 "1061020": {
                   "Main": 8330,
@@ -1289,7 +1324,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4165
                 }
               },
               "Potential": []
@@ -1320,7 +1356,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 36664
                 }
               },
               "Potential": []
@@ -1345,7 +1382,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 41664
                 }
               },
               "Potential": []
@@ -1370,7 +1408,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11664
                 }
               },
               "Potential": []
@@ -1401,7 +1440,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 31171
                 }
               },
               "Potential": []
@@ -1426,7 +1466,8 @@
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 31171
                 }
               },
               "Potential": []

@@ -6,7 +6,7 @@
       "Id": 11045,
       "CodeName": "Monster_RagingGuy",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Middle", "Thug", "BigSceneReward"],
+      "Tag": ["Mech", "Promote", "Middle", "Thug"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -16,8 +16,8 @@
         "Physical": -1
       },
       "Stats": {
-        "Hp": 6759,
-        "Attack": 84,
+        "Hp": 7001,
+        "Attack": 96,
         "Defence": 54,
         "Crit": 0,
         "CritDamage": 5000,
@@ -25,7 +25,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 3335,
+        "Stun": 3783,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -37,7 +37,7 @@
         "StunDamageTakenRatio": 5000,
         "StunResetCount": 2,
         "StunResetRecoverCd": 1000,
-        "ResistBreakLevel": 3,
+        "ResistBreakLevel": 5,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
         "FrozenTimeRes": 5000,
@@ -124,7 +124,7 @@
       "Id": 11046,
       "CodeName": "Monster_RagingGuy",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Middle", "Thug", "BigSceneReward"],
+      "Tag": ["Mech", "Demote", "Middle", "Thug"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

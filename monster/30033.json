@@ -12,7 +12,7 @@
         "Boss",
         "MainStoryBoss",
         "EtherBarrierBoss",
-        "BigSceneReward"
+        "Miasma"
       ],
       "Type": "Monster",
       "Element": {
@@ -138,7 +138,7 @@
         "MainStoryBoss",
         "EtherBarrierBoss",
         "HighEtherBarrier",
-        "BigSceneReward"
+        "Miasma"
       ],
       "Type": "Monster",
       "Element": {

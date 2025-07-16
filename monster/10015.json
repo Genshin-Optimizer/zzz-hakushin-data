@@ -6,7 +6,7 @@
       "Id": 11343,
       "CodeName": "Monster_ThugRaiderVest",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Vest", "BigSceneReward"],
+      "Tag": ["Bios", "Demote", "Small", "Vest"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -124,7 +124,7 @@
       "Id": 11344,
       "CodeName": "Monster_ThugRaiderVest",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Vest", "BigSceneReward"],
+      "Tag": ["Bios", "Promote", "Small", "Vest"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -134,7 +134,7 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1240,
+        "Hp": 1615,
         "Attack": 63,
         "Defence": 40,
         "Crit": 0,
@@ -143,7 +143,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 600,
+        "Stun": 900,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,

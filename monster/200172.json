@@ -6,7 +6,7 @@
       "Id": 11353,
       "CodeName": "Monster_ThugBulkyEnforcerBoss",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ThugBulkyEnforcerBoss.png",
-      "Tag": ["Bios", "Middle", "Boss", "BigSceneReward"],
+      "Tag": ["Bios", "Middle", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

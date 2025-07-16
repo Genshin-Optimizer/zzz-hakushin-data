@@ -6,14 +6,7 @@
       "Id": 11291,
       "CodeName": "Monster_Mandrake",
       "Icon": "",
-      "Tag": [
-        "Ether",
-        "Demote",
-        "Middle",
-        "Mandrake_DEF",
-        "Black",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Demote", "Middle", "Mandrake_DEF", "Black"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -131,14 +124,7 @@
       "Id": 11292,
       "CodeName": "Monster_Mandrake",
       "Icon": "",
-      "Tag": [
-        "Ether",
-        "Demote",
-        "Middle",
-        "Mandrake_ATK",
-        "Black",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Demote", "Middle", "Mandrake_ATK", "Black"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -256,14 +242,7 @@
       "Id": 11293,
       "CodeName": "Monster_Mandrake",
       "Icon": "",
-      "Tag": [
-        "Ether",
-        "Promote",
-        "Middle",
-        "Mandrake_DEF",
-        "Black",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Promote", "Middle", "Mandrake_DEF", "Black"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -273,7 +252,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 884,
+        "Hp": 1153,
         "Attack": 63,
         "Defence": 36,
         "Crit": 0,
@@ -282,7 +261,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 630,
+        "Stun": 945,
         "IsStun": false,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
@@ -381,14 +360,7 @@
       "Id": 11294,
       "CodeName": "Monster_Mandrake",
       "Icon": "",
-      "Tag": [
-        "Ether",
-        "Promote",
-        "Middle",
-        "Mandrake_ATK",
-        "Black",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Promote", "Middle", "Mandrake_ATK", "Black"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -398,7 +370,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 884,
+        "Hp": 1153,
         "Attack": 63,
         "Defence": 36,
         "Crit": 0,
@@ -407,7 +379,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 630,
+        "Stun": 945,
         "IsStun": false,
         "BreakStun": 0,
         "AutoRecoverRate": 0,

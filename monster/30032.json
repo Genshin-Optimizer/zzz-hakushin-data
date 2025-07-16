@@ -6,7 +6,7 @@
       "Id": 11541,
       "CodeName": "Monster_Geppetto",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Geppetto.png",
-      "Tag": ["Ether", "Gigantic", "Geppetto", "BigSceneReward"],
+      "Tag": ["Ether", "Gigantic", "Geppetto"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

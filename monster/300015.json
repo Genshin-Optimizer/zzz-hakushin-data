@@ -6,7 +6,7 @@
       "Id": 11181,
       "CodeName": "Monster_DeathXIIIBoss",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_DeathXIIIGrey.png",
-      "Tag": ["Ether", "Middle", "Boss", "BigSceneReward"],
+      "Tag": ["Ether", "Middle", "Boss"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

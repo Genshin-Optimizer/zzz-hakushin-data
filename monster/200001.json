@@ -12,8 +12,7 @@
         "Large",
         "Red",
         "UniqueDeathEff",
-        "DeathEffMiddle",
-        "BigSceneReward"
+        "DeathEffMiddle"
       ],
       "Type": "Monster",
       "Element": {
@@ -138,8 +137,7 @@
         "Large",
         "Red",
         "UniqueDeathEff",
-        "DeathEffMiddle",
-        "BigSceneReward"
+        "DeathEffMiddle"
       ],
       "Type": "Monster",
       "Element": {
@@ -150,8 +148,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 8417,
-        "Attack": 92,
+        "Hp": 8736,
+        "Attack": 106,
         "Defence": 54,
         "Crit": 0,
         "CritDamage": 5000,
@@ -159,7 +157,7 @@
         "CritDmgRes": 0,
         "PenRate": 0,
         "PenDelta": 0,
-        "Stun": 4161,
+        "Stun": 4753,
         "IsStun": true,
         "BreakStun": 0,
         "AutoRecoverRate": 0,

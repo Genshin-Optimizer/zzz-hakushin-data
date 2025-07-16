@@ -6,7 +6,7 @@
       "Id": 11192,
       "CodeName": "Monster_HatiArmoredGrey",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Grey", "Armored", "BigSceneReward"],
+      "Tag": ["Ether", "Demote", "Middle", "Grey", "Armored"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -124,14 +124,7 @@
       "Id": 11194,
       "CodeName": "Monster_HatiArmoredGrey",
       "Icon": "",
-      "Tag": [
-        "Ether",
-        "Promote",
-        "Middle",
-        "Grey",
-        "Armored",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Promote", "Middle", "Grey", "Armored"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -162,7 +155,7 @@
         "StunDamageTakenRatio": 10000,
         "StunResetCount": 2,
         "StunResetRecoverCd": 1000,
-        "ResistBreakLevel": 3,
+        "ResistBreakLevel": 5,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
         "FrozenTimeRes": 5000,

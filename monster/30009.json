@@ -6,7 +6,7 @@
       "Id": 11411,
       "CodeName": "Monster_ComplexCorrupted",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ComplexCorrupted.png",
-      "Tag": ["Ether", "Gigantic", "MainStoryBoss", "BigSceneReward"],
+      "Tag": ["Ether", "Gigantic", "MainStoryBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -124,7 +124,7 @@
       "Id": 11412,
       "CodeName": "Monster_ComplexCorrupted",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ComplexCorrupted.png",
-      "Tag": ["Ether", "Gigantic", "MainStoryBoss", "BigSceneReward"],
+      "Tag": ["Ether", "Gigantic", "MainStoryBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -134,7 +134,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 12103,
+        "Hp": 22383,
         "Attack": 120,
         "Defence": 60,
         "Crit": 0,
@@ -242,7 +242,7 @@
       "Id": 11413,
       "CodeName": "Monster_ComplexCorrupted",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ComplexCorrupted.png",
-      "Tag": ["Ether", "Gigantic", "MainStoryBoss", "BigSceneReward"],
+      "Tag": ["Ether", "Gigantic", "MainStoryBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -252,7 +252,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 12103,
+        "Hp": 22861,
         "Attack": 120,
         "Defence": 60,
         "Crit": 0,
@@ -360,7 +360,7 @@
       "Id": 11414,
       "CodeName": "Monster_ComplexCorrupted",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ComplexCorrupted.png",
-      "Tag": ["Ether", "Gigantic", "P1Only", "MainStoryBoss", "BigSceneReward"],
+      "Tag": ["Ether", "Gigantic", "P1Only", "MainStoryBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -370,7 +370,7 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 12103,
+        "Hp": 22383,
         "Attack": 120,
         "Defence": 60,
         "Crit": 0,

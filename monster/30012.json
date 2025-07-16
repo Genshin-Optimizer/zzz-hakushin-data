@@ -6,14 +6,7 @@
       "Id": 11422,
       "CodeName": "Monster_LampasBlackVeil",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_LampasBlackVeil.png",
-      "Tag": [
-        "Ether",
-        "Middle",
-        "Boss",
-        "Lampas_CoAttack",
-        "MainStoryBoss",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Middle", "Boss", "Lampas_CoAttack", "MainStoryBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -131,14 +124,7 @@
       "Id": 11432,
       "CodeName": "Monster_LampasGreyVeil",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_LampasGreyVeil.png",
-      "Tag": [
-        "Ether",
-        "Middle",
-        "Boss",
-        "Lampas_CoAttack",
-        "MainStoryBoss",
-        "BigSceneReward"
-      ],
+      "Tag": ["Ether", "Middle", "Boss", "Lampas_CoAttack", "MainStoryBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
