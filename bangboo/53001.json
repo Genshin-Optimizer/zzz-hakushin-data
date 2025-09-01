@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Dry Ice Field",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#98EFF0>Ice Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 60% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#98EFF0>Ice Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 60% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "60%"
         },
         "2": {
           "Name": "Dry Ice Field",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#98EFF0>Ice Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 75% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#98EFF0>Ice Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 75% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "75%"
         },
         "3": {
           "Name": "Dry Ice Field",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#98EFF0>Ice Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 90% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#98EFF0>Ice Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 90% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "90%"
         },
         "4": {
           "Name": "Dry Ice Field",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#98EFF0>Ice Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 105% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#98EFF0>Ice Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 105% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "105%"
         },
         "5": {
           "Name": "Dry Ice Field",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#98EFF0>Ice Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 120% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#98EFF0>Ice Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 120% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "120%"
         }

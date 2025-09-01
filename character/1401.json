@@ -272,23 +272,23 @@
               "Desc": "{Skill:1401001, Prop:1001}",
               "Param": {
                 "1401001": {
-                  "Main": 6060,
-                  "Growth": 560,
+                  "Main": 5510,
+                  "Growth": 510,
                   "Format": "%",
-                  "DamagePercentage": 6060,
-                  "DamagePercentageGrowth": 560,
-                  "StunRatio": 4360,
-                  "StunRatioGrowth": 200,
-                  "SpRecovery": 15850,
+                  "DamagePercentage": 5510,
+                  "DamagePercentageGrowth": 510,
+                  "StunRatio": 3970,
+                  "StunRatioGrowth": 190,
+                  "SpRecovery": 14410,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 84975,
+                  "FeverRecovery": 77275,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 3272,
+                  "AttributeInfliction": 2976,
                   "SpConsume": 0,
-                  "AttackData": [107922],
+                  "AttackData": [98177],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4401
+                  "EtherPurify": 4003
                 }
               },
               "Potential": []
@@ -298,23 +298,23 @@
               "Desc": "{Skill:1401002, Prop:1001}",
               "Param": {
                 "1401002": {
-                  "Main": 8250,
-                  "Growth": 750,
+                  "Main": 8800,
+                  "Growth": 800,
                   "Format": "%",
-                  "DamagePercentage": 8250,
-                  "DamagePercentageGrowth": 750,
-                  "StunRatio": 6590,
-                  "StunRatioGrowth": 300,
-                  "SpRecovery": 23930,
+                  "DamagePercentage": 8800,
+                  "DamagePercentageGrowth": 800,
+                  "StunRatio": 6980,
+                  "StunRatioGrowth": 320,
+                  "SpRecovery": 25380,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 128150,
+                  "FeverRecovery": 135850,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 4915,
+                  "AttributeInfliction": 5213,
                   "SpConsume": 0,
-                  "AttackData": [147101],
+                  "AttackData": [156912],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 6648
+                  "EtherPurify": 7048
                 }
               },
               "Potential": []
@@ -324,23 +324,23 @@
               "Desc": "{Skill:1401003, Prop:1001}",
               "Param": {
                 "1401003": {
-                  "Main": 5870,
-                  "Growth": 540,
+                  "Main": 6610,
+                  "Growth": 610,
                   "Format": "%",
-                  "DamagePercentage": 5870,
-                  "DamagePercentageGrowth": 540,
-                  "StunRatio": 5400,
-                  "StunRatioGrowth": 250,
-                  "SpRecovery": 19620,
+                  "DamagePercentage": 6610,
+                  "DamagePercentageGrowth": 610,
+                  "StunRatio": 5990,
+                  "StunRatioGrowth": 280,
+                  "SpRecovery": 21790,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 105050,
+                  "FeverRecovery": 116600,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 4001,
+                  "AttributeInfliction": 4445,
                   "SpConsume": 0,
-                  "AttackData": [104652],
+                  "AttackData": [117733],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5450
+                  "EtherPurify": 6051
                 }
               },
               "Potential": []
@@ -350,23 +350,23 @@
               "Desc": "{Skill:1401004, Prop:1001}",
               "Param": {
                 "1401004": {
-                  "Main": 12840,
-                  "Growth": 1170,
+                  "Main": 11190,
+                  "Growth": 1020,
                   "Format": "%",
-                  "DamagePercentage": 12840,
-                  "DamagePercentageGrowth": 1170,
-                  "StunRatio": 11880,
-                  "StunRatioGrowth": 540,
-                  "SpRecovery": 43200,
+                  "DamagePercentage": 11190,
+                  "DamagePercentageGrowth": 1020,
+                  "StunRatio": 10510,
+                  "StunRatioGrowth": 480,
+                  "SpRecovery": 38200,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 231000,
+                  "FeverRecovery": 204325,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 8808,
+                  "AttributeInfliction": 7781,
                   "SpConsume": 0,
-                  "AttackData": [228925],
+                  "AttackData": [199492],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 12000
+                  "EtherPurify": 10609
                 }
               },
               "Potential": []
@@ -381,18 +381,18 @@
                   "Format": "%",
                   "DamagePercentage": 13030,
                   "DamagePercentageGrowth": 1190,
-                  "StunRatio": 13210,
-                  "StunRatioGrowth": 610,
-                  "SpRecovery": 48020,
+                  "StunRatio": 13170,
+                  "StunRatioGrowth": 600,
+                  "SpRecovery": 47870,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 256850,
+                  "FeverRecovery": 256025,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 9749,
+                  "AttributeInfliction": 9720,
                   "SpConsume": 0,
                   "AttackData": [232261],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 13337
+                  "EtherPurify": 13295
                 }
               },
               "Potential": []
@@ -402,23 +402,23 @@
               "Desc": "{Skill:1401006, Prop:1001}",
               "Param": {
                 "1401006": {
-                  "Main": 21640,
-                  "Growth": 1970,
+                  "Main": 21830,
+                  "Growth": 1990,
                   "Format": "%",
-                  "DamagePercentage": 21640,
-                  "DamagePercentageGrowth": 1970,
-                  "StunRatio": 20960,
+                  "DamagePercentage": 21830,
+                  "DamagePercentageGrowth": 1990,
+                  "StunRatio": 21090,
                   "StunRatioGrowth": 960,
-                  "SpRecovery": 76220,
+                  "SpRecovery": 76670,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 407550,
+                  "FeverRecovery": 410025,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 15507,
+                  "AttributeInfliction": 15600,
                   "SpConsume": 0,
-                  "AttackData": [385968],
+                  "AttackData": [389238],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 21170
+                  "EtherPurify": 21296
                 }
               },
               "Potential": []
@@ -428,23 +428,23 @@
               "Desc": "{Skill:1401001, Prop:1002}",
               "Param": {
                 "1401001": {
-                  "Main": 4360,
-                  "Growth": 200,
+                  "Main": 3970,
+                  "Growth": 190,
                   "Format": "%",
-                  "DamagePercentage": 6060,
-                  "DamagePercentageGrowth": 560,
-                  "StunRatio": 4360,
-                  "StunRatioGrowth": 200,
-                  "SpRecovery": 15850,
+                  "DamagePercentage": 5510,
+                  "DamagePercentageGrowth": 510,
+                  "StunRatio": 3970,
+                  "StunRatioGrowth": 190,
+                  "SpRecovery": 14410,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 84975,
+                  "FeverRecovery": 77275,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 3272,
+                  "AttributeInfliction": 2976,
                   "SpConsume": 0,
-                  "AttackData": [107922],
+                  "AttackData": [98177],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4401
+                  "EtherPurify": 4003
                 }
               },
               "Potential": []
@@ -454,23 +454,23 @@
               "Desc": "{Skill:1401002, Prop:1002}",
               "Param": {
                 "1401002": {
-                  "Main": 6590,
-                  "Growth": 300,
+                  "Main": 6980,
+                  "Growth": 320,
                   "Format": "%",
-                  "DamagePercentage": 8250,
-                  "DamagePercentageGrowth": 750,
-                  "StunRatio": 6590,
-                  "StunRatioGrowth": 300,
-                  "SpRecovery": 23930,
+                  "DamagePercentage": 8800,
+                  "DamagePercentageGrowth": 800,
+                  "StunRatio": 6980,
+                  "StunRatioGrowth": 320,
+                  "SpRecovery": 25380,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 128150,
+                  "FeverRecovery": 135850,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 4915,
+                  "AttributeInfliction": 5213,
                   "SpConsume": 0,
-                  "AttackData": [147101],
+                  "AttackData": [156912],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 6648
+                  "EtherPurify": 7048
                 }
               },
               "Potential": []
@@ -480,23 +480,23 @@
               "Desc": "{Skill:1401003, Prop:1002}",
               "Param": {
                 "1401003": {
-                  "Main": 5400,
-                  "Growth": 250,
+                  "Main": 5990,
+                  "Growth": 280,
                   "Format": "%",
-                  "DamagePercentage": 5870,
-                  "DamagePercentageGrowth": 540,
-                  "StunRatio": 5400,
-                  "StunRatioGrowth": 250,
-                  "SpRecovery": 19620,
+                  "DamagePercentage": 6610,
+                  "DamagePercentageGrowth": 610,
+                  "StunRatio": 5990,
+                  "StunRatioGrowth": 280,
+                  "SpRecovery": 21790,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 105050,
+                  "FeverRecovery": 116600,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 4001,
+                  "AttributeInfliction": 4445,
                   "SpConsume": 0,
-                  "AttackData": [104652],
+                  "AttackData": [117733],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5450
+                  "EtherPurify": 6051
                 }
               },
               "Potential": []
@@ -506,23 +506,23 @@
               "Desc": "{Skill:1401004, Prop:1002}",
               "Param": {
                 "1401004": {
-                  "Main": 11880,
-                  "Growth": 540,
+                  "Main": 10510,
+                  "Growth": 480,
                   "Format": "%",
-                  "DamagePercentage": 12840,
-                  "DamagePercentageGrowth": 1170,
-                  "StunRatio": 11880,
-                  "StunRatioGrowth": 540,
-                  "SpRecovery": 43200,
+                  "DamagePercentage": 11190,
+                  "DamagePercentageGrowth": 1020,
+                  "StunRatio": 10510,
+                  "StunRatioGrowth": 480,
+                  "SpRecovery": 38200,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 231000,
+                  "FeverRecovery": 204325,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 8808,
+                  "AttributeInfliction": 7781,
                   "SpConsume": 0,
-                  "AttackData": [228925],
+                  "AttackData": [199492],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 12000
+                  "EtherPurify": 10609
                 }
               },
               "Potential": []
@@ -532,23 +532,23 @@
               "Desc": "{Skill:1401005, Prop:1002}",
               "Param": {
                 "1401005": {
-                  "Main": 13210,
-                  "Growth": 610,
+                  "Main": 13170,
+                  "Growth": 600,
                   "Format": "%",
                   "DamagePercentage": 13030,
                   "DamagePercentageGrowth": 1190,
-                  "StunRatio": 13210,
-                  "StunRatioGrowth": 610,
-                  "SpRecovery": 48020,
+                  "StunRatio": 13170,
+                  "StunRatioGrowth": 600,
+                  "SpRecovery": 47870,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 256850,
+                  "FeverRecovery": 256025,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 9749,
+                  "AttributeInfliction": 9720,
                   "SpConsume": 0,
                   "AttackData": [232261],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 13337
+                  "EtherPurify": 13295
                 }
               },
               "Potential": []
@@ -558,23 +558,23 @@
               "Desc": "{Skill:1401006, Prop:1002}",
               "Param": {
                 "1401006": {
-                  "Main": 20960,
+                  "Main": 21090,
                   "Growth": 960,
                   "Format": "%",
-                  "DamagePercentage": 21640,
-                  "DamagePercentageGrowth": 1970,
-                  "StunRatio": 20960,
+                  "DamagePercentage": 21830,
+                  "DamagePercentageGrowth": 1990,
+                  "StunRatio": 21090,
                   "StunRatioGrowth": 960,
-                  "SpRecovery": 76220,
+                  "SpRecovery": 76670,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 407550,
+                  "FeverRecovery": 410025,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 15507,
+                  "AttributeInfliction": 15600,
                   "SpConsume": 0,
-                  "AttackData": [385968],
+                  "AttackData": [389238],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 21170
+                  "EtherPurify": 21296
                 }
               },
               "Potential": []
@@ -785,23 +785,23 @@
               "Desc": "{Skill:1401013, Prop:1001}",
               "Param": {
                 "1401013": {
-                  "Main": 7340,
-                  "Growth": 670,
+                  "Main": 7530,
+                  "Growth": 690,
                   "Format": "%",
-                  "DamagePercentage": 7340,
-                  "DamagePercentageGrowth": 670,
-                  "StunRatio": 3310,
+                  "DamagePercentage": 7530,
+                  "DamagePercentageGrowth": 690,
+                  "StunRatio": 3390,
                   "StunRatioGrowth": 160,
-                  "SpRecovery": 12010,
+                  "SpRecovery": 12310,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 64350,
+                  "FeverRecovery": 66000,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 2334,
+                  "AttributeInfliction": 2392,
                   "SpConsume": 0,
-                  "AttackData": [56269],
+                  "AttackData": [57675],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 3336
+                  "EtherPurify": 3419
                 }
               },
               "Potential": []
@@ -811,23 +811,23 @@
               "Desc": "{Skill:1401013, Prop:1002}",
               "Param": {
                 "1401013": {
-                  "Main": 3310,
+                  "Main": 3390,
                   "Growth": 160,
                   "Format": "%",
-                  "DamagePercentage": 7340,
-                  "DamagePercentageGrowth": 670,
-                  "StunRatio": 3310,
+                  "DamagePercentage": 7530,
+                  "DamagePercentageGrowth": 690,
+                  "StunRatio": 3390,
                   "StunRatioGrowth": 160,
-                  "SpRecovery": 12010,
+                  "SpRecovery": 12310,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 64350,
+                  "FeverRecovery": 66000,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 2334,
+                  "AttributeInfliction": 2392,
                   "SpConsume": 0,
-                  "AttackData": [56269],
+                  "AttackData": [57675],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 3336
+                  "EtherPurify": 3419
                 }
               },
               "Potential": []

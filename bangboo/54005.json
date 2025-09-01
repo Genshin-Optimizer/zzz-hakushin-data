@@ -224,7 +224,7 @@
       "Level": {
         "1": {
           "Name": "Street Code",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Cunning Hares</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases with fewer enemies in combat, up to a max of 45%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Cunning Hares</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases with fewer enemies in combat, up to a max of 45%.",
           "Property": [
             "DMG Increase (1 Enemy)",
             "DMG Increase (2 Enemies)",
@@ -234,7 +234,7 @@
         },
         "2": {
           "Name": "Street Code",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Cunning Hares</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases with fewer enemies in combat, up to a max of 56%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Cunning Hares</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases with fewer enemies in combat, up to a max of 56%.",
           "Property": [
             "DMG Increase (1 Enemy)",
             "DMG Increase (2 Enemies)",
@@ -244,7 +244,7 @@
         },
         "3": {
           "Name": "Street Code",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Cunning Hares</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases with fewer enemies in combat, up to a max of 67%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Cunning Hares</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases with fewer enemies in combat, up to a max of 67%.",
           "Property": [
             "DMG Increase (1 Enemy)",
             "DMG Increase (2 Enemies)",
@@ -254,7 +254,7 @@
         },
         "4": {
           "Name": "Street Code",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Cunning Hares</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases with fewer enemies in combat, up to a max of 78%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Cunning Hares</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases with fewer enemies in combat, up to a max of 78%.",
           "Property": [
             "DMG Increase (1 Enemy)",
             "DMG Increase (2 Enemies)",
@@ -264,7 +264,7 @@
         },
         "5": {
           "Name": "Street Code",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Cunning Hares</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases with fewer enemies in combat, up to a max of 90%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Cunning Hares</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases with fewer enemies in combat, up to a max of 90%.",
           "Property": [
             "DMG Increase (1 Enemy)",
             "DMG Increase (2 Enemies)",

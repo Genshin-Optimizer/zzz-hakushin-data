@@ -284,31 +284,31 @@
       "Level": {
         "1": {
           "Name": "Luck is Skill",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 100% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 100% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "100%"
         },
         "2": {
           "Name": "Luck is Skill",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 125% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 125% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "125%"
         },
         "3": {
           "Name": "Luck is Skill",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 150% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 150% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "150%"
         },
         "4": {
           "Name": "Luck is Skill",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 175% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 175% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "175%"
         },
         "5": {
           "Name": "Luck is Skill",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 200% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 200% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "200%"
         }

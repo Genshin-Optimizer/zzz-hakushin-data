@@ -149,6 +149,16 @@
     "CHS": "格斗布",
     "JA": "カクトウボンプ"
   },
+  "53016": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole39.png",
+    "rank": 3,
+    "codename": "Excaliboo",
+    "EN": "Excaliboo",
+    "desc": "Only a sacred sword is needed to crown the true king.",
+    "KO": "엑스칼리부",
+    "CHS": "圣剑布",
+    "JA": "セイケンボンプ"
+  },
   "53017": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole27.png",
     "rank": 3,
@@ -318,5 +328,15 @@
     "KO": "에스메 양",
     "CHS": "艾丝弥小姐",
     "JA": "ミス・エスメ"
+  },
+  "54019": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole38.png",
+    "rank": 4,
+    "codename": "Mercury",
+    "EN": "Mercury",
+    "desc": "A Bangboo uninterested in military merits is not a good soldier.",
+    "KO": "「머큐리」",
+    "CHS": "「墨丘利」",
+    "JA": "「マーキュリー」"
   }
 }

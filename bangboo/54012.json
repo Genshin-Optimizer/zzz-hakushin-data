@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Provisional Security Canine",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Criminal Investigation Special Response Team</color> characters in your squad: After using an <color=#FFFFFF>Active Skill</color>, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\n<color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 35%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Criminal Investigation Special Response Team</color> characters in your squad: After using an <color=#FFFFFF>Active Skill</color>, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\n<color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 35%.",
           "Property": ["DMG Increase"],
           "Param": "35%"
         },
         "2": {
           "Name": "Provisional Security Canine",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Criminal Investigation Special Response Team</color> characters in your squad: When using the <color=#FFFFFF>Active Skill</color>, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\n<color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 43%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Criminal Investigation Special Response Team</color> characters in your squad: When using the <color=#FFFFFF>Active Skill</color>, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\n<color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 43%.",
           "Property": ["DMG Increase"],
           "Param": "43%"
         },
         "3": {
           "Name": "Provisional Security Canine",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Criminal Investigation Special Response Team</color> characters in your squad: When using the <color=#FFFFFF>Active Skill</color>, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\n<color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 52%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Criminal Investigation Special Response Team</color> characters in your squad: When using the <color=#FFFFFF>Active Skill</color>, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\n<color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 52%.",
           "Property": ["DMG Increase"],
           "Param": "52%"
         },
         "4": {
           "Name": "Provisional Security Canine",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Criminal Investigation Special Response Team</color> characters in your squad: When using the <color=#FFFFFF>Active Skill</color>, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\n<color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 60%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Criminal Investigation Special Response Team</color> characters in your squad: When using the <color=#FFFFFF>Active Skill</color>, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\n<color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 60%.",
           "Property": ["DMG Increase"],
           "Param": "60%"
         },
         "5": {
           "Name": "Provisional Security Canine",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Criminal Investigation Special Response Team</color> characters in your squad: When using the <color=#FFFFFF>Active Skill</color>, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\n<color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 70%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Criminal Investigation Special Response Team</color> characters in your squad: When using the <color=#FFFFFF>Active Skill</color>, there is a 50% chance to follow-up with 1 extra hit of the biting attack, up to a maximum of 3 consecutive triggers.\n<color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 70%.",
           "Property": ["DMG Increase"],
           "Param": "70%"
         }

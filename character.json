@@ -69,10 +69,26 @@
     "potential": [],
     "EN": "Soldier 11",
     "skin": {},
-    "desc": "Soldier 11 is a member of the New Eridu Defense Force.\nShe currently serves as a primary responder in the Obol squad, Obsidian Division. Soldier 11 is a code name — her real name remains unknown.\n\"...My name? I gave it up long ago.\nIt's only a reminder of my past, and the past makes you weak.\"\n\nSoldier 11 is a fan of spicy food, and likes the super-spicy noodles served at Waterfall Soup.\nIt's worth noting she currently calls us by a different name every time she greets us.\nAdditional information regarding Soldier 11 is still being obtained.",
+    "desc": "Soldier 11 is a member of the New Eridu Defense Force.\nShe currently serves as a direct attacker in Obol squad, Obsidian Division. Soldier 11 is a code name — she gave up her real name long ago.\n\nSoldier 11 is a fan of spicy food and likes the super-spicy noodles served at Waterfall Soup.\nIt's worth noting she currently calls us by a different name every time she greets us.",
     "KO": "「11호」",
     "CHS": "「11号」",
     "JA": "「11号」"
+  },
+  "1051": {
+    "code": "Avatar_Female_Size03_Yidhari_En",
+    "rank": 4,
+    "type": 6,
+    "element": 202,
+    "hit": 102,
+    "camp": 11,
+    "icon": "IconRole52",
+    "potential": [],
+    "EN": "Avatar_Female_Size03_Yidhari",
+    "skin": {},
+    "desc": "",
+    "KO": "Avatar_Female_Size03_Yidhari",
+    "CHS": "伊德海莉",
+    "JA": "Avatar_Female_Size03_Yidhari"
   },
   "1061": {
     "code": "Corin",
@@ -454,6 +470,22 @@
     "CHS": "雨果",
     "JA": "ヒューゴ"
   },
+  "1301": {
+    "code": "Orphie & Magus",
+    "rank": 4,
+    "type": 1,
+    "element": 201,
+    "hit": 103,
+    "camp": 5,
+    "icon": "IconRole49",
+    "potential": [],
+    "EN": "Orphie & Magus",
+    "skin": {},
+    "desc": "...",
+    "KO": "오피 & 「도깨비불」",
+    "CHS": "奥菲丝&「鬼火」",
+    "JA": "オルペウス＆「鬼火」"
+  },
   "1311": {
     "code": "Astra",
     "rank": 4,
@@ -540,7 +572,7 @@
     "potential": [],
     "EN": "Trigger",
     "skin": {},
-    "desc": "Trigger is a sniper of New Eridu Defense Force, Obsidian Division's Obol Squad. Trigger is the code name she was assigned when enlisting in Eridu, and she's used it ever since.\nShe has extremely unique eyes. While she cannot see most things, in Hollow environments, she can distinctly identify the position and changes of any entities that emit Ether fluctuations. Note: Such entities include living beings, native Ether substances, Ether products, and Ethereals.\nAs a visually challenged person in the broadest sense, Trigger has honed her other senses to the utmost, allowing her to move and act as if she could see. She can even detect subtle changes in her environment with precision. This makes her highly adept in the tactical position of a sniper, capable of handling a variety of covert tasks such as stealth, surveillance, and assassination.\nIn contrast to her precise and deadly combat abilities, her personality makes her seem rather unassuming. Aside from occasionally appearing silently in the video store and giving the Second Assistant a sudden scare, she can generally be considered harmless.",
+    "desc": "Trigger is a sniper of New Eridu Defense Force, Obsidian Division's Obol Squad. Trigger is the code name she was assigned when enlisting in Eridu, and she's used it ever since.\n\nShe has extremely unique eyes. While she cannot see most things, in Hollow environments, she can distinctly identify the position and changes of any entities that emit Ether fluctuations. Note: Such entities include living beings, native Ether substances, Ether products, and Ethereals.\n\nAs a visually challenged person in the broadest sense, Trigger has honed her other senses to the utmost, allowing her to move and act as if she could see. She can even detect subtle changes in her environment with precision. This makes her highly adept in the tactical position of a sniper, capable of handling a variety of covert tasks such as stealth, surveillance, and assassination.\n\nIn contrast to her precise and deadly combat abilities, her personality makes her seem rather unassuming. Aside from occasionally appearing silently in the video store and giving the Second Assistant a sudden scare, she can generally be considered harmless.",
     "KO": "「트리거」",
     "CHS": "「扳机」",
     "JA": "「トリガー」"
@@ -654,7 +686,7 @@
         "Image": "IconRole47_01"
       }
     },
-    "desc": "Ukinami Yuzuha, a resident of Waifei Peninsula, currently attends a low-tuition company affiliated school in the city. Aside from being part of the Inter-Knot subforum Spook Shack, she's not affiliated with any other groups — though in New Eridu, such forums aren't typically seen as formal organizations, and are, instead, more like hobby clubs.\nYuzuha is the adopted daughter of Li Baorong, owner of the Mystic Wares Porcelume store. Word around Waifei Peninsula is that Baorong lost his wife and two daughters when the old capital fell. In the years that followed, he took in five children. Yuzuha is the second oldest, with an older brother, a younger brother, and two younger sisters. The family lived on the second floor above the store, and with just two bedrooms, Yuzuha shared one with her sisters, while the boys stayed with Baorong. Now that her older brother has moved out and she mostly stays in the school dorm, the apartment feels a bit less crowded. But on weekends and holidays, Yuzuha usually returns from school to help her father at the store.\nEven as a child, Yuzuha showed a surprising level of maturity. Her eloquence and cheerful nature have made her a favorite among neighbors — and a hit with the kids around Waifei Peninsula and Sailume Bay.\nOn the Spook Shack forum, Yuzuha goes by the username \"Yuzupepper.\" In addition to her real life friends Manato and Alice, she is also close with two other users known as \"Night Fiend Messenger\" and \"Strawberry Parfait\" on the forums.",
+    "desc": "Ukinami Yuzuha, a resident of Waifei Peninsula's Failume Heights, currently attends a low-tuition company affiliated school in the city. Aside from being part of the Inter-Knot subforum Spook Shack, she's not affiliated with any other groups — though in New Eridu, such forums aren't typically seen as formal organizations, and are, instead, more like hobby clubs.\nYuzuha is the adopted daughter of Li Baorong, owner of the Mystic Wares Porcelume store. Word around Failume Heights is that Baorong lost his wife and two daughters when the old capital fell. In the years that followed, he took in five children. Yuzuha is the second oldest, with an older brother, a younger brother, and two younger sisters. The family lived on the second floor above the store, and with just two bedrooms, Yuzuha shared one with her sisters, while the boys stayed with Baorong. Now that her older brother has moved out and she mostly stays in the school dorm, the apartment feels a bit less crowded. But on weekends and holidays, Yuzuha usually returns from school to help her father at the store.\nEven as a child, Yuzuha showed a surprising level of maturity. Her eloquence and cheerful nature have made her a favorite among neighbors — and a hit with the kids around Waifei Peninsula and Sailume Bay.\nOn the Spook Shack forum, Yuzuha goes by the username \"Yuzupepper.\" In addition to her real-life friends Manato and Alice, she is also close with two other users known as \"Night Emissary\" and \"Strawberry Parfait\" on the forums.",
     "KO": "유즈하",
     "CHS": "柚叶",
     "JA": "浮波柚葉"
@@ -677,12 +709,12 @@
   },
   "1441": {
     "code": "Avatar_Male_Size03_Norano_En",
-    "rank": null,
-    "type": 2,
+    "rank": 3,
+    "type": 6,
     "element": 201,
     "hit": 101,
-    "camp": 0,
-    "icon": "",
+    "camp": 11,
+    "icon": "IconRole51",
     "potential": [],
     "EN": "Komano Manato",
     "skin": {},
@@ -690,5 +722,37 @@
     "KO": "코마노 마나토",
     "CHS": "狛野真斗",
     "JA": "狛野真斗"
+  },
+  "1451": {
+    "code": "...",
+    "rank": 4,
+    "type": 4,
+    "element": 205,
+    "hit": 102,
+    "camp": 11,
+    "icon": "IconRole50",
+    "potential": [],
+    "EN": "Avatar_Female_Size02_Lucia",
+    "skin": {},
+    "desc": "",
+    "KO": "Avatar_Female_Size02_Lucia",
+    "CHS": "(Test1)卢西娅",
+    "JA": "Avatar_Female_Size02_Lucia"
+  },
+  "1461": {
+    "code": "Seed",
+    "rank": 4,
+    "type": 1,
+    "element": 203,
+    "hit": 103,
+    "camp": 5,
+    "icon": "IconRole48",
+    "potential": [],
+    "EN": "Seed",
+    "skin": {},
+    "desc": "...",
+    "KO": "「시드」",
+    "CHS": "「席德」",
+    "JA": "「シード」"
   }
 }

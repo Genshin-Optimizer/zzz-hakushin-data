@@ -224,7 +224,7 @@
       "Level": {
         "1": {
           "Name": "Cardboard Armor",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Defense</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 15% of Paperboo's Max HP.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Defense</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 15% of Paperboo's Max HP.",
           "Property": [
             "Shield Generated (1 Enemy)",
             "Shield Generated (2 Enemies)",
@@ -235,7 +235,7 @@
         },
         "2": {
           "Name": "Cardboard Armor",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Defense</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 16.5% of Paperboo's Max HP.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Defense</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 16.5% of Paperboo's Max HP.",
           "Property": [
             "Shield Generated (1 Enemy)",
             "Shield Generated (2 Enemies)",
@@ -246,7 +246,7 @@
         },
         "3": {
           "Name": "Cardboard Armor",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Defense</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 18% of Paperboo's Max HP.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Defense</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 18% of Paperboo's Max HP.",
           "Property": [
             "Shield Generated (1 Enemy)",
             "Shield Generated (2 Enemies)",
@@ -257,7 +257,7 @@
         },
         "4": {
           "Name": "Cardboard Armor",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Defense</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 19.5% of Paperboo's Max HP.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Defense</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 19.5% of Paperboo's Max HP.",
           "Property": [
             "Shield Generated (1 Enemy)",
             "Shield Generated (2 Enemies)",
@@ -268,7 +268,7 @@
         },
         "5": {
           "Name": "Cardboard Armor",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Defense</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 21% of Paperboo's Max HP.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Defense</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> generates Shield for all squad members. The more enemies hit, the more Shield generated, up to a max of 21% of Paperboo's Max HP.",
           "Property": [
             "Shield Generated (1 Enemy)",
             "Shield Generated (2 Enemies)",

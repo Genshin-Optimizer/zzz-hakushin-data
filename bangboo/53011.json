@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Magnetic Attraction",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Active Skill</color> attack range is increased, and DMG is increased by 30%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Active Skill</color> attack range is increased, and DMG is increased by 30%.",
           "Property": ["DMG Increase"],
           "Param": "30%"
         },
         "2": {
           "Name": "Magnetic Attraction",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Active Skill</color> attack range is increased, and DMG is increased by 37.5%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Active Skill</color> attack range is increased, and DMG is increased by 37.5%.",
           "Property": ["DMG Increase"],
           "Param": "37.5%"
         },
         "3": {
           "Name": "Magnetic Attraction",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Active Skill</color> attack range is increased, and DMG is increased by 45%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Active Skill</color> attack range is increased, and DMG is increased by 45%.",
           "Property": ["DMG Increase"],
           "Param": "45%"
         },
         "4": {
           "Name": "Magnetic Attraction",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Active Skill</color> attack range is increased, and DMG is increased by 52.5%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Active Skill</color> attack range is increased, and DMG is increased by 52.5%.",
           "Property": ["DMG Increase"],
           "Param": "52.5%"
         },
         "5": {
           "Name": "Magnetic Attraction",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Active Skill</color> attack range is increased, and DMG is increased by 60%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Active Skill</color> attack range is increased, and DMG is increased by 60%.",
           "Property": ["DMG Increase"],
           "Param": "60%"
         }

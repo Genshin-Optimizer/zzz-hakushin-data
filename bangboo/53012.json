@@ -146,31 +146,31 @@
       "Level": {
         "1": {
           "Name": "Balanced Pressure",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Support</color> character in your squad: When Ether bubbles come into contact with characters, they additionally generate 60% of the original effect's Energy for off-field characters.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Support</color> character in your squad: When Ether bubbles come into contact with characters, they additionally generate 60% of the original effect's Energy for off-field characters.",
           "Property": ["Proportion Energy Generated"],
           "Param": "60%"
         },
         "2": {
           "Name": "Balanced Pressure",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Support</color> character in your squad: When Ether bubbles come into contact with characters, they additionally generate 70% of the original effect's Energy for off-field characters.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Support</color> character in your squad: When Ether bubbles come into contact with characters, they additionally generate 70% of the original effect's Energy for off-field characters.",
           "Property": ["Proportion Energy Generated"],
           "Param": "70%"
         },
         "3": {
           "Name": "Balanced Pressure",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Support</color> character in your squad: When Ether bubbles come into contact with characters, they additionally generate 80% of the original effect's Energy for off-field characters.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Support</color> character in your squad: When Ether bubbles come into contact with characters, they additionally generate 80% of the original effect's Energy for off-field characters.",
           "Property": ["Proportion Energy Generated"],
           "Param": "80%"
         },
         "4": {
           "Name": "Balanced Pressure",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Support</color> character in your squad: When Ether bubbles come into contact with characters, they additionally generate 90% of the original effect's Energy for off-field characters.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Support</color> character in your squad: When Ether bubbles come into contact with characters, they additionally generate 90% of the original effect's Energy for off-field characters.",
           "Property": ["Proportion Energy Generated"],
           "Param": "90%"
         },
         "5": {
           "Name": "Balanced Pressure",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Support</color> character in your squad: When Ether bubbles come into contact with characters, they additionally generate 100% of the original effect's Energy for off-field characters.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Support</color> character in your squad: When Ether bubbles come into contact with characters, they additionally generate 100% of the original effect's Energy for off-field characters.",
           "Property": ["Proportion Energy Generated"],
           "Param": "100%"
         }

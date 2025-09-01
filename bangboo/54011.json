@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Drifting Technique",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are at least 2 <color=#FFFFFF>Sons of Calydon</color> characters in your squad: <color=#FFFFFF>Active Skill</color> DMG increases by 36%. After an <color=#FFFFFF>Active Skill</color> deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 4s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Sons of Calydon</color> characters in your squad: <color=#FFFFFF>Active Skill</color> DMG increases by 36%. After an <color=#FFFFFF>Active Skill</color> deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 4s.",
           "Property": ["DMG Increase", "Cooldown Reduction"],
           "Param": "36%|4s"
         },
         "2": {
           "Name": "Drifting Technique",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are at least 2 <color=#FFFFFF>Sons of Calydon</color> characters in your squad: <color=#FFFFFF>Active Skill</color> DMG increases by 45%. After an <color=#FFFFFF>Active Skill</color> deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 5s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Sons of Calydon</color> characters in your squad: <color=#FFFFFF>Active Skill</color> DMG increases by 45%. After an <color=#FFFFFF>Active Skill</color> deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 5s.",
           "Property": ["DMG Increase", "Cooldown Reduction"],
           "Param": "45%|5s"
         },
         "3": {
           "Name": "Drifting Technique",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are at least 2 <color=#FFFFFF>Sons of Calydon</color> characters in your squad: <color=#FFFFFF>Active Skill</color> DMG increases by 54%. After an <color=#FFFFFF>Active Skill</color> deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 6s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Sons of Calydon</color> characters in your squad: <color=#FFFFFF>Active Skill</color> DMG increases by 54%. After an <color=#FFFFFF>Active Skill</color> deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 6s.",
           "Property": ["DMG Increase", "Cooldown Reduction"],
           "Param": "54%|6s"
         },
         "4": {
           "Name": "Drifting Technique",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are at least 2 <color=#FFFFFF>Sons of Calydon</color> characters in your squad: <color=#FFFFFF>Active Skill</color> DMG increases by 63%. After an <color=#FFFFFF>Active Skill</color> deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 7s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Sons of Calydon</color> characters in your squad: <color=#FFFFFF>Active Skill</color> DMG increases by 63%. After an <color=#FFFFFF>Active Skill</color> deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 7s.",
           "Property": ["DMG Increase", "Cooldown Reduction"],
           "Param": "63%|7s"
         },
         "5": {
           "Name": "Drifting Technique",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are at least 2 <color=#FFFFFF>Sons of Calydon</color> characters in your squad: <color=#FFFFFF>Active Skill</color> DMG increases by 72%. After an <color=#FFFFFF>Active Skill</color> deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 8s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Sons of Calydon</color> characters in your squad: <color=#FFFFFF>Active Skill</color> DMG increases by 72%. After an <color=#FFFFFF>Active Skill</color> deals DMG to an enemy, when that enemy is defeated, the skill's cooldown is reduced by 8s.",
           "Property": ["DMG Increase", "Cooldown Reduction"],
           "Param": "72%|8s"
         }

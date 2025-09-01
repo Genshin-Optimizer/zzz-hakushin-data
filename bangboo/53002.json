@@ -224,7 +224,7 @@
       "Level": {
         "1": {
           "Name": "Luck is a Component of Power",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Active Skill</color> inflicts 20% more Anomaly Buildup.\n<color=#FFFFFF>Active Skill</color>'s continuous strikes duration is increased by 0.8s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Active Skill</color> inflicts 20% more Anomaly Buildup.\n<color=#FFFFFF>Active Skill</color>'s continuous strikes duration is increased by 0.8s.",
           "Property": [
             "Anomaly Buildup Increase",
             "Continuous Strikes Duration Extension"
@@ -233,7 +233,7 @@
         },
         "2": {
           "Name": "Luck is a Component of Power",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Active Skill</color> inflicts 25% more Anomaly Buildup.\n<color=#FFFFFF>Active Skill</color>'s continuous strikes duration is increased by 1s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Active Skill</color> inflicts 25% more Anomaly Buildup.\n<color=#FFFFFF>Active Skill</color>'s continuous strikes duration is increased by 1s.",
           "Property": [
             "Anomaly Buildup Increase",
             "Continuous Strikes Duration Extension"
@@ -242,7 +242,7 @@
         },
         "3": {
           "Name": "Luck is a Component of Power",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Active Skill</color> inflicts 30% more Anomaly Buildup.\n<color=#FFFFFF>Active Skill</color>'s continuous strikes duration is increased by 1.2s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Active Skill</color> inflicts 30% more Anomaly Buildup.\n<color=#FFFFFF>Active Skill</color>'s continuous strikes duration is increased by 1.2s.",
           "Property": [
             "Anomaly Buildup Increase",
             "Continuous Strikes Duration Extension"
@@ -251,7 +251,7 @@
         },
         "4": {
           "Name": "Luck is a Component of Power",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Active Skill</color> inflicts 35% more Anomaly Buildup.\n<color=#FFFFFF>Active Skill</color>'s continuous strikes duration is increased by 1.4s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Active Skill</color> inflicts 35% more Anomaly Buildup.\n<color=#FFFFFF>Active Skill</color>'s continuous strikes duration is increased by 1.4s.",
           "Property": [
             "Anomaly Buildup Increase",
             "Continuous Strikes Duration Extension"
@@ -260,7 +260,7 @@
         },
         "5": {
           "Name": "Luck is a Component of Power",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Active Skill</color> inflicts 40% more Anomaly Buildup.\n<color=#FFFFFF>Active Skill</color>'s continuous strikes duration is increased by 1.6s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#F0D12B>Physical Attribute</color> characters in your squad: <color=#FFFFFF>Active Skill</color> inflicts 40% more Anomaly Buildup.\n<color=#FFFFFF>Active Skill</color>'s continuous strikes duration is increased by 1.6s.",
           "Property": [
             "Anomaly Buildup Increase",
             "Continuous Strikes Duration Extension"

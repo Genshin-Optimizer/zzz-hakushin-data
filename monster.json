@@ -162,7 +162,7 @@
     "rarity": 1,
     "group": 290,
     "EN": "OfficialName_",
-    "desc": "Highly maneuverable small autonomous mechs deployed by Public Security, equipped with inert Ether circular saws that also serve as assistant steering wheels for navigating complex terrains at high speeds.\nHowever, due to their rudimentary self-control programs, these lawnmowers occasionally cause unintended damage while executing their slicing attacks.\n\"Hey! Who the heck messed up my brand new car!?\"",
+    "desc": "Mass-produced security units have been put into use across many civilian sectors. With numerous advantages, including affordability, versatility, a revolutionary single-wheel dynamic balance system, and an integrated intelligent threat recognition core, they're suitable for security needs in various complex spaces.\n\n\"This Tactical Security Unit, having passed 47 rigorous tests, has been successfully deployed in core areas of 32 industrial parks. Client feedback shows an average 91% reduction in tresspassing rates. Trust us: you can use it for any security task you can imagine.\"",
     "KO": "OfficialName_",
     "CHS": "OfficialName_",
     "JA": "OfficialName_"
@@ -359,6 +359,30 @@
     "CHS": "秽息原牲",
     "JA": "ミアズマのひな"
   },
+  "10033": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MiasmaWalkerGuardJaeger.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 1,
+    "group": 203,
+    "EN": "Miasmic Trooper - Shieldguard",
+    "desc": "...",
+    "KO": "미아즈마 잔병·방패병",
+    "CHS": "秽息残兵·盾卫",
+    "JA": "ミアズマ・レムナント・ディフェンダー_JP0K"
+  },
+  "10034": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MiasmaWalkerGrenadierJaeger.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 1,
+    "group": 203,
+    "EN": "Miasmic Trooper - Cannoneer",
+    "desc": "...",
+    "KO": "미아즈마 잔병·포수",
+    "CHS": "秽息残兵·炮手",
+    "JA": "ミアズマ・レムナント・キャノニア_JP0K"
+  },
   "19999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
     "tag": ["Ether", "NotPro"],
@@ -452,7 +476,7 @@
     "EN": "Autonomous Support Unit - Sweeper",
     "desc": "An automatic combat mech utilized by Public Security. It possesses various combat modes tailored to various Ethereals types. Its weapons include circular chainsaws and fusion heat rays.\nSweepers can swiftly identify target Ethereals and adapt to the most effective combat strategy.\nHowever, their reliability diminishes to some extent when faced with Hollow Raiders who possess greater versatility than Ethereals.\n\"Stirring, chopping, heating... I wonder who came up with this? Maybe some undercover agent from a kitchenware company trying to boost sales?\"",
     "KO": "자율 보조 유닛·「스위퍼」",
-    "CHS": "自律辅助单��·「清扫者」",
+    "CHS": "自律辅助单位·「清扫者」",
     "JA": "自律補助ユニット・「スイーパー」"
   },
   "20007": {
@@ -623,6 +647,66 @@
     "CHS": "巴罗姆",
     "JA": "ベルラム"
   },
+  "20026": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaFrenziedManiac.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 2,
+    "group": 203,
+    "EN": "BriefName_Monster_MiasmaFrenziedManiac",
+    "desc": "CardDesc_20026",
+    "KO": "BriefName_Monster_MiasmaFrenziedManiac",
+    "CHS": "(Test1)秽蚀·狂乱暴徒",
+    "JA": "BriefName_Monster_MiasmaFrenziedManiac"
+  },
+  "20027": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaTrinox.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 2,
+    "group": 203,
+    "EN": "BriefName_Monster_MiasmaTrinox",
+    "desc": "CardDesc_20027",
+    "KO": "BriefName_Monster_MiasmaTrinox",
+    "CHS": "(Test1)秽蚀·特里诺斯",
+    "JA": "BriefName_Monster_MiasmaTrinox"
+  },
+  "20028": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SecurityUnitSoldier.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 1,
+    "group": 202,
+    "EN": "BriefName_Monster_SecurityUnitSoldier",
+    "desc": "CardDesc_20028",
+    "KO": "BriefName_Monster_SecurityUnitSoldier",
+    "CHS": "(Test1)秩序护卫",
+    "JA": "BriefName_Monster_SecurityUnitSoldier"
+  },
+  "20029": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SecurityUnitPatroller.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 1,
+    "group": 202,
+    "EN": "BriefName_Monster_SecurityUnitPatroller",
+    "desc": "CardDesc_20029",
+    "KO": "BriefName_Monster_SecurityUnitPatroller",
+    "CHS": "(Test1)巡逻者轻型",
+    "JA": "BriefName_Monster_SecurityUnitPatroller"
+  },
+  "20030": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_SecurityUnitLAAndroid.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 1,
+    "group": 202,
+    "EN": "BriefName_Monster_SecurityUnitLAAndroid",
+    "desc": "CardDesc_20030",
+    "KO": "BriefName_Monster_SecurityUnitLAAndroid",
+    "CHS": "(Test1)巡逻者中型",
+    "JA": "BriefName_Monster_SecurityUnitLAAndroid"
+  },
   "29999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
     "tag": ["Ether", "NotPro"],
@@ -633,7 +717,7 @@
     "desc": "CardDesc_29999",
     "KO": "랜덤 몬스터 카드",
     "CHS": "随机怪物卡",
-    "JA": "ランダムエネミーカード"
+    "JA": "ランダムエネミーカー���"
   },
   "30000": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_DurahanGrey.png",
@@ -991,7 +1075,7 @@
     "group": 201,
     "EN": "Miasma Priest",
     "desc": "For New Eridu, the Hollow is a catastrophe of despair. And when a Hollow expands, fear, death, suffering... all forms of despair devour people's minds, altering the fates of countless souls.\nThe omens of doom began in the shadows of the Hollow, yet some heard a strange calling within, glimpsing a sliver of... hope and redemption amidst despair.\nSince then, they heeded that secret call to form a clandestine organization, and the Miasma Priests lurked in the shadows of Eridu... spreading Their blessing to those who had lost their way.\nThe \"Miasma Priests\" believe that the Hollow's expansion is no mere natural disaster. Generation after generation, the \"Priests\" have tirelessly pursued the hidden truth behind it, seeking to achieve their desired truth... that the will within the Hollow shall ultimately become reality.\nHowever, sacrifices are necessary in this process, and minor troubles are inevitable. Even being targeted by Void Hunters and hunted by major organizations are merely trivial setbacks on the path to truth.\nAfter a lengthy effort and thorough preparation, the \"Miasma Priests\" have finally summoned that will from the Hollow, allowing it to descend upon the world with near-perfect form. The Miasma that coils and covers the \"Miasma Priests,\" that corrupting substance untouchable to others, has become for them dazzling weapons and armor.\nAll of this serves as the ultimate proof of their blessed status.\n\"Their will... shall finally descend upon this world.\"\n\"What you must do is simple...\"\n\"Listen, obey, and then... accept Their blessing!\"",
-    "KO": "미아��마 프리스트",
+    "KO": "미아즈마 프리스트",
     "CHS": "秽息司祭",
     "JA": "ミアズマの司祭"
   },
@@ -1018,6 +1102,78 @@
     "KO": "새크리파이스·사악한 어릿광대",
     "CHS": "牲鬼·凶魁愚者",
     "JA": "サクリファイス・ヘレティック・ジェスター"
+  },
+  "30036": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaTerrorBird.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
+    "group": 203,
+    "EN": "Miasmic - Terror Raptor",
+    "desc": "...",
+    "KO": "미아즈믹·「테러 랩터」",
+    "CHS": "秽蚀·「骇鸟」",
+    "JA": "ミアズミック・テラー・ラプトル_JP0K"
+  },
+  "30037": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Isolde.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
+    "group": 290,
+    "EN": "The Defector",
+    "desc": "...",
+    "KO": "「변절자」",
+    "CHS": "「变节者」",
+    "JA": "「背信者」_JP0K"
+  },
+  "30038": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_IsoldetheDefiler.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 4,
+    "group": 290,
+    "EN": "The Defiler",
+    "desc": "...",
+    "KO": "「모독자」",
+    "CHS": "「亵渎者」",
+    "JA": "「冒涜者」_JP0K"
+  },
+  "30039": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Hayyot.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
+    "group": 203,
+    "EN": "BriefName_Monster_Hayyot",
+    "desc": "CardDesc_30039",
+    "KO": "BriefName_Monster_Hayyot",
+    "CHS": "(Test1)赫由托",
+    "JA": "BriefName_Monster_Hayyot"
+  },
+  "30040": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Norano.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
+    "group": 290,
+    "EN": "BriefName_Monster_Norano",
+    "desc": "CardDesc_30040",
+    "KO": "BriefName_Monster_Norano",
+    "CHS": "(Test1)新人形boss",
+    "JA": "BriefName_Monster_Norano"
+  },
+  "30041": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_WanderingHunter.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 4,
+    "group": 203,
+    "EN": "BriefName_Monster_WanderingHunter",
+    "desc": "CardDesc_30041",
+    "KO": "BriefName_Monster_WanderingHunter",
+    "CHS": "(Test1)彷徨猎手",
+    "JA": "BriefName_Monster_WanderingHunter"
   },
   "35001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Nineveh.png",
@@ -1338,10 +1494,22 @@
     "rarity": 1,
     "group": 290,
     "EN": "OfficialName_",
-    "desc": "Highly maneuverable small autonomous mechs deployed by Public Security, equipped with inert Ether circular saws that also serve as assistant steering wheels for navigating complex terrains at high speeds.\nHowever, due to their rudimentary self-control programs, these lawnmowers occasionally cause unintended damage while executing their slicing attacks.\n\"Hey! Who the heck messed up my brand new car!?\"",
+    "desc": "Mass-produced security units have been put into use across many civilian sectors. With numerous advantages, including affordability, versatility, a revolutionary single-wheel dynamic balance system, and an integrated intelligent threat recognition core, they're suitable for security needs in various complex spaces.\n\n\"This Tactical Security Unit, having passed 47 rigorous tests, has been successfully deployed in core areas of 32 industrial parks. Client feedback shows an average 91% reduction in tresspassing rates. Trust us: you can use it for any security task you can imagine.\"",
     "KO": "OfficialName_",
     "CHS": "OfficialName_",
     "JA": "OfficialName_"
+  },
+  "100132": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_PatrollerPro.png",
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 1,
+    "group": 290,
+    "EN": "OfficialName_Monster_Patroller",
+    "desc": "CardDesc_100132",
+    "KO": "OfficialName_Monster_Patroller",
+    "CHS": "(Test1)巡逻车",
+    "JA": "OfficialName_Monster_Patroller"
   },
   "100141": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MandrakePro.png",
@@ -1557,7 +1725,7 @@
     "desc": "Farbauti, possessing immense strength and often in a frenzied state, is one of the most formidable threats Hollow Raiders may face. Its hammer-like arms can effortlessly deflect damage and unleash storms of blows that crush everything in its path.\nSome Hollow Raiders have observed Farbauti frequently pounding the ground in a rhythmic, high-frequency manner, leading to speculation about its peculiar interest in drumming music.\nDespite the Hollow Investigative Association publicly debunking this rumor, many Hollow Raiders carry portable stereos in an attempt to distract Farbauti with music.\nNo successful escapes using this method have been reported however.\n\"The reason for their failure is simple: Even Farbauti think your taste in music sucks!\"",
     "KO": "플라스마·파르바우티",
     "CHS": "离子体·法布提",
-    "JA": "電離体・��ァールバウティ"
+    "JA": "電離体・ファールバウティ"
   },
   "200011": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HatiGreyPro.png",
@@ -1569,7 +1737,7 @@
     "desc": "The HIA Phase-I Investigation Team has officially documented the existence of this sentient living Ether resembling a four-legged beast, which poses significant danger. \nAccording to rumors, the first sighting took place in Nest Hollow, where individuals exploring the nearby wastes reported hearing ear-splitting roars reminiscent of wild animal growls.\n\"If I throw a stick or a ball, do you think that monster will catch it?\"\n\"You can give it a try, but I won't cover your medical bill.\"",
     "KO": "하티·에너지형",
     "CHS": "哈提·蓄能型",
-    "JA": "ハティ・蓄エネ型"
+    "JA": "ハティ・蓄��ネ型"
   },
   "200012": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Hati.png",
@@ -2241,7 +2409,7 @@
     "desc": "People in the Outer Ring once called him the \"Overlord Pompey\" with true respect.\nBut now, his soul has been corrupted by potent Ether, his body polluted by sulfur and crude oil; the heart that once beat solely to protect the Outer Ring has turned into a supercritical Ether core filled with infinite power.\nThe former \"Lord of the Outer Ring\" has been reborn in flames, taking on a different form.\nFreedom, majesty... Violence, insanity.\nIt charges through the dust and flames, seizing anything that moves and then mercilessly tearing and shattering it.\nThose familiar with it before have guessed from its fractured whispers that what drives it is not a desire for petty revenge, but rather a desire to crush all outliers who dare to challenge the laws of the Outer Ring.\nMaybe it's the last vestige of the former Overlord Pompey's lingering will.\n\"Our leader has turned into that thing, but... he still feels like the same person.\"",
     "KO": "노토리우스·폼페이",
     "CHS": "恶名·庞培",
-    "JA": "��警戒・ポンペイ"
+    "JA": "要警戒・ポンペイ"
   },
   "300301": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_HugoVlad_Boss.png",
@@ -2254,6 +2422,42 @@
     "KO": "도플갱어·암연 징벌자",
     "CHS": "多佩冈亚·暗渊惩戒者",
     "JA": "ドッペルゲンガー・深淵の断罪者"
+  },
+  "300371": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_IsoldeSlime.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
+    "group": 201,
+    "EN": "Doppelganger - The Defector",
+    "desc": "...",
+    "KO": "도플갱어·「변절자」",
+    "CHS": "多佩冈亚·「变节者」",
+    "JA": "ドッペルゲンガー・「背信者」_JP0K"
+  },
+  "300372": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaIsoldeSlime.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
+    "group": 203,
+    "EN": "Miasmic - Doppelganger - The Defector",
+    "desc": "...",
+    "KO": "미아즈믹·도플갱어·「변절자」",
+    "CHS": "秽蚀·多佩冈亚·「变节者」",
+    "JA": "ミアズミック・ドッペルゲンガー・「背信者」_JP0K"
+  },
+  "300401": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_NoranoEgo_Slime.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
+    "group": 290,
+    "EN": "BriefName_Monster_NoranoEgo_Slime",
+    "desc": "CardDesc_300401",
+    "KO": "BriefName_Monster_NoranoEgo_Slime",
+    "CHS": "(Test1)新人形boss",
+    "JA": "BriefName_Monster_NoranoEgo_Slime"
   },
   "930146": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGrey.png",
@@ -2361,7 +2565,7 @@
     "desc": "Blastcrawler moves quickly and will explode near Bangboo, dealing damage to <color=#D9A600>all Bangboo</color>. Deploy <color=#D9A600>Paperboo</color>, which have extremely high HP, to deal with it.",
     "KO": "블라스트크롤러",
     "CHS": "雷蛛",
-    "JA": "ブラストスパイダー"
+    "JA": "ブラストスパイ��ー"
   },
   "930155": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ViciousStriker.png",
@@ -2388,7 +2592,7 @@
     "JA": "悪辣討手"
   },
   "930157": {
-    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_CyclopsGreyPro.png",
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGreyPro.png",
     "tag": ["Ether", "NotPro"],
     "tag2": ["All"],
     "rarity": 1,
@@ -2574,7 +2778,7 @@
     "rarity": 1,
     "group": 201,
     "EN": "Huskron",
-    "desc": "The Huskron's dual forms — pre and post-hatching ��� have been giving headaches to new and veteran investigators alike. The Hollow Investigative Association offers this advice: Always watch for Miasmic substances at your feet. If you spot any rock-like spherical objects, attack immediately! Don't hesitate! Don't hesitate!\nAccording to insiders, the advice originally didn't have that repetition — until some clever Hollow Investigators still tried stepping around Huskrons even after reading it. That strategy worked about as well as trying to quietly open the fridge late at night without alerting one's dog.\n\n\"I prefer how it looks before hatching — all round and rolly.\"\n\"Is that why you didn't attack it first...?\"",
+    "desc": "The Huskron's dual forms — pre and post-hatching — have been giving headaches to new and veteran investigators alike. The Hollow Investigative Association offers this advice: Always watch for Miasmic substances at your feet. If you spot any rock-like spherical objects, attack immediately! Don't hesitate! Don't hesitate!\nAccording to insiders, the advice originally didn't have that repetition — until some clever Hollow Investigators still tried stepping around Huskrons even after reading it. That strategy worked about as well as trying to quietly open the fridge late at night without alerting one's dog.\n\n\"I prefer how it looks before hatching — all round and rolly.\"\n\"Is that why you didn't attack it first...?\"",
     "KO": "허스크론",
     "CHS": "赫斯克龙",
     "JA": "ハスクロン"
@@ -2650,5 +2854,53 @@
     "KO": "미아즈믹·트라키안",
     "CHS": "秽蚀·色雷斯人",
     "JA": "ミアズミック・トラキアン"
+  },
+  "940001": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Huskron.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 1,
+    "group": 201,
+    "EN": "Huskron",
+    "desc": "Huskron's <color=#D9A600>DEF increases significantly</color> when he is blocked. Take him down before that happens!",
+    "KO": "허스크론",
+    "CHS": "赫斯克龙",
+    "JA": "ハスクロン"
+  },
+  "940002": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Harvester.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 3,
+    "group": 202,
+    "EN": "Lumberjack",
+    "desc": "The Lumberjack is a highly dangerous enemy. While dealing <color=#D9A600>massive single-target DMG</color>, it also unleashes <color=#D9A600>large AoE DMG</color> around itself. Keep your distance!",
+    "KO": "벌목기",
+    "CHS": "伐木机",
+    "JA": "伐採機"
+  },
+  "940003": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_DubiousHero.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 3,
+    "group": 202,
+    "EN": "Rampant Brute",
+    "desc": "The Rampant Brute is a highly dangerous enemy. He can deal <color=#D9A600>massive DMG</color> to targets, so when using Paperboo to block him, be sure to deploy Kind Bangboo strategically to ensure <color=#D9A600>Paperboo's</color> safety!",
+    "KO": "횡포자",
+    "CHS": "蛮横力士",
+    "JA": "剛力横暴者"
+  },
+  "940004": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_FlameCantor.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 2,
+    "group": 203,
+    "EN": "Flame Cantor",
+    "desc": "The Flame Cantor is a highly dangerous enemy that specializes in <color=#D9A600>large AoE DMG</color>. Deploy <color=#D9A600>Miss Esme</color> strategically to protect everyone!",
+    "KO": "불꽃의 선창자",
+    "CHS": "秉火领颂",
+    "JA": "火を帯びし先導者"
   }
 }

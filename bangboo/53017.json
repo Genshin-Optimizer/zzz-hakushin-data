@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Knight's Chivalry",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Support</color> character in your squad: When characters come into contact with <color=#FFFFFF>Knight's Stars</color>, their ATK increases by 20 + Bangboo level × 1.2 for 10s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Support</color> character in your squad: When characters come into contact with <color=#FFFFFF>Knight's Stars</color>, their ATK increases by 20 + Bangboo level × 1.2 for 10s.",
           "Property": ["ATK Increase", "Duration"],
           "Param": "[20 + Bangboo Level × 1.2]|10s"
         },
         "2": {
           "Name": "Knight's Chivalry",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Support</color> character in your squad: When characters come into contact with <color=#FFFFFF>Knight's Stars</color>, their ATK increases by 25 + Bangboo level × 1.4 for 10s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Support</color> character in your squad: When characters come into contact with <color=#FFFFFF>Knight's Stars</color>, their ATK increases by 25 + Bangboo level × 1.4 for 10s.",
           "Property": ["ATK Increase", "Duration"],
           "Param": "[25 + Bangboo Level × 1.4]|10s"
         },
         "3": {
           "Name": "Knight's Chivalry",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Support</color> character in your squad: When characters come into contact with <color=#FFFFFF>Knight's Stars</color>, their ATK increases by 30 + Bangboo level × 1.6 for 10s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Support</color> character in your squad: When characters come into contact with <color=#FFFFFF>Knight's Stars</color>, their ATK increases by 30 + Bangboo level × 1.6 for 10s.",
           "Property": ["ATK Increase", "Duration"],
           "Param": "[30 + Bangboo Level × 1.6]|10s"
         },
         "4": {
           "Name": "Knight's Chivalry",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Support</color> character in your squad: When characters come into contact with <color=#FFFFFF>Knight's Stars</color>, their ATK increases by 35 + Bangboo level × 1.8 for 10s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Support</color> character in your squad: When characters come into contact with <color=#FFFFFF>Knight's Stars</color>, their ATK increases by 35 + Bangboo level × 1.8 for 10s.",
           "Property": ["ATK Increase", "Duration"],
           "Param": "[35 + Bangboo Level × 1.8]|10s"
         },
         "5": {
           "Name": "Knight's Chivalry",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Support</color> character in your squad: When characters come into contact with <color=#FFFFFF>Knight's Stars</color>, their ATK increases by 40 + Bangboo level × 2 for 10s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Support</color> character in your squad: When characters come into contact with <color=#FFFFFF>Knight's Stars</color>, their ATK increases by 40 + Bangboo level × 2 for 10s.",
           "Property": ["ATK Increase", "Duration"],
           "Param": "[40 + Bangboo Level × 2]|10s"
         }

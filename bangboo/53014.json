@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Keyboard Smasher",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: Every activation of the <color=#FFFFFF>Active Skill</color> boosts <color=#FFFFFF>Active Skill</color> DMG by 25%, up to a maximum of 100%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: Every activation of the <color=#FFFFFF>Active Skill</color> boosts <color=#FFFFFF>Active Skill</color> DMG by 25%, up to a maximum of 100%.",
           "Property": ["DMG Increase", "Max DMG Increase"],
           "Param": "25%|100%"
         },
         "2": {
           "Name": "Keyboard Smasher",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: Every activation of the <color=#FFFFFF>Active Skill</color> boosts <color=#FFFFFF>Active Skill</color> DMG by 29%, up to a maximum of 116%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: Every activation of the <color=#FFFFFF>Active Skill</color> boosts <color=#FFFFFF>Active Skill</color> DMG by 29%, up to a maximum of 116%.",
           "Property": ["DMG Increase", "Max DMG Increase"],
           "Param": "29%|116%"
         },
         "3": {
           "Name": "Keyboard Smasher",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: Every activation of the <color=#FFFFFF>Active Skill</color> boosts <color=#FFFFFF>Active Skill</color> DMG by 32%, up to a maximum of 128%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: Every activation of the <color=#FFFFFF>Active Skill</color> boosts <color=#FFFFFF>Active Skill</color> DMG by 32%, up to a maximum of 128%.",
           "Property": ["DMG Increase", "Max DMG Increase"],
           "Param": "32%|128%"
         },
         "4": {
           "Name": "Keyboard Smasher",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: Every activation of the <color=#FFFFFF>Active Skill</color> boosts <color=#FFFFFF>Active Skill</color> DMG by 36%, up to a maximum of 144%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: Every activation of the <color=#FFFFFF>Active Skill</color> boosts <color=#FFFFFF>Active Skill</color> DMG by 36%, up to a maximum of 144%.",
           "Property": ["DMG Increase", "Max DMG Increase"],
           "Param": "36%|144%"
         },
         "5": {
           "Name": "Keyboard Smasher",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: Every activation of the <color=#FFFFFF>Active Skill</color> boosts <color=#FFFFFF>Active Skill</color> DMG by 40%, up to a maximum of 160%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: Every activation of the <color=#FFFFFF>Active Skill</color> boosts <color=#FFFFFF>Active Skill</color> DMG by 40%, up to a maximum of 160%.",
           "Property": ["DMG Increase", "Max DMG Increase"],
           "Param": "40%|160%"
         }

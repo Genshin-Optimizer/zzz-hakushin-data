@@ -60,7 +60,8 @@
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
-        "PhysicalStunRes": 0
+        "PhysicalStunRes": 0,
+        "BaseBuildupRatio": 1000
       },
       "Curves": {
         "Hp": {
@@ -178,7 +179,8 @@
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
-        "PhysicalStunRes": 0
+        "PhysicalStunRes": 0,
+        "BaseBuildupRatio": 1000
       },
       "Curves": {
         "Hp": {
@@ -249,5 +251,34 @@
   "GroupDesc": "Ether Mutants",
   "CardObtain": "[Unidentified] Defeat this monster in Hollow Zero 1 time to obtain its data",
   "CardQuote": "—Deep within a Hollow, rookie investigator Raffaele Bert attempting to retreat",
-  "CardSkillDesc": "In combat, Alpeca (Infested) will use different skills."
+  "CardSkillDesc": "In combat, Alpeca (Infested) will use different skills.",
+  "ElementAbnormal": {
+    "10001": 600,
+    "10002": 600,
+    "10003": 600,
+    "10004": 720,
+    "10005": 600,
+    "10011": 600,
+    "10012": 600,
+    "10013": 600,
+    "10015": 600,
+    "20001": 2250,
+    "20002": 2250,
+    "20003": 2250,
+    "20004": 2700,
+    "20005": 2250,
+    "20011": 2250,
+    "20012": 2250,
+    "20013": 2250,
+    "20015": 2250,
+    "30001": 3000,
+    "30002": 3000,
+    "30003": 3000,
+    "30004": 3600,
+    "30005": 3000,
+    "30011": 3000,
+    "30012": 3000,
+    "30013": 3000,
+    "30015": 3000
+  }
 }

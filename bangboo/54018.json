@@ -264,7 +264,7 @@
       "Level": {
         "1": {
           "Name": "Starshine Shift",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 2 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 20%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 20%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 20%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 20%.",
           "Property": [
             "Required Spook Shack Characters",
             "Spectral Bubble: HP Recovery Increase",
@@ -274,7 +274,7 @@
         },
         "2": {
           "Name": "Starshine Shift",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 2 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 25%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 25%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 25%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 25%.",
           "Property": [
             "Required Spook Shack Characters",
             "Spectral Bubble: HP Recovery Increase",
@@ -284,7 +284,7 @@
         },
         "3": {
           "Name": "Starshine Shift",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 30%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 30%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Spook Shack</color> character(s) in your squad:\nWhen a character touches a <color=#FFFFFF>Spectral Bubble</color>, HP recovered increases by 30%.\nWhen a character touches a <color=#FFFFFF>Twinkling Star</color>, Energy generated increases by 30%.",
           "Property": [
             "Required Spook Shack Characters",
             "Spectral Bubble: HP Recovery Increase",

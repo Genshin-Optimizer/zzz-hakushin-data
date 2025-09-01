@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Refueling",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FF5521>Fire Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 100% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FF5521>Fire Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 100% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "100%"
         },
         "2": {
           "Name": "Refueling",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FF5521>Fire Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 125% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FF5521>Fire Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 125% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "125%"
         },
         "3": {
           "Name": "Refueling",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FF5521>Fire Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 150% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FF5521>Fire Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 150% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "150%"
         },
         "4": {
           "Name": "Refueling",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FF5521>Fire Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 175% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FF5521>Fire Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 175% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "175%"
         },
         "5": {
           "Name": "Refueling",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FF5521>Fire Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 200% more Anomaly Buildup.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FF5521>Fire Attribute</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> inflicts 200% more Anomaly Buildup.",
           "Property": ["Anomaly Buildup Increase"],
           "Param": "200%"
         }

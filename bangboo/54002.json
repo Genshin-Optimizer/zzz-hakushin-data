@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Drill Team Mobilization",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Belobog Heavy Industries</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 20%. If the target is <color=#FF5521>Burning</color> or <color=#2EB6FF>Shocked</color>, this buff increases by an additional 20%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Belobog Heavy Industries</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 20%. If the target is <color=#FF5521>Burning</color> or <color=#2EB6FF>Shocked</color>, this buff increases by an additional 20%.",
           "Property": ["DMG Increase", "Additional DMG Increase"],
           "Param": "20%|20%"
         },
         "2": {
           "Name": "Drill Team Mobilization",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Belobog Heavy Industries</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 25%. If the target is <color=#FF5521>Burning</color> or <color=#2EB6FF>Shocked</color>, this buff increases by an additional 25%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Belobog Heavy Industries</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 25%. If the target is <color=#FF5521>Burning</color> or <color=#2EB6FF>Shocked</color>, this buff increases by an additional 25%.",
           "Property": ["DMG Increase", "Additional DMG Increase"],
           "Param": "25%|25%"
         },
         "3": {
           "Name": "Drill Team Mobilization",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Belobog Heavy Industries</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 30%. If the target is <color=#FF5521>Burning</color> or <color=#2EB6FF>Shocked</color>, this buff increases by an additional 30%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Belobog Heavy Industries</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 30%. If the target is <color=#FF5521>Burning</color> or <color=#2EB6FF>Shocked</color>, this buff increases by an additional 30%.",
           "Property": ["DMG Increase", "Additional DMG Increase"],
           "Param": "30%|30%"
         },
         "4": {
           "Name": "Drill Team Mobilization",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Belobog Heavy Industries</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 35%. If the target is <color=#FF5521>Burning</color> or <color=#2EB6FF>Shocked</color>, this buff increases by an additional 35%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Belobog Heavy Industries</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 35%. If the target is <color=#FF5521>Burning</color> or <color=#2EB6FF>Shocked</color>, this buff increases by an additional 35%.",
           "Property": ["DMG Increase", "Additional DMG Increase"],
           "Param": "35%|35%"
         },
         "5": {
           "Name": "Drill Team Mobilization",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Belobog Heavy Industries</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 40%. If the target is <color=#FF5521>Burning</color> or <color=#2EB6FF>Shocked</color>, this buff increases by an additional 40%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Belobog Heavy Industries</color> characters in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 40%. If the target is <color=#FF5521>Burning</color> or <color=#2EB6FF>Shocked</color>, this buff increases by an additional 40%.",
           "Property": ["DMG Increase", "Additional DMG Increase"],
           "Param": "40%|40%"
         }

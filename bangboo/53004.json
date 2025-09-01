@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Overpower All Odds",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Stun</color> character in your squad: <color=#FFFFFF>Active Skill</color> inflicts 18% more Daze to enemies whose Daze is above 50%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Stun</color> character in your squad: <color=#FFFFFF>Active Skill</color> inflicts 18% more Daze to enemies whose Daze is above 50%.",
           "Property": ["Daze Increase"],
           "Param": "18%"
         },
         "2": {
           "Name": "Overpower All Odds",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Stun</color> character in your squad: <color=#FFFFFF>Active Skill</color> inflicts 22.5% more Daze to enemies whose Daze is above 50%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Stun</color> character in your squad: <color=#FFFFFF>Active Skill</color> inflicts 22.5% more Daze to enemies whose Daze is above 50%.",
           "Property": ["Daze Increase"],
           "Param": "22.5%"
         },
         "3": {
           "Name": "Overpower All Odds",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Stun</color> character in your squad: <color=#FFFFFF>Active Skill</color> inflicts 27% more Daze to enemies whose Daze is above 50%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Stun</color> character in your squad: <color=#FFFFFF>Active Skill</color> inflicts 27% more Daze to enemies whose Daze is above 50%.",
           "Property": ["Daze Increase"],
           "Param": "27%"
         },
         "4": {
           "Name": "Overpower All Odds",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Stun</color> character in your squad: <color=#FFFFFF>Active Skill</color> inflicts 31.5% more Daze to enemies whose Daze is above 50%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Stun</color> character in your squad: <color=#FFFFFF>Active Skill</color> inflicts 31.5% more Daze to enemies whose Daze is above 50%.",
           "Property": ["Daze Increase"],
           "Param": "31.5%"
         },
         "5": {
           "Name": "Overpower All Odds",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Stun</color> character in your squad: <color=#FFFFFF>Active Skill</color> inflicts 36% more Daze to enemies whose Daze is above 50%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Stun</color> character in your squad: <color=#FFFFFF>Active Skill</color> inflicts 36% more Daze to enemies whose Daze is above 50%.",
           "Property": ["Daze Increase"],
           "Param": "36%"
         }

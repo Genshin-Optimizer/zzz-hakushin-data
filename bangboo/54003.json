@@ -224,7 +224,7 @@
       "Level": {
         "1": {
           "Name": "Ether Activity Increase",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are at least 2 <color=#FE437E>Ether Attribute</color> characters in your squad:\n<color=#FFFFFF>Bangboo Chain Attack</color> inflicts 40% more Anomaly Buildup.\nAfter activating <color=#FFFFFF>Bangboo Chain Attack</color>, the coordination state lasts for 5 more seconds and can activate 4 more times.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FE437E>Ether Attribute</color> characters in your squad:\n<color=#FFFFFF>Bangboo Chain Attack</color> inflicts 40% more Anomaly Buildup.\nAfter activating <color=#FFFFFF>Bangboo Chain Attack</color>, the coordination state lasts for 5 more seconds and can activate 4 more times.",
           "Property": [
             "Anomaly Buildup Increase",
             "Duration Extension",
@@ -234,7 +234,7 @@
         },
         "2": {
           "Name": "Ether Activity Increase",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are at least 2 <color=#FE437E>Ether Attribute</color> characters in your squad:\n<color=#FFFFFF>Bangboo Chain Attack</color> inflicts 50% more Anomaly Buildup.\nAfter activating <color=#FFFFFF>Bangboo Chain Attack</color>, the coordination state lasts for 6 more seconds and can activate 5 more times.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FE437E>Ether Attribute</color> characters in your squad:\n<color=#FFFFFF>Bangboo Chain Attack</color> inflicts 50% more Anomaly Buildup.\nAfter activating <color=#FFFFFF>Bangboo Chain Attack</color>, the coordination state lasts for 6 more seconds and can activate 5 more times.",
           "Property": [
             "Anomaly Buildup Increase",
             "Duration Extension",
@@ -244,7 +244,7 @@
         },
         "3": {
           "Name": "Ether Activity Increase",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are at least 2 <color=#FE437E>Ether Attribute</color> characters in your squad:\n<color=#FFFFFF>Bangboo Chain Attack</color> inflicts 60% more Anomaly Buildup.\nAfter activating <color=#FFFFFF>Bangboo Chain Attack</color>, the coordination state lasts for 7 more seconds and can activate 6 more times.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FE437E>Ether Attribute</color> characters in your squad:\n<color=#FFFFFF>Bangboo Chain Attack</color> inflicts 60% more Anomaly Buildup.\nAfter activating <color=#FFFFFF>Bangboo Chain Attack</color>, the coordination state lasts for 7 more seconds and can activate 6 more times.",
           "Property": [
             "Anomaly Buildup Increase",
             "Duration Extension",
@@ -254,7 +254,7 @@
         },
         "4": {
           "Name": "Ether Activity Increase",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are at least 2 <color=#FE437E>Ether Attribute</color> characters in your squad:\n<color=#FFFFFF>Bangboo Chain Attack</color> inflicts 70% more Anomaly Buildup.\nAfter activating <color=#FFFFFF>Bangboo Chain Attack</color>, the coordination state lasts for 8 more seconds and can activate 7 more times.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FE437E>Ether Attribute</color> characters in your squad:\n<color=#FFFFFF>Bangboo Chain Attack</color> inflicts 70% more Anomaly Buildup.\nAfter activating <color=#FFFFFF>Bangboo Chain Attack</color>, the coordination state lasts for 8 more seconds and can activate 7 more times.",
           "Property": [
             "Anomaly Buildup Increase",
             "Duration Extension",
@@ -264,7 +264,7 @@
         },
         "5": {
           "Name": "Ether Activity Increase",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are at least 2 <color=#FE437E>Ether Attribute</color> characters in your squad:\n<color=#FFFFFF>Bangboo Chain Attack</color> inflicts 80% more Anomaly Buildup.\nAfter activating <color=#FFFFFF>Bangboo Chain Attack</color>, the coordination state lasts for 9 more seconds and can activate 8 more times.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FE437E>Ether Attribute</color> characters in your squad:\n<color=#FFFFFF>Bangboo Chain Attack</color> inflicts 80% more Anomaly Buildup.\nAfter activating <color=#FFFFFF>Bangboo Chain Attack</color>, the coordination state lasts for 9 more seconds and can activate 8 more times.",
           "Property": [
             "Anomaly Buildup Increase",
             "Duration Extension",

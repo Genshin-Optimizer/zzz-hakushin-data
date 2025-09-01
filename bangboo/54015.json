@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Superstar Moment",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nTriggered when there are 2 or more <color=#FFFFFF>Stars of Lyra</color> characters in the squad: When Snap applies the <color=#FFFFFF>Superstar</color> status to an Agent, immediately restore the Agent's Health equal to 4% of its Max HP.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Stars of Lyra</color> characters in the squad: When Snap applies the <color=#FFFFFF>Superstar</color> status to an Agent, immediately restore the Agent's Health equal to 4% of its Max HP.",
           "Property": ["HP Recovery"],
           "Param": "4% HP"
         },
         "2": {
           "Name": "Superstar Moment",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nTriggered when there are 2 or more <color=#FFFFFF>Stars of Lyra</color> characters in the squad: When Snap applies the <color=#FFFFFF>Superstar</color> status to an Agent, immediately restore the Agent's Health equal to 5% of its Max HP.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Stars of Lyra</color> characters in the squad: When Snap applies the <color=#FFFFFF>Superstar</color> status to an Agent, immediately restore the Agent's Health equal to 5% of its Max HP.",
           "Property": ["HP Recovery"],
           "Param": "5% HP"
         },
         "3": {
           "Name": "Superstar Moment",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nTriggered when there are 2 or more <color=#FFFFFF>Stars of Lyra</color> characters in the squad: When Snap applies the <color=#FFFFFF>Superstar</color> status to an Agent, immediately restore the Agent's Health equal to 6% of its Max HP.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Stars of Lyra</color> characters in the squad: When Snap applies the <color=#FFFFFF>Superstar</color> status to an Agent, immediately restore the Agent's Health equal to 6% of its Max HP.",
           "Property": ["HP Recovery"],
           "Param": "6% HP"
         },
         "4": {
           "Name": "Superstar Moment",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nTriggered when there are 2 or more <color=#FFFFFF>Stars of Lyra</color> characters in the squad: When Snap applies the <color=#FFFFFF>Superstar</color> status to an Agent, immediately restore the Agent's Health equal to 7% of its Max HP.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Stars of Lyra</color> characters in the squad: When Snap applies the <color=#FFFFFF>Superstar</color> status to an Agent, immediately restore the Agent's Health equal to 7% of its Max HP.",
           "Property": ["HP Recovery"],
           "Param": "7% HP"
         },
         "5": {
           "Name": "Superstar Moment",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nTriggered when there are 2 or more <color=#FFFFFF>Stars of Lyra</color> characters in the squad: When Snap applies the <color=#FFFFFF>Superstar</color> status to an Agent, immediately restore the Agent's Health equal to 8% of its Max HP.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Stars of Lyra</color> characters in the squad: When Snap applies the <color=#FFFFFF>Superstar</color> status to an Agent, immediately restore the Agent's Health equal to 8% of its Max HP.",
           "Property": ["HP Recovery"],
           "Param": "8% HP"
         }

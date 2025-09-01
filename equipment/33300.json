@@ -1,0 +1,9 @@
+{
+  "Id": 33300,
+  "Name": "Dawn's Bloom",
+  "Desc2": "Increases <color=#FFFFFF>Basic Attack</color> DMG by 15%.",
+  "Desc4": "Increases <color=#FFFFFF>Basic Attack</color> DMG by 20%. When equipped by an Attack character, using an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Ultimate</color> will further increase <color=#FFFFFF>Basic Attack</color> DMG by 20% for 25s. Repeated triggers reset the duration.",
+  "Story": "...",
+  "Icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitDawnsBloom.png",
+  "Icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitDawnsBloom.png"
+}

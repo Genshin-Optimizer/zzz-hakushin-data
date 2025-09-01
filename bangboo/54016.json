@@ -304,7 +304,7 @@
       "Level": {
         "1": {
           "Name": "Master of Disguise",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Mockingbird</color> character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the <color=#FFFFFF>Active Skill</color> fires a fixed card with a buff:\n<color=#FFFFFF>Attack</color>: Fires only <color=#FFFFFF>Hearts</color>, increasing the DMG by 45%.\n<color=#FFFFFF>Stun</color>: Fires only <color=#FFFFFF>Spades</color>, increasing the Daze buildup by 27%.\n<color=#FFFFFF>Anomaly</color>: Fires only <color=#FFFFFF>Crowns</color>, increasing the Anomaly Buildup by 90%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Mockingbird</color> character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the <color=#FFFFFF>Active Skill</color> fires a fixed card with a buff:\n<color=#FFFFFF>Attack</color>: Fires only <color=#FFFFFF>Hearts</color>, increasing the DMG by 45%.\n<color=#FFFFFF>Stun</color>: Fires only <color=#FFFFFF>Spades</color>, increasing the Daze buildup by 27%.\n<color=#FFFFFF>Anomaly</color>: Fires only <color=#FFFFFF>Crowns</color>, increasing the Anomaly Buildup by 90%.",
           "Property": [
             "DMG Increase",
             "Daze Increase",
@@ -314,7 +314,7 @@
         },
         "2": {
           "Name": "Master of Disguise",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Mockingbird</color> character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the <color=#FFFFFF>Active Skill</color> fires a fixed card with a buff:\n<color=#FFFFFF>Attack</color>: Fires only <color=#FFFFFF>Hearts</color>, increasing the DMG by 56%.\n<color=#FFFFFF>Stun</color>: Fires only <color=#FFFFFF>Spades</color>, increasing the Daze buildup by 34%.\n<color=#FFFFFF>Anomaly</color>: Fires only <color=#FFFFFF>Crowns</color>, increasing the Anomaly Buildup by 112.5%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Mockingbird</color> character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the <color=#FFFFFF>Active Skill</color> fires a fixed card with a buff:\n<color=#FFFFFF>Attack</color>: Fires only <color=#FFFFFF>Hearts</color>, increasing the DMG by 56%.\n<color=#FFFFFF>Stun</color>: Fires only <color=#FFFFFF>Spades</color>, increasing the Daze buildup by 34%.\n<color=#FFFFFF>Anomaly</color>: Fires only <color=#FFFFFF>Crowns</color>, increasing the Anomaly Buildup by 112.5%.",
           "Property": [
             "DMG Increase",
             "Daze Increase",
@@ -324,7 +324,7 @@
         },
         "3": {
           "Name": "Master of Disguise",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Mockingbird</color> character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the <color=#FFFFFF>Active Skill</color> fires a fixed card with a buff:\n<color=#FFFFFF>Attack</color>: Fires only <color=#FFFFFF>Hearts</color>, increasing the DMG by 67%.\n<color=#FFFFFF>Stun</color>: Fires only <color=#FFFFFF>Spades</color>, increasing the Daze buildup by 40%.\n<color=#FFFFFF>Anomaly</color>: Fires only <color=#FFFFFF>Crowns</color>, increasing the Anomaly Buildup by 135%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Mockingbird</color> character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the <color=#FFFFFF>Active Skill</color> fires a fixed card with a buff:\n<color=#FFFFFF>Attack</color>: Fires only <color=#FFFFFF>Hearts</color>, increasing the DMG by 67%.\n<color=#FFFFFF>Stun</color>: Fires only <color=#FFFFFF>Spades</color>, increasing the Daze buildup by 40%.\n<color=#FFFFFF>Anomaly</color>: Fires only <color=#FFFFFF>Crowns</color>, increasing the Anomaly Buildup by 135%.",
           "Property": [
             "DMG Increase",
             "Daze Increase",
@@ -334,7 +334,7 @@
         },
         "4": {
           "Name": "Master of Disguise",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Mockingbird</color> character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the <color=#FFFFFF>Active Skill</color> fires a fixed card with a buff:\n<color=#FFFFFF>Attack</color>: Fires only <color=#FFFFFF>Hearts</color>, increasing the DMG by 78%.\n<color=#FFFFFF>Stun</color>: Fires only <color=#FFFFFF>Spades</color>, increasing the Daze buildup by 47%.\n<color=#FFFFFF>Anomaly</color>: Fires only <color=#FFFFFF>Crowns</color>, increasing the Anomaly Buildup by 157.5%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Mockingbird</color> character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the <color=#FFFFFF>Active Skill</color> fires a fixed card with a buff:\n<color=#FFFFFF>Attack</color>: Fires only <color=#FFFFFF>Hearts</color>, increasing the DMG by 78%.\n<color=#FFFFFF>Stun</color>: Fires only <color=#FFFFFF>Spades</color>, increasing the Daze buildup by 47%.\n<color=#FFFFFF>Anomaly</color>: Fires only <color=#FFFFFF>Crowns</color>, increasing the Anomaly Buildup by 157.5%.",
           "Property": [
             "DMG Increase",
             "Daze Increase",
@@ -344,7 +344,7 @@
         },
         "5": {
           "Name": "Master of Disguise",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Mockingbird</color> character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the <color=#FFFFFF>Active Skill</color> fires a fixed card with a buff:\n<color=#FFFFFF>Attack</color>: Fires only <color=#FFFFFF>Hearts</color>, increasing the DMG by 90%.\n<color=#FFFFFF>Stun</color>: Fires only <color=#FFFFFF>Spades</color>, increasing the Daze buildup by 54%.\n<color=#FFFFFF>Anomaly</color>: Fires only <color=#FFFFFF>Crowns</color>, increasing the Anomaly Buildup by 180%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Mockingbird</color> character in the squad: When the on-field Agent in the squad meets the Specialty requirements, the <color=#FFFFFF>Active Skill</color> fires a fixed card with a buff:\n<color=#FFFFFF>Attack</color>: Fires only <color=#FFFFFF>Hearts</color>, increasing the DMG by 90%.\n<color=#FFFFFF>Stun</color>: Fires only <color=#FFFFFF>Spades</color>, increasing the Daze buildup by 54%.\n<color=#FFFFFF>Anomaly</color>: Fires only <color=#FFFFFF>Crowns</color>, increasing the Anomaly Buildup by 180%.",
           "Property": [
             "DMG Increase",
             "Daze Increase",

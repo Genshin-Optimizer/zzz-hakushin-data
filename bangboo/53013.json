@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Unusually Short Fuse",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 20%. When the target is an <color=#FFFFFF>Organic</color> enemy, this buff increases by an additional 15%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 20%. When the target is an <color=#FFFFFF>Organic</color> enemy, this buff increases by an additional 15%.",
           "Property": ["DMG Increase", "Additional DMG Increase"],
           "Param": "20%|15%"
         },
         "2": {
           "Name": "Unusually Short Fuse",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 25%. When the target is an <color=#FFFFFF>Organic</color> enemy, this buff increases by an additional 19%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 25%. When the target is an <color=#FFFFFF>Organic</color> enemy, this buff increases by an additional 19%.",
           "Property": ["DMG Increase", "Additional DMG Increase"],
           "Param": "25%|19%"
         },
         "3": {
           "Name": "Unusually Short Fuse",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 30%. When the target is an <color=#FFFFFF>Organic</color> enemy, this buff increases by an additional 23%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 30%. When the target is an <color=#FFFFFF>Organic</color> enemy, this buff increases by an additional 23%.",
           "Property": ["DMG Increase", "Additional DMG Increase"],
           "Param": "30%|23%"
         },
         "4": {
           "Name": "Unusually Short Fuse",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 35%. When the target is an <color=#FFFFFF>Organic</color> enemy, this buff increases by an additional 27%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 35%. When the target is an <color=#FFFFFF>Organic</color> enemy, this buff increases by an additional 27%.",
           "Property": ["DMG Increase", "Additional DMG Increase"],
           "Param": "35%|27%"
         },
         "5": {
           "Name": "Unusually Short Fuse",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least one <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 40%. When the target is an <color=#FFFFFF>Organic</color> enemy, this buff increases by an additional 30%.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least one <color=#FFFFFF>Anomaly</color> character in your squad: <color=#FFFFFF>Bangboo Chain Attack</color> DMG increases by 40%. When the target is an <color=#FFFFFF>Organic</color> enemy, this buff increases by an additional 30%.",
           "Property": ["DMG Increase", "Additional DMG Increase"],
           "Param": "40%|30%"
         }

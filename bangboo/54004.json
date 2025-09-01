@@ -224,31 +224,31 @@
       "Level": {
         "1": {
           "Name": "Personal Butler",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Victoria Housekeeping Co.</color> characters in your squad: <color=#FFFFFF>Active Skill</color> generates an additional 20% Energy.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Victoria Housekeeping Co.</color> characters in your squad: <color=#FFFFFF>Active Skill</color> generates an additional 20% Energy.",
           "Property": ["Energy Generation Increase"],
           "Param": "20%"
         },
         "2": {
           "Name": "Personal Butler",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Victoria Housekeeping Co.</color> characters in your squad: <color=#FFFFFF>Active Skill</color> generates an additional 25% Energy.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Victoria Housekeeping Co.</color> characters in your squad: <color=#FFFFFF>Active Skill</color> generates an additional 25% Energy.",
           "Property": ["Energy Generation Increase"],
           "Param": "25%"
         },
         "3": {
           "Name": "Personal Butler",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Victoria Housekeeping Co.</color> characters in your squad: <color=#FFFFFF>Active Skill</color> generates an additional 30% Energy.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Victoria Housekeeping Co.</color> characters in your squad: <color=#FFFFFF>Active Skill</color> generates an additional 30% Energy.",
           "Property": ["Energy Generation Increase"],
           "Param": "30%"
         },
         "4": {
           "Name": "Personal Butler",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Victoria Housekeeping Co.</color> characters in your squad: <color=#FFFFFF>Active Skill</color> generates an additional 35% Energy.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Victoria Housekeeping Co.</color> characters in your squad: <color=#FFFFFF>Active Skill</color> generates an additional 35% Energy.",
           "Property": ["Energy Generation Increase"],
           "Param": "35%"
         },
         "5": {
           "Name": "Personal Butler",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there are 2 or more <color=#FFFFFF>Victoria Housekeeping Co.</color> characters in your squad: <color=#FFFFFF>Active Skill</color> generates an additional 40% Energy.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 2 <color=#FFFFFF>Victoria Housekeeping Co.</color> characters in your squad: <color=#FFFFFF>Active Skill</color> generates an additional 40% Energy.",
           "Property": ["Energy Generation Increase"],
           "Param": "40%"
         }

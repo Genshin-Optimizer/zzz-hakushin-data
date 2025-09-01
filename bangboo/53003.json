@@ -206,7 +206,7 @@
       "Level": {
         "1": {
           "Name": "Ether Detection Specialist",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nTriggered when there is at least 1 <color=#FFFFFF>Support</color> character in your squad: <color=#FFFFFF>Active Skill</color>'s character buff effect is increased:\nBuff 1: HP Recovery increases by 20%.\nBuff 2: Shield Generation increases by 20%.\nBuff 3: Energy Regen increases by 0.04/s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad: <color=#FFFFFF>Active Skill</color>'s character buff effect is increased:\nBuff 1: HP Recovery increases by 20%.\nBuff 2: Shield Generation increases by 20%.\nBuff 3: Energy Regen increases by 0.04/s.",
           "Property": [
             "Buff 1: HP Recovery Increase",
             "Buff 2: Shield Generated Increase",
@@ -216,7 +216,7 @@
         },
         "2": {
           "Name": "Ether Detection Specialist",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nTriggered when there is at least 1 <color=#FFFFFF>Support</color> character in your squad: <color=#FFFFFF>Active Skill</color>'s character buff effect is increased:\nBuff 1: HP Recovery increases by 22.5%.\nBuff 2: Shield Generation increases by 22.5%.\nBuff 3: Energy Regen increases by 0.05/s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad: <color=#FFFFFF>Active Skill</color>'s character buff effect is increased:\nBuff 1: HP Recovery increases by 22.5%.\nBuff 2: Shield Generation increases by 22.5%.\nBuff 3: Energy Regen increases by 0.05/s.",
           "Property": [
             "Buff 1: HP Recovery Increase",
             "Buff 2: Shield Generated Increase",
@@ -226,7 +226,7 @@
         },
         "3": {
           "Name": "Ether Detection Specialist",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nTriggered when there is at least 1 <color=#FFFFFF>Support</color> character in your squad: <color=#FFFFFF>Active Skill</color>'s character buff effect is increased:\nBuff 1: HP Recovery increases by 25%.\nBuff 2: Shield Generation increases by 25%.\nBuff 3: Energy Regen increases by 0.06/s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad: <color=#FFFFFF>Active Skill</color>'s character buff effect is increased:\nBuff 1: HP Recovery increases by 25%.\nBuff 2: Shield Generation increases by 25%.\nBuff 3: Energy Regen increases by 0.06/s.",
           "Property": [
             "Buff 1: HP Recovery Increase",
             "Buff 2: Shield Generated Increase",
@@ -236,7 +236,7 @@
         },
         "4": {
           "Name": "Ether Detection Specialist",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nTriggered when there is at least 1 <color=#FFFFFF>Support</color> character in your squad: <color=#FFFFFF>Active Skill</color>'s character buff effect is increased:\nBuff 1: HP Recovery increases by 27.5%.\nBuff 2: Shield Generation increases by 27.5%.\nBuff 3: Energy Regen increases by 0.07/s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad: <color=#FFFFFF>Active Skill</color>'s character buff effect is increased:\nBuff 1: HP Recovery increases by 27.5%.\nBuff 2: Shield Generation increases by 27.5%.\nBuff 3: Energy Regen increases by 0.07/s.",
           "Property": [
             "Buff 1: HP Recovery Increase",
             "Buff 2: Shield Generated Increase",
@@ -246,7 +246,7 @@
         },
         "5": {
           "Name": "Ether Detection Specialist",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nTriggered when there is at least 1 <color=#FFFFFF>Support</color> character in your squad: <color=#FFFFFF>Active Skill</color>'s character buff effect is increased:\nBuff 1: HP Recovery increases by 30%.\nBuff 2: Shield Generation increases by 30%.\nBuff 3: Energy Regen increases by 0.08/s.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad: <color=#FFFFFF>Active Skill</color>'s character buff effect is increased:\nBuff 1: HP Recovery increases by 30%.\nBuff 2: Shield Generation increases by 30%.\nBuff 3: Energy Regen increases by 0.08/s.",
           "Property": [
             "Buff 1: HP Recovery Increase",
             "Buff 2: Shield Generated Increase",

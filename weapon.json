@@ -215,7 +215,7 @@
     "type": 5,
     "EN": "Original Transmorpher",
     "desc": "An epic W-Engine favored by Starlight Knight fans. Its high popularity and scarcity marketing strategy have caused an influx of knock-offs.",
-    "KO": "오리지널 변신 아이템",
+    "KO": "오리지널 변신 아이���",
     "CHS": "正版变身器",
     "JA": "正規版変身装置"
   },
@@ -275,7 +275,7 @@
     "type": 1,
     "EN": "Gilded Blossom",
     "desc": "A W-Engine with a grandiose and luxurious appearance equipped with a premium Ether-powered anti-theft device. It's actually used to provide the equipper with energy.",
-    "KO": "도금된 화신풍",
+    "KO": "도금된 화신���",
     "CHS": "鎏金花信",
     "JA": "金メッキの花信"
   },
@@ -429,6 +429,16 @@
     "CHS": "震元奇枢",
     "JA": "雷鳴が如き八卦"
   },
+  "13144": {
+    "icon": "Weapon_A_1441",
+    "rank": 3,
+    "type": 6,
+    "EN": "Item_Weapon_A_1441_Name",
+    "desc": "Item_Weapon_A_1441_ShortDesc",
+    "KO": "Item_Weapon_A_1441_Name",
+    "CHS": "狛野真斗测试音擎",
+    "JA": "Item_Weapon_A_1441_Name"
+  },
   "14001": {
     "icon": "Weapon_S_Common_01",
     "rank": 3,
@@ -478,6 +488,16 @@
     "KO": "유황석",
     "CHS": "硫磺石",
     "JA": "ブリムストーン"
+  },
+  "14105": {
+    "icon": "Weapon_S_1051",
+    "rank": 4,
+    "type": 6,
+    "EN": "Item_Weapon_S_1051_Name",
+    "desc": "Item_Weapon_S_1051_ShortDesc",
+    "KO": "Item_Weapon_S_1051_Name",
+    "CHS": "海妖摇篮",
+    "JA": "Item_Weapon_S_1051_Name"
   },
   "14107": {
     "icon": "Weapon_S_1071",
@@ -576,7 +596,7 @@
     "EN": "Weeping Cradle",
     "desc": "A special W-Engine with multiple layers embedded inside. It can quickly recharge \tspecial-model Bangboo and custom-made combat equipment. This model is favored by Rina.",
     "KO": "흐느끼는 요람",
-    "CHS": "啜���摇篮",
+    "CHS": "啜泣摇篮",
     "JA": "啜り泣くゆりかご"
   },
   "14122": {
@@ -615,7 +635,7 @@
     "type": 3,
     "EN": "Sharpened Stinger",
     "desc": "A deadly W-Engine from unknown sources, modified personally by Jane Doe with the intent to deal severe physical damage and Anomaly.",
-    "KO": "예리한 집게칼",
+    "KO": "예리한 ��게칼",
     "CHS": "淬锋钳刺",
     "JA": "磨き抜かれた切っ先"
   },
@@ -628,6 +648,16 @@
     "KO": "천변하는 태양의 몰락",
     "CHS": "千面日陨",
     "JA": "千面の落日"
+  },
+  "14130": {
+    "icon": "Weapon_S_1301",
+    "rank": 4,
+    "type": 1,
+    "EN": "Bellicose Blaze",
+    "desc": "...",
+    "KO": "소란한 총성과 화염",
+    "CHS": "嚣枪喧焰",
+    "JA": "憤怒の銃騒"
   },
   "14131": {
     "icon": "Weapon_S_1311",
@@ -718,5 +748,25 @@
     "KO": "너구리의 7단 변신",
     "CHS": "狸法七变化",
     "JA": "狸の七変化"
+  },
+  "14145": {
+    "icon": "Weapon_S_1451",
+    "rank": 4,
+    "type": 4,
+    "EN": "Item_Weapon_S_1451_Name",
+    "desc": "Item_Weapon_S_1451_ShortDesc",
+    "KO": "Item_Weapon_S_1451_Name",
+    "CHS": "铸梦炉歌",
+    "JA": "Item_Weapon_S_1451_Name"
+  },
+  "14146": {
+    "icon": "Weapon_S_1461",
+    "rank": 4,
+    "type": 1,
+    "EN": "Cordis Germina",
+    "desc": "...",
+    "KO": "기계 심장에 내린 씨앗",
+    "CHS": "机巧心种",
+    "JA": "駆動する種"
   }
 }

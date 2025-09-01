@@ -146,31 +146,31 @@
       "Level": {
         "1": {
           "Name": "Replenishing Sugar Levels",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Support</color> character in your squad:\n<color=#FFFFFF>Active Skill</color> recovers 20% more HP.\n<color=#FFFFFF>Active Skill</color> has 3 more charges.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad:\n<color=#FFFFFF>Active Skill</color> recovers 20% more HP.\n<color=#FFFFFF>Active Skill</color> has 3 more charges.",
           "Property": ["HP Recovery Increase", "Additional Activations"],
           "Param": "20%|3 times"
         },
         "2": {
           "Name": "Replenishing Sugar Levels",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Support</color> character in your squad:\n<color=#FFFFFF>Active Skill</color> recovers 25% more HP.\n<color=#FFFFFF>Active Skill</color> has 3 more charges.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad:\n<color=#FFFFFF>Active Skill</color> recovers 25% more HP.\n<color=#FFFFFF>Active Skill</color> has 3 more charges.",
           "Property": ["HP Recovery Increase", "Additional Activations"],
           "Param": "25%|3 times"
         },
         "3": {
           "Name": "Replenishing Sugar Levels",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Support</color> character in your squad:\n<color=#FFFFFF>Active Skill</color> recovers 30% more HP.\n<color=#FFFFFF>Active Skill</color> has 3 more charges.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad:\n<color=#FFFFFF>Active Skill</color> recovers 30% more HP.\n<color=#FFFFFF>Active Skill</color> has 3 more charges.",
           "Property": ["HP Recovery Increase", "Additional Activations"],
           "Param": "30%|3 times"
         },
         "4": {
           "Name": "Replenishing Sugar Levels",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Support</color> character in your squad:\n<color=#FFFFFF>Active Skill</color> recovers 35% more HP.\n<color=#FFFFFF>Active Skill</color> has 3 more charges.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad:\n<color=#FFFFFF>Active Skill</color> recovers 35% more HP.\n<color=#FFFFFF>Active Skill</color> has 3 more charges.",
           "Property": ["HP Recovery Increase", "Additional Activations"],
           "Param": "35%|3 times"
         },
         "5": {
           "Name": "Replenishing Sugar Levels",
-          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there is at least 1 <color=#FFFFFF>Support</color> character in your squad:\n<color=#FFFFFF>Active Skill</color> recovers 40% more HP.\n<color=#FFFFFF>Active Skill</color> has 3 more charges.",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad:\n<color=#FFFFFF>Active Skill</color> recovers 40% more HP.\n<color=#FFFFFF>Active Skill</color> has 3 more charges.",
           "Property": ["HP Recovery Increase", "Additional Activations"],
           "Param": "40%|3 times"
         }
