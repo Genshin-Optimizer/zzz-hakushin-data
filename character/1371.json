@@ -1071,7 +1071,7 @@
               },
               "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "40", "Potential": [] },
+            { "Name": "Adrenaline Cost", "Desc": "40", "Potential": [] },
             {
               "Name": "EX Special Attack: Celestial Cloud Blitz - Break Total DMG Multiplier",
               "Desc": "{Skill:1371023, Prop:1001}",
@@ -1234,7 +1234,7 @@
               },
               "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "40", "Potential": [] },
+            { "Name": "Adrenaline Cost to Use", "Desc": "40", "Potential": [] },
             { "Name": "Initial Consumption", "Desc": "20", "Potential": [] },
             { "Name": "Consumption Per Second", "Desc": "20", "Potential": [] }
           ],

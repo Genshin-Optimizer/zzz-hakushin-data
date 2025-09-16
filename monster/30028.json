@@ -2861,7 +2861,7 @@
     "51021": {
       "Id": 51021,
       "CodeName": "Monster_Bodyguard_TurnBased",
-      "Icon": "",
+      "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/Monster_HymnistWar.png",
       "Tag": ["Bios", "Demote", "Small", "Bodyguard", "Bodyguard_Type2"],
       "Type": "Monster",
       "Element": {
@@ -2872,11 +2872,11 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1628,
-        "Attack": 2,
-        "Defence": 36,
-        "Crit": 0,
-        "CritDamage": 5000,
+        "Hp": 1000,
+        "Attack": 250,
+        "Defence": 0,
+        "Crit": 2500,
+        "CritDamage": 4000,
         "CritRes": 0,
         "CritDmgRes": 0,
         "PenRate": 0,
@@ -2980,7 +2980,7 @@
     "51022": {
       "Id": 51022,
       "CodeName": "Monster_Bodyguard_TurnBased",
-      "Icon": "",
+      "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/Monster_HymnistWar.png",
       "Tag": ["Bios", "Demote", "Small", "Bodyguard", "Bodyguard_Type2"],
       "Type": "Monster",
       "Element": {
@@ -2991,11 +2991,11 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1628,
-        "Attack": 2,
-        "Defence": 36,
-        "Crit": 0,
-        "CritDamage": 5000,
+        "Hp": 990,
+        "Attack": 142,
+        "Defence": 0,
+        "Crit": 2500,
+        "CritDamage": 4000,
         "CritRes": 0,
         "CritDmgRes": 0,
         "PenRate": 0,

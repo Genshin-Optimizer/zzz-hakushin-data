@@ -1,7 +1,7 @@
 {
   "Id": 13144,
   "CodeName": "Weapon_A_1441",
-  "Name": "Item_Weapon_A_1441_Name",
+  "Name": "Grill O'Wisp",
   "Desc": "Item_Weapon_A_1441_Desc",
   "Desc2": "Equip to increase Rupture Agents' combat capabilities",
   "Desc3": "Item_Weapon_A_1441_ShortDesc",
@@ -95,23 +95,23 @@
   "Talents": {
     "1": {
       "Name": "Weapon_TalentTitle_13144",
-      "Desc": "Weapon_TalentDes_81314401"
+      "Desc": "Increases equipper's <color=#FF5521>Fire DMG</color> by <color=#2BAD00>15%</color>; when equipper's HP decreases, CRIT Rate increases by <color=#2BAD00>15%</color> for 5 seconds."
     },
     "2": {
       "Name": "Weapon_TalentTitle_13144",
-      "Desc": "Weapon_TalentDes_81314402"
+      "Desc": "Increases equipper's <color=#FF5521>Fire DMG</color> by <color=#2BAD00>17.25%</color>; when equipper's HP decreases, CRIT Rate increases by <color=#2BAD00>17.25%</color> for 5 seconds."
     },
     "3": {
       "Name": "Weapon_TalentTitle_13144",
-      "Desc": "Weapon_TalentDes_81314403"
+      "Desc": "Increases equipper's <color=#FF5521>Fire DMG</color> by <color=#2BAD00>19.5%</color>; when equipper's HP decreases, CRIT Rate increases by <color=#2BAD00>19.5%</color> for 5 seconds."
     },
     "4": {
       "Name": "Weapon_TalentTitle_13144",
-      "Desc": "Weapon_TalentDes_81314404"
+      "Desc": "Increases equipper's <color=#FF5521>Fire DMG</color> by <color=#2BAD00>21.75%</color>; when equipper's HP decreases, CRIT Rate increases by <color=#2BAD00>21.75%</color> for 5 seconds."
     },
     "5": {
       "Name": "Weapon_TalentTitle_13144",
-      "Desc": "Weapon_TalentDes_81314405"
+      "Desc": "Increases equipper's <color=#FF5521>Fire DMG</color> by <color=#2BAD00>24%</color>; when equipper's HP decreases, CRIT Rate increases by <color=#2BAD00>24%</color> for 5 seconds."
     }
   }
 }

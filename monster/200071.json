@@ -243,7 +243,7 @@
     "41111": {
       "Id": 41111,
       "CodeName": "Monster_HeavyStriker_TurnBased",
-      "Icon": "",
+      "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/Monster_HeavyStrikerPro.png",
       "Tag": ["Mech", "Demote", "Middle"],
       "Type": "Monster",
       "Element": {
@@ -255,7 +255,7 @@
       },
       "Stats": {
         "Hp": 1320,
-        "Attack": 192,
+        "Attack": 240,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -362,7 +362,7 @@
     "41112": {
       "Id": 41112,
       "CodeName": "Monster_HeavyStrikerPro_TurnBased",
-      "Icon": "",
+      "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/Monster_HeavyStrikerPro.png",
       "Tag": ["Mech", "Demote", "Middle"],
       "Type": "Monster",
       "Element": {
@@ -373,8 +373,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 2640,
-        "Attack": 112,
+        "Hp": 4356,
+        "Attack": 159,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,

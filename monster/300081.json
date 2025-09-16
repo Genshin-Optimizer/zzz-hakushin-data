@@ -125,7 +125,7 @@
       "Id": 41042,
       "CodeName": "Monster_MetalGorilla_TurnBased",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_MetalGorilla.png",
-      "Tag": ["Mech", "Large", "Black", "Boss"],
+      "Tag": ["Mech", "Large", "Black", "Boss", "EvilBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -135,8 +135,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 6600,
-        "Attack": 200,
+        "Hp": 10890,
+        "Attack": 227,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,

@@ -255,7 +255,7 @@
       },
       "Stats": {
         "Hp": 917,
-        "Attack": 192,
+        "Attack": 240,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -373,8 +373,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 733,
-        "Attack": 96,
+        "Hp": 681,
+        "Attack": 136,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,

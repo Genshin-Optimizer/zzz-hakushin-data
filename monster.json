@@ -366,10 +366,10 @@
     "rarity": 1,
     "group": 203,
     "EN": "Miasmic Trooper - Shieldguard",
-    "desc": "...",
+    "desc": "An Ethereal Soldier formed from Miasma, wielding a massive, corruptive Miasma blade and protected by an almost impenetrable defense shield, instinctively covers other Miasmic Troopers as they advance.\nTheir immense physical mass and extensive defensive reach make them formidable in positional warfare, especially in groups, where they become significantly harder to handle. The Hollow Investigative Association advises swiftly eliminating any isolated units on sight.\n\"An Ethereal whose main role is to protect others? Now that's a rare sight...\"\n\"Don't overestimate the Ethereals. Remember, whatever's behind these things was never human to begin with!\"",
     "KO": "미아즈마 잔병·방패병",
     "CHS": "秽息残兵·盾卫",
-    "JA": "ミアズマ・レムナント・ディフェンダー_JP0K"
+    "JA": "ミアズマ・レムナント・ディフェンダー"
   },
   "10034": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MiasmaWalkerGrenadierJaeger.png",
@@ -378,10 +378,10 @@
     "rarity": 1,
     "group": 203,
     "EN": "Miasmic Trooper - Cannoneer",
-    "desc": "...",
+    "desc": "The Ethereal soldiers, formed from Miasma, wear tattered old uniforms and linger in the smoke of battle like ghosts from another era.\nHollow observation data shows that the Canonneers can strike nearby targets with impressive precision using their bazookas — a level of accuracy suggesting rigorous training, which has sparked much speculation.\n\"Could these newly discovered, highly organized Ethereal units be linked to the Defense Force?\"\n\"Sorry. No comment until the matter is fully investigated and confirmed.\"",
     "KO": "미아즈마 잔병·포수",
     "CHS": "秽息残兵·炮手",
-    "JA": "ミアズマ・レムナント・キャノニア_JP0K"
+    "JA": "ミアズマ・レムナント・キャノニア"
   },
   "19999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
@@ -654,7 +654,7 @@
     "rarity": 2,
     "group": 203,
     "EN": "BriefName_Monster_MiasmaFrenziedManiac",
-    "desc": "CardDesc_20026",
+    "desc": "2.3 Placeholder",
     "KO": "BriefName_Monster_MiasmaFrenziedManiac",
     "CHS": "(Test1)秽蚀·狂乱暴徒",
     "JA": "BriefName_Monster_MiasmaFrenziedManiac"
@@ -666,7 +666,7 @@
     "rarity": 2,
     "group": 203,
     "EN": "BriefName_Monster_MiasmaTrinox",
-    "desc": "CardDesc_20027",
+    "desc": "2.3 Placeholder",
     "KO": "BriefName_Monster_MiasmaTrinox",
     "CHS": "(Test1)秽蚀·特里诺斯",
     "JA": "BriefName_Monster_MiasmaTrinox"
@@ -678,7 +678,7 @@
     "rarity": 1,
     "group": 202,
     "EN": "BriefName_Monster_SecurityUnitSoldier",
-    "desc": "CardDesc_20028",
+    "desc": "2.3 Placeholder",
     "KO": "BriefName_Monster_SecurityUnitSoldier",
     "CHS": "(Test1)秩序护卫",
     "JA": "BriefName_Monster_SecurityUnitSoldier"
@@ -690,7 +690,7 @@
     "rarity": 1,
     "group": 202,
     "EN": "BriefName_Monster_SecurityUnitPatroller",
-    "desc": "CardDesc_20029",
+    "desc": "2.3 Placeholder",
     "KO": "BriefName_Monster_SecurityUnitPatroller",
     "CHS": "(Test1)巡逻者轻型",
     "JA": "BriefName_Monster_SecurityUnitPatroller"
@@ -702,7 +702,7 @@
     "rarity": 1,
     "group": 202,
     "EN": "BriefName_Monster_SecurityUnitLAAndroid",
-    "desc": "CardDesc_20030",
+    "desc": "2.3 Placeholder",
     "KO": "BriefName_Monster_SecurityUnitLAAndroid",
     "CHS": "(Test1)巡逻者中型",
     "JA": "BriefName_Monster_SecurityUnitLAAndroid"
@@ -717,7 +717,7 @@
     "desc": "CardDesc_29999",
     "KO": "랜덤 몬스터 카드",
     "CHS": "随机怪物卡",
-    "JA": "ランダムエネミーカー���"
+    "JA": "ランダムエネミーカード"
   },
   "30000": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_DurahanGrey.png",
@@ -1110,10 +1110,10 @@
     "rarity": 3,
     "group": 203,
     "EN": "Miasmic - Terror Raptor",
-    "desc": "...",
+    "desc": "A fallen creation, reforged in the depths of filth and darkness.\nA veteran model of countless battles, the Terror Raptors are New Eridu's most trusted weapon of war. Designed for a perfect balance of brutal melee and devastating ranged firepower, it delivers destruction with every charge and strike. Armed with multi-missile launchers and rapid-fire guns, it dominates both close-quarters and distant combat. From leaping assaults to explosive barrages and swift aerial retreats, the Raptor adapts to any battlefield with ease. Its relentless attacks leave enemies no room to fight back, embodying both unstoppable power and overwhelming fear.\n\n\"Terror Raptor was the symbol of that era.\"",
     "KO": "미아즈믹·「테러 랩터」",
     "CHS": "秽蚀·「骇鸟」",
-    "JA": "ミアズミック・テラー・ラプトル_JP0K"
+    "JA": "ミアズミック・テラー・ラプトル"
   },
   "30037": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Isolde.png",
@@ -1122,10 +1122,10 @@
     "rarity": 3,
     "group": 290,
     "EN": "The Defector",
-    "desc": "...",
+    "desc": "Protection, loyalty, honor — What stands between a soldier and the line of fire, between them and the Hollows, the reasons they trade away their fleeting lives, are nothing but these soft syllables.\nBut what if... what we try to protect isn't worth protecting? What if those we serve don't deserve our loyalty, and the ideals we honor aren't truly honorable? Then sacrifice becomes a cruel joke, an insult to those who fell believing in a lie.\nSo let these flames of vengeance consume me, and me alone.\n\"Turning back? Now's far too late for that.\"",
     "KO": "「변절자」",
     "CHS": "「变节者」",
-    "JA": "「背信者」_JP0K"
+    "JA": "「背信者」"
   },
   "30038": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_IsoldetheDefiler.png",
@@ -1134,10 +1134,10 @@
     "rarity": 4,
     "group": 290,
     "EN": "The Defiler",
-    "desc": "...",
+    "desc": "The vengeful flames from beyond the river of the dead can never illuminate the path of those seeking revenge. The obsessed zealots who carved curses into sacred shrines now reaps the bitter fruit of their blasphemy.\n\nMiasma gathers beneath the towering spire as lost souls awaken from the Ether. In this ominous power steeped in filth and shadow, hatred takes form, coalescing into something tangible. Unbound by faith, untouched by justice, this profane force forges nothing but instruments of war, forged by vengeance and madness\n\nThe soil reeks with blood and sin, spreading ever onward... and finally reaches the end of this long, harrowing tale.\n\n\"If the ending cannot be perfect, then at least let it be written by my own hand.\"",
     "KO": "「모독자」",
     "CHS": "「亵渎者」",
-    "JA": "「冒涜者」_JP0K"
+    "JA": "「冒涜者」"
   },
   "30039": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Hayyot.png",
@@ -1146,7 +1146,7 @@
     "rarity": 3,
     "group": 203,
     "EN": "BriefName_Monster_Hayyot",
-    "desc": "CardDesc_30039",
+    "desc": "2.3 Placeholder",
     "KO": "BriefName_Monster_Hayyot",
     "CHS": "(Test1)赫由托",
     "JA": "BriefName_Monster_Hayyot"
@@ -1158,7 +1158,7 @@
     "rarity": 3,
     "group": 290,
     "EN": "BriefName_Monster_Norano",
-    "desc": "CardDesc_30040",
+    "desc": "2.3 Placeholder",
     "KO": "BriefName_Monster_Norano",
     "CHS": "(Test1)新人形boss",
     "JA": "BriefName_Monster_Norano"
@@ -1170,7 +1170,7 @@
     "rarity": 4,
     "group": 203,
     "EN": "BriefName_Monster_WanderingHunter",
-    "desc": "CardDesc_30041",
+    "desc": "2.3 placeholder",
     "KO": "BriefName_Monster_WanderingHunter",
     "CHS": "(Test1)彷徨猎手",
     "JA": "BriefName_Monster_WanderingHunter"
@@ -1737,7 +1737,7 @@
     "desc": "The HIA Phase-I Investigation Team has officially documented the existence of this sentient living Ether resembling a four-legged beast, which poses significant danger. \nAccording to rumors, the first sighting took place in Nest Hollow, where individuals exploring the nearby wastes reported hearing ear-splitting roars reminiscent of wild animal growls.\n\"If I throw a stick or a ball, do you think that monster will catch it?\"\n\"You can give it a try, but I won't cover your medical bill.\"",
     "KO": "하티·에너지형",
     "CHS": "哈提·蓄能型",
-    "JA": "ハティ・蓄��ネ型"
+    "JA": "ハティ・蓄エネ型"
   },
   "200012": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Hati.png",
@@ -1930,6 +1930,18 @@
     "KO": "OfficialName_",
     "CHS": "OfficialName_",
     "JA": "OfficialName_"
+  },
+  "200062": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 2,
+    "group": 204,
+    "EN": "Tactical Security Unit - Security Enforcer",
+    "desc": "This civilian-grade Tactical Security Unit, replicated by security companies based on Public Security's Search Patrollers, has been modified in both firepower and technology to avoid potential technical reviews and copyright infringement claims.\n\nHowever, these modifications haven't diminished the combat capabilities of these security devices. Without budget constraints on manufacturing, the security companies used higher-grade but more expensive materials, significantly enhancing their usability and durability.\n\nThese devices became highly sought after by many commercial companies as soon as they hit the market.\n\n\"Hello, Security Enforcer at your service. Please select your desired patrol mode...\"\n\"Uh... you're saying it has over a hundred preset modes?!\"",
+    "KO": "보안 전술 유닛·「질서 수호자」",
+    "CHS": "安保战术单位·「秩序护卫」",
+    "JA": "警備戦術ユニット・「ルールキーパー」"
   },
   "200071": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HeavyStrikerPro.png",
@@ -2430,10 +2442,10 @@
     "rarity": 3,
     "group": 201,
     "EN": "Doppelganger - The Defector",
-    "desc": "...",
+    "desc": "A fallen creation, reforged in the depths of filth and gloom.\nEven among Ionized enemies known for their strange and uncanny qualities, Ionized Doppelgangers stand out as particularly exceptional.\nThese creatures cloak themselves in a special layer of active Ether ions, allowing them to precisely mimic the appearance of their targets — sometimes so accurately it's nearly impossible to tell the difference. From details to texture, they're masters at blurring the line between real and false.\nWhat makes them even more dangerous is their ability to replicate their targets' powerful combat techniques.\nNo one knows how they acquire such detailed intel of their targets. Some say they can read minds, pulling the perfect nightmare from their opponent's memory and taking that shape before launching their attack.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
     "KO": "도플갱어·「변절자」",
     "CHS": "多佩冈亚·「变节者」",
-    "JA": "ドッペルゲンガー・「背信者」_JP0K"
+    "JA": "ドッペルゲンガー・「背信者」"
   },
   "300372": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaIsoldeSlime.png",
@@ -2442,10 +2454,10 @@
     "rarity": 3,
     "group": 203,
     "EN": "Miasmic - Doppelganger - The Defector",
-    "desc": "...",
+    "desc": "A fallen creation, reforged in the depths of filth and gloom.\nEven among Ionized enemies known for their strange and uncanny qualities, Ionized Doppelgangers stand out as particularly exceptional.\nThese creatures cloak themselves in a special layer of active Ether ions, allowing them to precisely mimic the appearance of their targets — sometimes so accurately it's nearly impossible to tell the difference. From details to texture, they're masters at blurring the line between real and false.\nWhat makes them even more dangerous is their ability to replicate their targets' powerful combat techniques.\nNo one knows how they acquire such detailed intel of their targets. Some say they can read minds, pulling the perfect nightmare from their opponent's memory and taking that shape before launching their attack.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
     "KO": "미아즈믹·도플갱어·「변절자」",
     "CHS": "秽蚀·多佩冈亚·「变节者」",
-    "JA": "ミアズミック・ドッペルゲンガー・「背信者」_JP0K"
+    "JA": "ミアズミック・ドッペルゲンガー・「背信者」"
   },
   "300401": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_NoranoEgo_Slime.png",
@@ -2454,7 +2466,7 @@
     "rarity": 3,
     "group": 290,
     "EN": "BriefName_Monster_NoranoEgo_Slime",
-    "desc": "CardDesc_300401",
+    "desc": "2.3 Placeholder",
     "KO": "BriefName_Monster_NoranoEgo_Slime",
     "CHS": "(Test1)新人形boss",
     "JA": "BriefName_Monster_NoranoEgo_Slime"
@@ -2565,7 +2577,7 @@
     "desc": "Blastcrawler moves quickly and will explode near Bangboo, dealing damage to <color=#D9A600>all Bangboo</color>. Deploy <color=#D9A600>Paperboo</color>, which have extremely high HP, to deal with it.",
     "KO": "블라스트크롤러",
     "CHS": "雷蛛",
-    "JA": "ブラストスパイ��ー"
+    "JA": "ブラストスパイダー"
   },
   "930155": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ViciousStriker.png",

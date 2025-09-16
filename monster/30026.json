@@ -136,7 +136,7 @@
       },
       "Stats": {
         "Hp": 1650,
-        "Attack": 300,
+        "Attack": 375,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -244,7 +244,7 @@
       "Id": 51012,
       "CodeName": "Monster_TerrorBird_TurnBased",
       "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/Monster_TerrorBird.png",
-      "Tag": ["Mech", "Large", "Boss"],
+      "Tag": ["Mech", "Large", "Boss", "EvilBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -254,8 +254,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 5280,
-        "Attack": 180,
+        "Hp": 8712,
+        "Attack": 256,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,

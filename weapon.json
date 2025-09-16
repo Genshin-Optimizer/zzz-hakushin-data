@@ -215,7 +215,7 @@
     "type": 5,
     "EN": "Original Transmorpher",
     "desc": "An epic W-Engine favored by Starlight Knight fans. Its high popularity and scarcity marketing strategy have caused an influx of knock-offs.",
-    "KO": "오리지널 변신 아이���",
+    "KO": "오리지널 변신 아이템",
     "CHS": "正版变身器",
     "JA": "正規版変身装置"
   },
@@ -275,7 +275,7 @@
     "type": 1,
     "EN": "Gilded Blossom",
     "desc": "A W-Engine with a grandiose and luxurious appearance equipped with a premium Ether-powered anti-theft device. It's actually used to provide the equipper with energy.",
-    "KO": "도금된 화신���",
+    "KO": "도금된 화신풍",
     "CHS": "鎏金花信",
     "JA": "金メッキの花信"
   },
@@ -433,11 +433,11 @@
     "icon": "Weapon_A_1441",
     "rank": 3,
     "type": 6,
-    "EN": "Item_Weapon_A_1441_Name",
+    "EN": "Grill O'Wisp",
     "desc": "Item_Weapon_A_1441_ShortDesc",
     "KO": "Item_Weapon_A_1441_Name",
-    "CHS": "狛野真斗测试音擎",
-    "JA": "Item_Weapon_A_1441_Name"
+    "CHS": "燔火胧夜",
+    "JA": "燔火の朧夜"
   },
   "14001": {
     "icon": "Weapon_S_Common_01",
@@ -493,11 +493,11 @@
     "icon": "Weapon_S_1051",
     "rank": 4,
     "type": 6,
-    "EN": "Item_Weapon_S_1051_Name",
+    "EN": "Kraken's Cradle",
     "desc": "Item_Weapon_S_1051_ShortDesc",
     "KO": "Item_Weapon_S_1051_Name",
     "CHS": "海妖摇篮",
-    "JA": "Item_Weapon_S_1051_Name"
+    "JA": "セイレーンクレードル"
   },
   "14107": {
     "icon": "Weapon_S_1071",
@@ -506,7 +506,7 @@
     "EN": "Tusks of Fury",
     "desc": "A versatile W-Engine based on a motorcycle tire that Big Daddy made for Caesar.",
     "KO": "저돌적인 송곳니",
-    "CHS": "奔袭��牙",
+    "CHS": "奔袭獠牙",
     "JA": "猛進するキバ"
   },
   "14109": {
@@ -635,7 +635,7 @@
     "type": 3,
     "EN": "Sharpened Stinger",
     "desc": "A deadly W-Engine from unknown sources, modified personally by Jane Doe with the intent to deal severe physical damage and Anomaly.",
-    "KO": "예리한 ��게칼",
+    "KO": "예리한 집게칼",
     "CHS": "淬锋钳刺",
     "JA": "磨き抜かれた切っ先"
   },
@@ -654,7 +654,7 @@
     "rank": 4,
     "type": 1,
     "EN": "Bellicose Blaze",
-    "desc": "...",
+    "desc": "She lingers by the banks of the Styx, waiting for the tide to extinguish the fury burning in her chamber.",
     "KO": "소란한 총성과 화염",
     "CHS": "嚣枪喧焰",
     "JA": "憤怒の銃騒"
@@ -717,7 +717,7 @@
     "desc": "The sheen of silver is not innocence. Can the blades of the past cut through fate's connections?",
     "KO": "순결한 희생",
     "CHS": "牺牲洁纯",
-    "JA": "純然たる犠牲"
+    "JA": "純然たる��牲"
   },
   "14139": {
     "icon": "Weapon_S_1391",
@@ -753,18 +753,18 @@
     "icon": "Weapon_S_1451",
     "rank": 4,
     "type": 4,
-    "EN": "Item_Weapon_S_1451_Name",
+    "EN": "Dreamlit Hearth",
     "desc": "Item_Weapon_S_1451_ShortDesc",
     "KO": "Item_Weapon_S_1451_Name",
     "CHS": "铸梦炉歌",
-    "JA": "Item_Weapon_S_1451_Name"
+    "JA": "炉で歌い上げられる夢"
   },
   "14146": {
     "icon": "Weapon_S_1461",
     "rank": 4,
     "type": 1,
     "EN": "Cordis Germina",
-    "desc": "...",
+    "desc": "Her journey continues along the long, endless circle.",
     "KO": "기계 심장에 내린 씨앗",
     "CHS": "机巧心种",
     "JA": "駆動する種"

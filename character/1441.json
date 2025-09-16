@@ -220,17 +220,17 @@
     "Basic": {
       "Description": [
         {
-          "Name": "Norano_Skill_Normal_Title",
-          "Desc": "Norano_Skill_Normal_Desc",
+          "Name": "Basic Attack",
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nPerform up to three slashes forward, dealing <color=#F0D12B>Physical DMG</color>;\nDuring each attack's activation phase, pressing <IconMap:Icon_Special> will trigger [Ignition], causing this attack to deal additional <color=#FF5521>Fire DMG</color> and restore Adrenaline.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_Normal_Enhance_Title",
-          "Desc": "Norano_Skill_Normal_Enhance_Desc",
+          "Name": "Basic Attack: Ignited Status",
+          "Desc": "While [Ignited], press <IconMap:Icon_Normal> to activate:\nPerform up to 4 slashes forward, dealing <color=#FF5521>Fire DMG</color>;\nUpon activating this skill, if Komano Manato's HP is above 30%, consume 20% of max HP to trigger <color=#FFFFFF>[Core Passive]</color>.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_Normal_Title",
+          "Name": "Basic Attack",
           "Param": [
             {
               "Name": "1st-Hit DMG Multiplier",
@@ -308,48 +308,48 @@
               "Desc": "{Skill:1441004, Prop:1001}+{Skill:1441005, Prop:1001}",
               "Param": {
                 "1441004": {
-                  "Main": 5980,
+                  "Main": 6000,
                   "Growth": 550,
                   "Format": "%",
-                  "DamagePercentage": 5980,
+                  "DamagePercentage": 6000,
                   "DamagePercentageGrowth": 550,
-                  "StunRatio": 6400,
+                  "StunRatio": 6450,
                   "StunRatioGrowth": 300,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 176000,
+                  "FeverRecovery": 177375,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 19200,
+                  "RpRecovery": 19350,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 6399
+                  "EtherPurify": 6449
                 },
                 "1441005": {
-                  "Main": 6400,
-                  "Growth": 590,
+                  "Main": 7460,
+                  "Growth": 680,
                   "Format": "%",
-                  "DamagePercentage": 6400,
-                  "DamagePercentageGrowth": 590,
-                  "StunRatio": 7470,
-                  "StunRatioGrowth": 340,
+                  "DamagePercentage": 7460,
+                  "DamagePercentageGrowth": 680,
+                  "StunRatio": 8520,
+                  "StunRatioGrowth": 390,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 205425,
+                  "FeverRecovery": 234300,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 22400,
+                  "RpRecovery": 25550,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 7465
+                  "EtherPurify": 8515
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Norano_Property_Normal_Desc_Dmg_01",
+              "Name": "1st-Hit (Ignition) DMG Multiplier",
               "Desc": "{Skill:1441001, Prop:1001}+{Skill:1441006, Prop:1001}",
               "Param": {
                 "1441001": {
@@ -394,7 +394,7 @@
               "Potential": []
             },
             {
-              "Name": "Norano_Property_Normal_Desc_Dmg_02",
+              "Name": "2nd-Hit (Ignition) DMG Multiplier",
               "Desc": "{Skill:1441002, Prop:1001}+{Skill:1441007, Prop:1001}",
               "Param": {
                 "1441002": {
@@ -417,68 +417,68 @@
                   "EtherPurify": 3401
                 },
                 "1441007": {
-                  "Main": 5250,
-                  "Growth": 480,
+                  "Main": 5730,
+                  "Growth": 530,
                   "Format": "%",
-                  "DamagePercentage": 5250,
-                  "DamagePercentageGrowth": 480,
-                  "StunRatio": 5110,
-                  "StunRatioGrowth": 240,
+                  "DamagePercentage": 5730,
+                  "DamagePercentageGrowth": 530,
+                  "StunRatio": 5510,
+                  "StunRatioGrowth": 260,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 140525,
+                  "FeverRecovery": 151525,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5001,
+                  "AttributeInfliction": 5501,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 15310,
+                  "RpRecovery": 16510,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5102
+                  "EtherPurify": 5502
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Norano_Property_Normal_Desc_Dmg_03",
-              "Desc": "{Skill:1441003, Prop:1001}+{Skill:1441008, Prop:1001}",
+              "Name": "3rd-Hit (Ignition) DMG Multiplier",
+              "Desc": "{Skill:1441004, Prop:1001}+{Skill:1441008, Prop:1001}",
               "Param": {
-                "1441003": {
-                  "Main": 4450,
-                  "Growth": 410,
+                "1441004": {
+                  "Main": 6000,
+                  "Growth": 550,
                   "Format": "%",
-                  "DamagePercentage": 4450,
-                  "DamagePercentageGrowth": 410,
-                  "StunRatio": 4440,
-                  "StunRatioGrowth": 210,
+                  "DamagePercentage": 6000,
+                  "DamagePercentageGrowth": 550,
+                  "StunRatio": 6450,
+                  "StunRatioGrowth": 300,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 122100,
+                  "FeverRecovery": 177375,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 13310,
+                  "RpRecovery": 19350,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4435
+                  "EtherPurify": 6449
                 },
                 "1441008": {
-                  "Main": 6580,
-                  "Growth": 600,
+                  "Main": 8330,
+                  "Growth": 760,
                   "Format": "%",
-                  "DamagePercentage": 6580,
-                  "DamagePercentageGrowth": 600,
-                  "StunRatio": 7640,
-                  "StunRatioGrowth": 350,
+                  "DamagePercentage": 8330,
+                  "DamagePercentageGrowth": 760,
+                  "StunRatio": 9350,
+                  "StunRatioGrowth": 430,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 210100,
+                  "FeverRecovery": 257125,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5498,
+                  "AttributeInfliction": 7165,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 22900,
+                  "RpRecovery": 28050,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 7632
+                  "EtherPurify": 9349
                 }
               },
               "Potential": []
@@ -559,48 +559,48 @@
               "Desc": "{Skill:1441004, Prop:1002}+{Skill:1441005, Prop:1002}",
               "Param": {
                 "1441004": {
-                  "Main": 6400,
+                  "Main": 6450,
                   "Growth": 300,
                   "Format": "%",
-                  "DamagePercentage": 5980,
+                  "DamagePercentage": 6000,
                   "DamagePercentageGrowth": 550,
-                  "StunRatio": 6400,
+                  "StunRatio": 6450,
                   "StunRatioGrowth": 300,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 176000,
+                  "FeverRecovery": 177375,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 19200,
+                  "RpRecovery": 19350,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 6399
+                  "EtherPurify": 6449
                 },
                 "1441005": {
-                  "Main": 7470,
-                  "Growth": 340,
+                  "Main": 8520,
+                  "Growth": 390,
                   "Format": "%",
-                  "DamagePercentage": 6400,
-                  "DamagePercentageGrowth": 590,
-                  "StunRatio": 7470,
-                  "StunRatioGrowth": 340,
+                  "DamagePercentage": 7460,
+                  "DamagePercentageGrowth": 680,
+                  "StunRatio": 8520,
+                  "StunRatioGrowth": 390,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 205425,
+                  "FeverRecovery": 234300,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 22400,
+                  "RpRecovery": 25550,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 7465
+                  "EtherPurify": 8515
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Norano_Property_Normal_Desc_Stun_01",
+              "Name": "1st-Hit (Ignition) Daze Multiplier",
               "Desc": "{Skill:1441001, Prop:1002}+{Skill:1441006, Prop:1002}",
               "Param": {
                 "1441001": {
@@ -645,7 +645,7 @@
               "Potential": []
             },
             {
-              "Name": "Norano_Property_Normal_Desc_Stun_02",
+              "Name": "2nd-Hit (Ignition) Daze Multiplier",
               "Desc": "{Skill:1441002, Prop:1002}+{Skill:1441007, Prop:1002}",
               "Param": {
                 "1441002": {
@@ -668,68 +668,68 @@
                   "EtherPurify": 3401
                 },
                 "1441007": {
-                  "Main": 5110,
-                  "Growth": 240,
+                  "Main": 5510,
+                  "Growth": 260,
                   "Format": "%",
-                  "DamagePercentage": 5250,
-                  "DamagePercentageGrowth": 480,
-                  "StunRatio": 5110,
-                  "StunRatioGrowth": 240,
+                  "DamagePercentage": 5730,
+                  "DamagePercentageGrowth": 530,
+                  "StunRatio": 5510,
+                  "StunRatioGrowth": 260,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 140525,
+                  "FeverRecovery": 151525,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5001,
+                  "AttributeInfliction": 5501,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 15310,
+                  "RpRecovery": 16510,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5102
+                  "EtherPurify": 5502
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Norano_Property_Normal_Desc_Stun_03",
-              "Desc": "{Skill:1441003, Prop:1002}+{Skill:1441008, Prop:1002}",
+              "Name": "3rd-Hit (Ignition) Daze Multiplier",
+              "Desc": "{Skill:1441004, Prop:1002}+{Skill:1441008, Prop:1002}",
               "Param": {
-                "1441003": {
-                  "Main": 4440,
-                  "Growth": 210,
+                "1441004": {
+                  "Main": 6450,
+                  "Growth": 300,
                   "Format": "%",
-                  "DamagePercentage": 4450,
-                  "DamagePercentageGrowth": 410,
-                  "StunRatio": 4440,
-                  "StunRatioGrowth": 210,
+                  "DamagePercentage": 6000,
+                  "DamagePercentageGrowth": 550,
+                  "StunRatio": 6450,
+                  "StunRatioGrowth": 300,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 122100,
+                  "FeverRecovery": 177375,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 13310,
+                  "RpRecovery": 19350,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4435
+                  "EtherPurify": 6449
                 },
                 "1441008": {
-                  "Main": 7640,
-                  "Growth": 350,
+                  "Main": 9350,
+                  "Growth": 430,
                   "Format": "%",
-                  "DamagePercentage": 6580,
-                  "DamagePercentageGrowth": 600,
-                  "StunRatio": 7640,
-                  "StunRatioGrowth": 350,
+                  "DamagePercentage": 8330,
+                  "DamagePercentageGrowth": 760,
+                  "StunRatio": 9350,
+                  "StunRatioGrowth": 430,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 210100,
+                  "FeverRecovery": 257125,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5498,
+                  "AttributeInfliction": 7165,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 22900,
+                  "RpRecovery": 28050,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 7632
+                  "EtherPurify": 9349
                 }
               },
               "Potential": []
@@ -738,17 +738,17 @@
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_Normal_Enhance_Title",
+          "Name": "Basic Attack: Ignited Status",
           "Param": [
             {
               "Name": "1st-Hit DMG Multiplier",
               "Desc": "{Skill:1441009, Prop:1001}",
               "Param": {
                 "1441009": {
-                  "Main": 6350,
+                  "Main": 6300,
                   "Growth": 580,
                   "Format": "%",
-                  "DamagePercentage": 6350,
+                  "DamagePercentage": 6300,
                   "DamagePercentageGrowth": 580,
                   "StunRatio": 3880,
                   "StunRatioGrowth": 180,
@@ -756,7 +756,7 @@
                   "SpRecoveryGrowth": 0,
                   "FeverRecovery": 142175,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 0,
+                  "AttributeInfliction": 5166,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 7760,
@@ -771,18 +771,18 @@
               "Desc": "{Skill:1441010, Prop:1001}",
               "Param": {
                 "1441010": {
-                  "Main": 13660,
-                  "Growth": 1250,
+                  "Main": 13580,
+                  "Growth": 1240,
                   "Format": "%",
-                  "DamagePercentage": 13660,
-                  "DamagePercentageGrowth": 1250,
+                  "DamagePercentage": 13580,
+                  "DamagePercentageGrowth": 1240,
                   "StunRatio": 10970,
                   "StunRatioGrowth": 500,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
                   "FeverRecovery": 367950,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 9669,
+                  "AttributeInfliction": 11895,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 25640,
@@ -797,23 +797,23 @@
               "Desc": "{Skill:1441011, Prop:1001}",
               "Param": {
                 "1441011": {
-                  "Main": 19530,
-                  "Growth": 1780,
+                  "Main": 20120,
+                  "Growth": 1830,
                   "Format": "%",
-                  "DamagePercentage": 19530,
-                  "DamagePercentageGrowth": 1780,
-                  "StunRatio": 16990,
-                  "StunRatioGrowth": 780,
+                  "DamagePercentage": 20120,
+                  "DamagePercentageGrowth": 1830,
+                  "StunRatio": 17570,
+                  "StunRatioGrowth": 800,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 555500,
+                  "FeverRecovery": 574750,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 17338,
+                  "AttributeInfliction": 19563,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 41340,
+                  "RpRecovery": 42690,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 16988
+                  "EtherPurify": 17563
                 }
               },
               "Potential": []
@@ -823,23 +823,23 @@
               "Desc": "{Skill:1441012, Prop:1001}",
               "Param": {
                 "1441012": {
-                  "Main": 29740,
-                  "Growth": 2710,
+                  "Main": 30800,
+                  "Growth": 2800,
                   "Format": "%",
-                  "DamagePercentage": 29740,
-                  "DamagePercentageGrowth": 2710,
-                  "StunRatio": 29500,
-                  "StunRatioGrowth": 1350,
+                  "DamagePercentage": 30800,
+                  "DamagePercentageGrowth": 2800,
+                  "StunRatio": 30660,
+                  "StunRatioGrowth": 1400,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 880550,
+                  "FeverRecovery": 916300,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 29696,
+                  "AttributeInfliction": 28854,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 66800,
+                  "RpRecovery": 69450,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 29497
+                  "EtherPurify": 30655
                 }
               },
               "Potential": []
@@ -852,7 +852,7 @@
                   "Main": 3880,
                   "Growth": 180,
                   "Format": "%",
-                  "DamagePercentage": 6350,
+                  "DamagePercentage": 6300,
                   "DamagePercentageGrowth": 580,
                   "StunRatio": 3880,
                   "StunRatioGrowth": 180,
@@ -860,7 +860,7 @@
                   "SpRecoveryGrowth": 0,
                   "FeverRecovery": 142175,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 0,
+                  "AttributeInfliction": 5166,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 7760,
@@ -878,15 +878,15 @@
                   "Main": 10970,
                   "Growth": 500,
                   "Format": "%",
-                  "DamagePercentage": 13660,
-                  "DamagePercentageGrowth": 1250,
+                  "DamagePercentage": 13580,
+                  "DamagePercentageGrowth": 1240,
                   "StunRatio": 10970,
                   "StunRatioGrowth": 500,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
                   "FeverRecovery": 367950,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 9669,
+                  "AttributeInfliction": 11895,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 25640,
@@ -901,23 +901,23 @@
               "Desc": "{Skill:1441011, Prop:1002}",
               "Param": {
                 "1441011": {
-                  "Main": 16990,
-                  "Growth": 780,
+                  "Main": 17570,
+                  "Growth": 800,
                   "Format": "%",
-                  "DamagePercentage": 19530,
-                  "DamagePercentageGrowth": 1780,
-                  "StunRatio": 16990,
-                  "StunRatioGrowth": 780,
+                  "DamagePercentage": 20120,
+                  "DamagePercentageGrowth": 1830,
+                  "StunRatio": 17570,
+                  "StunRatioGrowth": 800,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 555500,
+                  "FeverRecovery": 574750,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 17338,
+                  "AttributeInfliction": 19563,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 41340,
+                  "RpRecovery": 42690,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 16988
+                  "EtherPurify": 17563
                 }
               },
               "Potential": []
@@ -927,23 +927,23 @@
               "Desc": "{Skill:1441012, Prop:1002}",
               "Param": {
                 "1441012": {
-                  "Main": 29500,
-                  "Growth": 1350,
+                  "Main": 30660,
+                  "Growth": 1400,
                   "Format": "%",
-                  "DamagePercentage": 29740,
-                  "DamagePercentageGrowth": 2710,
-                  "StunRatio": 29500,
-                  "StunRatioGrowth": 1350,
+                  "DamagePercentage": 30800,
+                  "DamagePercentageGrowth": 2800,
+                  "StunRatio": 30660,
+                  "StunRatioGrowth": 1400,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 880550,
+                  "FeverRecovery": 916300,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 29696,
+                  "AttributeInfliction": 28854,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 66800,
+                  "RpRecovery": 69450,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 29497
+                  "EtherPurify": 30655
                 }
               },
               "Potential": []
@@ -970,22 +970,22 @@
     "Dodge": {
       "Description": [
         {
-          "Name": "Norano_Skill_Evade_Title",
-          "Desc": "Norano_Skill_Evade_Desc",
+          "Name": "Dodge",
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_Rush_Title",
-          "Desc": "Norano_Skill_Rush_Desc",
+          "Name": "Dash Attack",
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nPerforms a shoulder charge attack forward, dealing <color=#F0D12B>Physical DMG</color>.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_Counter_Title",
-          "Desc": "Norano_Skill_Counter_Desc",
+          "Name": "Dodge Counter",
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSlash and punch enemies in front, dealing <color=#FF5521>Fire DMG</color>;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_Rush_Title",
+          "Name": "Dash Attack",
           "Param": [
             {
               "Name": "DMG Multiplier",
@@ -1015,37 +1015,58 @@
             },
             {
               "Name": "Daze Multiplier",
-              "Desc": "{Skill:1441016 Prop:1002}",
+              "Desc": "{Skill:1441016, Prop:1002}",
+              "Param": {
+                "1441016": {
+                  "Main": 3670,
+                  "Growth": 170,
+                  "Format": "%",
+                  "DamagePercentage": 5870,
+                  "DamagePercentageGrowth": 540,
+                  "StunRatio": 3670,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 100925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 11000,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3667
+                }
+              },
               "Potential": []
             }
           ],
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_Counter_Title",
+          "Name": "Dodge Counter",
           "Param": [
             {
               "Name": "DMG Multiplier",
               "Desc": "{Skill:1441017, Prop:1001}",
               "Param": {
                 "1441017": {
-                  "Main": 18050,
-                  "Growth": 1650,
+                  "Main": 18920,
+                  "Growth": 1720,
                   "Format": "%",
-                  "DamagePercentage": 18050,
-                  "DamagePercentageGrowth": 1650,
-                  "StunRatio": 19670,
-                  "StunRatioGrowth": 900,
+                  "DamagePercentage": 18920,
+                  "DamagePercentageGrowth": 1720,
+                  "StunRatio": 20500,
+                  "StunRatioGrowth": 940,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 265925,
+                  "FeverRecovery": 288750,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 9663,
+                  "AttributeInfliction": 10496,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 29000,
+                  "RpRecovery": 31500,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 24664
+                  "EtherPurify": 25497
                 }
               },
               "Potential": []
@@ -1055,23 +1076,23 @@
               "Desc": "{Skill:1441017, Prop:1002}",
               "Param": {
                 "1441017": {
-                  "Main": 19670,
-                  "Growth": 900,
+                  "Main": 20500,
+                  "Growth": 940,
                   "Format": "%",
-                  "DamagePercentage": 18050,
-                  "DamagePercentageGrowth": 1650,
-                  "StunRatio": 19670,
-                  "StunRatioGrowth": 900,
+                  "DamagePercentage": 18920,
+                  "DamagePercentageGrowth": 1720,
+                  "StunRatio": 20500,
+                  "StunRatioGrowth": 940,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 265925,
+                  "FeverRecovery": 288750,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 9663,
+                  "AttributeInfliction": 10496,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 29000,
+                  "RpRecovery": 31500,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 24664
+                  "EtherPurify": 25497
                 }
               },
               "Potential": []
@@ -1098,45 +1119,45 @@
     "Special": {
       "Description": [
         {
-          "Name": "Norano_Skill_Special_Title",
-          "Desc": "Norano_Skill_Special_Desc",
+          "Name": "Special Attack",
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nSlash forward to deal <color=#FF5521>Fire DMG</color> to enemies;\nIf attacked by enemies during this skill, recover 20% of lost HP when slashing;\nTake 40% less DMG during this skill;\nAnti-Interrupt level is increased while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_ExSpecial_01_Title",
-          "Desc": "Norano_Skill_ExSpecial_01_Desc",
+          "Name": "Special Attack: Ignite",
+          "Desc": "Hold <IconMap:Icon_Special> to activate:\nEnter charging state, consuming up to 10% of max HP and recover 100 [Flame], HP can be consumed up to 30% of max HP;\nRelease [Special Attack] when releasing the button, if hit by enemy attacks during this skill, recover 20% of lost HP when performing the Slash;\nTake 40% less DMG during this skill;\nAnti-Interrupt level is increased while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_ExSpecial_02_Title",
-          "Desc": "Norano_Skill_ExSpecial_02_Desc",
+          "Name": "EX Special Attack",
+          "Desc": "While in [Ignited] state, with enough Adrenaline, press <IconMap:Icon_SpecialReady_Rp> to activate:\nJump and perform a falling slash on enemies ahead, dealing massive <color=#FF5521>Fire DMG</color>;\nUpon activating this skill, restore 33% of max HP;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_Special_Title",
+          "Name": "Special Attack",
           "Param": [
             {
               "Name": "DMG Multiplier",
               "Desc": "{Skill:1441013, Prop:1001}",
               "Param": {
                 "1441013": {
-                  "Main": 2140,
-                  "Growth": 200,
+                  "Main": 2540,
+                  "Growth": 240,
                   "Format": "%",
-                  "DamagePercentage": 2140,
-                  "DamagePercentageGrowth": 200,
-                  "StunRatio": 2670,
-                  "StunRatioGrowth": 130,
+                  "DamagePercentage": 2540,
+                  "DamagePercentageGrowth": 240,
+                  "StunRatio": 3170,
+                  "StunRatioGrowth": 150,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 73425,
+                  "FeverRecovery": 87175,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 2668,
+                  "AttributeInfliction": 3168,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 2669
+                  "EtherPurify": 3169
                 }
               },
               "Potential": []
@@ -1146,23 +1167,23 @@
               "Desc": "{Skill:1441013, Prop:1002}",
               "Param": {
                 "1441013": {
-                  "Main": 2670,
-                  "Growth": 130,
+                  "Main": 3170,
+                  "Growth": 150,
                   "Format": "%",
-                  "DamagePercentage": 2140,
-                  "DamagePercentageGrowth": 200,
-                  "StunRatio": 2670,
-                  "StunRatioGrowth": 130,
+                  "DamagePercentage": 2540,
+                  "DamagePercentageGrowth": 240,
+                  "StunRatio": 3170,
+                  "StunRatioGrowth": 150,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 73425,
+                  "FeverRecovery": 87175,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 2668,
+                  "AttributeInfliction": 3168,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 2669
+                  "EtherPurify": 3169
                 }
               },
               "Potential": []
@@ -1172,23 +1193,23 @@
               "Desc": "{Skill:1441014, Prop:1001}",
               "Param": {
                 "1441014": {
-                  "Main": 6140,
-                  "Growth": 560,
+                  "Main": 5470,
+                  "Growth": 500,
                   "Format": "%",
-                  "DamagePercentage": 6140,
-                  "DamagePercentageGrowth": 560,
-                  "StunRatio": 7670,
-                  "StunRatioGrowth": 350,
+                  "DamagePercentage": 5470,
+                  "DamagePercentageGrowth": 500,
+                  "StunRatio": 6840,
+                  "StunRatioGrowth": 320,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 210925,
+                  "FeverRecovery": 188100,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 7668,
+                  "AttributeInfliction": 6835,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 2669
+                  "EtherPurify": 1836
                 }
               },
               "Potential": []
@@ -1198,23 +1219,23 @@
               "Desc": "{Skill:1441014, Prop:1002}",
               "Param": {
                 "1441014": {
-                  "Main": 7670,
-                  "Growth": 350,
+                  "Main": 6840,
+                  "Growth": 320,
                   "Format": "%",
-                  "DamagePercentage": 6140,
-                  "DamagePercentageGrowth": 560,
-                  "StunRatio": 7670,
-                  "StunRatioGrowth": 350,
+                  "DamagePercentage": 5470,
+                  "DamagePercentageGrowth": 500,
+                  "StunRatio": 6840,
+                  "StunRatioGrowth": 320,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 210925,
+                  "FeverRecovery": 188100,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 7668,
+                  "AttributeInfliction": 6835,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 2669
+                  "EtherPurify": 1836
                 }
               },
               "Potential": []
@@ -1223,30 +1244,30 @@
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_ExSpecial_02_Title",
+          "Name": "EX Special Attack",
           "Param": [
             {
               "Name": "DMG Multiplier",
               "Desc": "{Skill:1441015, Prop:1001}",
               "Param": {
                 "1441015": {
-                  "Main": 62090,
-                  "Growth": 5650,
+                  "Main": 65260,
+                  "Growth": 5940,
                   "Format": "%",
-                  "DamagePercentage": 62090,
-                  "DamagePercentageGrowth": 5650,
-                  "StunRatio": 62540,
-                  "StunRatioGrowth": 2850,
+                  "DamagePercentage": 65260,
+                  "DamagePercentageGrowth": 5940,
+                  "StunRatio": 66220,
+                  "StunRatioGrowth": 3010,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 2548700,
+                  "FeverRecovery": 2665300,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 70071,
+                  "AttributeInfliction": 73891,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 17337
+                  "EtherPurify": 20167
                 }
               },
               "Potential": []
@@ -1256,32 +1277,28 @@
               "Desc": "{Skill:1441015, Prop:1002}",
               "Param": {
                 "1441015": {
-                  "Main": 62540,
-                  "Growth": 2850,
+                  "Main": 66220,
+                  "Growth": 3010,
                   "Format": "%",
-                  "DamagePercentage": 62090,
-                  "DamagePercentageGrowth": 5650,
-                  "StunRatio": 62540,
-                  "StunRatioGrowth": 2850,
+                  "DamagePercentage": 65260,
+                  "DamagePercentageGrowth": 5940,
+                  "StunRatio": 66220,
+                  "StunRatioGrowth": 3010,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 2548700,
+                  "FeverRecovery": 2665300,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 70071,
+                  "AttributeInfliction": 73891,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 17337
+                  "EtherPurify": 20167
                 }
               },
               "Potential": []
             },
-            {
-              "Name": "Energy Cost",
-              "Desc": "Norano_Property_ExSpecial_SpCostValue_02",
-              "Potential": []
-            }
+            { "Name": "Energy Cost", "Desc": "80", "Potential": [] }
           ],
           "Potential": []
         }
@@ -1304,40 +1321,40 @@
     "Chain": {
       "Description": [
         {
-          "Name": "Norano_Skill_QTE_Title",
-          "Desc": "Norano_Skill_QTE_Desc",
+          "Name": "Chain Attack",
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nThrows their sword and charges at enemies to trigger an explosion, dealing massive <color=#FF5521>Fire DMG</color>;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_ExQTE_Title",
-          "Desc": "Norano_Skill_ExQTE_Desc",
+          "Name": "Ultimate",
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nJump and unleash a falling slash at enemies ahead, followed by an explosion, dealing massive <color=#FF5521>Fire DMG</color>;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_QTE_Title",
+          "Name": "Chain Attack",
           "Param": [
             {
               "Name": "DMG Multiplier",
               "Desc": "{Skill:1441018, Prop:1001}",
               "Param": {
                 "1441018": {
-                  "Main": 48590,
-                  "Growth": 4420,
+                  "Main": 48990,
+                  "Growth": 4460,
                   "Format": "%",
-                  "DamagePercentage": 48590,
-                  "DamagePercentageGrowth": 4420,
-                  "StunRatio": 20840,
-                  "StunRatioGrowth": 950,
+                  "DamagePercentage": 48990,
+                  "DamagePercentageGrowth": 4460,
+                  "StunRatio": 21340,
+                  "StunRatioGrowth": 970,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 2401850,
+                  "FeverRecovery": 2415600,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 40786,
+                  "AttributeInfliction": 41286,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 20837
+                  "EtherPurify": 21337
                 }
               },
               "Potential": []
@@ -1347,23 +1364,23 @@
               "Desc": "{Skill:1441018, Prop:1002}",
               "Param": {
                 "1441018": {
-                  "Main": 20840,
-                  "Growth": 950,
+                  "Main": 21340,
+                  "Growth": 970,
                   "Format": "%",
-                  "DamagePercentage": 48590,
-                  "DamagePercentageGrowth": 4420,
-                  "StunRatio": 20840,
-                  "StunRatioGrowth": 950,
+                  "DamagePercentage": 48990,
+                  "DamagePercentageGrowth": 4460,
+                  "StunRatio": 21340,
+                  "StunRatioGrowth": 970,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 2401850,
+                  "FeverRecovery": 2415600,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 40786,
+                  "AttributeInfliction": 41286,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 20837
+                  "EtherPurify": 21337
                 }
               },
               "Potential": []
@@ -1372,30 +1389,30 @@
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_ExQTE_Title",
+          "Name": "Ultimate",
           "Param": [
             {
               "Name": "DMG Multiplier",
               "Desc": "{Skill:1441019, Prop:1001}",
               "Param": {
                 "1441019": {
-                  "Main": 151380,
-                  "Growth": 13770,
+                  "Main": 156230,
+                  "Growth": 14210,
                   "Format": "%",
-                  "DamagePercentage": 151380,
-                  "DamagePercentageGrowth": 13770,
-                  "StunRatio": 30180,
-                  "StunRatioGrowth": 1380,
+                  "DamagePercentage": 156230,
+                  "DamagePercentageGrowth": 14210,
+                  "StunRatio": 34840,
+                  "StunRatioGrowth": 1590,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
                   "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 109695,
+                  "AttributeInfliction": 115058,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 80171
+                  "EtherPurify": 84834
                 }
               },
               "Potential": []
@@ -1405,23 +1422,23 @@
               "Desc": "{Skill:1441019, Prop:1002}",
               "Param": {
                 "1441019": {
-                  "Main": 30180,
-                  "Growth": 1380,
+                  "Main": 34840,
+                  "Growth": 1590,
                   "Format": "%",
-                  "DamagePercentage": 151380,
-                  "DamagePercentageGrowth": 13770,
-                  "StunRatio": 30180,
-                  "StunRatioGrowth": 1380,
+                  "DamagePercentage": 156230,
+                  "DamagePercentageGrowth": 14210,
+                  "StunRatio": 34840,
+                  "StunRatioGrowth": 1590,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
                   "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 109695,
+                  "AttributeInfliction": 115058,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 80171
+                  "EtherPurify": 84834
                 }
               },
               "Potential": []
@@ -1448,45 +1465,45 @@
     "Assist": {
       "Description": [
         {
-          "Name": "Norano_Skill_BeHitAid_Title",
-          "Desc": "Norano_Skill_BeHitAid_Desc",
+          "Name": "Quick Assist",
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nSlash and punch enemies in front, dealing <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_ParryAid_Title",
-          "Desc": "Norano_Skill_ParryAid_Desc",
+          "Name": "Defensive Assist",
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze and <color=#FF5521>Fire DMG</color>;\nUpon activating this skill, recover 75 [Flame] points;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_AssaultAid_Title",
-          "Desc": "Norano_Skill_AssaultAid_Desc",
+          "Name": "Assist Follow-Up",
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>[Defensive Assist]</color> to activate:\nUnleash multiple slashes against enemies in front, dealing <color=#FF5521>Fire DMG</color>;\nRepeatedly press to perform consecutive slashes, up to 7 additional times;\nDuring consecutive slashes, if Komano Manato's HP is above 30%, consume 2% of max HP to trigger <color=#FFFFFF>[Core Passive]</color>;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_BeHitAid_Title",
+          "Name": "Quick Assist",
           "Param": [
             {
               "Name": "DMG Multiplier",
               "Desc": "{Skill:1441020, Prop:1001}",
               "Param": {
                 "1441020": {
-                  "Main": 7740,
-                  "Growth": 710,
+                  "Main": 8400,
+                  "Growth": 770,
                   "Format": "%",
-                  "DamagePercentage": 7740,
-                  "DamagePercentageGrowth": 710,
-                  "StunRatio": 4840,
-                  "StunRatioGrowth": 220,
+                  "DamagePercentage": 8400,
+                  "DamagePercentageGrowth": 770,
+                  "StunRatio": 5250,
+                  "StunRatioGrowth": 240,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 133100,
+                  "FeverRecovery": 144375,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 4831,
+                  "AttributeInfliction": 5248,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 14500,
+                  "RpRecovery": 15750,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4832
+                  "EtherPurify": 5249
                 }
               },
               "Potential": []
@@ -1496,23 +1513,23 @@
               "Desc": "{Skill:1441020, Prop:1002}",
               "Param": {
                 "1441020": {
-                  "Main": 4840,
-                  "Growth": 220,
+                  "Main": 5250,
+                  "Growth": 240,
                   "Format": "%",
-                  "DamagePercentage": 7740,
-                  "DamagePercentageGrowth": 710,
-                  "StunRatio": 4840,
-                  "StunRatioGrowth": 220,
+                  "DamagePercentage": 8400,
+                  "DamagePercentageGrowth": 770,
+                  "StunRatio": 5250,
+                  "StunRatioGrowth": 240,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 133100,
+                  "FeverRecovery": 144375,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 4831,
+                  "AttributeInfliction": 5248,
                   "SpConsume": 0,
                   "AttackData": [],
-                  "RpRecovery": 14500,
+                  "RpRecovery": 15750,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4832
+                  "EtherPurify": 5249
                 }
               },
               "Potential": []
@@ -1521,7 +1538,7 @@
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_ParryAid_Title",
+          "Name": "Defensive Assist",
           "Param": [
             {
               "Name": "Light Defensive Daze Multiplier",
@@ -1605,18 +1622,18 @@
           "Potential": []
         },
         {
-          "Name": "Norano_Skill_AssaultAid_Title",
+          "Name": "Assist Follow-Up",
           "Param": [
             {
               "Name": "DMG Multiplier",
               "Desc": "{Skill:1441024, Prop:1001}",
               "Param": {
                 "1441024": {
-                  "Main": 32830,
-                  "Growth": 2990,
+                  "Main": 32940,
+                  "Growth": 3000,
                   "Format": "%",
-                  "DamagePercentage": 32830,
-                  "DamagePercentageGrowth": 2990,
+                  "DamagePercentage": 32940,
+                  "DamagePercentageGrowth": 3000,
                   "StunRatio": 15630,
                   "StunRatioGrowth": 720,
                   "SpRecovery": 0,
@@ -1641,8 +1658,8 @@
                   "Main": 15630,
                   "Growth": 720,
                   "Format": "%",
-                  "DamagePercentage": 32830,
-                  "DamagePercentageGrowth": 2990,
+                  "DamagePercentage": 32940,
+                  "DamagePercentageGrowth": 3000,
                   "StunRatio": 15630,
                   "StunRatioGrowth": 720,
                   "SpRecovery": 0,
@@ -1660,15 +1677,15 @@
               "Potential": []
             },
             {
-              "Name": "DMG Multiplier",
+              "Name": "Combo Attack DMG Multiplier",
               "Desc": "{Skill:1441025, Prop:1001}",
               "Param": {
                 "1441025": {
-                  "Main": 67250,
-                  "Growth": 6120,
+                  "Main": 67510,
+                  "Growth": 6140,
                   "Format": "%",
-                  "DamagePercentage": 67250,
-                  "DamagePercentageGrowth": 6120,
+                  "DamagePercentage": 67510,
+                  "DamagePercentageGrowth": 6140,
                   "StunRatio": 38760,
                   "StunRatioGrowth": 1770,
                   "SpRecovery": 0,
@@ -1686,15 +1703,15 @@
               "Potential": []
             },
             {
-              "Name": "Daze Multiplier",
+              "Name": "Combo Daze Multiplier",
               "Desc": "{Skill:1441025, Prop:1002}",
               "Param": {
                 "1441025": {
                   "Main": 38760,
                   "Growth": 1770,
                   "Format": "%",
-                  "DamagePercentage": 67250,
-                  "DamagePercentageGrowth": 6120,
+                  "DamagePercentage": 67510,
+                  "DamagePercentageGrowth": 6140,
                   "StunRatio": 38760,
                   "StunRatioGrowth": 1770,
                   "SpRecovery": 0,
@@ -1737,8 +1754,11 @@
       "1441501": {
         "Level": 1,
         "Id": 1441501,
-        "Name": ["Norano_UniqueSkill_Title", "Norano_MathSkill_Title"],
-        "Desc": ["Norano_UniqueSkill_01_Desc", "Norano_MathSkill_Desc"],
+        "Name": ["Core Passive:", "Additional Ability:"],
+        "Desc": [
+          "Komano Manato gains additional Sheer Force based on his max HP, with each point of max HP increasing Sheer Force by 0.1;\nAll <color=#FF5521>Fire DMG</color> dealt by Komano Manato's skills becomes Sheer DMG that ignores enemy defense and uses Sheer Force as the DMG Multiplier;\nWhen Komano Manato uses <color=#FFFFFF>[Special Attack: Hold]</color> or <color=#FFFFFF>[Defensive Assist]</color>, he accumulates <color=#FFFFFF>[Flame]</color>, up to 100 points; When <color=#FFFFFF>[Flame]</color> reaches 75 points, Komano Manato enters <color=#FFFFFF>[Ignited]</color> state until <color=#FFFFFF>[Flame]</color> is depleted;\nWhile <color=#FFFFFF>[Ignited]</color>, Komano Manato's <color=#FFFFFF>[Basic Attack]</color> is enhanced and he can use <color=#FFFFFF>[EX Special Attack]</color>;\nWhen Komano Manato consumes max HP during consecutive slashes of <color=#FFFFFF>[Basic Attack: Ignited]</color> or <color=#FFFFFF>[Assist Follow-Up]</color>, this attack's CRIT DMG increases by <color=#2BAD00>30%</color>, and Adrenaline recovery rate increases by 100%.\nWhen [Ignited], Komano Manato's CRITCRIT Rate increases by {EXCEL:3}%.",
+          "When there is an <color=#FFFFFF>[Assist]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen Komano Manato uses Ultimate, gain 8 stacks of [Vitality], when using Chain Attack, gain 4 stacks of [Vitality], lasting 60 seconds, stacking up to 16 times, repeated triggers reset the duration; When Komano Manato performs consecutive slashes with <color=#FFFFFF>[Basic Attack: Enhance]</color> or <color=#FFFFFF>[Offensive Assist]</color>, if maximum HP is below 50%, consume 1 stack of [Vitality] to restore 2% of maximum HP."
+        ],
         "ExtraProperty": {
           "111": { "Target": 123, "Value": 1000 },
           "121": { "Target": 123, "Value": 3000 }
@@ -1748,8 +1768,11 @@
       "1441502": {
         "Level": 2,
         "Id": 1441502,
-        "Name": ["Norano_UniqueSkill_Title", "Norano_MathSkill_Title"],
-        "Desc": ["Norano_UniqueSkill_02_Desc", "Norano_MathSkill_Desc"],
+        "Name": ["Core Passive:", "Additional Ability:"],
+        "Desc": [
+          "Komano Manato gains additional Sheer Force based on his max HP, with each point of max HP increasing Sheer Force by 0.1;\nAll <color=#FF5521>Fire DMG</color> dealt by Komano Manato's skills becomes Sheer DMG that ignores enemy defense and uses Sheer Force as the DMG Multiplier;\nWhen Komano Manato uses <color=#FFFFFF>[Special Attack: Hold]</color> or <color=#FFFFFF>[Defensive Assist]</color>, he accumulates <color=#FFFFFF>[Flame]</color>, up to 100 points; When <color=#FFFFFF>[Flame]</color> reaches 75 points, Komano Manato enters <color=#FFFFFF>[Ignited]</color> state until <color=#FFFFFF>[Flame]</color> is depleted;\nWhile <color=#FFFFFF>[Ignited]</color>, Komano Manato's <color=#FFFFFF>[Basic Attack]</color> is enhanced and he can use <color=#FFFFFF>[EX Special Attack]</color>;\nWhen Komano Manato consumes max HP during consecutive slashes of <color=#FFFFFF>[Basic Attack: Ignited]</color> or <color=#FFFFFF>[Assist Follow-Up]</color>, this attack's CRIT DMG increases by <color=#2BAD00>35%</color>, and Adrenaline recovery rate increases by 100%.\nWhen [Ignited], Komano Manato's CRITCRIT Rate increases by {EXCEL:3}%.",
+          "When there is an <color=#FFFFFF>[Assist]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen Komano Manato uses Ultimate, gain 8 stacks of [Vitality], when using Chain Attack, gain 4 stacks of [Vitality], lasting 60 seconds, stacking up to 16 times, repeated triggers reset the duration; When Komano Manato performs consecutive slashes with <color=#FFFFFF>[Basic Attack: Enhance]</color> or <color=#FFFFFF>[Offensive Assist]</color>, if maximum HP is below 50%, consume 1 stack of [Vitality] to restore 2% of maximum HP."
+        ],
         "ExtraProperty": {
           "111": { "Target": 123, "Value": 1000 },
           "121": { "Target": 123, "Value": 3000 }
@@ -1759,8 +1782,11 @@
       "1441503": {
         "Level": 3,
         "Id": 1441503,
-        "Name": ["Norano_UniqueSkill_Title", "Norano_MathSkill_Title"],
-        "Desc": ["Norano_UniqueSkill_03_Desc", "Norano_MathSkill_Desc"],
+        "Name": ["Core Passive:", "Additional Ability:"],
+        "Desc": [
+          "Komano Manato gains additional Sheer Force based on his max HP, with each point of max HP increasing Sheer Force by 0.1;\nAll <color=#FF5521>Fire DMG</color> dealt by Komano Manato's skills becomes Sheer DMG that ignores enemy defense and uses Sheer Force as the DMG Multiplier;\nWhen Komano Manato uses <color=#FFFFFF>[Special Attack: Hold]</color> or <color=#FFFFFF>[Defensive Assist]</color>, he accumulates <color=#FFFFFF>[Flame]</color>, up to 100 points; When <color=#FFFFFF>[Flame]</color> reaches 75 points, Komano Manato enters <color=#FFFFFF>[Ignited]</color> state until <color=#FFFFFF>[Flame]</color> is depleted;\nWhile <color=#FFFFFF>[Ignited]</color>, Komano Manato's <color=#FFFFFF>[Basic Attack]</color> is enhanced and he can use <color=#FFFFFF>[EX Special Attack]</color>;\nWhen Komano Manato consumes max HP during consecutive slashes of <color=#FFFFFF>[Basic Attack: Ignited]</color> or <color=#FFFFFF>[Assist Follow-Up]</color>, this attack's CRIT DMG increases by <color=#2BAD00>40%</color>, and Adrenaline recovery rate increases by 100%.\nWhen [Ignited], Komano Manato's CRITCRIT Rate increases by {EXCEL:3}%.",
+          "When there is an <color=#FFFFFF>[Assist]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen Komano Manato uses Ultimate, gain 8 stacks of [Vitality], when using Chain Attack, gain 4 stacks of [Vitality], lasting 60 seconds, stacking up to 16 times, repeated triggers reset the duration; When Komano Manato performs consecutive slashes with <color=#FFFFFF>[Basic Attack: Enhance]</color> or <color=#FFFFFF>[Offensive Assist]</color>, if maximum HP is below 50%, consume 1 stack of [Vitality] to restore 2% of maximum HP."
+        ],
         "ExtraProperty": {
           "111": { "Target": 123, "Value": 1000 },
           "121": { "Target": 123, "Value": 3000 }
@@ -1770,8 +1796,11 @@
       "1441504": {
         "Level": 4,
         "Id": 1441504,
-        "Name": ["Norano_UniqueSkill_Title", "Norano_MathSkill_Title"],
-        "Desc": ["Norano_UniqueSkill_04_Desc", "Norano_MathSkill_Desc"],
+        "Name": ["Core Passive:", "Additional Ability:"],
+        "Desc": [
+          "Komano Manato gains additional Sheer Force based on his max HP, with each point of max HP increasing Sheer Force by 0.1;\nAll <color=#FF5521>Fire DMG</color> dealt by Komano Manato's skills becomes Sheer DMG that ignores enemy defense and uses Sheer Force as the DMG Multiplier;\nWhen Komano Manato uses <color=#FFFFFF>[Special Attack: Hold]</color> or <color=#FFFFFF>[Defensive Assist]</color>, he accumulates <color=#FFFFFF>[Flame]</color>, up to 100 points; When <color=#FFFFFF>[Flame]</color> reaches 75 points, Komano Manato enters <color=#FFFFFF>[Ignited]</color> state until <color=#FFFFFF>[Flame]</color> is depleted;\nWhile <color=#FFFFFF>[Ignited]</color>, Komano Manato's <color=#FFFFFF>[Basic Attack]</color> is enhanced and he can use <color=#FFFFFF>[EX Special Attack]</color>;\nWhen Komano Manato consumes max HP during consecutive slashes of <color=#FFFFFF>[Basic Attack: Ignited]</color> or <color=#FFFFFF>[Assist Follow-Up]</color>, this attack's CRIT DMG increases by <color=#2BAD00>45%</color>, and Adrenaline recovery rate increases by 100%.\nWhen [Ignited], Komano Manato's CRITCRIT Rate increases by {EXCEL:3}%.",
+          "When there is an <color=#FFFFFF>[Assist]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen Komano Manato uses Ultimate, gain 8 stacks of [Vitality], when using Chain Attack, gain 4 stacks of [Vitality], lasting 60 seconds, stacking up to 16 times, repeated triggers reset the duration; When Komano Manato performs consecutive slashes with <color=#FFFFFF>[Basic Attack: Enhance]</color> or <color=#FFFFFF>[Offensive Assist]</color>, if maximum HP is below 50%, consume 1 stack of [Vitality] to restore 2% of maximum HP."
+        ],
         "ExtraProperty": {
           "111": { "Target": 123, "Value": 1000 },
           "121": { "Target": 123, "Value": 3000 }
@@ -1781,8 +1810,11 @@
       "1441505": {
         "Level": 5,
         "Id": 1441505,
-        "Name": ["Norano_UniqueSkill_Title", "Norano_MathSkill_Title"],
-        "Desc": ["Norano_UniqueSkill_05_Desc", "Norano_MathSkill_Desc"],
+        "Name": ["Core Passive:", "Additional Ability:"],
+        "Desc": [
+          "Komano Manato gains additional Sheer Force based on his max HP, with each point of max HP increasing Sheer Force by 0.1;\nAll <color=#FF5521>Fire DMG</color> dealt by Komano Manato's skills becomes Sheer DMG that ignores enemy defense and uses Sheer Force as the DMG Multiplier;\nWhen Komano Manato uses <color=#FFFFFF>[Special Attack: Hold]</color> or <color=#FFFFFF>[Defensive Assist]</color>, he accumulates <color=#FFFFFF>[Flame]</color>, up to 100 points; When <color=#FFFFFF>[Flame]</color> reaches 75 points, Komano Manato enters <color=#FFFFFF>[Ignited]</color> state until <color=#FFFFFF>[Flame]</color> is depleted;\nWhile <color=#FFFFFF>[Ignited]</color>, Komano Manato's <color=#FFFFFF>[Basic Attack]</color> is enhanced and he can use <color=#FFFFFF>[EX Special Attack]</color>;\nWhen Komano Manato consumes max HP during consecutive slashes of <color=#FFFFFF>[Basic Attack: Ignited]</color> or <color=#FFFFFF>[Assist Follow-Up]</color>, this attack's CRIT DMG increases by <color=#2BAD00>50%</color>, and Adrenaline recovery rate increases by 100%.\nWhen [Ignited], Komano Manato's CRITCRIT Rate increases by {EXCEL:3}%.",
+          "When there is an <color=#FFFFFF>[Assist]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen Komano Manato uses Ultimate, gain 8 stacks of [Vitality], when using Chain Attack, gain 4 stacks of [Vitality], lasting 60 seconds, stacking up to 16 times, repeated triggers reset the duration; When Komano Manato performs consecutive slashes with <color=#FFFFFF>[Basic Attack: Enhance]</color> or <color=#FFFFFF>[Offensive Assist]</color>, if maximum HP is below 50%, consume 1 stack of [Vitality] to restore 2% of maximum HP."
+        ],
         "ExtraProperty": {
           "111": { "Target": 123, "Value": 1000 },
           "121": { "Target": 123, "Value": 3000 }
@@ -1792,8 +1824,11 @@
       "1441506": {
         "Level": 6,
         "Id": 1441506,
-        "Name": ["Norano_UniqueSkill_Title", "Norano_MathSkill_Title"],
-        "Desc": ["Norano_UniqueSkill_06_Desc", "Norano_MathSkill_Desc"],
+        "Name": ["Core Passive:", "Additional Ability:"],
+        "Desc": [
+          "Komano Manato gains additional Sheer Force based on his max HP, with each point of max HP increasing Sheer Force by 0.1;\nAll <color=#FF5521>Fire DMG</color> dealt by Komano Manato's skills becomes Sheer DMG that ignores enemy defense and uses Sheer Force as the DMG Multiplier;\nWhen Komano Manato uses <color=#FFFFFF>[Special Attack: Hold]</color> or <color=#FFFFFF>[Defensive Assist]</color>, he accumulates <color=#FFFFFF>[Flame]</color>, up to 100 points; When <color=#FFFFFF>[Flame]</color> reaches 75 points, Komano Manato enters <color=#FFFFFF>[Ignited]</color> state until <color=#FFFFFF>[Flame]</color> is depleted;\nWhile <color=#FFFFFF>[Ignited]</color>, Komano Manato's <color=#FFFFFF>[Basic Attack]</color> is enhanced and he can use <color=#FFFFFF>[EX Special Attack]</color>;\nWhen Komano Manato consumes max HP during consecutive slashes of <color=#FFFFFF>[Basic Attack: Ignited]</color> or <color=#FFFFFF>[Assist Follow-Up]</color>, this attack's CRIT DMG increases by <color=#2BAD00>55%</color>, and Adrenaline recovery rate increases by 100%.\nWhen [Ignited], Komano Manato's CRITCRIT Rate increases by {EXCEL:3}%.",
+          "When there is an <color=#FFFFFF>[Assist]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen Komano Manato uses Ultimate, gain 8 stacks of [Vitality], when using Chain Attack, gain 4 stacks of [Vitality], lasting 60 seconds, stacking up to 16 times, repeated triggers reset the duration; When Komano Manato performs consecutive slashes with <color=#FFFFFF>[Basic Attack: Enhance]</color> or <color=#FFFFFF>[Offensive Assist]</color>, if maximum HP is below 50%, consume 1 stack of [Vitality] to restore 2% of maximum HP."
+        ],
         "ExtraProperty": {
           "111": { "Target": 123, "Value": 1000 },
           "121": { "Target": 123, "Value": 3000 }
@@ -1803,8 +1838,11 @@
       "1441507": {
         "Level": 7,
         "Id": 1441507,
-        "Name": ["Norano_UniqueSkill_Title", "Norano_MathSkill_Title"],
-        "Desc": ["Norano_UniqueSkill_07_Desc", "Norano_MathSkill_Desc"],
+        "Name": ["Core Passive:", "Additional Ability:"],
+        "Desc": [
+          "Komano Manato gains additional Sheer Force based on his max HP, with each point of max HP increasing Sheer Force by 0.1;\nAll <color=#FF5521>Fire DMG</color> dealt by Komano Manato's skills becomes Sheer DMG that ignores enemy defense and uses Sheer Force as the DMG Multiplier;\nWhen Komano Manato uses <color=#FFFFFF>[Special Attack: Hold]</color> or <color=#FFFFFF>[Defensive Assist]</color>, he accumulates <color=#FFFFFF>[Flame]</color>, up to 100 points; When <color=#FFFFFF>[Flame]</color> reaches 75 points, Komano Manato enters <color=#FFFFFF>[Ignited]</color> state until <color=#FFFFFF>[Flame]</color> is depleted;\nWhile <color=#FFFFFF>[Ignited]</color>, Komano Manato's <color=#FFFFFF>[Basic Attack]</color> is enhanced and he can use <color=#FFFFFF>[EX Special Attack]</color>;\nWhen Komano Manato consumes max HP during consecutive slashes of <color=#FFFFFF>[Basic Attack: Ignited]</color> or <color=#FFFFFF>[Assist Follow-Up]</color>, this attack's CRIT DMG increases by <color=#2BAD00>60%</color>, and Adrenaline recovery rate increases by 100%.\nWhen [Ignited], Komano Manato's CRITCRIT Rate increases by {EXCEL:3}%.",
+          "When there is an <color=#FFFFFF>[Assist]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen Komano Manato uses Ultimate, gain 8 stacks of [Vitality], when using Chain Attack, gain 4 stacks of [Vitality], lasting 60 seconds, stacking up to 16 times, repeated triggers reset the duration; When Komano Manato performs consecutive slashes with <color=#FFFFFF>[Basic Attack: Enhance]</color> or <color=#FFFFFF>[Offensive Assist]</color>, if maximum HP is below 50%, consume 1 stack of [Vitality] to restore 2% of maximum HP."
+        ],
         "ExtraProperty": {
           "111": { "Target": 123, "Value": 1000 },
           "121": { "Target": 123, "Value": 3000 }
@@ -1824,41 +1862,69 @@
   "Talent": {
     "1": {
       "Level": 1,
-      "Name": "Norano_Talent_01_Title",
-      "Desc": "Norano_Talent_01_Desc_01",
-      "Desc2": "Norano_Talent_01_Desc_02"
+      "Name": "PlaceHolder",
+      "Desc": "For every 1% of HP lost, Komano Manato's <color=#FFFFFF>[Offensive Assist]</color> and <color=#FFFFFF>[Basic Attack]</color> deal 0.4% more Fire DMG, up to a maximum increase of 20%.",
+      "Desc2": "PlaceHolder"
     },
     "2": {
       "Level": 2,
-      "Name": "Norano_Talent_01_Title",
-      "Desc": "Norano_Talent_02_Desc_01",
-      "Desc2": "Norano_Talent_02_Desc_02"
+      "Name": "PlaceHolder",
+      "Desc": "When ignited, Komano Manato ignores 8% of target's <color=#FF5521>Fire RES</color>; After being attacked by enemies during <color=#FFFFFF>[Special Attack]</color>, press <IconMap:Icon_Normal> to trigger <color=#FFFFFF>[Offensive Assist]</color>.",
+      "Desc2": "PlaceHolder"
     },
     "3": {
       "Level": 3,
-      "Name": "Norano_Talent_03_Title",
+      "Name": "PlaceHolder",
       "Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
-      "Desc2": "Norano_Talent_03_Desc_02"
+      "Desc2": "PlaceHolder"
     },
     "4": {
       "Level": 4,
-      "Name": "Norano_Talent_04_Title",
-      "Desc": "Norano_Talent_04_Desc_01",
-      "Desc2": "Norano_Talent_04_Desc_02"
+      "Name": "PlaceHolder",
+      "Desc": "Max HP increased by 10%; during <color=#FFFFFF>[Special Attack]</color>, Komano Manato won't die and HP will only drop to 1 at minimum.",
+      "Desc2": "PlaceHolder"
     },
     "5": {
       "Level": 5,
-      "Name": "Norano_Talent_05_Title",
+      "Name": "PlaceHolder",
       "Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
-      "Desc2": "Norano_Talent_05_Desc_02"
+      "Desc2": "PlaceHolder"
     },
     "6": {
       "Level": 6,
-      "Name": "Norano_Talent_06_Title",
-      "Desc": "Norano_Talent_06_Desc_01",
-      "Desc2": "Norano_Talent_06_Desc_02"
+      "Name": "PlaceHolder",
+      "Desc": "<color=#FFFFFF>[Special Attack]</color>When hitting a Stunned enemy, Komano Manato recovers 75 [Fire] points and gains 8 stacks of [Vitality]. Press <IconMap:Icon_Normal> to trigger <color=#FFFFFF>[Offensive Assist]</color>. The [Vitality] effect can trigger once every 20 seconds. When <color=#FFFFFF>[Assist Follow-Up]</color> hits an enemy, Fire DMG is increased by 4% for 8 seconds, stacking up to 5 times. Repeated triggers refresh the duration.",
+      "Desc2": "PlaceHolder"
     }
   },
-  "FairyRecommend": {},
+  "FairyRecommend": {
+    "Slot4": 33100,
+    "Slot2": 31000,
+    "SlotSub": 32700,
+    "Part4": {
+      "Prop": 20103,
+      "Name": "CRIT Rate",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "Part5": {
+      "Prop": 21103,
+      "Name": "CRIT DMG",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "Part6": {
+      "Prop": 11102,
+      "Name": "HP",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    },
+    "PartSub": {
+      "Prop": 31603,
+      "Name": "Fire DMG Bonus",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png"
+    }
+  },
   "Potential": []
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1451,
   "Icon": "IconRole50",
-  "Name": "Avatar_Female_Size02_Lucia",
-  "CodeName": "...",
+  "Name": "Lucia",
+  "CodeName": "Lucia",
   "Rarity": 4,
   "WeaponType": { "4": "Support" },
   "ElementType": { "205": "Ether" },
@@ -220,12 +220,12 @@
     "Basic": {
       "Description": [
         {
-          "Name": "Lucia_Skill_Normal_Title",
-          "Desc": "Lucia_Skill_Normal_Desc",
+          "Name": "Basic Attack: Star Track Combo",
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nPerform up to five strikes forward, dealing <color=#FE437E>Ether DMG</color>;\nThe fifth attack is a <color=#FFFFFF>[Reverie]</color>, which manifests an Ethereal form to deal <color=#FE437E>Ether DMG</color> to enemies in a circular area ahead;\nWhile in-combat and not in <color=#FFFFFF>[Dream]</color> state, Lucia gains 40 <color=#FFFFFF>[Dream Points]</color> when activating this <color=#FFFFFF>[Reverie]</color>.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_Normal_Title",
+          "Name": "Basic Attack: Star Track Combo",
           "Param": [
             {
               "Name": "1st-Hit DMG Multiplier",
@@ -243,7 +243,7 @@
                   "SpRecoveryGrowth": 0,
                   "FeverRecovery": 165275,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 4401,
+                  "AttributeInfliction": 3144,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
@@ -258,23 +258,23 @@
               "Desc": "{Skill:1451002, Prop:1001}",
               "Param": {
                 "1451002": {
-                  "Main": 4280,
-                  "Growth": 390,
+                  "Main": 3500,
+                  "Growth": 320,
                   "Format": "%",
-                  "DamagePercentage": 4280,
-                  "DamagePercentageGrowth": 390,
-                  "StunRatio": 4550,
-                  "StunRatioGrowth": 210,
-                  "SpRecovery": 14900,
+                  "DamagePercentage": 3500,
+                  "DamagePercentageGrowth": 320,
+                  "StunRatio": 3670,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 12020,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 113850,
+                  "FeverRecovery": 91850,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 3202,
+                  "AttributeInfliction": 2025,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4137
+                  "EtherPurify": 3337
                 }
               },
               "Potential": []
@@ -284,23 +284,23 @@
               "Desc": "{Skill:1451003, Prop:1001}",
               "Param": {
                 "1451003": {
-                  "Main": 11440,
-                  "Growth": 1040,
+                  "Main": 10480,
+                  "Growth": 960,
                   "Format": "%",
-                  "DamagePercentage": 11440,
-                  "DamagePercentageGrowth": 1040,
-                  "StunRatio": 11760,
-                  "StunRatioGrowth": 540,
-                  "SpRecovery": 38490,
+                  "DamagePercentage": 10480,
+                  "DamagePercentageGrowth": 960,
+                  "StunRatio": 10770,
+                  "StunRatioGrowth": 490,
+                  "SpRecovery": 35250,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 293975,
+                  "FeverRecovery": 269225,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 8323,
+                  "AttributeInfliction": 5921,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 10690
+                  "EtherPurify": 9790
                 }
               },
               "Potential": []
@@ -310,81 +310,81 @@
               "Desc": "{Skill:1451004, Prop:1001}",
               "Param": {
                 "1451004": {
-                  "Main": 9800,
-                  "Growth": 900,
+                  "Main": 9650,
+                  "Growth": 880,
                   "Format": "%",
-                  "DamagePercentage": 9800,
-                  "DamagePercentageGrowth": 900,
-                  "StunRatio": 11410,
-                  "StunRatioGrowth": 520,
-                  "SpRecovery": 31430,
+                  "DamagePercentage": 9650,
+                  "DamagePercentageGrowth": 880,
+                  "StunRatio": 11190,
+                  "StunRatioGrowth": 510,
+                  "SpRecovery": 31070,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 240075,
+                  "FeverRecovery": 237325,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 7060,
+                  "AttributeInfliction": 5650,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 10371
+                  "EtherPurify": 10171
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Desc_Dmg_01",
+              "Name": "Reverie DMG Multiplier",
               "Desc": "{Skill:1451005, Prop:1001}",
               "Param": {
                 "1451005": {
-                  "Main": 21730,
-                  "Growth": 1980,
+                  "Main": 20690,
+                  "Growth": 1890,
                   "Format": "%",
-                  "DamagePercentage": 21730,
-                  "DamagePercentageGrowth": 1980,
-                  "StunRatio": 21790,
-                  "StunRatioGrowth": 1000,
-                  "SpRecovery": 77220,
+                  "DamagePercentage": 20690,
+                  "DamagePercentageGrowth": 1890,
+                  "StunRatio": 20760,
+                  "StunRatioGrowth": 950,
+                  "SpRecovery": 73500,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 589875,
+                  "FeverRecovery": 561550,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 17814,
+                  "AttributeInfliction": 14224,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 19806
+                  "EtherPurify": 18873
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+              "Name": "Chorus DMG Multiplier",
               "Desc": "{Skill:1451006, Prop:1001}",
               "Param": {
                 "1451006": {
-                  "Main": 40110,
-                  "Growth": 3650,
+                  "Main": 38500,
+                  "Growth": 3500,
                   "Format": "%",
-                  "DamagePercentage": 40110,
-                  "DamagePercentageGrowth": 3650,
-                  "StunRatio": 21970,
-                  "StunRatioGrowth": 1000,
-                  "SpRecovery": 77820,
+                  "DamagePercentage": 38500,
+                  "DamagePercentageGrowth": 3500,
+                  "StunRatio": 20760,
+                  "StunRatioGrowth": 950,
+                  "SpRecovery": 73500,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 594550,
+                  "FeverRecovery": 561550,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 17948,
+                  "AttributeInfliction": 20414,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 19973
+                  "EtherPurify": 18873
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_ChainAtk_Desc_Dmg_01",
+              "Name": "Follow-Up Attack DMG Multiplier",
               "Desc": "{Skill:1451007, Prop:1001}",
               "Param": {
                 "1451007": {
@@ -425,7 +425,7 @@
                   "SpRecoveryGrowth": 0,
                   "FeverRecovery": 165275,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 4401,
+                  "AttributeInfliction": 3144,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
@@ -440,23 +440,23 @@
               "Desc": "{Skill:1451002, Prop:1002}",
               "Param": {
                 "1451002": {
-                  "Main": 4550,
-                  "Growth": 210,
+                  "Main": 3670,
+                  "Growth": 170,
                   "Format": "%",
-                  "DamagePercentage": 4280,
-                  "DamagePercentageGrowth": 390,
-                  "StunRatio": 4550,
-                  "StunRatioGrowth": 210,
-                  "SpRecovery": 14900,
+                  "DamagePercentage": 3500,
+                  "DamagePercentageGrowth": 320,
+                  "StunRatio": 3670,
+                  "StunRatioGrowth": 170,
+                  "SpRecovery": 12020,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 113850,
+                  "FeverRecovery": 91850,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 3202,
+                  "AttributeInfliction": 2025,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 4137
+                  "EtherPurify": 3337
                 }
               },
               "Potential": []
@@ -466,23 +466,23 @@
               "Desc": "{Skill:1451003, Prop:1002}",
               "Param": {
                 "1451003": {
-                  "Main": 11760,
-                  "Growth": 540,
+                  "Main": 10770,
+                  "Growth": 490,
                   "Format": "%",
-                  "DamagePercentage": 11440,
-                  "DamagePercentageGrowth": 1040,
-                  "StunRatio": 11760,
-                  "StunRatioGrowth": 540,
-                  "SpRecovery": 38490,
+                  "DamagePercentage": 10480,
+                  "DamagePercentageGrowth": 960,
+                  "StunRatio": 10770,
+                  "StunRatioGrowth": 490,
+                  "SpRecovery": 35250,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 293975,
+                  "FeverRecovery": 269225,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 8323,
+                  "AttributeInfliction": 5921,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 10690
+                  "EtherPurify": 9790
                 }
               },
               "Potential": []
@@ -492,81 +492,81 @@
               "Desc": "{Skill:1451004, Prop:1002}",
               "Param": {
                 "1451004": {
-                  "Main": 11410,
-                  "Growth": 520,
+                  "Main": 11190,
+                  "Growth": 510,
                   "Format": "%",
-                  "DamagePercentage": 9800,
-                  "DamagePercentageGrowth": 900,
-                  "StunRatio": 11410,
-                  "StunRatioGrowth": 520,
-                  "SpRecovery": 31430,
+                  "DamagePercentage": 9650,
+                  "DamagePercentageGrowth": 880,
+                  "StunRatio": 11190,
+                  "StunRatioGrowth": 510,
+                  "SpRecovery": 31070,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 240075,
+                  "FeverRecovery": 237325,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 7060,
+                  "AttributeInfliction": 5650,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 10371
+                  "EtherPurify": 10171
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Desc_Stun_01",
+              "Name": "Reverie Daze Multiplier",
               "Desc": "{Skill:1451005, Prop:1002}",
               "Param": {
                 "1451005": {
-                  "Main": 21790,
-                  "Growth": 1000,
+                  "Main": 20760,
+                  "Growth": 950,
                   "Format": "%",
-                  "DamagePercentage": 21730,
-                  "DamagePercentageGrowth": 1980,
-                  "StunRatio": 21790,
-                  "StunRatioGrowth": 1000,
-                  "SpRecovery": 77220,
+                  "DamagePercentage": 20690,
+                  "DamagePercentageGrowth": 1890,
+                  "StunRatio": 20760,
+                  "StunRatioGrowth": 950,
+                  "SpRecovery": 73500,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 589875,
+                  "FeverRecovery": 561550,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 17814,
+                  "AttributeInfliction": 14224,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 19806
+                  "EtherPurify": 18873
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+              "Name": "Chorus Daze Multiplier",
               "Desc": "{Skill:1451006, Prop:1002}",
               "Param": {
                 "1451006": {
-                  "Main": 21970,
-                  "Growth": 1000,
+                  "Main": 20760,
+                  "Growth": 950,
                   "Format": "%",
-                  "DamagePercentage": 40110,
-                  "DamagePercentageGrowth": 3650,
-                  "StunRatio": 21970,
-                  "StunRatioGrowth": 1000,
-                  "SpRecovery": 77820,
+                  "DamagePercentage": 38500,
+                  "DamagePercentageGrowth": 3500,
+                  "StunRatio": 20760,
+                  "StunRatioGrowth": 950,
+                  "SpRecovery": 73500,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 594550,
+                  "FeverRecovery": 561550,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 17948,
+                  "AttributeInfliction": 20414,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 19973
+                  "EtherPurify": 18873
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_ChainAtk_Desc_Stun_01",
+              "Name": "Follow-Up Attack Daze Multiplier",
               "Desc": "{Skill:1451007, Prop:1002}",
               "Param": {
                 "1451007": {
@@ -613,22 +613,22 @@
     "Dodge": {
       "Description": [
         {
-          "Name": "Lucia_Skill_Evade_Title",
-          "Desc": "Lucia_Skill_Evade_Desc",
+          "Name": "Dodge: Shadow Trail",
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_Rush_Title",
-          "Desc": "Lucia_Skill_Rush_Desc",
+          "Name": "Dash Attack: Refraction",
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nRapidly strikes enemies in front, dealing <color=#FE437E>Ether DMG</color>.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_Counter_Title",
-          "Desc": "Lucia_Skill_Counter_Desc",
+          "Name": "Dodge Counter: Stardust Echo",
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>[Perfect Dodge]</color> to activate:\nThe Dodge Counter becomes <color=#FFFFFF>[Reverie]</color>, unleashing an Ethereal form downward attack in a circular area ahead, dealing <color=#FE437E>Ether DMG</color>;\nWhen not in <color=#FFFFFF>[Dream]</color> state, Lucia gains 20 <color=#FFFFFF>[Dream Points]</color> when activating this <color=#FFFFFF>[Reverie]</color>, once every 5 seconds;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_Rush_Title",
+          "Name": "Dash Attack: Refraction",
           "Param": [
             {
               "Name": "DMG Multiplier",
@@ -686,62 +686,62 @@
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_Counter_Title",
+          "Name": "Dodge Counter: Stardust Echo",
           "Param": [
             {
-              "Name": "Lucia_Property_Summon_Desc_Dmg_01",
+              "Name": "Reverie DMG Multiplier",
               "Desc": "{Skill:1451013, Prop:1001}",
               "Param": {
                 "1451013": {
-                  "Main": 26020,
-                  "Growth": 2370,
+                  "Main": 23870,
+                  "Growth": 2170,
                   "Format": "%",
-                  "DamagePercentage": 26020,
-                  "DamagePercentageGrowth": 2370,
+                  "DamagePercentage": 23870,
+                  "DamagePercentageGrowth": 2170,
                   "StunRatio": 23290,
                   "StunRatioGrowth": 1060,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 288750,
+                  "FeverRecovery": 247500,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 10499,
+                  "AttributeInfliction": 8999,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 25500
+                  "EtherPurify": 24000
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+              "Name": "Chorus DMG Multiplier",
               "Desc": "{Skill:1451014, Prop:1001}",
               "Param": {
                 "1451014": {
-                  "Main": 37730,
-                  "Growth": 3430,
+                  "Main": 34870,
+                  "Growth": 3170,
                   "Format": "%",
-                  "DamagePercentage": 37730,
-                  "DamagePercentageGrowth": 3430,
+                  "DamagePercentage": 34870,
+                  "DamagePercentageGrowth": 3170,
                   "StunRatio": 23290,
                   "StunRatioGrowth": 1060,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 302500,
+                  "FeverRecovery": 247500,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 10999,
+                  "AttributeInfliction": 8999,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 26000
+                  "EtherPurify": 24000
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_ChainAtk_Desc_Dmg_01",
+              "Name": "Follow-Up Attack DMG Multiplier",
               "Desc": "{Skill:1451015, Prop:1001}",
               "Param": {
                 "1451015": {
@@ -767,59 +767,59 @@
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Desc_Stun_01",
+              "Name": "Reverie Daze Multiplier",
               "Desc": "{Skill:1451013, Prop:1002}",
               "Param": {
                 "1451013": {
                   "Main": 23290,
                   "Growth": 1060,
                   "Format": "%",
-                  "DamagePercentage": 26020,
-                  "DamagePercentageGrowth": 2370,
+                  "DamagePercentage": 23870,
+                  "DamagePercentageGrowth": 2170,
                   "StunRatio": 23290,
                   "StunRatioGrowth": 1060,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 288750,
+                  "FeverRecovery": 247500,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 10499,
+                  "AttributeInfliction": 8999,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 25500
+                  "EtherPurify": 24000
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+              "Name": "Chorus Daze Multiplier",
               "Desc": "{Skill:1451014, Prop:1002}",
               "Param": {
                 "1451014": {
                   "Main": 23290,
                   "Growth": 1060,
                   "Format": "%",
-                  "DamagePercentage": 37730,
-                  "DamagePercentageGrowth": 3430,
+                  "DamagePercentage": 34870,
+                  "DamagePercentageGrowth": 3170,
                   "StunRatio": 23290,
                   "StunRatioGrowth": 1060,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 302500,
+                  "FeverRecovery": 247500,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 10999,
+                  "AttributeInfliction": 8999,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 26000
+                  "EtherPurify": 24000
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_ChainAtk_Desc_Stun_01",
+              "Name": "Follow-Up Attack Daze Multiplier",
               "Desc": "{Skill:1451015, Prop:1002}",
               "Param": {
                 "1451015": {
@@ -866,20 +866,20 @@
     "Special": {
       "Description": [
         {
-          "Name": "Lucia_Skill_Special_Title",
-          "Desc": "Lucia_Skill_Special_Desc",
+          "Name": "Special Attack: Death Concerto - Storm",
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nSpecial Attack is <color=#FFFFFF>[Reverie]</color>, when activated, manifests an Ethereal form to perform a Slash attack in a line, dealing <color=#FE437E>Ether DMG</color>;\nWhile in-combat and not in <color=#FFFFFF>[Dream]</color> state, when Lucia activates this <color=#FFFFFF>[Reverie]</color>, she gains 20 <color=#FFFFFF>[Dream Points]</color>, can only be gained once every 5 seconds.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_ExSpecial_Title",
-          "Desc": "Lucia_Skill_ExSpecial_Desc",
+          "Name": "EX Special Attack: Reaper's Concerto - Daybreak",
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nEX Special Attack becomes <color=#FFFFFF>[Chorus]</color>, unleashing a powerful Ethereal slash in a line ahead, dealing <color=#FE437E>Ether DMG</color>;\nWhen Lucia activates <color=#FFFFFF>[Chorus]</color>, applies <color=#FFFFFF>[Dark Break]</color> status to all squad members; Under <color=#FFFFFF>[Dark Break]</color>, Sheer Force increases by 300 points. When Lucia's initial max HP exceeds 9,000, every 250 points above increases Sheer Force by an additional 10 points. <color=#FFFFFF>[Dark Break]</color> can increase Sheer Force by up to {CAL:900+AvatarSkillLevel(1)*0,1,2} points and lasts 20 seconds, repeated triggers reset the duration;\nWhen <color=#FFFFFF>[Chorus]</color> deals DMG, Lucia increases the final hit's DMG by <color=#2BAD00>{CAL:0.34+AvatarSkillLevel(1)*0.03,100,2}%</color> of her max HP;\nWhen Lucia activates EX Special Attack while in <color=#FFFFFF>[Dream]</color> state and <color=#FFFFFF>[Ether Veil: Gushing Spring]</color> is active, extends <color=#FFFFFF>[Ether Veil: Gushing Spring]</color>'s duration by 12 seconds;\nAfter activating EX Special Attack, Lucia can immediately follow up with the fifth hit of <color=#FFFFFF>[Basic Attack]</color>;\nWhen not in <color=#FFFFFF>[Dream]</color> state, using this <color=#FFFFFF>[Chorus]</color> grants 60 <color=#FFFFFF>[Dream Points]</color>;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_Special_Title",
+          "Name": "Special Attack: Death Concerto - Storm",
           "Param": [
             {
-              "Name": "Lucia_Property_Summon_Desc_Dmg_01",
+              "Name": "Reverie DMG Multiplier",
               "Desc": "{Skill:1451008, Prop:1001}",
               "Param": {
                 "1451008": {
@@ -905,7 +905,7 @@
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+              "Name": "Chorus DMG Multiplier",
               "Desc": "{Skill:1451009, Prop:1001}",
               "Param": {
                 "1451009": {
@@ -931,7 +931,7 @@
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_ChainAtk_Desc_Dmg_01",
+              "Name": "Follow-Up Attack DMG Multiplier",
               "Desc": "{Skill:1451010, Prop:1001}",
               "Param": {
                 "1451010": {
@@ -957,7 +957,7 @@
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Desc_Stun_01",
+              "Name": "Reverie Daze Multiplier",
               "Desc": "{Skill:1451008, Prop:1002}",
               "Param": {
                 "1451008": {
@@ -983,7 +983,7 @@
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+              "Name": "Chorus Daze Multiplier",
               "Desc": "{Skill:1451009, Prop:1002}",
               "Param": {
                 "1451009": {
@@ -1009,7 +1009,7 @@
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_ChainAtk_Desc_Stun_01",
+              "Name": "Follow-Up Attack Daze Multiplier",
               "Desc": "{Skill:1451010, Prop:1002}",
               "Param": {
                 "1451010": {
@@ -1038,65 +1038,61 @@
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_ExSpecial_Title",
+          "Name": "EX Special Attack: Reaper's Concerto - Daybreak",
           "Param": [
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+              "Name": "DMG Multiplier",
               "Desc": "{Skill:1451011, Prop:1001}",
               "Param": {
                 "1451011": {
-                  "Main": 56180,
-                  "Growth": 5110,
+                  "Main": 54640,
+                  "Growth": 4970,
                   "Format": "%",
-                  "DamagePercentage": 56180,
-                  "DamagePercentageGrowth": 5110,
-                  "StunRatio": 45620,
-                  "StunRatioGrowth": 2080,
+                  "DamagePercentage": 54640,
+                  "DamagePercentageGrowth": 4970,
+                  "StunRatio": 44190,
+                  "StunRatioGrowth": 2010,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 1668700,
+                  "FeverRecovery": 1627450,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 46271,
+                  "AttributeInfliction": 44921,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 12671
+                  "EtherPurify": 11671
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+              "Name": "Daze Multiplier",
               "Desc": "{Skill:1451011, Prop:1002}",
               "Param": {
                 "1451011": {
-                  "Main": 45620,
-                  "Growth": 2080,
+                  "Main": 44190,
+                  "Growth": 2010,
                   "Format": "%",
-                  "DamagePercentage": 56180,
-                  "DamagePercentageGrowth": 5110,
-                  "StunRatio": 45620,
-                  "StunRatioGrowth": 2080,
+                  "DamagePercentage": 54640,
+                  "DamagePercentageGrowth": 4970,
+                  "StunRatio": 44190,
+                  "StunRatioGrowth": 2010,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 1668700,
+                  "FeverRecovery": 1627450,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 46271,
+                  "AttributeInfliction": 44921,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 12671
+                  "EtherPurify": 11671
                 }
               },
               "Potential": []
             },
-            {
-              "Name": "Energy Cost",
-              "Desc": "Lucia_Property_ExSpecial_SpCostValue_01",
-              "Potential": []
-            }
+            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
           ],
           "Potential": []
         }
@@ -1119,66 +1115,66 @@
     "Chain": {
       "Description": [
         {
-          "Name": "Lucia_Skill_QTE_Title",
-          "Desc": "Lucia_Skill_QTE_Desc",
+          "Name": "Chain Attack: Brilliant Theater",
+          "Desc": "When a <color=#FFFFFF>[Chain Attack]</color> is triggered, select the character to activate:\nWhen the Chain Attack is <color=#FFFFFF>[Chorus]</color>, it summons an Ethereal form that pulls nearby enemies into a circular area and deals <color=#FE437E>Ether DMG</color>;\nWhen not in <color=#FFFFFF>[Dream]</color> state, Lucia gains 40 <color=#FFFFFF>[Dream Points]</color> when activating this <color=#FFFFFF>[Chorus]</color>;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_ExQTE_Title",
-          "Desc": "Lucia_Skill_ExQTE_Desc",
+          "Name": "Ultimate: Charge, Mega Armor!",
+          "Desc": "When Decibel Rating reaches [Maximum], press <IconMap:Icon_UltimateReady> to activate:\nUltimate becomes <color=#FFFFFF>[Chorus]</color>. When activated, manifests the Ethereal form. Lucia mounts the Ethereal and charges forward. Hold directional buttons to control the riding direction and extend charge duration up to 3 seconds. During the charge, Anti-Interrupt Level increases, DMG taken is reduced by 40%, and Lucia cannot die, with HP dropping to no lower than 1;\nWhen the charge ends, unleashes a powerful Strike in a large area dealing <color=#FE437E>Ether DMG</color> and creates a <color=#FFFFFF>[Starlight Convergence Field]</color>. <color=#FFFFFF>[Starlight Convergence Field]</color> lasts 8 seconds. Characters within the <color=#FFFFFF>[Starlight Convergence Field]</color> receive HP recovery: restoring <color=#2BAD00>{CAL:0.01+AvatarSkillLevel(3)*0.0005,100,2}%</color> of Lucia's max HP per second. This recovery effect disappears 4 seconds after leaving the <color=#FFFFFF>[Starlight Convergence Field]</color> or when leaving the field;\nIf Lucia is in <color=#FFFFFF>[Dreamstate]</color> and <color=#FFFFFF>[Ether Veil: Gushing Spring]</color> is active when activated, extends <color=#FFFFFF>[Ether Veil: Gushing Spring]</color>'s duration by 24 seconds;\nWhen not in <color=#FFFFFF>[Dreamstate]</color>, Lucia gains 100 <color=#FFFFFF>[Dream Points]</color> upon activating this <color=#FFFFFF>[Chorus]</color>. If activated while in <color=#FFFFFF>[Dreamstate]</color>, Lucia will gain 100 <color=#FFFFFF>[Dream Points]</color> and re-enter <color=#FFFFFF>[Dreamstate]</color> the next time she exits <color=#FFFFFF>[Dreamstate]</color>. This effect cannot be gained repeatedly;\nCharacter is invulnerable during the powerful Strike.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_QTE_Title",
+          "Name": "Chain Attack: Brilliant Theater",
           "Param": [
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+              "Name": "DMG Multiplier",
               "Desc": "{Skill:1451016, Prop:1001}",
               "Param": {
                 "1451016": {
-                  "Main": 63690,
-                  "Growth": 5790,
+                  "Main": 61670,
+                  "Growth": 5610,
                   "Format": "%",
-                  "DamagePercentage": 63690,
-                  "DamagePercentageGrowth": 5790,
-                  "StunRatio": 19800,
-                  "StunRatioGrowth": 900,
+                  "DamagePercentage": 61670,
+                  "DamagePercentageGrowth": 5610,
+                  "StunRatio": 17780,
+                  "StunRatioGrowth": 810,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 2323750,
+                  "FeverRecovery": 2273425,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 37946,
+                  "AttributeInfliction": 36113,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 17997
+                  "EtherPurify": 16164
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+              "Name": "Daze Multiplier",
               "Desc": "{Skill:1451016, Prop:1002}",
               "Param": {
                 "1451016": {
-                  "Main": 19800,
-                  "Growth": 900,
+                  "Main": 17780,
+                  "Growth": 810,
                   "Format": "%",
-                  "DamagePercentage": 63690,
-                  "DamagePercentageGrowth": 5790,
-                  "StunRatio": 19800,
-                  "StunRatioGrowth": 900,
+                  "DamagePercentage": 61670,
+                  "DamagePercentageGrowth": 5610,
+                  "StunRatio": 17780,
+                  "StunRatioGrowth": 810,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 2323750,
+                  "FeverRecovery": 2273425,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 37946,
+                  "AttributeInfliction": 36113,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 17997
+                  "EtherPurify": 16164
                 }
               },
               "Potential": []
@@ -1187,58 +1183,115 @@
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_ExQTE_Title",
+          "Name": "Ultimate: Charge, Mega Armor!",
           "Param": [
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
-              "Desc": "{Skill:1451017, Prop:1001}",
+              "Name": "Single Rush Hit DMG Multiplier",
+              "Desc": "{Skill:1451024, Prop:1001}",
               "Param": {
-                "1451017": {
-                  "Main": 187170,
-                  "Growth": 17020,
+                "1451024": {
+                  "Main": 9300,
+                  "Growth": 850,
                   "Format": "%",
-                  "DamagePercentage": 187170,
-                  "DamagePercentageGrowth": 17020,
-                  "StunRatio": 17060,
-                  "StunRatioGrowth": 780,
+                  "DamagePercentage": 9300,
+                  "DamagePercentageGrowth": 850,
+                  "StunRatio": 7150,
+                  "StunRatioGrowth": 330,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
                   "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 15503,
+                  "AttributeInfliction": 4875,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 65504
+                  "EtherPurify": 6500
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Stun_01",
-              "Desc": "{Skill:1451017, Prop:1002}",
+              "Name": "Ultimate DMG Multiplier",
+              "Desc": "{Skill:1451017, Prop:1001}",
               "Param": {
                 "1451017": {
-                  "Main": 17060,
-                  "Growth": 780,
+                  "Main": 190270,
+                  "Growth": 17300,
                   "Format": "%",
-                  "DamagePercentage": 187170,
-                  "DamagePercentageGrowth": 17020,
-                  "StunRatio": 17060,
-                  "StunRatioGrowth": 780,
+                  "DamagePercentage": 190270,
+                  "DamagePercentageGrowth": 17300,
+                  "StunRatio": 19440,
+                  "StunRatioGrowth": 890,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
                   "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 15503,
+                  "AttributeInfliction": 17670,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 65504
+                  "EtherPurify": 67671
                 }
               },
+              "Potential": []
+            },
+            {
+              "Name": "Rush Single Hit Daze Multiplier",
+              "Desc": "{Skill:1451024, Prop:1002}",
+              "Param": {
+                "1451024": {
+                  "Main": 7150,
+                  "Growth": 330,
+                  "Format": "%",
+                  "DamagePercentage": 9300,
+                  "DamagePercentageGrowth": 850,
+                  "StunRatio": 7150,
+                  "StunRatioGrowth": 330,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4875,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 6500
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Ultimate Daze Multiplier",
+              "Desc": "{Skill:1451017, Prop:1002}",
+              "Param": {
+                "1451017": {
+                  "Main": 19440,
+                  "Growth": 890,
+                  "Format": "%",
+                  "DamagePercentage": 190270,
+                  "DamagePercentageGrowth": 17300,
+                  "StunRatio": 19440,
+                  "StunRatioGrowth": 890,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 17670,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 67671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Percent HP Recovered Per Second",
+              "Desc": "{CAL:0.01+AvatarSkillLevel(3)*0.0005,100,2}%",
               "Potential": []
             }
           ],
@@ -1263,123 +1316,123 @@
     "Assist": {
       "Description": [
         {
-          "Name": "Lucia_Skill_BeHitAid_Title",
-          "Desc": "Lucia_Skill_BeHitAid_Desc",
+          "Name": "Quick Assist: Mist Strike",
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nQuick Assist as <color=#FFFFFF>[Reverie]</color>, unleashing an Ethereal form to perform a downward attack in a circular area ahead, dealing <color=#FE437E>Ether DMG</color>;\nWhen not in <color=#FFFFFF>[Dream]</color> state, Lucia gains 20 <color=#FFFFFF>[Dream Points]</color> when activating this <color=#FFFFFF>[Reverie]</color>, once every 5 seconds.;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_ParryAid_Title",
-          "Desc": "Lucia_Skill_ParryAid_Desc",
+          "Name": "Defensive Assist: Voice of Illusions",
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_AssaultAid_Title",
-          "Desc": "Lucia_Skill_AssaultAid_Desc",
+          "Name": "Assist Follow-Up: Dreamweaver's Harmony",
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>[Defensive Assist]</color> to activate:\nAssist Follow-Up becomes <color=#FFFFFF>[Chorus]</color>, unleashing a powerful downward attack in a circular area ahead in Ethereal form, dealing <color=#FE437E>Ether DMG</color>;\nWhen not in <color=#FFFFFF>[Dream]</color> state, Lucia gains 40 <color=#FFFFFF>[Dream Points]</color> when activating this <color=#FFFFFF>[Chorus]</color>;\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_BeHitAid_Title",
+          "Name": "Quick Assist: Mist Strike",
           "Param": [
             {
-              "Name": "Lucia_Property_Summon_Desc_Dmg_01",
+              "Name": "Reverie DMG Multiplier",
               "Desc": "{Skill:1451018, Prop:1001}",
               "Param": {
                 "1451018": {
-                  "Main": 12290,
-                  "Growth": 1120,
+                  "Main": 10640,
+                  "Growth": 970,
                   "Format": "%",
-                  "DamagePercentage": 12290,
-                  "DamagePercentageGrowth": 1120,
-                  "StunRatio": 12290,
-                  "StunRatioGrowth": 560,
-                  "SpRecovery": 20110,
+                  "DamagePercentage": 10640,
+                  "DamagePercentageGrowth": 970,
+                  "StunRatio": 5320,
+                  "StunRatioGrowth": 250,
+                  "SpRecovery": 17410,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 153725,
+                  "FeverRecovery": 133100,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5585,
+                  "AttributeInfliction": 4835,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5586
+                  "EtherPurify": 4836
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+              "Name": "Chorus DMG Multiplier",
               "Desc": "{Skill:1451023, Prop:1001}",
               "Param": {
                 "1451023": {
-                  "Main": 23840,
-                  "Growth": 2170,
+                  "Main": 23660,
+                  "Growth": 2160,
                   "Format": "%",
-                  "DamagePercentage": 23840,
-                  "DamagePercentageGrowth": 2170,
-                  "StunRatio": 12840,
-                  "StunRatioGrowth": 590,
-                  "SpRecovery": 21010,
+                  "DamagePercentage": 23660,
+                  "DamagePercentageGrowth": 2160,
+                  "StunRatio": 6330,
+                  "StunRatioGrowth": 290,
+                  "SpRecovery": 20710,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 160600,
+                  "FeverRecovery": 158400,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5835,
+                  "AttributeInfliction": 5751,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5836
+                  "EtherPurify": 5752
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Desc_Stun_01",
+              "Name": "Reverie Daze Multiplier",
               "Desc": "{Skill:1451018, Prop:1002}",
               "Param": {
                 "1451018": {
-                  "Main": 12290,
-                  "Growth": 560,
+                  "Main": 5320,
+                  "Growth": 250,
                   "Format": "%",
-                  "DamagePercentage": 12290,
-                  "DamagePercentageGrowth": 1120,
-                  "StunRatio": 12290,
-                  "StunRatioGrowth": 560,
-                  "SpRecovery": 20110,
+                  "DamagePercentage": 10640,
+                  "DamagePercentageGrowth": 970,
+                  "StunRatio": 5320,
+                  "StunRatioGrowth": 250,
+                  "SpRecovery": 17410,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 153725,
+                  "FeverRecovery": 133100,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5585,
+                  "AttributeInfliction": 4835,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5586
+                  "EtherPurify": 4836
                 }
               },
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+              "Name": "Chorus Daze Multiplier",
               "Desc": "{Skill:1451023, Prop:1002}",
               "Param": {
                 "1451023": {
-                  "Main": 12840,
-                  "Growth": 590,
+                  "Main": 6330,
+                  "Growth": 290,
                   "Format": "%",
-                  "DamagePercentage": 23840,
-                  "DamagePercentageGrowth": 2170,
-                  "StunRatio": 12840,
-                  "StunRatioGrowth": 590,
-                  "SpRecovery": 21010,
+                  "DamagePercentage": 23660,
+                  "DamagePercentageGrowth": 2160,
+                  "StunRatio": 6330,
+                  "StunRatioGrowth": 290,
+                  "SpRecovery": 20710,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 160600,
+                  "FeverRecovery": 158400,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 5835,
+                  "AttributeInfliction": 5751,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 5836
+                  "EtherPurify": 5752
                 }
               },
               "Potential": []
@@ -1388,7 +1441,7 @@
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_ParryAid_Title",
+          "Name": "Defensive Assist: Voice of Illusions",
           "Param": [
             {
               "Name": "Light Defensive Daze Multiplier",
@@ -1472,10 +1525,10 @@
           "Potential": []
         },
         {
-          "Name": "Lucia_Skill_AssaultAid_Title",
+          "Name": "Assist Follow-Up: Dreamweaver's Harmony",
           "Param": [
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Dmg_01",
+              "Name": "DMG Multiplier",
               "Desc": "{Skill:1451022, Prop:1001}",
               "Param": {
                 "1451022": {
@@ -1501,7 +1554,7 @@
               "Potential": []
             },
             {
-              "Name": "Lucia_Property_Summon_Ex_Desc_Stun_01",
+              "Name": "Daze Multiplier",
               "Desc": "{Skill:1451022, Prop:1002}",
               "Param": {
                 "1451022": {
@@ -1552,56 +1605,98 @@
       "1451501": {
         "Level": 1,
         "Id": 1451501,
-        "Name": ["Lucia_UniqueSkill_Title", "Lucia_MathSkill_Title"],
-        "Desc": ["Lucia_UniqueSkill_01_Desc", "Lucia_MathSkill_Desc"],
+        "Name": [
+          "Core Passive: Night's Exaltation",
+          "Additional Ability: Poem of the Long Night"
+        ],
+        "Desc": [
+          "Upon entering the battlefield, Lucia immediately gains 60 <color=#FFFFFF>[Dream Value]</color>. When activating <color=#FFFFFF>[Reverie]</color> or <color=#FFFFFF>[Chorus]</color>, if Lucia's <color=#FFFFFF>[Dream Value]</color> reaches 100, she enters <color=#FFFFFF>[Dream State]</color> and activates <color=#FFFFFF>[Ether Veil: Gushing Spring]</color>. While <color=#FFFFFF>[Ether Veil: Gushing Spring]</color> is active, all squad members' max HP increases by 5% for 30 seconds. Repeated triggers extend the duration, up to 300 seconds.\n\nWhile Lucia is in <color=#FFFFFF>[Dream State]</color>, activating any <color=#FFFFFF>[Reverie]</color> consumes 25 <color=#FFFFFF>[Dream Value]</color> to upgrade <color=#FFFFFF>[Reverie]</color> to <color=#FFFFFF>[Chorus]</color>.\n\nWhen in the background, if the active character's attack hits an enemy, Lucia consumes 25 <color=#FFFFFF>[Dream Value]</color> to trigger <color=#FFFFFF>[Aftershock]</color>. The <color=#FFFFFF>[Aftershock]</color> becomes a <color=#FFFFFF>[Chorus]</color>. After triggering a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, <color=#FFFFFF>[Aftershock]</color> cannot be triggered again for 6 seconds.\n\nWhen Lucia triggers a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, all squad members gain <color=#FFFFFF>[Dream Lullaby]</color> status. Under <color=#FFFFFF>[Dream Lullaby]</color> status, characters deal <color=#2BAD00>10%</color> more DMG for 8 seconds. Repeated triggers reset the duration.\n\nLucia exits <color=#FFFFFF>[Dream State]</color> when <color=#FFFFFF>[Dream Value]</color> is insufficient or when leaving <color=#FFFFFF>[Ether Veil]</color>.",
+          "Triggered when there is a <color=#FFFFFF>[Rupture]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen applying <color=#FFFFFF>[Dark Break]</color> status, additionally increases CRIT DMG by 30%."
+        ],
         "ExtraProperty": {},
         "Potential": []
       },
       "1451502": {
         "Level": 2,
         "Id": 1451502,
-        "Name": ["Lucia_UniqueSkill_Title", "Lucia_MathSkill_Title"],
-        "Desc": ["Lucia_UniqueSkill_02_Desc", "Lucia_MathSkill_Desc"],
+        "Name": [
+          "Core Passive: Night's Exaltation",
+          "Additional Ability: Poem of the Long Night"
+        ],
+        "Desc": [
+          "Upon entering the battlefield, Lucia immediately gains 60 <color=#FFFFFF>[Dream Value]</color>. When activating <color=#FFFFFF>[Reverie]</color> or <color=#FFFFFF>[Chorus]</color>, if Lucia's <color=#FFFFFF>[Dream Value]</color> reaches 100, she enters <color=#FFFFFF>[Dreamstate]</color> and activates <color=#FFFFFF>[Ether Veil: Gushing Spring]</color>. While <color=#FFFFFF>[Ether Veil: Gushing Spring]</color> is active, all squad members' max HP increases by 5%, lasting 30 seconds. Repeated triggers extend the duration, up to 300 seconds;\nWhile Lucia is in <color=#FFFFFF>[Dreamstate]</color>, activating any <color=#FFFFFF>[Reverie]</color> consumes 25 <color=#FFFFFF>[Dream Value]</color> to upgrade <color=#FFFFFF>[Reverie]</color> to <color=#FFFFFF>[Chorus]</color>;\nWhen in the background, if the active character's attacks hit enemies, Lucia consumes 25 <color=#FFFFFF>[Dream Value]</color> to trigger an <color=#FFFFFF>[Aftershock]</color>. The <color=#FFFFFF>[Aftershock]</color> is a <color=#FFFFFF>[Chorus]</color>. After triggering a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, <color=#FFFFFF>[Aftershock]</color> cannot be triggered again for 6 seconds;\nWhen Lucia triggers a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, all squad members gain <color=#FFFFFF>[Dream Lullaby]</color> status. Under <color=#FFFFFF>[Dream Lullaby]</color> status, characters deal <color=#2BAD00>11.7%</color> more DMG for 8 seconds. Repeated triggers reset the duration;\nLucia exits <color=#FFFFFF>[Dreamstate]</color> when <color=#FFFFFF>[Dream Value]</color> is insufficient or when leaving <color=#FFFFFF>[Ether Veil]</color>.",
+          "Triggered when there is a <color=#FFFFFF>[Rupture]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen applying <color=#FFFFFF>[Dark Break]</color> status, additionally increases CRIT DMG by 30%."
+        ],
         "ExtraProperty": {},
         "Potential": []
       },
       "1451503": {
         "Level": 3,
         "Id": 1451503,
-        "Name": ["Lucia_UniqueSkill_Title", "Lucia_MathSkill_Title"],
-        "Desc": ["Lucia_UniqueSkill_03_Desc", "Lucia_MathSkill_Desc"],
+        "Name": [
+          "Core Passive: Night's Exaltation",
+          "Additional Ability: Poem of the Long Night"
+        ],
+        "Desc": [
+          "When entering the battlefield, Lucia immediately gains 60 <color=#FFFFFF>[Dream Value]</color>. If Lucia's <color=#FFFFFF>[Dream Value]</color> reaches 100 points when activating <color=#FFFFFF>[Reverie]</color> or <color=#FFFFFF>[Chorus]</color>, she enters <color=#FFFFFF>[Dreamstate]</color> and simultaneously activates <color=#FFFFFF>[Ether Veil: Gushing Spring]</color>. While <color=#FFFFFF>[Ether Veil: Gushing Spring]</color> is active, all squad members' max HP increases by 5%, lasting 30 seconds. Repeated triggers extend the duration, up to 300 seconds;\nWhile Lucia is in <color=#FFFFFF>[Dreamstate]</color>, activating any <color=#FFFFFF>[Reverie]</color> consumes 25 <color=#FFFFFF>[Dream Value]</color> points to upgrade <color=#FFFFFF>[Reverie]</color> to <color=#FFFFFF>[Chorus]</color>;\nWhen in the background, if the active character's attacks hit enemies, Lucia consumes 25 <color=#FFFFFF>[Dream Value]</color> points to trigger an <color=#FFFFFF>[Aftershock]</color>. The <color=#FFFFFF>[Aftershock]</color> becomes a <color=#FFFFFF>[Chorus]</color>. After triggering a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, <color=#FFFFFF>[Aftershock]</color> won't trigger again for 6 seconds;\nWhen Lucia triggers a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, all squad members gain <color=#FFFFFF>[Dream Lullaby]</color> status. Under <color=#FFFFFF>[Dream Lullaby]</color> status, characters' DMG increases by <color=#2BAD00>13.3%</color> for 8 seconds. Repeated triggers reset the duration;\nLucia exits <color=#FFFFFF>[Dreamstate]</color> when <color=#FFFFFF>[Dream Value]</color> is insufficient or when leaving <color=#FFFFFF>[Ether Veil]</color>.",
+          "Triggered when there is a <color=#FFFFFF>[Rupture]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen applying <color=#FFFFFF>[Dark Break]</color> status, additionally increases CRIT DMG by 30%."
+        ],
         "ExtraProperty": {},
         "Potential": []
       },
       "1451504": {
         "Level": 4,
         "Id": 1451504,
-        "Name": ["Lucia_UniqueSkill_Title", "Lucia_MathSkill_Title"],
-        "Desc": ["Lucia_UniqueSkill_04_Desc", "Lucia_MathSkill_Desc"],
+        "Name": [
+          "Core Passive: Night's Exaltation",
+          "Additional Ability: Poem of the Long Night"
+        ],
+        "Desc": [
+          "When entering the battlefield, Lucia immediately gains 60 <color=#FFFFFF>[Dream Value]</color>. If Lucia's <color=#FFFFFF>[Dream Value]</color> reaches 100 points when activating <color=#FFFFFF>[Reverie]</color> or <color=#FFFFFF>[Chorus]</color>, she enters <color=#FFFFFF>[Dream State]</color> and simultaneously activates <color=#FFFFFF>[Ether Veil: Gushing Spring]</color>. While <color=#FFFFFF>[Ether Veil: Gushing Spring]</color> is active, all squad members' max HP increases by 5%, lasting 30 seconds. Repeated triggers extend the duration, up to 300 seconds.\n\nWhile Lucia is in <color=#FFFFFF>[Dream State]</color>, activating any <color=#FFFFFF>[Reverie]</color> consumes 25 <color=#FFFFFF>[Dream Value]</color> points to upgrade <color=#FFFFFF>[Reverie]</color> to <color=#FFFFFF>[Chorus]</color>.\n\nWhen in the background, if the active character's attacks hit enemies, Lucia consumes 25 <color=#FFFFFF>[Dream Value]</color> points to trigger <color=#FFFFFF>[Aftershock]</color>. The <color=#FFFFFF>[Aftershock]</color> becomes a <color=#FFFFFF>[Chorus]</color>. After triggering a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, <color=#FFFFFF>[Aftershock]</color> cannot be triggered again for 6 seconds.\n\nWhen Lucia triggers a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, all squad members gain <color=#FFFFFF>[Dream Rhyme]</color> status. Under <color=#FFFFFF>[Dream Rhyme]</color> status, characters' DMG increases by <color=#2BAD00>15%</color> for 8 seconds. Repeated triggers reset the duration.\n\nLucia exits <color=#FFFFFF>[Dream State]</color> when <color=#FFFFFF>[Dream Value]</color> is insufficient or when leaving <color=#FFFFFF>[Ether Veil]</color>.",
+          "Triggered when there is a <color=#FFFFFF>[Rupture]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen applying <color=#FFFFFF>[Dark Break]</color> status, additionally increases CRIT DMG by 30%."
+        ],
         "ExtraProperty": {},
         "Potential": []
       },
       "1451505": {
         "Level": 5,
         "Id": 1451505,
-        "Name": ["Lucia_UniqueSkill_Title", "Lucia_MathSkill_Title"],
-        "Desc": ["Lucia_UniqueSkill_05_Desc", "Lucia_MathSkill_Desc"],
+        "Name": [
+          "Core Passive: Night's Exaltation",
+          "Additional Ability: Poem of the Long Night"
+        ],
+        "Desc": [
+          "When entering the battlefield, Lucia immediately gains 60 <color=#FFFFFF>[Dream Value]</color>. If Lucia's <color=#FFFFFF>[Dream Value]</color> reaches 100 points when activating <color=#FFFFFF>[Reverie]</color> or <color=#FFFFFF>[Chorus]</color>, she enters <color=#FFFFFF>[Dream State]</color> and simultaneously activates <color=#FFFFFF>[Ether Veil: Gushing Spring]</color>. While <color=#FFFFFF>[Ether Veil: Gushing Spring]</color> is active, all squad members' max HP increases by 5%, lasting 30 seconds. Repeated triggers extend the duration, up to 300 seconds;\nWhile Lucia is in <color=#FFFFFF>[Dream State]</color>, activating any <color=#FFFFFF>[Reverie]</color> consumes 25 <color=#FFFFFF>[Dream Value]</color> points to upgrade <color=#FFFFFF>[Reverie]</color> to <color=#FFFFFF>[Chorus]</color>;\nWhen in the background, if the active character's attacks hit enemies, Lucia consumes 25 <color=#FFFFFF>[Dream Value]</color> points to trigger <color=#FFFFFF>[Aftershock]</color>. The <color=#FFFFFF>[Aftershock]</color> becomes a <color=#FFFFFF>[Chorus]</color>. After triggering a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, <color=#FFFFFF>[Aftershock]</color> won't trigger again for 6 seconds;\nWhen Lucia triggers a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, all squad members gain <color=#FFFFFF>[Dream Walker's Rhyme]</color> status. Under <color=#FFFFFF>[Dream Walker's Rhyme]</color> status, characters deal <color=#2BAD00>16.7%</color> more DMG for 8 seconds. Repeated triggers reset the duration;\nLucia exits <color=#FFFFFF>[Dream State]</color> when <color=#FFFFFF>[Dream Value]</color> is insufficient or when leaving <color=#FFFFFF>[Ether Veil]</color>.",
+          "Triggered when there is a <color=#FFFFFF>[Rupture]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen applying <color=#FFFFFF>[Dark Break]</color> status, additionally increases CRIT DMG by 30%."
+        ],
         "ExtraProperty": {},
         "Potential": []
       },
       "1451506": {
         "Level": 6,
         "Id": 1451506,
-        "Name": ["Lucia_UniqueSkill_Title", "Lucia_MathSkill_Title"],
-        "Desc": ["Lucia_UniqueSkill_06_Desc", "Lucia_MathSkill_Desc"],
+        "Name": [
+          "Core Passive: Night's Exaltation",
+          "Additional Ability: Poem of the Long Night"
+        ],
+        "Desc": [
+          "When entering the battlefield, Lucia immediately gains 60 <color=#FFFFFF>[Dream Points]</color>. If Lucia's <color=#FFFFFF>[Dream Points]</color> reach 100 when triggering <color=#FFFFFF>[Reverie]</color> or <color=#FFFFFF>[Chorus]</color>, she enters <color=#FFFFFF>[Dream State]</color> and activates <color=#FFFFFF>[Ether Veil: Gushing Spring]</color>. While <color=#FFFFFF>[Ether Veil: Gushing Spring]</color> is active, all squad members' max HP increases by 5% for 30 seconds. Repeated triggers extend the duration, up to 300 seconds.\n\nWhile Lucia is in <color=#FFFFFF>[Dream State]</color>, using any <color=#FFFFFF>[Reverie]</color> consumes 25 <color=#FFFFFF>[Dream Points]</color> to upgrade <color=#FFFFFF>[Reverie]</color> to <color=#FFFFFF>[Chorus]</color>.\n\nWhen off-field, if the active character's attacks hit enemies, Lucia consumes 25 <color=#FFFFFF>[Dream Points]</color> to trigger <color=#FFFFFF>[Aftershock]</color>. This <color=#FFFFFF>[Aftershock]</color> is a <color=#FFFFFF>[Chorus]</color>. After triggering a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, <color=#FFFFFF>[Aftershock]</color> cannot be triggered again for 6 seconds.\n\nWhen Lucia triggers a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, all squad members gain <color=#FFFFFF>[Dream Lullaby]</color> status. Under <color=#FFFFFF>[Dream Lullaby]</color> status, characters deal <color=#2BAD00>18.3%</color> more DMG for 8 seconds. Repeated triggers reset the duration.\n\nLucia exits <color=#FFFFFF>[Dream State]</color> when <color=#FFFFFF>[Dream Points]</color> are insufficient or when leaving <color=#FFFFFF>[Ether Veil]</color>.",
+          "Triggered when there is a <color=#FFFFFF>[Rupture]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen applying <color=#FFFFFF>[Dark Break]</color> status, additionally increases CRIT DMG by 30%."
+        ],
         "ExtraProperty": {},
         "Potential": []
       },
       "1451507": {
         "Level": 7,
         "Id": 1451507,
-        "Name": ["Lucia_UniqueSkill_Title", "Lucia_MathSkill_Title"],
-        "Desc": ["Lucia_UniqueSkill_07_Desc", "Lucia_MathSkill_Desc"],
+        "Name": [
+          "Core Passive: Night's Exaltation",
+          "Additional Ability: Poem of the Long Night"
+        ],
+        "Desc": [
+          "When entering the battlefield, Lucia immediately gains 60 <color=#FFFFFF>[Dream Value]</color>. If Lucia's <color=#FFFFFF>[Dream Value]</color> reaches 100 points when activating <color=#FFFFFF>[Reverie]</color> or <color=#FFFFFF>[Chorus]</color>, she enters <color=#FFFFFF>[Dream State]</color> and simultaneously activates <color=#FFFFFF>[Ether Veil: Gushing Spring]</color>. While <color=#FFFFFF>[Ether Veil: Gushing Spring]</color> is active, all squad members' max HP increases by 5%, lasting 30 seconds. Repeated triggers extend the duration, up to 300 seconds;\nWhile Lucia is in <color=#FFFFFF>[Dream State]</color>, activating any <color=#FFFFFF>[Reverie]</color> consumes 25 <color=#FFFFFF>[Dream Value]</color> points to upgrade <color=#FFFFFF>[Reverie]</color> to <color=#FFFFFF>[Chorus]</color>;\nWhen in the background, if the active character's attacks hit enemies, Lucia consumes 25 <color=#FFFFFF>[Dream Value]</color> points to trigger an <color=#FFFFFF>[Aftershock]</color>. The <color=#FFFFFF>[Aftershock]</color> becomes a <color=#FFFFFF>[Chorus]</color>. After triggering a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, <color=#FFFFFF>[Aftershock]</color> won't trigger again for 6 seconds;\nWhen Lucia triggers a skill upgrade or <color=#FFFFFF>[Aftershock]</color>, all squad members gain <color=#FFFFFF>[Dream Lullaby]</color> status. Under <color=#FFFFFF>[Dream Lullaby]</color> status, characters deal <color=#2BAD00>20%</color> more DMG for 8 seconds. Repeated triggers reset the duration;\nLucia exits <color=#FFFFFF>[Dream State]</color> when <color=#FFFFFF>[Dream Value]</color> is insufficient or when leaving <color=#FFFFFF>[Ether Veil]</color>.",
+          "Triggered when there is a <color=#FFFFFF>[Rupture]</color> or <color=#FFFFFF>[Stun]</color> character in the squad:\nWhen applying <color=#FFFFFF>[Dark Break]</color> status, additionally increases CRIT DMG by 30%."
+        ],
         "ExtraProperty": {},
         "Potential": []
       }
@@ -1618,41 +1713,69 @@
   "Talent": {
     "1": {
       "Level": 1,
-      "Name": "Lucia_Talent_01_Title",
-      "Desc": "Lucia_Talent_01_Desc_01",
-      "Desc2": "Lucia_Talent_01_Desc_02"
+      "Name": "Secret Friend",
+      "Desc": "While under <color=#FFFFFF>[Dream Patrol Nursery Rhyme]</color> status, additional DMG dealt ignores 12% of enemy's All-Attribute RES and increases Decibel Generation Rate by 8%; additionally, when Lucia upgrades her skills, she gains 1 stack of <color=#FFFFFF>[Echo]</color>, stacking up to 4 times. When <color=#FFFFFF>[Dream Patrol Nursery Rhyme]</color> status ends, if Lucia has <color=#FFFFFF>[Echo]</color>, it will automatically consume 1 stack and reapply <color=#FFFFFF>[Dream Patrol Nursery Rhyme]</color> status to all squad members.",
+      "Desc2": "..."
     },
     "2": {
       "Level": 2,
-      "Name": "Lucia_Talent_02_Title",
-      "Desc": "Lucia_Talent_02_Desc_01",
-      "Desc2": "Lucia_Talent_02_Desc_02"
+      "Name": "Master of Magic",
+      "Desc": "While Lucia is within <color=#FFFFFF>[Ether Veil: Gushing Spring]</color>, <color=#FFFFFF>[Chorus]</color> deals 15% increased DMG; Agents with <color=#FFFFFF>[Dark Break]</color> status within <color=#FFFFFF>[Ether Veil: Gushing Spring]</color> gain an additional 15% Sheer DMG bonus.",
+      "Desc2": "..."
     },
     "3": {
       "Level": 3,
-      "Name": "Lucia_Talent_03_Title",
+      "Name": "Best Partner",
       "Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
-      "Desc2": "Lucia_Talent_03_Desc_02"
+      "Desc2": "..."
     },
     "4": {
       "Level": 4,
-      "Name": "Lucia_Talent_04_Title",
-      "Desc": "Lucia_Talent_04_Desc_01",
-      "Desc2": "Lucia_Talent_04_Desc_02"
+      "Name": "Late Night",
+      "Desc": "When <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, Lucia grants 120 Decibels to all squad members. This effect can trigger once every 15 seconds.",
+      "Desc2": "..."
     },
     "5": {
       "Level": 5,
-      "Name": "Lucia_Talent_05_Title",
+      "Name": "Dream Guardian",
       "Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
-      "Desc2": "Lucia_Talent_05_Desc_02"
+      "Desc2": "..."
     },
     "6": {
       "Level": 6,
-      "Name": "Lucia_Talent_06_Title",
-      "Desc": "Lucia_Talent_06_Desc_01",
-      "Desc2": "Lucia_Talent_06_Desc_02"
+      "Name": "The Never-ending Journey",
+      "Desc": "While Lucia is within any <color=#FFFFFF>[Ether Veil]</color>, her ATK is increased by 2% of her initial max HP; <color=#FFFFFF>[Chorus]</color> will always CRIT, and when <color=#FFFFFF>[Chorus]</color> scores a CRIT, CRIT DMG is increased by 30%.",
+      "Desc2": "..."
     }
   },
-  "FairyRecommend": {},
+  "FairyRecommend": {
+    "Slot4": 33400,
+    "Slot2": 31600,
+    "SlotSub": 33100,
+    "Part4": {
+      "Prop": 11102,
+      "Name": "HP",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    },
+    "Part5": {
+      "Prop": 30502,
+      "Name": "Energy Regen",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "Part6": {
+      "Prop": 20103,
+      "Name": "CRIT Rate",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "PartSub": {
+      "Prop": 12102,
+      "Name": "ATK",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    }
+  },
   "Potential": []
 }

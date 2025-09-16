@@ -244,7 +244,7 @@
       "Id": 41052,
       "CodeName": "Monster_Thracian_TurnBased",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Thracian.png",
-      "Tag": ["Ether", "Middle", "Boss"],
+      "Tag": ["Ether", "Middle", "Boss", "EvilBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

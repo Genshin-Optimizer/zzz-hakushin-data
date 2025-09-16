@@ -243,7 +243,7 @@
     "41101": {
       "Id": 41101,
       "CodeName": "Monster_BeholderEngine_TurnBased",
-      "Icon": "",
+      "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/IconRoleGeneral.png",
       "Tag": ["Mech", "Demote", "Small"],
       "Type": "Monster",
       "Element": {
@@ -254,11 +254,11 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1123,
-        "Attack": 54,
-        "Defence": 43,
+        "Hp": 1100,
+        "Attack": 250,
+        "Defence": 0,
         "Crit": 0,
-        "CritDamage": 5000,
+        "CritDamage": 0,
         "CritRes": 0,
         "CritDmgRes": 0,
         "PenRate": 0,
@@ -362,7 +362,7 @@
     "41102": {
       "Id": 41102,
       "CodeName": "Monster_BeholderEngine_TurnBased",
-      "Icon": "",
+      "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/IconRoleGeneral.png",
       "Tag": ["Mech", "Demote", "Small"],
       "Type": "Monster",
       "Element": {
@@ -373,11 +373,11 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1123,
-        "Attack": 54,
-        "Defence": 43,
+        "Hp": 817,
+        "Attack": 142,
+        "Defence": 0,
         "Crit": 0,
-        "CritDamage": 5000,
+        "CritDamage": 0,
         "CritRes": 0,
         "CritDmgRes": 0,
         "PenRate": 0,

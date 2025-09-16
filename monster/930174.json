@@ -957,7 +957,7 @@
     "51031": {
       "Id": 51031,
       "CodeName": "Monster_HymnistWar_TurnBased",
-      "Icon": "",
+      "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/Monster_HymnistWar.png",
       "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type1", "Miasma"],
       "Type": "Monster",
       "Element": {
@@ -968,11 +968,11 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1628,
-        "Attack": 79,
-        "Defence": 40,
-        "Crit": 0,
-        "CritDamage": 5000,
+        "Hp": 1000,
+        "Attack": 250,
+        "Defence": 0,
+        "Crit": 2500,
+        "CritDamage": 4000,
         "CritRes": 0,
         "CritDmgRes": 0,
         "PenRate": 0,
@@ -1076,7 +1076,7 @@
     "51032": {
       "Id": 51032,
       "CodeName": "Monster_HymnistWar_TurnBased",
-      "Icon": "",
+      "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/Monster_HymnistWar.png",
       "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type2", "Miasma"],
       "Type": "Monster",
       "Element": {
@@ -1087,11 +1087,11 @@
         "Physical": 1
       },
       "Stats": {
-        "Hp": 1628,
-        "Attack": 79,
-        "Defence": 40,
-        "Crit": 0,
-        "CritDamage": 5000,
+        "Hp": 743,
+        "Attack": 142,
+        "Defence": 0,
+        "Crit": 2500,
+        "CritDamage": 4000,
         "CritRes": 0,
         "CritDmgRes": 0,
         "PenRate": 0,

@@ -1,7 +1,7 @@
 {
   "Id": 14145,
   "CodeName": "Weapon_S_1451",
-  "Name": "Item_Weapon_S_1451_Name",
+  "Name": "Dreamlit Hearth",
   "Desc": "Item_Weapon_S_1451_Desc",
   "Desc2": "Equip to increase Support Agents' combat capabilities",
   "Desc3": "Item_Weapon_S_1451_ShortDesc",
@@ -94,24 +94,24 @@
   "Materials": "10:12000,101013:4|10:28000,101023:12|10:60000,101023:20|10:100000,101033:10|10:200000,101033:20",
   "Talents": {
     "1": {
-      "Name": "Weapon_TalentTitle_14145",
-      "Desc": "Weapon_TalentDes_81414511"
+      "Name": "Dreamlit Hearth",
+      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.24</color>/s. When <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, all squad members' DMG increases by <color=#2BAD00>25%</color> for 30s. Repeated triggers reset the duration."
     },
     "2": {
-      "Name": "Weapon_TalentTitle_14145",
-      "Desc": "Weapon_TalentDes_81414512"
+      "Name": "Dreamlit Hearth",
+      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.27</color>/s. When <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, all squad members' DMG increases by <color=#2BAD00>28.8%</color> for 30s. Repeated triggers reset the duration."
     },
     "3": {
-      "Name": "Weapon_TalentTitle_14145",
-      "Desc": "Weapon_TalentDes_81414513"
+      "Name": "Dreamlit Hearth",
+      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.31</color>/s. When <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, all squad members' DMG increases by <color=#2BAD00>32.5%</color> for 30s. Repeated triggers reset the duration."
     },
     "4": {
-      "Name": "Weapon_TalentTitle_14145",
-      "Desc": "Weapon_TalentDes_81414514"
+      "Name": "Dreamlit Hearth",
+      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.34</color>/s; when <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, all squad members' DMG increases by <color=#2BAD00>36.3%</color> for 30s. Repeated triggers reset the duration."
     },
     "5": {
-      "Name": "Weapon_TalentTitle_14145",
-      "Desc": "Weapon_TalentDes_81414515"
+      "Name": "Dreamlit Hearth",
+      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.38</color>/s. When <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, all squad members' DMG increases by <color=#2BAD00>40%</color> for 30s. Repeated triggers reset the duration."
     }
   }
 }
