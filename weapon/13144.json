@@ -2,9 +2,9 @@
   "Id": 13144,
   "CodeName": "Weapon_A_1441",
   "Name": "Grill O'Wisp",
-  "Desc": "Item_Weapon_A_1441_Desc",
+  "Desc": "...",
   "Desc2": "Equip to increase Rupture Agents' combat capabilities",
-  "Desc3": "Item_Weapon_A_1441_ShortDesc",
+  "Desc3": "...",
   "Rarity": 3,
   "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_A_1441.png",
   "WeaponType": { "6": "Rupture" },
@@ -91,27 +91,27 @@
     "4": { "StarRate": 35688, "RandRate": 12000 },
     "5": { "StarRate": 44610, "RandRate": 15000 }
   },
-  "Materials": "10:9600,101014:3|10:22400,101024:10|10:48000,101024:16|10:80000,101034:8|10:160000,101034:16",
+  "Materials": "10:9600,101015:3|10:22400,101025:10|10:48000,101025:16|10:80000,101035:8|10:160000,101035:16",
   "Talents": {
     "1": {
-      "Name": "Weapon_TalentTitle_13144",
-      "Desc": "Increases equipper's <color=#FF5521>Fire DMG</color> by <color=#2BAD00>15%</color>; when equipper's HP decreases, CRIT Rate increases by <color=#2BAD00>15%</color> for 5 seconds."
+      "Name": "Caged Fire",
+      "Desc": "The equipper's <color=#FF5521>Fire DMG</color> increases by <color=#2BAD00>15%</color>. When the equipper's HP decreases, their CRIT Rate increases by <color=#2BAD00>15%</color> for 5s."
     },
     "2": {
-      "Name": "Weapon_TalentTitle_13144",
-      "Desc": "Increases equipper's <color=#FF5521>Fire DMG</color> by <color=#2BAD00>17.25%</color>; when equipper's HP decreases, CRIT Rate increases by <color=#2BAD00>17.25%</color> for 5 seconds."
+      "Name": "Caged Fire",
+      "Desc": "The equipper's <color=#FF5521>Fire DMG</color> increases by <color=#2BAD00>17.25%</color>. When the equipper's HP decreases, their CRIT Rate increases by <color=#2BAD00>17.25%</color> for 5s."
     },
     "3": {
-      "Name": "Weapon_TalentTitle_13144",
-      "Desc": "Increases equipper's <color=#FF5521>Fire DMG</color> by <color=#2BAD00>19.5%</color>; when equipper's HP decreases, CRIT Rate increases by <color=#2BAD00>19.5%</color> for 5 seconds."
+      "Name": "Caged Fire",
+      "Desc": "The equipper's <color=#FF5521>Fire DMG</color> increases by <color=#2BAD00>19.5%</color>. When the equipper's HP decreases, their CRIT Rate increases by <color=#2BAD00>19.5%</color> for 5s."
     },
     "4": {
-      "Name": "Weapon_TalentTitle_13144",
-      "Desc": "Increases equipper's <color=#FF5521>Fire DMG</color> by <color=#2BAD00>21.75%</color>; when equipper's HP decreases, CRIT Rate increases by <color=#2BAD00>21.75%</color> for 5 seconds."
+      "Name": "Caged Fire",
+      "Desc": "The equipper's <color=#FF5521>Fire DMG</color> increases by <color=#2BAD00>21.75%</color>. When the equipper's HP decreases, their CRIT Rate increases by <color=#2BAD00>21.75%</color> for 5s."
     },
     "5": {
-      "Name": "Weapon_TalentTitle_13144",
-      "Desc": "Increases equipper's <color=#FF5521>Fire DMG</color> by <color=#2BAD00>24%</color>; when equipper's HP decreases, CRIT Rate increases by <color=#2BAD00>24%</color> for 5 seconds."
+      "Name": "Caged Fire",
+      "Desc": "The equipper's <color=#FF5521>Fire DMG</color> increases by <color=#2BAD00>24%</color>. When the equipper's HP decreases, their CRIT Rate increases by <color=#2BAD00>24%</color> for 5s."
     }
   }
 }

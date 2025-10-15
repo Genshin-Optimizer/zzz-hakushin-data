@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3110810": {
+      "Name": "AvatarSkin_Billy_Name_000",
+      "Desc": "AvatarSkin_Billy_Desc_000",
+      "Image": "IconRole10"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

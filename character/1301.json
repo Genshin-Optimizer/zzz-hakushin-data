@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3113010": {
+      "Name": "AvatarSkin_Brujas_Name_000",
+      "Desc": "AvatarSkin_Brujas_Desc_000",
+      "Image": "IconRole49"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,
@@ -888,23 +894,23 @@
               "Desc": "{Skill:1301009, Prop:1001}",
               "Param": {
                 "1301009": {
-                  "Main": 22590,
-                  "Growth": 2060,
+                  "Main": 28090,
+                  "Growth": 2560,
                   "Format": "%",
-                  "DamagePercentage": 22590,
-                  "DamagePercentageGrowth": 2060,
-                  "StunRatio": 22590,
-                  "StunRatioGrowth": 1030,
+                  "DamagePercentage": 28090,
+                  "DamagePercentageGrowth": 2560,
+                  "StunRatio": 28090,
+                  "StunRatioGrowth": 1280,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 496375,
+                  "FeverRecovery": 582175,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 23125,
+                  "AttributeInfliction": 28333,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 10167
+                  "EtherPurify": 14334
                 }
               },
               "Potential": []
@@ -914,23 +920,23 @@
               "Desc": "{Skill:1301009, Prop:1002}",
               "Param": {
                 "1301009": {
-                  "Main": 22590,
-                  "Growth": 1030,
+                  "Main": 28090,
+                  "Growth": 1280,
                   "Format": "%",
-                  "DamagePercentage": 22590,
-                  "DamagePercentageGrowth": 2060,
-                  "StunRatio": 22590,
-                  "StunRatioGrowth": 1030,
+                  "DamagePercentage": 28090,
+                  "DamagePercentageGrowth": 2560,
+                  "StunRatio": 28090,
+                  "StunRatioGrowth": 1280,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 496375,
+                  "FeverRecovery": 582175,
                   "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 23125,
+                  "AttributeInfliction": 28333,
                   "SpConsume": 0,
                   "AttackData": [],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
-                  "EtherPurify": 10167
+                  "EtherPurify": 14334
                 }
               },
               "Potential": []
@@ -1563,7 +1569,7 @@
   "SkillList": {
     "1301001": {
       "Name": "Basic Attack: High-Pressure Flamethrower",
-      "Desc": "<IconMap:Icon_Special>",
+      "Desc": "<IconMap:Icon_Normal>",
       "ElementType": 201,
       "HitType": 101,
       "Potential": []

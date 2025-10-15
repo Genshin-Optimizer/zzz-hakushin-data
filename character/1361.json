@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3113610": {
+      "Name": "AvatarSkin_Trigger_Name_000",
+      "Desc": "AvatarSkin_Trigger_Desc_000",
+      "Image": "IconRole39"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

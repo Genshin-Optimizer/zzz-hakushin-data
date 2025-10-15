@@ -244,7 +244,7 @@
       "Id": 21201,
       "CodeName": "Monster_HatiGrey_Mini",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Grey", "UnArmored"],
+      "Tag": ["Ether", "Demote", "Small", "Grey", "UnArmored", "HatiMini"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

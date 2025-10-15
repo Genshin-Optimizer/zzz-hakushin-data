@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3114210": {
+      "Name": "AvatarSkin_PanYinhu_Name_000",
+      "Desc": "AvatarSkin_PanYinhu_Desc_000",
+      "Image": "IconRole45"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

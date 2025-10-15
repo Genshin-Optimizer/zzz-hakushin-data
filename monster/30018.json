@@ -244,7 +244,14 @@
       "Id": 21210,
       "CodeName": "Monster_WanderingHunter_Chasing",
       "Icon": "",
-      "Tag": ["Ether", "Middle", "MainStoryBoss", "EtherBarrierBoss", "Miasma"],
+      "Tag": [
+        "Ether",
+        "Middle",
+        "MainStoryBoss",
+        "EtherBarrierBoss",
+        "Miasma",
+        "Chasing"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -373,8 +380,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 917,
-        "Attack": 300,
+        "Hp": 1000,
+        "Attack": 200,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -492,8 +499,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 908,
-        "Attack": 170,
+        "Hp": 400,
+        "Attack": 160,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,

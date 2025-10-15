@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3112810": {
+      "Name": "AvatarSkin_Clara_Name_000",
+      "Desc": "AvatarSkin_Clara_Desc_000",
+      "Image": "IconRole28"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

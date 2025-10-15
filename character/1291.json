@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3112910": {
+      "Name": "AvatarSkin_HugoVlad_Name_000",
+      "Desc": "AvatarSkin_HugoVlad_Desc_000",
+      "Image": "IconRole42"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

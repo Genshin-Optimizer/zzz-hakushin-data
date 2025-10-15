@@ -5,7 +5,7 @@
     "31141": {
       "Id": 31141,
       "CodeName": "Monster_IsoldetheDefiler",
-      "Icon": "Assets/NapResources/UI/Sprite/A2DynamicLoad/IconBossGeneral/UnPacker/IconMonster_IsoldetheDefiler.png",
+      "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_IsoldetheDefiler.png",
       "Tag": [
         "Ether",
         "Middle",
@@ -131,7 +131,7 @@
     "31142": {
       "Id": 31142,
       "CodeName": "Monster_IsoldetheDefiler",
-      "Icon": "Assets/NapResources/UI/Sprite/A3DynamicLoad/IconBossGeneral/UnPacker/IconMonster_IsoldetheDefiler.png",
+      "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_IsoldetheDefiler.png",
       "Tag": [
         "Ether",
         "Middle",
@@ -266,7 +266,7 @@
   "GroupDesc": "Special",
   "CardObtain": "[Unidentified] Defeat this monster in Hollow Zero 1 time to obtain its data",
   "CardQuote": "—A whisper echoes through the rising waves of Miasma",
-  "CardSkillDesc": "In combat, The Defiler can unleash rapid and powerful attacks with their weapons. Successfully parrying the Miasmic Blades fired by The Defiler and the attacks from summoned Miasmic Troopers will expose their weakness. After taking a certain amount of DMG in battle, The Defiler will activate Miasmic Field and channel a Miasmic Tsunami to deal fatal damage to players. Successfully breaking The Defiler's parts and impairing them during the channeling will generate Miasma barriers to block the Miasmic Tsunami.",
+  "CardSkillDesc": "In combat, The Defiler can unleash rapid and powerful attacks with their weapons. Successfully parrying the Miasmic Blades fired by The Defiler and the attacks from summoned Miasmic Troopers will expose their weakness. After taking a certain amount of DMG in battle, The Defiler will activate Miasmic Field and channel a Miasmic Tsunami to inflict Death Comes. Successfully breaking The Defiler's parts and impairing them during the channeling will generate Miasma barriers to block the Miasmic Tsunami.",
   "ElementAbnormal": {
     "10001": 600,
     "10002": 600,

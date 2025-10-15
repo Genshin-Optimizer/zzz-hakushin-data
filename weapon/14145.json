@@ -2,9 +2,9 @@
   "Id": 14145,
   "CodeName": "Weapon_S_1451",
   "Name": "Dreamlit Hearth",
-  "Desc": "Item_Weapon_S_1451_Desc",
+  "Desc": "...",
   "Desc2": "Equip to increase Support Agents' combat capabilities",
-  "Desc3": "Item_Weapon_S_1451_ShortDesc",
+  "Desc3": "...",
   "Rarity": 4,
   "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1451.png",
   "WeaponType": { "4": "Support" },
@@ -94,24 +94,24 @@
   "Materials": "10:12000,101013:4|10:28000,101023:12|10:60000,101023:20|10:100000,101033:10|10:200000,101033:20",
   "Talents": {
     "1": {
-      "Name": "Dreamlit Hearth",
-      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.24</color>/s. When <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, all squad members' DMG increases by <color=#2BAD00>25%</color> for 30s. Repeated triggers reset the duration."
+      "Name": "Moontide Epic",
+      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.4</color>/s. When the equipper activates <color=#FFFFFF>Ether Veil</color> or extends its duration, all squad members gain <color=#2BAD00>25%</color> increased DMG and <color=#2BAD00>15%</color> increased Max HP for 45s. Repeated triggers reset the duration. Only one instance of this effect can exist in the same squad."
     },
     "2": {
-      "Name": "Dreamlit Hearth",
-      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.27</color>/s. When <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, all squad members' DMG increases by <color=#2BAD00>28.8%</color> for 30s. Repeated triggers reset the duration."
+      "Name": "Moontide Epic",
+      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.46</color>/s. When the equipper activates <color=#FFFFFF>Ether Veil</color> or extends its duration, all squad members gain <color=#2BAD00>28.8%</color> increased DMG and <color=#2BAD00>17.3%</color> increased Max HP for 45s. Repeated triggers reset the duration. Only one instance of this effect can exist in the same squad."
     },
     "3": {
-      "Name": "Dreamlit Hearth",
-      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.31</color>/s. When <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, all squad members' DMG increases by <color=#2BAD00>32.5%</color> for 30s. Repeated triggers reset the duration."
+      "Name": "Moontide Epic",
+      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.52</color>/s. When the equipper activates <color=#FFFFFF>Ether Veil</color> or extends its duration, all squad members gain <color=#2BAD00>32.5%</color> increased DMG and <color=#2BAD00>19.5%</color> increased Max HP for 45s. Repeated triggers reset the duration. Only one instance of this effect can exist in the same squad."
     },
     "4": {
-      "Name": "Dreamlit Hearth",
-      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.34</color>/s; when <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, all squad members' DMG increases by <color=#2BAD00>36.3%</color> for 30s. Repeated triggers reset the duration."
+      "Name": "Moontide Epic",
+      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.58</color>/s. When the equipper activates <color=#FFFFFF>Ether Veil</color> or extends its duration, all squad members gain <color=#2BAD00>36.3%</color> increased DMG and <color=#2BAD00>21.8%</color> increased Max HP for 45s. Repeated triggers reset the duration. Only one instance of this effect can exist in the same squad."
     },
     "5": {
-      "Name": "Dreamlit Hearth",
-      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.38</color>/s. When <color=#FFFFFF>[Ether Veil]</color> is activated or extended on the field, all squad members' DMG increases by <color=#2BAD00>40%</color> for 30s. Repeated triggers reset the duration."
+      "Name": "Moontide Epic",
+      "Desc": "The equipper's Energy Regen increases by <color=#2BAD00>0.64</color>/s. When the equipper activates <color=#FFFFFF>Ether Veil</color> or extends its duration, all squad members gain <color=#2BAD00>40%</color> increased DMG and <color=#2BAD00>24%</color> increased Max HP for 45s. Repeated triggers reset the duration. Only one instance of this effect can exist in the same squad."
     }
   }
 }

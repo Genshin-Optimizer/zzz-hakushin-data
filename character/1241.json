@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3112410": {
+      "Name": "AvatarSkin_ZhuYuan_Name_000",
+      "Desc": "AvatarSkin_ZhuYuan_Desc_000",
+      "Image": "IconRole23"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

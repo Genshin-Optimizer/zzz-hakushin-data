@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3112710": {
+      "Name": "AvatarSkin_Seth_Name_000",
+      "Desc": "AvatarSkin_Seth_Desc_000",
+      "Image": "IconRole30"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

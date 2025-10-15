@@ -8,7 +8,7 @@
   "ElementType": { "202": "Ice" },
   "SpecialElementType": {
     "Name": "Frost",
-    "Title": "Frost Attribute",
+    "Title": "Frost",
     "Desc": "The <color=#98EFF0>Frost Attribute</color> calculates damage and buff effects based on the <color=#98EFF0>Ice</color> attribute. When dealing <color=#98EFF0>Frost DMG</color>, it accumulates <color=#98EFF0>Frost Anomaly Buildup</color> on enemies, which triggers the <color=#98EFF0>Freeze</color> effect and applies the <color=#98EFF0>Frostbite</color> status.\nThe <color=#98EFF0>Freeze</color> effect renders the target unable to act for a duration.\nThe <color=#98EFF0>Shatter</color> effect activates when the <color=#98EFF0>Freeze</color> effect ends, interrupting the enemy's actions and inflicting <color=#98EFF0>Frost DMG</color>.\nThe <color=#98EFF0>Frostbite</color> effect increases the CRIT DMG received by the target for a limited time.",
     "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png"
   },
@@ -39,7 +39,7 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": { "3110910": { "Name": "", "Desc": "", "Image": "IconRole13" } },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

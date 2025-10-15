@@ -7,7 +7,7 @@
   "WeaponType": { "1": "Attack" },
   "ElementType": { "203": "Electric" },
   "SpecialElementType": {},
-  "HitType": { "103": "Pierce" },
+  "HitType": { "101": "Slash" },
   "Camp": { "5": "New Eridu Defense Force" },
   "Gender": 2,
   "PartnerInfo": {
@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3114610": {
+      "Name": "AvatarSkin_Seed_Name_000",
+      "Desc": "AvatarSkin_Seed_Desc_000",
+      "Image": "IconRole48"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,
@@ -66,7 +72,8 @@
     "Stun": 0,
     "Tags": [
       "Seed",
-      "Pierce",
+      "Cut",
+      "Punch",
       "Electric",
       "Female",
       "Camp5",
@@ -273,13 +280,13 @@
                   "DamagePercentageGrowth": 430,
                   "StunRatio": 2940,
                   "StunRatioGrowth": 140,
-                  "SpRecovery": 6670,
+                  "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 73425,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [29334],
+                  "AttackData": [29334, 6670, 73425],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 2667
@@ -299,13 +306,13 @@
                   "DamagePercentageGrowth": 1130,
                   "StunRatio": 8290,
                   "StunRatioGrowth": 380,
-                  "SpRecovery": 18840,
+                  "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 207350,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [82867],
+                  "AttackData": [82867, 18840, 207350],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 7534
@@ -377,13 +384,13 @@
                   "DamagePercentageGrowth": 430,
                   "StunRatio": 2940,
                   "StunRatioGrowth": 140,
-                  "SpRecovery": 6670,
+                  "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 73425,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [29334],
+                  "AttackData": [29334, 6670, 73425],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 2667
@@ -403,13 +410,13 @@
                   "DamagePercentageGrowth": 1130,
                   "StunRatio": 8290,
                   "StunRatioGrowth": 380,
-                  "SpRecovery": 18840,
+                  "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 207350,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [82867],
+                  "AttackData": [82867, 18840, 207350],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 7534
@@ -694,13 +701,13 @@
                   "DamagePercentageGrowth": 590,
                   "StunRatio": 3210,
                   "StunRatioGrowth": 150,
-                  "SpRecovery": 7300,
+                  "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 80300,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [32084],
+                  "AttackData": [32084, 7300, 80300],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 2917
@@ -720,13 +727,13 @@
                   "DamagePercentageGrowth": 590,
                   "StunRatio": 3210,
                   "StunRatioGrowth": 150,
-                  "SpRecovery": 7300,
+                  "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 80300,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [32084],
+                  "AttackData": [32084, 7300, 80300],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 2917
@@ -752,13 +759,13 @@
                   "DamagePercentageGrowth": 2910,
                   "StunRatio": 25490,
                   "StunRatioGrowth": 1160,
-                  "SpRecovery": 32930,
+                  "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 362175,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13169,
                   "SpConsume": 0,
-                  "AttackData": [244870],
+                  "AttackData": [244870, 32930, 362175],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 28170
@@ -778,13 +785,13 @@
                   "DamagePercentageGrowth": 2910,
                   "StunRatio": 25490,
                   "StunRatioGrowth": 1160,
-                  "SpRecovery": 32930,
+                  "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 362175,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 13169,
                   "SpConsume": 0,
-                  "AttackData": [244870],
+                  "AttackData": [244870, 32930, 362175],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 28170
@@ -845,11 +852,11 @@
                   "StunRatioGrowth": 220,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 119350,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4334,
                   "SpConsume": 0,
-                  "AttackData": [47685],
+                  "AttackData": [47685, 0, 119350],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 4335
@@ -871,11 +878,11 @@
                   "StunRatioGrowth": 220,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 119350,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4334,
                   "SpConsume": 0,
-                  "AttackData": [47685],
+                  "AttackData": [47685, 0, 119350],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 4335
@@ -947,7 +954,7 @@
           "Potential": []
         },
         {
-          "Name": "EX Special Attack: Raining Iron Petals",
+          "Name": "EX Special Attack: Raining Iron Petals - Away",
           "Param": [
             {
               "Name": "DMG Multiplier",
@@ -1196,13 +1203,13 @@
                   "DamagePercentageGrowth": 1400,
                   "StunRatio": 7700,
                   "StunRatioGrowth": 350,
-                  "SpRecovery": 17500,
+                  "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 192500,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7000,
                   "SpConsume": 0,
-                  "AttackData": [77000],
+                  "AttackData": [77000, 17500, 192500],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 7000
@@ -1222,13 +1229,13 @@
                   "DamagePercentageGrowth": 1400,
                   "StunRatio": 7700,
                   "StunRatioGrowth": 350,
-                  "SpRecovery": 17500,
+                  "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 192500,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7000,
                   "SpConsume": 0,
-                  "AttackData": [77000],
+                  "AttackData": [77000, 17500, 192500],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 7000
@@ -1340,11 +1347,11 @@
                   "StunRatioGrowth": 1830,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 1276000,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 38976,
                   "SpConsume": 0,
-                  "AttackData": [238371],
+                  "AttackData": [238371, 0, 1276000],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 21671
@@ -1366,11 +1373,11 @@
                   "StunRatioGrowth": 1830,
                   "SpRecovery": 0,
                   "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 1276000,
+                  "FeverRecovery": 0,
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 38976,
                   "SpConsume": 0,
-                  "AttackData": [238371],
+                  "AttackData": [238371, 0, 1276000],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 21671
@@ -1458,7 +1465,7 @@
     "1416009": {
       "Name": "Dash Attack: Magnetic Wheel Dance",
       "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
-      "ElementType": 203,
+      "ElementType": 200,
       "HitType": 102,
       "Potential": []
     },
@@ -1499,7 +1506,7 @@
     },
     "1416015": {
       "Name": "Assist Follow-Up: Crimson Core Burst",
-      "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
+      "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
       "ElementType": 203,
       "HitType": 102,
       "Potential": []
@@ -1515,7 +1522,7 @@
           "Additional Ability: Surprise Strike"
         ],
         "Desc": [
-          "The <color=#FFFFFF>Attack</color> teammate with the highest Base ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>100</color> and CRIT DMG by <color=#2BAD00>15%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>100</color> and CRIT DMG by <color=#2BAD00>15%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>12.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
+          "The <color=#FFFFFF>Attack</color> teammate with the highest initial ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>100</color> and CRIT DMG by <color=#2BAD00>15%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>100</color> and CRIT DMG by <color=#2BAD00>15%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>12.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
           "When another <color=#FFFFFF>Attack</color> Character is in your squad:\nWhen Seed deals DMG as the active character, restore 2 Energy to the <color=#FFFFFF>Vanguard</color>. This effect can trigger once every 1s.\nSeed's <color=#FFFFFF>Basic Attack: Falling Petals - Slaughter</color>, <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color>, and <color=#FFFFFF>Ultimate: Clockwork Garden - Bloom!</color> deal 30% increased DMG and ignore 25% of enemy <color=#2EB6FF>Electric RES</color>."
         ],
         "ExtraProperty": {},
@@ -1529,7 +1536,7 @@
           "Additional Ability: Surprise Strike"
         ],
         "Desc": [
-          "The <color=#FFFFFF>Attack</color> teammate with the highest Base ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>225</color> and CRIT DMG by <color=#2BAD00>17.5%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>225</color> and CRIT DMG by <color=#2BAD00>17.5%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>14.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
+          "The <color=#FFFFFF>Attack</color> teammate with the highest initial ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>225</color> and CRIT DMG by <color=#2BAD00>17.5%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>225</color> and CRIT DMG by <color=#2BAD00>17.5%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>14.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
           "When another <color=#FFFFFF>Attack</color> Character is in your squad:\nWhen Seed deals DMG as the active character, restore 2 Energy to the <color=#FFFFFF>Vanguard</color>. This effect can trigger once every 1s.\nSeed's <color=#FFFFFF>Basic Attack: Falling Petals - Slaughter</color>, <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color>, and <color=#FFFFFF>Ultimate: Clockwork Garden - Bloom!</color> deal 30% increased DMG and ignore 25% of enemy <color=#2EB6FF>Electric RES</color>."
         ],
         "ExtraProperty": {},
@@ -1543,7 +1550,7 @@
           "Additional Ability: Surprise Strike"
         ],
         "Desc": [
-          "The <color=#FFFFFF>Attack</color> teammate with the highest Base ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>350</color> and CRIT DMG by <color=#2BAD00>20%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>350</color> and CRIT DMG by <color=#2BAD00>20%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>16.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
+          "The <color=#FFFFFF>Attack</color> teammate with the highest initial ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>350</color> and CRIT DMG by <color=#2BAD00>20%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>350</color> and CRIT DMG by <color=#2BAD00>20%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>16.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
           "When another <color=#FFFFFF>Attack</color> Character is in your squad:\nWhen Seed deals DMG as the active character, restore 2 Energy to the <color=#FFFFFF>Vanguard</color>. This effect can trigger once every 1s.\nSeed's <color=#FFFFFF>Basic Attack: Falling Petals - Slaughter</color>, <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color>, and <color=#FFFFFF>Ultimate: Clockwork Garden - Bloom!</color> deal 30% increased DMG and ignore 25% of enemy <color=#2EB6FF>Electric RES</color>."
         ],
         "ExtraProperty": {},
@@ -1557,7 +1564,7 @@
           "Additional Ability: Surprise Strike"
         ],
         "Desc": [
-          "The <color=#FFFFFF>Attack</color> teammate with the highest Base ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>475</color> and CRIT DMG by <color=#2BAD00>22.5%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>475</color> and CRIT DMG by <color=#2BAD00>22.5%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>18.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
+          "The <color=#FFFFFF>Attack</color> teammate with the highest initial ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>475</color> and CRIT DMG by <color=#2BAD00>22.5%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>475</color> and CRIT DMG by <color=#2BAD00>22.5%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>18.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
           "When another <color=#FFFFFF>Attack</color> Character is in your squad:\nWhen Seed deals DMG as the active character, restore 2 Energy to the <color=#FFFFFF>Vanguard</color>. This effect can trigger once every 1s.\nSeed's <color=#FFFFFF>Basic Attack: Falling Petals - Slaughter</color>, <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color>, and <color=#FFFFFF>Ultimate: Clockwork Garden - Bloom!</color> deal 30% increased DMG and ignore 25% of enemy <color=#2EB6FF>Electric RES</color>."
         ],
         "ExtraProperty": {},
@@ -1571,7 +1578,7 @@
           "Additional Ability: Surprise Strike"
         ],
         "Desc": [
-          "The <color=#FFFFFF>Attack</color> teammate with the highest Base ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>600</color> and CRIT DMG by <color=#2BAD00>25%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>600</color> and CRIT DMG by <color=#2BAD00>25%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>20.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
+          "The <color=#FFFFFF>Attack</color> teammate with the highest initial ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>600</color> and CRIT DMG by <color=#2BAD00>25%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>600</color> and CRIT DMG by <color=#2BAD00>25%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>20.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
           "When another <color=#FFFFFF>Attack</color> Character is in your squad:\nWhen Seed deals DMG as the active character, restore 2 Energy to the <color=#FFFFFF>Vanguard</color>. This effect can trigger once every 1s.\nSeed's <color=#FFFFFF>Basic Attack: Falling Petals - Slaughter</color>, <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color>, and <color=#FFFFFF>Ultimate: Clockwork Garden - Bloom!</color> deal 30% increased DMG and ignore 25% of enemy <color=#2EB6FF>Electric RES</color>."
         ],
         "ExtraProperty": {},
@@ -1585,7 +1592,7 @@
           "Additional Ability: Surprise Strike"
         ],
         "Desc": [
-          "The <color=#FFFFFF>Attack</color> teammate with the highest Base ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>725</color> and CRIT DMG by <color=#2BAD00>27.5%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>725</color> and CRIT DMG by <color=#2BAD00>27.5%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>22.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
+          "The <color=#FFFFFF>Attack</color> teammate with the highest initial ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>725</color> and CRIT DMG by <color=#2BAD00>27.5%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>725</color> and CRIT DMG by <color=#2BAD00>27.5%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>22.5%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
           "When another <color=#FFFFFF>Attack</color> Character is in your squad:\nWhen Seed deals DMG as the active character, restore 2 Energy to the <color=#FFFFFF>Vanguard</color>. This effect can trigger once every 1s.\nSeed's <color=#FFFFFF>Basic Attack: Falling Petals - Slaughter</color>, <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color>, and <color=#FFFFFF>Ultimate: Clockwork Garden - Bloom!</color> deal 30% increased DMG and ignore 25% of enemy <color=#2EB6FF>Electric RES</color>."
         ],
         "ExtraProperty": {},
@@ -1599,7 +1606,7 @@
           "Additional Ability: Surprise Strike"
         ],
         "Desc": [
-          "The <color=#FFFFFF>Attack</color> teammate with the highest Base ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>1,000</color> and CRIT DMG by <color=#2BAD00>30%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>1,000</color> and CRIT DMG by <color=#2BAD00>30%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>25%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
+          "The <color=#FFFFFF>Attack</color> teammate with the highest initial ATK is considered Seed's <color=#FFFFFF>Vanguard</color>.\nWhen the <color=#FFFFFF>Vanguard</color> unleashes an <color=#FFFFFF>EX Special Attack</color>, Seed gains <color=#FFFFFF>Onslaught</color> status, increasing Seed's ATK by <color=#2BAD00>1,000</color> and CRIT DMG by <color=#2BAD00>30%</color>. When Seed unleashes an <color=#FFFFFF>EX Special Attack</color>, the <color=#FFFFFF>Vanguard</color> gains <color=#FFFFFF>Direct Strike</color> status, increasing the <color=#FFFFFF>Vanguard</color>'s ATK by <color=#2BAD00>1,000</color> and CRIT DMG by <color=#2BAD00>30%</color>.\nWhen <color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> are both active, Seed and the <color=#FFFFFF>Vanguard</color> simultaneously gain <color=#FFFFFF>Besiege</color> status, increasing DMG dealt by <color=#2BAD00>25%</color>.\n<color=#FFFFFF>Onslaught</color>, <color=#FFFFFF>Direct Strike</color>, and <color=#FFFFFF>Besiege</color> buffs can all take effect when the character is the current active character. When switching to inactive, the buffs remain until the character goes off-field or 3s after the switch. When the character returns to being the active character, the buffs re-activate.\nUpon entering the battlefield with a <color=#FFFFFF>Vanguard</color>, Seed immediately gains <color=#FFFFFF>Onslaught</color> status and <color=#FFFFFF>Besiege</color> status, while the <color=#FFFFFF>Vanguard</color> immediately gains <color=#FFFFFF>Direct Strike</color> status and <color=#FFFFFF>Besiege</color> status.\n<color=#FFFFFF>Direct Strike</color> and <color=#FFFFFF>Onslaught</color> status last for 40s, and repeated triggers refresh the duration.\nWhen the <color=#FFFFFF>Vanguard</color> consumes Energy as the active character or when Seed consumes Energy, for every 1 point of Energy consumed, Seed recovers 0.5 points of <color=#FFFFFF>Steel Charge</color>.",
           "When another <color=#FFFFFF>Attack</color> Character is in your squad:\nWhen Seed deals DMG as the active character, restore 2 Energy to the <color=#FFFFFF>Vanguard</color>. This effect can trigger once every 1s.\nSeed's <color=#FFFFFF>Basic Attack: Falling Petals - Slaughter</color>, <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color>, and <color=#FFFFFF>Ultimate: Clockwork Garden - Bloom!</color> deal 30% increased DMG and ignore 25% of enemy <color=#2EB6FF>Electric RES</color>."
         ],
         "ExtraProperty": {},
@@ -1619,7 +1626,7 @@
     "1": {
       "Level": 1,
       "Name": "\"Hibernation Period\"",
-      "Desc": "When Seed's <color=#FFFFFF>Steel Charge</color> reaches 100, <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color> can be triggered, and the total <color=#FFFFFF>Steel Charge</color> consumed is reduced to 100. The amount of <color=#FFFFFF>Steel Charge</color> required to gain one chance to quickly release <color=#FFFFFF>Basic Attack: Falling Petals - Slaughter</color> is reduced to 100. Gain an additional 40/20 <color=#FFFFFF>Steel Charge</color> when entering the battlefield/using <color=#FFFFFF>Ultimate</color>. Increases <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color> CRIT DMG by 30%.",
+      "Desc": "When Seed's <color=#FFFFFF>Steel Charge</color> reaches 100, <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color> can be triggered, and the total <color=#FFFFFF>Steel Charge</color> consumed is reduced to 100. The amount of <color=#FFFFFF>Steel Charge</color> required to gain one chance to quickly release <color=#FFFFFF>Basic Attack: Falling Petals - Slaughter</color> is reduced to 100. Accumulate an additional 40/20 <color=#FFFFFF>Steel Charge</color> when entering the battlefield/using <color=#FFFFFF>Ultimate</color>. Increases <color=#FFFFFF>Basic Attack: Falling Petals - Downfall</color> CRIT DMG by 30%.",
       "Desc2": "This is a solemn and mysterious building, isolated from the outside world.\nThe pure white one belongs here. She shrinks back, carefully peering out through the wire fence. What's the world outside like?\nHer curiosity flows beyond the sterile room, past the crumbling towers, dodging the pink giant flowers in the sky.\nFlowing further and further...\n\"Looks just like a cracked, stinky egg~\"\n\"But I want to experience it for a while...\""
     },
     "2": {

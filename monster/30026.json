@@ -135,8 +135,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1650,
-        "Attack": 375,
+        "Hp": 1500,
+        "Attack": 400,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -159,7 +159,7 @@
         "ResistBreakLevel": 1,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
-        "FrozenTimeRes": 7500,
+        "FrozenTimeRes": 0,
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,
@@ -254,8 +254,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 8712,
-        "Attack": 256,
+        "Hp": 3200,
+        "Attack": 240,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -278,7 +278,7 @@
         "ResistBreakLevel": 1,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
-        "FrozenTimeRes": 7500,
+        "FrozenTimeRes": 0,
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,

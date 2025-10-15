@@ -55,7 +55,7 @@
     "KO": {
       "name": "쇼크스타 디스코",
       "desc2": "충격력+6%",
-      "desc4": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[대시 공격]</color>, <color=#FFFFFF>[회피 반격]</color>이 주요 공격 타깃에게 주는 그로기 수치가 20% 증가한다."
+      "desc4": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[대시 공격]</color>, <color=#FFFFFF>[���피 반격]</color>이 주요 공격 타깃에게 주는 그로기 수치가 20% 증가한다."
     },
     "CHS": {
       "name": "震星迪斯科",
@@ -146,7 +146,7 @@
     },
     "KO": {
       "name": "스윙 재즈",
-      "desc2": "에너지 자동 회복+20%",
+      "desc2": "에너지 ��동 회복+20%",
       "desc4": "<color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color> 시전 시 파티 내 모든 캐릭터가 주는 피해가 15% 증가한다. 지속 시간: 12초, 이름이 같은 패시브 효과끼리 중첩되지 않는다."
     },
     "CHS": {
@@ -193,7 +193,7 @@
     "KO": {
       "name": "원시 펑크",
       "desc2": "부여하는 실드량+15%",
-      "desc4": "파티 내 임의의 캐릭터가 <color=#FFFFFF>[패링 지원]</color> 혹은 <color=#FFFFFF>[회피 지원]</color> 시전 시 파티 ��� 모든 캐릭터가 주는 피해가 15% 증가한다. 지속 시간: 10초, 이름이 같은 패시브 효과끼리 중첩되지 않는다."
+      "desc4": "파티 내 임의의 캐릭터가 <color=#FFFFFF>[패링 지원]</color> 혹은 <color=#FFFFFF>[회피 지원]</color> 시전 시 파티 내 모든 캐릭터가 주는 피해가 15% 증가한다. 지속 시간: 10초, 이름이 같은 패시브 효과끼리 중첩되지 않는다."
     },
     "CHS": {
       "name": "原始朋克",
@@ -244,7 +244,7 @@
     "CHS": {
       "name": "混沌重金属",
       "desc2": "<color=#FE437E>以太伤害</color>+10%。",
-      "desc4": "装备者的暴击伤害提升20%，队伍中任意角色触发<color=#FE437E>[侵蚀]</color>���果的额外伤害时，该增益效果额外提升5.5%，最多叠加6层，持续8秒，重复触发时刷新持续时间。"
+      "desc4": "装备者的暴击伤害提升20%，队伍中任意角色触发<color=#FE437E>[侵蚀]</color>效果的额外伤害时，该增益效果额外提升5.5%，最多叠加6层，持续8秒，重复触发时刷新持续时间。"
     },
     "JA": {
       "name": "混沌のヘヴィメタル",
@@ -285,7 +285,7 @@
     "KO": {
       "name": "극지 메탈",
       "desc2": "<color=#98EFF0>얼음 속성 피해</color>+10%",
-      "desc4": "<color=#FFFFFF>[일반 공격]</color> 및 <color=#FFFFFF>[대시 공격]</color>으로 주는 피해가 20% 증가하며, 파티 내 임���의 캐릭터가 적에게 <color=#98EFF0>[빙결]</color> 부여 혹은 <color=#98EFF0>[쇄빙]</color> 효과 발동 시, 해당 버프 효과가 추가로 20% 증가한다. 지속 시간: 12초"
+      "desc4": "<color=#FFFFFF>[일반 공격]</color> 및 <color=#FFFFFF>[대시 공격]</color>으로 주는 피해가 20% 증가하며, 파티 내 임의의 캐릭터가 적에게 <color=#98EFF0>[빙결]</color> 부여 혹은 <color=#98EFF0>[쇄빙]</color> 효과 발동 시, 해당 버프 효과가 추가로 20% 증가한다. 지속 시간: 12초"
     },
     "CHS": {
       "name": "极地重金属",
@@ -352,7 +352,7 @@
       "desc4": "Whenever any squad member enters the field using a <color=#FFFFFF>Quick Assist</color>, all squad members gain 1 stack of <color=#FFFFFF>Astral</color>, up to a maximum of 3 stacks, and lasting 15s. Repeated triggers reset the duration. Each stack of <color=#FFFFFF>Astral</color> increases the DMG dealt by the character entering the field using a <color=#FFFFFF>Quick Assist</color> by 8%. Passive effects of the same name do not stack."
     },
     "KO": {
-      "name": "고요 속의 ���",
+      "name": "고요 속의 별",
       "desc2": "공격력+10%",
       "desc4": "파티 내 임의의 캐릭터가 <color=#FFFFFF>[빠른 지원]</color>을 통해 전장에 진입할 경우, 파티 내 모든 캐릭터가 <color=#FFFFFF>[별]</color>을 1스택 획득한다. 최대 중첩: 3스택, 지속 시간: 15초, 중복 발동 시 지속 시간이 갱신되며, <color=#FFFFFF>[별]</color>을 1스택 보유할 때마다 <color=#FFFFFF>[빠른 지원]</color>으로 전장에 진입하는 캐릭터가 주는 피해가 8% 증가한다. 이름이 같은 패시브 효과끼리 중첩되지 않는다."
     },
@@ -364,7 +364,7 @@
     "JA": {
       "name": "静寂のアストラ",
       "desc2": "攻撃力+10%。",
-      "desc4": "任意のメンバーが<color=#FFFFFF>『クイック支援』</color>で出場した時、メンバー全員が<color=#FFFFFF>「天籟」</color>を1重獲得する。最大3重まで重ね掛け可���、継続時間15秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「天籟」</color>1重につき、<color=#FFFFFF>『クイック支援』</color>で出場したメンバーの与ダメージ+8%、同じパッシブ効果は重ね掛け不可。"
+      "desc4": "任意のメンバーが<color=#FFFFFF>『クイック支援』</color>で出場した時、メンバー全員が<color=#FFFFFF>「天籟」</color>を1重獲得する。最大3重まで重ね掛け可能、継続時間15秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「天籟」</color>1重につき、<color=#FFFFFF>『クイック支援』</color>で出場したメンバーの与ダメージ+8%、同じパッシブ効果は重ね掛け不可。"
     }
   },
   "32900": {
@@ -377,7 +377,7 @@
     "KO": {
       "name": "그림자처럼 함께",
       "desc2": "<color=#FFFFFF>[여진 공격]</color> 및 <color=#FFFFFF>[대시 공격]</color>으로 주는 피해가 15% 증가한다.",
-      "desc4": "<color=#FFFFFF>[여진 공격]</color> 혹은 <color=#FFFFFF>[대시 공격]</color>이 적에게 명중 시, 만약 주는 피해가 착용자의 속성과 일치하면 버프 효과를 1스택 획득한다. 동일한 공격 한 번에 최대 1회 발동한다. 보유한 버프 효과 1스택당 착용자의 공격력이 4% 증가하고, 치명타 확률이 4% 증가한다. 최대 중첩: 3스택, 지속 시간: 15초, 중복 발동 시 지속 시간이 갱신된다."
+      "desc4": "<color=#FFFFFF>[여진 공격]</color> 혹은 <color=#FFFFFF>[대시 ���격]</color>이 적에게 명중 시, 만약 주는 피해가 착용자의 속성과 일치하면 버프 효과를 1스택 획득한다. 동일한 공격 한 번에 최대 1회 발동한다. 보유한 버프 효과 1스택당 착용자의 공격력이 4% 증가하고, 치명타 확률이 4% 증가한다. 최대 중첩: 3스택, 지속 시간: 15초, 중복 발동 시 지속 시간이 갱신된다."
     },
     "CHS": {
       "name": "如影相随",
@@ -387,7 +387,7 @@
     "JA": {
       "name": "シャドウハーモニー",
       "desc2": "<color=#FFFFFF>『追加攻撃』</color>と<color=#FFFFFF>『ダッシュ攻撃』</color>の与ダメージ+15%。",
-      "desc4": "<color=#FFFFFF>『追加攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中した時、与えたダメージが装備者の属性と一致している場合、バ��効果を1重獲得する、1回のスキルにおいて1回のみ発動可能。バフ効果1重につき、装備者の攻撃力+4%、会心率+4%。最大3重まで重ね掛け可能、継続時間15秒、重複して発動すると継続時間が更新される。"
+      "desc4": "<color=#FFFFFF>『追加攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中した時、与えたダメージが装備者の属性と一致している場合、バフ���果を1重獲得する、1回のスキルにおいて1回のみ発動可能。バフ効果1重につき、装備者の攻撃力+4%、会心率+4%。最大3重まで重ね掛け可能、継続時間15秒、重複して発動すると継続時間が更新される。"
     }
   },
   "33000": {
@@ -410,7 +410,7 @@
     "JA": {
       "name": "「パエトーン」の歌",
       "desc2": "異常掌握+8%",
-      "desc4": "任意のメンバーが<color=#FFFFFF>『強化特殊スキル』</color>を発動した時���装備者の異常マスタリー+45Pt、継続時間8秒。<color=#FFFFFF>『強化特殊スキル』</color>を発動したエージェントが装備者本人でない場合、装備者による<color=#FE437E>エーテル属性ダメージ</color>+25%。"
+      "desc4": "任意のメンバーが<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、装備者の異常マスタリー+45Pt、継続時間8秒。<color=#FFFFFF>『強化特殊スキル』</color>を発動したエージェントが装備者本人でない場合、装備者による<color=#FE437E>エーテル属性ダメージ</color>+25%。"
     }
   },
   "33100": {
@@ -456,7 +456,7 @@
     "JA": {
       "name": "大山を統べる者",
       "desc2": "攻撃の与えるブレイク値+6%",
-      "desc4": "装備者が[��破]メンバーの場合、<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『連携スキル』</color>発動時、メンバー全員の会心ダメージ+15%。装備者の会心率が50%以上の場合、会心ダメージがさらに+15%、継続時間15秒、重複して発動すると継続時間が更新される。同じパッシブ効果は重ね掛け不可。"
+      "desc4": "装備者が[撃���]メンバーの場合、<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『連携スキル』</color>発動時、メンバー全員の会心ダメージ+15%。装備者の会心率が50%以上の場合、会心ダメージがさらに+15%、継続時間15秒、重複して発動すると継続時間が更新される。同じパッシブ効果は重ね掛け不可。"
     }
   },
   "33300": {
@@ -472,7 +472,7 @@
       "desc4": "<color=#FFFFFF>[일반 공격]</color>으로 주는 피해가 20% 증가하며, 착용자가 [강공] 캐릭터일 시 <color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>를 시전하면 <color=#FFFFFF>[일반 공격]</color>으로 주는 피해가 추가로 20% 증가한다. 지속 시간: 25초, 중복 발동 시 지속 시간이 갱신된다."
     },
     "CHS": {
-      "name": "拂晓生花",
+      "name": "���晓生花",
       "desc2": "<color=#FFFFFF>[普通攻击]</color>造成的伤害提升15%。",
       "desc4": "<color=#FFFFFF>[普通攻击]</color>造成的伤害提升20%，装备者为[强攻]角色时，发动<color=#FFFFFF>[强化特殊技]</color>或<color=#FFFFFF>[终结技]</color>会使<color=#FFFFFF>[普通攻击]</color>造成的伤害额外提升20%，持续25秒，重复触发时刷新持续时间。"
     },

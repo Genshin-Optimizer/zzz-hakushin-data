@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3111510": {
+      "Name": "AvatarSkin_Lucy_Name_000",
+      "Desc": "AvatarSkin_Lucy_Desc_000",
+      "Image": "IconRole27"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

@@ -12,7 +12,7 @@
   "Gender": 2,
   "PartnerInfo": {
     "Birthday": "APR 10",
-    "FullName": "Vivian",
+    "FullName": "Vivian Banshee",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle41.png",
     "ImpressionF": "Vivian knows so many people and has worked in so many places... Not at all what you'd expect from how she first comes across!",
@@ -34,7 +34,18 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3113310": {
+      "Name": "Vivian: Fluttering Violet",
+      "Desc": "Maintain your elegance, Miss Vivian, from the point of your parasol, right down to your flowing skirt. Maintain your courage, Miss Vivian, through last night's lonely walk, or here today at my side.",
+      "Image": "IconRole41"
+    },
+    "3113311": {
+      "Name": "Vivian: Iris of the Shore",
+      "Desc": "Birds soar into the starlit skies, while irises bloom by the pond. Though this enchanting moonlit night may be brief, please let me see the lingering anticipation in your eyes in the moment I bloom.",
+      "Image": "IconRole41_01"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

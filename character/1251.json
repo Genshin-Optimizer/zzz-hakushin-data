@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3112510": {
+      "Name": "AvatarSkin_QingYi_Name_000",
+      "Desc": "AvatarSkin_QingYi_Desc_000",
+      "Image": "IconRole29"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

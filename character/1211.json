@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3112110": {
+      "Name": "AvatarSkin_Rina_Name_000",
+      "Desc": "AvatarSkin_Rina_Desc_000",
+      "Image": "IconRole22"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

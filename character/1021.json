@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3110210": {
+      "Name": "AvatarSkin_Tsubaki_Name_000",
+      "Desc": "AvatarSkin_Tsubaki_Desc_000",
+      "Image": "IconRole11"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

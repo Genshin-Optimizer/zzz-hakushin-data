@@ -254,8 +254,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1100,
-        "Attack": 250,
+        "Hp": 1000,
+        "Attack": 200,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -266,7 +266,7 @@
         "Stun": 600,
         "IsStun": true,
         "BreakStun": 0,
-        "AutoRecoverRate": 500,
+        "AutoRecoverRate": 0,
         "AutoRecoverCd": 0,
         "StunValueFullRecoverCd": 0,
         "CanInterruptStunRecover": true,
@@ -373,8 +373,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 817,
-        "Attack": 142,
+        "Hp": 400,
+        "Attack": 160,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -385,7 +385,7 @@
         "Stun": 600,
         "IsStun": true,
         "BreakStun": 0,
-        "AutoRecoverRate": 500,
+        "AutoRecoverRate": 0,
         "AutoRecoverCd": 0,
         "StunValueFullRecoverCd": 0,
         "CanInterruptStunRecover": true,

@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3111110": {
+      "Name": "AvatarSkin_Anton_Name_000",
+      "Desc": "AvatarSkin_Anton_Desc_000",
+      "Image": "IconRole15"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

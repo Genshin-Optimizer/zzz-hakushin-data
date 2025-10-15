@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3110110": {
+      "Name": "AvatarSkin_Anbi_Name_000",
+      "Desc": "AvatarSkin_Anbi_Desc_000",
+      "Image": "IconRole01"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

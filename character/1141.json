@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3111410": {
+      "Name": "AvatarSkin_Lycaon_Name_000",
+      "Desc": "AvatarSkin_Lycaon_Desc_000",
+      "Image": "IconRole18"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

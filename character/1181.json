@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3111810": {
+      "Name": "AvatarSkin_Lisa_Name_000",
+      "Desc": "AvatarSkin_Lisa_Desc_000",
+      "Image": "IconRole20"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3111710": {
+      "Name": "AvatarSkin_Burnice_Name_000",
+      "Desc": "AvatarSkin_Burnice_Desc_000",
+      "Image": "IconRole32"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

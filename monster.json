@@ -162,7 +162,7 @@
     "rarity": 1,
     "group": 290,
     "EN": "OfficialName_",
-    "desc": "Mass-produced security units have been put into use across many civilian sectors. With numerous advantages, including affordability, versatility, a revolutionary single-wheel dynamic balance system, and an integrated intelligent threat recognition core, they're suitable for security needs in various complex spaces.\n\n\"This Tactical Security Unit, having passed 47 rigorous tests, has been successfully deployed in core areas of 32 industrial parks. Client feedback shows an average 91% reduction in tresspassing rates. Trust us: you can use it for any security task you can imagine.\"",
+    "desc": "Highly maneuverable small autonomous mechs deployed by Public Security, equipped with inert Ether circular saws that also serve as assistant steering wheels for navigating complex terrains at high speeds.\nHowever, due to their rudimentary self-control programs, these lawnmowers occasionally cause unintended damage while executing their slicing attacks.\n\"Hey! Who the heck messed up my brand new car!?\"",
     "KO": "OfficialName_",
     "CHS": "OfficialName_",
     "JA": "OfficialName_"
@@ -653,11 +653,11 @@
     "tag2": [],
     "rarity": 2,
     "group": 203,
-    "EN": "BriefName_Monster_MiasmaFrenziedManiac",
-    "desc": "2.3 Placeholder",
-    "KO": "BriefName_Monster_MiasmaFrenziedManiac",
-    "CHS": "(Test1)秽蚀·狂乱暴徒",
-    "JA": "BriefName_Monster_MiasmaFrenziedManiac"
+    "EN": "Miasmic - Frenzied Maniac",
+    "desc": "A fallen creation, reshaped in profound darkness and impurity.\n\nUnfortunate souls mutated by the intense corruption of Ether matter within the Hollows. Due to a considerable degree of Ether aptitude and physical capability, their bodies have not been completely transformed by the Ether, retaining humanoid features but with enhanced mutant limbs that are more dangerous.\n\nJudging from the remnants of clothing and combat experience, likely once a senior gang member or Raider lurking in the Hollows.\n\nThese corrupted subjects, potentially due to their enhanced physiology or affinity for Ether matter, have developed formidable close combat abilities, making them even more menacing than the typical monsters found in the Hollow.\n\n\"Their weapons look very fancy... and kinda like they came as freebies.\"",
+    "KO": "미아즈믹·광분한 폭도",
+    "CHS": "秽蚀·狂乱暴徒",
+    "JA": "ミアズミック・狂乱暴徒"
   },
   "20027": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaTrinox.png",
@@ -665,47 +665,71 @@
     "tag2": [],
     "rarity": 2,
     "group": 203,
-    "EN": "BriefName_Monster_MiasmaTrinox",
-    "desc": "2.3 Placeholder",
-    "KO": "BriefName_Monster_MiasmaTrinox",
-    "CHS": "(Test1)秽蚀·特里诺斯",
-    "JA": "BriefName_Monster_MiasmaTrinox"
+    "EN": "Miasmic - Trinox",
+    "desc": "A fallen creation, reshaped in profound darkness and impurity.\n\nThe Hollow Investigative Association has been studying the mutation characteristics of Ethereal humanoid bodies.\n\nTrinox has consistently ranked in the top three of research popularity lists due to its seemingly deliberately designed triangular head structure. There were even rumors of mathematicians disguising themselves as investigators to infiltrate the Hollow just to witness Trinox firsthand.\n\nThe latest research results were published in \"Hollow Encyclopedia\" Issue 28, February Edition. According to subscribers, the article only discussed the aesthetic significance of Trinox's head structure.\n\nDissatisfied Hollow-related readers gave the article the lowest score of the issue on the magazine's website, with only a 34% approval rating currently.\n\n\"Trinox's head measurements are close to the ancient golden ratio!\"\n\n\"We're fighting the Ethereal, not hosting a beauty pageant for them, Professor.\"",
+    "KO": "미아즈믹·트리녹스",
+    "CHS": "秽蚀·特里诺斯",
+    "JA": "ミアズミック・トリノックス"
   },
   "20028": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SecurityUnitSoldier.png",
     "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 1,
-    "group": 202,
-    "EN": "BriefName_Monster_SecurityUnitSoldier",
-    "desc": "2.3 Placeholder",
-    "KO": "BriefName_Monster_SecurityUnitSoldier",
-    "CHS": "(Test1)秩序护卫",
-    "JA": "BriefName_Monster_SecurityUnitSoldier"
+    "group": 290,
+    "EN": "Security Enforcer",
+    "desc": "This civilian-grade Tactical Security Unit, replicated by security companies based on Public Security's Search Patrollers, has been modified in both firepower and technology to avoid potential technical reviews and copyright infringement claims.\n\nHowever, these modifications haven't diminished the combat capabilities of these security devices. Without budget constraints on manufacturing, the security companies used higher-grade but more expensive materials, significantly enhancing their usability and durability.\n\nThese devices became highly sought after by many commercial companies as soon as they hit the market.\n\n\"Hello, Security Enforcer at your service. Please select your desired patrol mode...\"\n\"Uh... you're saying it has over a hundred preset modes?!\"",
+    "KO": "질서 수호자",
+    "CHS": "秩序护卫",
+    "JA": "ルールキーパー  "
   },
   "20029": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SecurityUnitPatroller.png",
     "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 1,
-    "group": 202,
-    "EN": "BriefName_Monster_SecurityUnitPatroller",
-    "desc": "2.3 Placeholder",
-    "KO": "BriefName_Monster_SecurityUnitPatroller",
-    "CHS": "(Test1)巡逻者轻型",
-    "JA": "BriefName_Monster_SecurityUnitPatroller"
+    "group": 290,
+    "EN": "Light Patroller",
+    "desc": "Mass-produced security units have been put into use across many civilian sectors. With numerous advantages, including affordability, versatility, a revolutionary single-wheel dynamic balance system, and an integrated intelligent threat recognition core, they're suitable for security needs in various complex spaces.\n\n\"This Tactical Security Unit, having passed 47 rigorous tests, has been successfully deployed in core areas of 32 industrial parks. Client feedback shows an average 91% reduction in tresspassing rates. Trust us: you can use it for any security task you can imagine.\"",
+    "KO": "소형 순찰원",
+    "CHS": "巡逻者轻型",
+    "JA": "パトローラー・ライト  "
   },
   "20030": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_SecurityUnitLAAndroid.png",
     "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 1,
-    "group": 202,
-    "EN": "BriefName_Monster_SecurityUnitLAAndroid",
-    "desc": "2.3 Placeholder",
-    "KO": "BriefName_Monster_SecurityUnitLAAndroid",
-    "CHS": "(Test1)巡逻者中型",
-    "JA": "BriefName_Monster_SecurityUnitLAAndroid"
+    "group": 290,
+    "EN": "Medium Patroller",
+    "desc": "A mass-produced security unit manufactured by a security company, modified from Public Security's support combat mechs. Compared to the support combat mechs, some combat capabilities have been reduced, mainly relying on its large shield to suppress low-threat groups like rioters, maintaining order and guiding crowds during large events and special occasions.\n\nAccording to reports, some units were purchased and modified by illegal operators to create the Illegal Support Unit \"Enraged Sweeper.\" Some even went as far as posting reviews on the company's official website saying \"This quality is worse than the scrapped support mechs I picked up in the Hollow!\" and giving the product a one-star rating.\n\n\"These illegal modifications have nothing to do with our security company and are private modifications by users. We will fight to the end against such negative reviews... I mean, illegal activities...\"",
+    "KO": "중형 순찰원",
+    "CHS": "巡逻者中型",
+    "JA": "パトローラー・ミドル  "
+  },
+  "20031": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaWickedWraith.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 2,
+    "group": 203,
+    "EN": "BriefName_Monster_MiasmaWickedWraith",
+    "desc": "CardDesc_20031",
+    "KO": "BriefName_Monster_MiasmaWickedWraith",
+    "CHS": "(Test1)秽蚀·盛怒恶霸",
+    "JA": "BriefName_Monster_MiasmaWickedWraith"
+  },
+  "20032": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_IonizedPugnus.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 2,
+    "group": 201,
+    "EN": "BriefName_Monster_IonizedPugnus",
+    "desc": "CardDesc_20032",
+    "KO": "BriefName_Monster_IonizedPugnus",
+    "CHS": "(Test1)离子体·普格努斯",
+    "JA": "BriefName_Monster_IonizedPugnus"
   },
   "29999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
@@ -1135,7 +1159,7 @@
     "group": 290,
     "EN": "The Defiler",
     "desc": "The vengeful flames from beyond the river of the dead can never illuminate the path of those seeking revenge. The obsessed zealots who carved curses into sacred shrines now reaps the bitter fruit of their blasphemy.\n\nMiasma gathers beneath the towering spire as lost souls awaken from the Ether. In this ominous power steeped in filth and shadow, hatred takes form, coalescing into something tangible. Unbound by faith, untouched by justice, this profane force forges nothing but instruments of war, forged by vengeance and madness\n\nThe soil reeks with blood and sin, spreading ever onward... and finally reaches the end of this long, harrowing tale.\n\n\"If the ending cannot be perfect, then at least let it be written by my own hand.\"",
-    "KO": "「모독자」",
+    "KO": "「모독자��",
     "CHS": "「亵渎者」",
     "JA": "「冒涜者」"
   },
@@ -1145,11 +1169,11 @@
     "tag2": [],
     "rarity": 3,
     "group": 203,
-    "EN": "BriefName_Monster_Hayyot",
-    "desc": "2.3 Placeholder",
-    "KO": "BriefName_Monster_Hayyot",
-    "CHS": "(Test1)赫由托",
-    "JA": "BriefName_Monster_Hayyot"
+    "EN": "Haytor",
+    "desc": "A gaunt and eerie skeleton, bearing a pale, sharp \"Cape\"—another masterpiece from the Exaltists. When it comes to \"100 Ways to Integrate Humans into Hollows,\" their experimental enthusiasm is truly unmatched.\nThose who've encountered Hayyot believe these folks must be high-ranking Exaltist members; after all, even as Ethereals, they still couldn't resist creating some lackeys to boss around.\n\n\"I absolutely hate people like that!\"\n\n\"I bet they even say to their phantoms... 'I'm rather disappointed in you, as you could have done better; when I summoned you, I actually had higher expectations'?!\"",
+    "KO": "헤이토",
+    "CHS": "赫由托",
+    "JA": "ハイヨト"
   },
   "30040": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Norano.png",
@@ -1157,11 +1181,11 @@
     "tag2": [],
     "rarity": 3,
     "group": 290,
-    "EN": "BriefName_Monster_Norano",
-    "desc": "2.3 Placeholder",
-    "KO": "BriefName_Monster_Norano",
-    "CHS": "(Test1)新人形boss",
-    "JA": "BriefName_Monster_Norano"
+    "EN": "Drowned Ideal - Komano Manato",
+    "desc": "A phantom enemy that shouldn't exist and may never be encountered again, yet the pressure of its power feels all too real. While records of it will ultimately become part of the Association's simulation data, the young men and women who first ventured into the dream realm as its discoverers have a different understanding of its behavioral patterns.\n\n\"Is it just me, or does it look skinnier than Manato?\"",
+    "KO": "꿈잡이·코마노 마나토",
+    "CHS": "溺想体·狛野真斗",
+    "JA": "夢縋り・狛野真斗_JP3A"
   },
   "30041": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_WanderingHunter.png",
@@ -1169,11 +1193,47 @@
     "tag2": [],
     "rarity": 4,
     "group": 203,
-    "EN": "BriefName_Monster_WanderingHunter",
-    "desc": "2.3 placeholder",
-    "KO": "BriefName_Monster_WanderingHunter",
-    "CHS": "(Test1)彷徨猎手",
-    "JA": "BriefName_Monster_WanderingHunter"
+    "EN": "Wandering Hunter",
+    "desc": "A Corruption Complex with rich combat experience, equally skilled in offense and defense, moving with agility. It excels at lurking in hidden spots, launching the most efficient attacks targeting weak points.\n\nI should have recorded more - its behavioral patterns, the haunting song that follows it like a shadow, things like that... But let's leave it at that, just like the half-finished portrait in Lucia's book.\n\n\"Counting stars, one. Counting stars, two. Count to three, children hide away.\"",
+    "KO": "방황하는 사냥꾼",
+    "CHS": "彷徨猎手",
+    "JA": "ワンダリングハンター"
+  },
+  "30042": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Awakener.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 4,
+    "group": 290,
+    "EN": "BriefName_Monster_Awakener",
+    "desc": "CardDesc_30042",
+    "KO": "BriefName_Monster_Awakener",
+    "CHS": "(Test1)全新人形BOSS",
+    "JA": "BriefName_Monster_Awakener"
+  },
+  "30043": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Sobek.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 4,
+    "group": 290,
+    "EN": "BriefName_Monster_Sobek",
+    "desc": "CardDesc_30043",
+    "KO": "BriefName_Monster_Sobek",
+    "CHS": "(Test1)Boss秽息蚀者· 索贝克",
+    "JA": "BriefName_Monster_Sobek"
+  },
+  "30044": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_CovenantGuardian.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
+    "group": 290,
+    "EN": "BriefName_Monster_CovenantGuardian",
+    "desc": "CardDesc_30044",
+    "KO": "BriefName_Monster_CovenantGuardian",
+    "CHS": "(Test1)牲鬼·卫律使者",
+    "JA": "BriefName_Monster_CovenantGuardian"
   },
   "35001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Nineveh.png",
@@ -1494,7 +1554,7 @@
     "rarity": 1,
     "group": 290,
     "EN": "OfficialName_",
-    "desc": "Mass-produced security units have been put into use across many civilian sectors. With numerous advantages, including affordability, versatility, a revolutionary single-wheel dynamic balance system, and an integrated intelligent threat recognition core, they're suitable for security needs in various complex spaces.\n\n\"This Tactical Security Unit, having passed 47 rigorous tests, has been successfully deployed in core areas of 32 industrial parks. Client feedback shows an average 91% reduction in tresspassing rates. Trust us: you can use it for any security task you can imagine.\"",
+    "desc": "Highly maneuverable small autonomous mechs deployed by Public Security, equipped with inert Ether circular saws that also serve as assistant steering wheels for navigating complex terrains at high speeds.\nHowever, due to their rudimentary self-control programs, these lawnmowers occasionally cause unintended damage while executing their slicing attacks.\n\"Hey! Who the heck messed up my brand new car!?\"",
     "KO": "OfficialName_",
     "CHS": "OfficialName_",
     "JA": "OfficialName_"
@@ -1505,11 +1565,11 @@
     "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 290,
-    "EN": "OfficialName_Monster_Patroller",
+    "EN": "Light Patroller",
     "desc": "CardDesc_100132",
-    "KO": "OfficialName_Monster_Patroller",
-    "CHS": "(Test1)巡逻车",
-    "JA": "OfficialName_Monster_Patroller"
+    "KO": "「소형 순찰원」",
+    "CHS": "「巡逻者轻型」",
+    "JA": "「パトローラー・ライト」"
   },
   "100141": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MandrakePro.png",
@@ -1867,7 +1927,7 @@
     "group": 201,
     "EN": "Notorious - Armored Hati",
     "desc": "The Armored Hati is widely regarded as a formidable adversary by many experienced Hollow investigators.\nAlthough its armored shell limits its agility, it compensates with exceptional resistance to attacks.\nAdditionally, the corrupted material on its body forms sharp and hardened protrusions that can cause additional damage when an Armored Hati charges at high speeds.\nThis creature's agile movements, resilience to blows, and seamless armor compel even the most seasoned explorers to seek alternative routes to avoid direct confrontation.\nSome novice Hollow Raiders have attempted to lure Armored Hati away with pet food.\nHowever, these endeavors have proven futile.\n\"Run! It doesn't like this flavor of dog food!\"",
-    "KO": "노토리우스·무장 하티",
+    "KO": "노토리���스·무장 하티",
     "CHS": "恶名·装甲哈提",
     "JA": "要警戒・アーマーハティ"
   },
@@ -1930,18 +1990,6 @@
     "KO": "OfficialName_",
     "CHS": "OfficialName_",
     "JA": "OfficialName_"
-  },
-  "200062": {
-    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
-    "tag": ["Ether", "NotPro"],
-    "tag2": ["Metro", "SkyScraper"],
-    "rarity": 2,
-    "group": 204,
-    "EN": "Tactical Security Unit - Security Enforcer",
-    "desc": "This civilian-grade Tactical Security Unit, replicated by security companies based on Public Security's Search Patrollers, has been modified in both firepower and technology to avoid potential technical reviews and copyright infringement claims.\n\nHowever, these modifications haven't diminished the combat capabilities of these security devices. Without budget constraints on manufacturing, the security companies used higher-grade but more expensive materials, significantly enhancing their usability and durability.\n\nThese devices became highly sought after by many commercial companies as soon as they hit the market.\n\n\"Hello, Security Enforcer at your service. Please select your desired patrol mode...\"\n\"Uh... you're saying it has over a hundred preset modes?!\"",
-    "KO": "보안 전술 유닛·「질서 수호자」",
-    "CHS": "安保战术单位·「秩序护卫」",
-    "JA": "警備戦術ユニット・「ルールキーパー」"
   },
   "200071": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HeavyStrikerPro.png",
@@ -2452,7 +2500,7 @@
     "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
-    "group": 203,
+    "group": 290,
     "EN": "Miasmic - Doppelganger - The Defector",
     "desc": "A fallen creation, reforged in the depths of filth and gloom.\nEven among Ionized enemies known for their strange and uncanny qualities, Ionized Doppelgangers stand out as particularly exceptional.\nThese creatures cloak themselves in a special layer of active Ether ions, allowing them to precisely mimic the appearance of their targets — sometimes so accurately it's nearly impossible to tell the difference. From details to texture, they're masters at blurring the line between real and false.\nWhat makes them even more dangerous is their ability to replicate their targets' powerful combat techniques.\nNo one knows how they acquire such detailed intel of their targets. Some say they can read minds, pulling the perfect nightmare from their opponent's memory and taking that shape before launching their attack.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
     "KO": "미아즈믹·도플갱어·「변절자」",
@@ -2464,12 +2512,36 @@
     "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
+    "group": 201,
+    "EN": "Doppelganger Komano Manato",
+    "desc": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\n\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\n\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\n\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+    "KO": "도플갱어·코마노 마나토",
+    "CHS": "多佩冈亚·狛野真斗",
+    "JA": "ドッペルゲンガー・狛野真斗_JP3A"
+  },
+  "300402": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaNoranoSlime.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
     "group": 290,
-    "EN": "BriefName_Monster_NoranoEgo_Slime",
-    "desc": "2.3 Placeholder",
-    "KO": "BriefName_Monster_NoranoEgo_Slime",
-    "CHS": "(Test1)新人形boss",
-    "JA": "BriefName_Monster_NoranoEgo_Slime"
+    "EN": "Miasmic Komano Manato",
+    "desc": "CardDesc_300402",
+    "KO": "미아즈믹·코마노 마나토",
+    "CHS": "秽蚀·狛野真斗",
+    "JA": "ミアズミック・狛野真斗"
+  },
+  "300421": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_AwakenerSlime.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": [],
+    "rarity": 3,
+    "group": 290,
+    "EN": "BriefName_Monster_AwakenerSlime",
+    "desc": "CardDesc_300421",
+    "KO": "BriefName_Monster_AwakenerSlime",
+    "CHS": "(Test1)全新人形BOSS",
+    "JA": "BriefName_Monster_AwakenerSlime"
   },
   "930146": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGrey.png",
@@ -2599,7 +2671,7 @@
     "group": 203,
     "EN": "Vicious Striker",
     "desc": "Vicious Striker <color=#D9A600>has high HP</color>. Focus your fire on them.",
-    "KO": "악독한 싸움꾼",
+    "KO": "악독한 싸움��",
     "CHS": "恶毒打手",
     "JA": "悪辣討手"
   },
@@ -2914,5 +2986,29 @@
     "KO": "불꽃의 선창자",
     "CHS": "秉火领颂",
     "JA": "火を帯びし先導者"
+  },
+  "990167": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_FlameDreamer.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 2,
+    "group": 203,
+    "EN": "Flame Dreamer",
+    "desc": "CardDesc_990167",
+    "KO": "불꽃 환몽가",
+    "CHS": "秉火梦徒",
+    "JA": "火を帯びし夢見者  "
+  },
+  "990174": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_DreamingHymnist.png",
+    "tag": [],
+    "tag2": [],
+    "rarity": 1,
+    "group": 203,
+    "EN": "Dreaming Hymnist",
+    "desc": "CardDesc_990174",
+    "KO": "환몽 예찬자",
+    "CHS": "幻梦赞者",
+    "JA": "幻賛者  "
   }
 }

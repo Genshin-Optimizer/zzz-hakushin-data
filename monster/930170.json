@@ -132,7 +132,7 @@
   "GroupDesc": "Special",
   "CardObtain": "[Unidentified] Defeat this monster in Hollow Zero 1 time to obtain its data",
   "CardQuote": "— \"En-neh, en-nahn-ne-nah-nah!\"\n\"The god amongst Golden Bangboos stands tall!\"",
-  "CardSkillDesc": "Golden Mecha Mechboo with the newest Golden Armor system equipped. Upon activation of Golden Armor, it obtains maximum Shield, during which Ether RES is greatly increased and Electric RES is greatly decreased. The Golden Mecha Mechboo has an advanced air jet system that allows it to dodge and fly while attacking. However, flight can only last for a limited time.",
+  "CardSkillDesc": "",
   "ElementAbnormal": {
     "10001": 600,
     "10002": 600,

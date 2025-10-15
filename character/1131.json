@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3111310": {
+      "Name": "AvatarSkin_Aokaku_Name_000",
+      "Desc": "AvatarSkin_Aokaku_Desc_000",
+      "Image": "IconRole17"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

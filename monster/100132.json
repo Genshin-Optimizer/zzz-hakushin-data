@@ -5,7 +5,7 @@
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_PatrollerPro.png",
   "Tag": ["Ether", "Pro"],
   "Tag2": ["Metro", "SkyScraper"],
-  "Name": "OfficialName_Monster_Patroller",
+  "Name": "Light Patroller",
   "Desc": "CardDesc_100132",
   "Rarity": 1,
   "GroupId": 290,

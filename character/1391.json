@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3113910": {
+      "Name": "AvatarSkin_Jufufu_Name_000",
+      "Desc": "AvatarSkin_Jufufu_Desc_000",
+      "Image": "IconRole43"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

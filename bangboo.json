@@ -169,6 +169,16 @@
     "CHS": "骑士布",
     "JA": "キシドウボンプ"
   },
+  "53019": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole41.png",
+    "rank": 3,
+    "codename": "Bangboo_Name_en_53019",
+    "EN": "Bangboo_Name_53019",
+    "desc": "Bangboo_Desc_53019",
+    "KO": "Bangboo_Name_53019",
+    "CHS": "Bangboo_Name_53019",
+    "JA": "Bangboo_Name_53019"
+  },
   "54001": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole07.png",
     "rank": 4,
@@ -338,5 +348,15 @@
     "KO": "「머큐리」",
     "CHS": "「墨丘利」",
     "JA": "「マーキュリー」"
+  },
+  "54020": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole42.png",
+    "rank": 4,
+    "codename": "Bangboo_Name_en_54020",
+    "EN": "Bangboo_Name_54020",
+    "desc": "Bangboo_Desc_54020",
+    "KO": "Bangboo_Name_54020",
+    "CHS": "Bangboo_Name_54020",
+    "JA": "Bangboo_Name_54020"
   }
 }

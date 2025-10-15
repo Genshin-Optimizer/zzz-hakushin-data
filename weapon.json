@@ -434,8 +434,8 @@
     "rank": 3,
     "type": 6,
     "EN": "Grill O'Wisp",
-    "desc": "Item_Weapon_A_1441_ShortDesc",
-    "KO": "Item_Weapon_A_1441_Name",
+    "desc": "...",
+    "KO": "어스름한 밤의 화염",
     "CHS": "燔火胧夜",
     "JA": "燔火の朧夜"
   },
@@ -494,8 +494,8 @@
     "rank": 4,
     "type": 6,
     "EN": "Kraken's Cradle",
-    "desc": "Item_Weapon_S_1051_ShortDesc",
-    "KO": "Item_Weapon_S_1051_Name",
+    "desc": "...",
+    "KO": "크라켄의 요람",
     "CHS": "海妖摇篮",
     "JA": "セイレーンクレードル"
   },
@@ -557,7 +557,7 @@
     "desc": "Modified by Burnice, this W-Engine uses a special fuel as its power source to boost combustion performance to the max.",
     "KO": "타오르는 셰이커",
     "CHS": "灼心摇壶",
-    "JA": "バーニング・シェイカー"
+    "JA": "バー��ング・シェイカー"
   },
   "14118": {
     "icon": "Weapon_S_1181",
@@ -625,7 +625,7 @@
     "type": 2,
     "EN": "Ice-Jade Teapot",
     "desc": "A custom stun W-Engine made for an Automaton referencing the combat style and abilities of one. Energy is stored within, then lashes outwards upon conversion.",
-    "KO": "맑은 옥주전자",
+    "KO": "맑��� 옥주전자",
     "CHS": "玉壶青冰",
     "JA": "玉壺青氷"
   },
@@ -665,7 +665,7 @@
     "type": 4,
     "EN": "Elegant Vanity",
     "desc": "Underneath the radiant splendor, her genuine self has never been hidden.",
-    "KO": "우아한 베니티백",
+    "KO": "우아한 베니티���",
     "CHS": "玲珑妆匣",
     "JA": "優美のヴァニティ"
   },
@@ -717,7 +717,7 @@
     "desc": "The sheen of silver is not innocence. Can the blades of the past cut through fate's connections?",
     "KO": "순결한 희생",
     "CHS": "牺牲洁纯",
-    "JA": "純然たる��牲"
+    "JA": "純然たる犠牲"
   },
   "14139": {
     "icon": "Weapon_S_1391",
@@ -754,8 +754,8 @@
     "rank": 4,
     "type": 4,
     "EN": "Dreamlit Hearth",
-    "desc": "Item_Weapon_S_1451_ShortDesc",
-    "KO": "Item_Weapon_S_1451_Name",
+    "desc": "...",
+    "KO": "꿈을 빚는 용광로의 노래",
     "CHS": "铸梦炉歌",
     "JA": "炉で歌い上げられる夢"
   },

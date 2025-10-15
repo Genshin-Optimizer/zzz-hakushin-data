@@ -11,7 +11,13 @@
   "Camp": { "5": "New Eridu Defense Force" },
   "Gender": 2,
   "PartnerInfo": {},
-  "Skin": {},
+  "Skin": {
+    "3113810": {
+      "Name": "AvatarSkin_SilverAnby_Name_000",
+      "Desc": "AvatarSkin_SilverAnby_Desc_000",
+      "Image": "IconRole40"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,
@@ -222,7 +228,12 @@
         {
           "Name": "Basic Attack: Penetrating Shock",
           "Desc": "Press <IconMap:Icon_Normal> to activate:\nPerform up to five slashes ahead, dealing <color=#2EB6FF>Electric DMG</color>. After the 4th attack hits the enemy, repeatedly press or hold <IconMap:Icon_Normal> to quickly pass through enemies in front up to 5 times.",
-          "Potential": []
+          "Potential": [0]
+        },
+        {
+          "Name": "Basic Attack: Penetrating Shock",
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nPerform up to five slashes ahead, dealing <color=#2EB6FF>Electric DMG</color>.\nOn the 3rd hit of the Basic Attack, enemies are continuously pulled in.\nAfter the 4th attack hits the enemy, repeatedly press or hold <IconMap:Icon_Normal> to quickly pass through enemies in front up to 5 times.",
+          "Potential": [138100]
         },
         {
           "Name": "Basic Attack: Penetrating Shock",
@@ -303,7 +314,33 @@
                   "EtherPurify": 6528
                 }
               },
-              "Potential": []
+              "Potential": [0]
+            },
+            {
+              "Name": "3rd-Hit DMG Multiplier",
+              "Desc": "{Skill:1381022, Prop:1001}",
+              "Param": {
+                "1381022": {
+                  "Main": 10010,
+                  "Growth": 910,
+                  "Format": "%",
+                  "DamagePercentage": 10010,
+                  "DamagePercentageGrowth": 910,
+                  "StunRatio": 7700,
+                  "StunRatioGrowth": 350,
+                  "SpRecovery": 25200,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 192500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6999,
+                  "SpConsume": 0,
+                  "AttackData": [80766],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7000
+                }
+              },
+              "Potential": [138100]
             },
             {
               "Name": "3rd-Hit Finisher DMG Multiplier",
@@ -459,7 +496,33 @@
                   "EtherPurify": 6528
                 }
               },
-              "Potential": []
+              "Potential": [0]
+            },
+            {
+              "Name": "3rd-Hit Daze Multiplier",
+              "Desc": "{Skill:1381022, Prop:1002}",
+              "Param": {
+                "1381022": {
+                  "Main": 7700,
+                  "Growth": 350,
+                  "Format": "%",
+                  "DamagePercentage": 10010,
+                  "DamagePercentageGrowth": 910,
+                  "StunRatio": 7700,
+                  "StunRatioGrowth": 350,
+                  "SpRecovery": 25200,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 192500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6999,
+                  "SpConsume": 0,
+                  "AttackData": [80766],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7000
+                }
+              },
+              "Potential": [138100]
             },
             {
               "Name": "3rd-Hit Finisher Daze Multiplier",
@@ -573,7 +636,12 @@
         {
           "Name": "Dodge Counter: Ground Flash Counter",
           "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nRepeatedly slash enemies in front, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
-          "Potential": []
+          "Potential": [0]
+        },
+        {
+          "Name": "Dodge Counter: Ground Flash Counter",
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nPerform consecutive slashes at enemies in front, dealing <color=#2EB6FF>Electric DMG</color>. On hit, gain the Voltage Overload state for 15s. Repeated triggers refresh the duration.\nWhile in the Voltage Overload state, dodge performance is enhanced. Additionally, when using Basic Attack/Dash Attack/Dodge Counter, if the enemy target has <color=#FFFFFF>White Thunder</color>, pressing <IconMap:Icon_Special> will immediately cancel the current skill and launch <color=#FFFFFF>Special Attack: Azure Flash</color>.\nWhile in this state, if the enemy does not have <color=#FFFFFF>White Thunder</color>, press <IconMap:Icon_SpecialReady> to directly launch EX Special Attack: Sundering Bolt.\nCharacter is invulnerable while using this skill.",
+          "Potential": [138100]
         },
         {
           "Name": "Dash Attack: Torrent",
@@ -723,6 +791,11 @@
           "Name": "Special Attack: Thunder Smite",
           "Desc": "When the additional damage from <color=#FFFFFF>White Thunder</color> triggers 3 times on the same enemy:\nA lightning strike will fall at the enemy's location, dealing <color=#2EB6FF>Electric DMG</color> to enemies within range.\nThis DMG is considered <color=#FFFFFF>Aftershock</color> DMG.",
           "Potential": []
+        },
+        {
+          "Name": "Special Attack: Azure Flash - Boundary",
+          "Desc": "When <color=#FFFFFF>Special Attack: Thunder Smite</color> DMG is triggered:\nIf <color=#FFFFFF>EX Special Attack: Sundering Bolt</color> or <color=#FFFFFF>Special Attack: Azure Flash</color> is currently being used, then <color=#FFFFFF>Special Attack: Azure Flash - Boundary</color> will automatically trigger when the current skill ends, unleashing a flurry of slashes that deal multiple instances of <color=#2EB6FF>Electric DMG</color>. This skill counts as an <color=#FFFFFF>Aftershock</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": [138100]
         },
         {
           "Name": "EX Special Attack: Sundering Bolt",
@@ -954,6 +1027,64 @@
             }
           ],
           "Potential": []
+        },
+        {
+          "Name": "Special Attack: Azure Flash - Boundary",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1381023, Prop:1001}",
+              "Param": {
+                "1381023": {
+                  "Main": 24940,
+                  "Growth": 2270,
+                  "Format": "%",
+                  "DamagePercentage": 24940,
+                  "DamagePercentageGrowth": 2270,
+                  "StunRatio": 9540,
+                  "StunRatioGrowth": 440,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 238425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 8666,
+                  "SpConsume": 0,
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 8667
+                }
+              },
+              "Potential": [138100]
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1381023, Prop:1002}",
+              "Param": {
+                "1381023": {
+                  "Main": 9540,
+                  "Growth": 440,
+                  "Format": "%",
+                  "DamagePercentage": 24940,
+                  "DamagePercentageGrowth": 2270,
+                  "StunRatio": 9540,
+                  "StunRatioGrowth": 440,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 238425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 8666,
+                  "SpConsume": 0,
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 8667
+                }
+              },
+              "Potential": [138100]
+            }
+          ],
+          "Potential": [138100]
         },
         {
           "Name": "EX Special Attack: Sundering Bolt",
@@ -1508,7 +1639,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1381502": {
         "Level": 2,
@@ -1522,7 +1653,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1381503": {
         "Level": 3,
@@ -1536,7 +1667,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1381504": {
         "Level": 4,
@@ -1550,7 +1681,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1381505": {
         "Level": 5,
@@ -1564,7 +1695,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1381506": {
         "Level": 6,
@@ -1578,7 +1709,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1381507": {
         "Level": 7,
@@ -1592,7 +1723,105 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
+      },
+      "1381508": {
+        "Level": 1,
+        "Id": 1381508,
+        "Name": [
+          "Core Passive: Voltage Gap",
+          "Additional Ability: Voltage Surge"
+        ],
+        "Desc": [
+          "Soldier 0 - Anby deals <color=#2BAD00>12.5%</color> more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>. When an enemy is afflicted with <color=#FFFFFF>Silver Star</color>, they take additional CRIT DMG from <color=#FFFFFF>Aftershocks</color>, equal to <color=#2BAD00>15%</color> of Soldier 0 - Anby's CRIT DMG. When marked with a Silver Star, DMG from allies' <color=#FFFFFF>Aftershocks</color> builds <color=#FFFFFF> Silver Star</color> charge on the enemy. This effect can trigger once every 5s.\nThe Aftershock CRIT DMG bonus from Silver Star is further increased by 5% of Soldier 0 - Anby's CRIT DMG. When an enemy afflicted with <color=#FFFFFF>White Thunder</color> is defeated, automatically unleash <color=#FFFFFF>Special Attack: Thunder Smite</color> on the nearest enemy target.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": [138100]
+      },
+      "1381509": {
+        "Level": 2,
+        "Id": 1381509,
+        "Name": [
+          "Core Passive: Voltage Gap",
+          "Additional Ability: Voltage Surge"
+        ],
+        "Desc": [
+          "Soldier 0 - Anby deals <color=#2BAD00>14.5%</color> more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>. When an enemy is afflicted with <color=#FFFFFF>Silver Star</color>, they take additional CRIT DMG from <color=#FFFFFF>Aftershocks</color>, equal to <color=#2BAD00>17.5%</color> of Soldier 0 - Anby's CRIT DMG. When marked with a Silver Star, DMG from allies' <color=#FFFFFF>Aftershocks</color> builds <color=#FFFFFF> Silver Star</color> charge on the enemy. This effect can trigger once every 5s.\nThe Aftershock CRIT DMG bonus from Silver Star is further increased by 5% of Soldier 0 - Anby's CRIT DMG. When an enemy afflicted with <color=#FFFFFF>White Thunder</color> is defeated, automatically unleash <color=#FFFFFF>Special Attack: Thunder Smite</color> on the nearest enemy target.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": [138100]
+      },
+      "1381510": {
+        "Level": 3,
+        "Id": 1381510,
+        "Name": [
+          "Core Passive: Voltage Gap",
+          "Additional Ability: Voltage Surge"
+        ],
+        "Desc": [
+          "Soldier 0 - Anby deals <color=#2BAD00>16.5%</color> more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>. When an enemy is afflicted with <color=#FFFFFF>Silver Star</color>, they take additional CRIT DMG from <color=#FFFFFF>Aftershocks</color>, equal to <color=#2BAD00>20%</color> of Soldier 0 - Anby's CRIT DMG. When marked with a Silver Star, DMG from allies' <color=#FFFFFF>Aftershocks</color> builds <color=#FFFFFF> Silver Star</color> charge on the enemy. This effect can trigger once every 5s.\nThe Aftershock CRIT DMG bonus from Silver Star is further increased by 5% of Soldier 0 - Anby's CRIT DMG. When an enemy afflicted with <color=#FFFFFF>White Thunder</color> is defeated, automatically unleash <color=#FFFFFF>Special Attack: Thunder Smite</color> on the nearest enemy target.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": [138100]
+      },
+      "1381511": {
+        "Level": 4,
+        "Id": 1381511,
+        "Name": [
+          "Core Passive: Voltage Gap",
+          "Additional Ability: Voltage Surge"
+        ],
+        "Desc": [
+          "Soldier 0 - Anby deals <color=#2BAD00>18.8%</color> more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>. When an enemy is afflicted with <color=#FFFFFF>Silver Star</color>, they take additional CRIT DMG from <color=#FFFFFF>Aftershocks</color>, equal to <color=#2BAD00>22.5%</color> of Soldier 0 - Anby's CRIT DMG. When marked with a Silver Star, DMG from allies' <color=#FFFFFF>Aftershocks</color> builds <color=#FFFFFF> Silver Star</color> charge on the enemy. This effect can trigger once every 5s.\nThe Aftershock CRIT DMG bonus from Silver Star is further increased by 5% of Soldier 0 - Anby's CRIT DMG. When an enemy afflicted with <color=#FFFFFF>White Thunder</color> is defeated, automatically unleash <color=#FFFFFF>Special Attack: Thunder Smite</color> on the nearest enemy target.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": [138100]
+      },
+      "1381512": {
+        "Level": 5,
+        "Id": 1381512,
+        "Name": [
+          "Core Passive: Voltage Gap",
+          "Additional Ability: Voltage Surge"
+        ],
+        "Desc": [
+          "Soldier 0 - Anby deals <color=#2BAD00>20.8%</color> more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>. When an enemy is afflicted with <color=#FFFFFF>Silver Star</color>, they take additional CRIT DMG from <color=#FFFFFF>Aftershocks</color>, equal to <color=#2BAD00>25%</color> of Soldier 0 - Anby's CRIT DMG. When marked with a Silver Star, DMG from allies' <color=#FFFFFF>Aftershocks</color> builds <color=#FFFFFF> Silver Star</color> charge on the enemy. This effect can trigger once every 5s.\nThe Aftershock CRIT DMG bonus from Silver Star is further increased by 5% of Soldier 0 - Anby's CRIT DMG. When an enemy afflicted with <color=#FFFFFF>White Thunder</color> is defeated, automatically unleash <color=#FFFFFF>Special Attack: Thunder Smite</color> on the nearest enemy target.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": [138100]
+      },
+      "1381513": {
+        "Level": 6,
+        "Id": 1381513,
+        "Name": [
+          "Core Passive: Voltage Gap",
+          "Additional Ability: Voltage Surge"
+        ],
+        "Desc": [
+          "Soldier 0 - Anby deals <color=#2BAD00>23%</color> more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>. When an enemy is afflicted with <color=#FFFFFF>Silver Star</color>, they take additional CRIT DMG from <color=#FFFFFF>Aftershocks</color>, equal to <color=#2BAD00>27.5%</color> of Soldier 0 - Anby's CRIT DMG. When marked with a Silver Star, DMG from allies' <color=#FFFFFF>Aftershocks</color> builds <color=#FFFFFF> Silver Star</color> charge on the enemy. This effect can trigger once every 5s.\nThe Aftershock CRIT DMG bonus from Silver Star is further increased by 5% of Soldier 0 - Anby's CRIT DMG. When an enemy afflicted with <color=#FFFFFF>White Thunder</color> is defeated, automatically unleash <color=#FFFFFF>Special Attack: Thunder Smite</color> on the nearest enemy target.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": [138100]
+      },
+      "1381514": {
+        "Level": 7,
+        "Id": 1381514,
+        "Name": [
+          "Core Passive: Voltage Gap",
+          "Additional Ability: Voltage Surge"
+        ],
+        "Desc": [
+          "Soldier 0 - Anby deals <color=#2BAD00>25%</color> more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>. When an enemy is afflicted with <color=#FFFFFF>Silver Star</color>, they take additional CRIT DMG from <color=#FFFFFF>Aftershocks</color>, equal to <color=#2BAD00>30%</color> of Soldier 0 - Anby's CRIT DMG. When marked with a Silver Star, DMG from allies' <color=#FFFFFF>Aftershocks</color> builds <color=#FFFFFF> Silver Star</color> charge on the enemy. This effect can trigger once every 5s.\nThe Aftershock CRIT DMG bonus from Silver Star is further increased by 5% of Soldier 0 - Anby's CRIT DMG. When an enemy afflicted with <color=#FFFFFF>White Thunder</color> is defeated, automatically unleash <color=#FFFFFF>Special Attack: Thunder Smite</color> on the nearest enemy target.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
+        ],
+        "ExtraProperty": {},
+        "Potential": [138100]
       }
     },
     "Materials": {
@@ -1614,7 +1843,7 @@
     "2": {
       "Level": 2,
       "Name": "Fail-Safe Protocol",
-      "Desc": "Soldier 0 - Anby's CRIT Rate increases by 12%. When she uses her <color=#FFFFFF>Ultimate</color>, she gains 6 stacks of <color=#FFFFFF>Thunder's Cry</color> (max 6 stacks). With <color=#FFFFFF>Thunder's Cry</color>, when using <color=#FFFFFF>Special Attack: Azure Flash</color> to hit an enemy with <color=#FFFFFF>White Thunder</color>, it will consume 1 stack of <color=#FFFFFF>Thunder's Cry</color> instead. Only 1 stack of <color=#FFFFFF>Thunder's Cry</color> will be consumed when a single use of a skill hits multiple enemies, and consuming <color=#FFFFFF>Thunder's Cry</color> will still activate the additional DMG from <color=#FFFFFF>White Thunder</color>.",
+      "Desc": "Soldier 0 - Anby's CRIT Rate increases by 12%. When she uses her <color=#FFFFFF>Ultimate</color>, she gains 6 stacks of <color=#FFFFFF>Thunder's Cry</color> (max 6 stacks). With <color=#FFFFFF>Thunder's Cry</color>, when using <color=#FFFFFF>Special Attack: Azure Flash</color> to hit an enemy with <color=#FFFFFF>White Thunder</color>, it will consume 1 stack of <color=#FFFFFF>Thunder's Cry</color> instead. Only 1 stack of <color=#FFFFFF>Thunder's Cry</color> will be consumed when a single use of a skill hits multiple enemies, and consuming <color=#FFFFFF>Thunder's Cry</color> will still activate the additional DMG from <color=#FFFFFF>White Thunder</color>.\nAfter activating potential, every 3 stacks of <color=#FFFFFF>Thunder's Cry</color> consumed, the next Special Attack: Azure Flash - Boundary will be activated faster.",
       "Desc2": "\"What's wrong? You look really tired.\"\n\"I'm... fine.\"\n\"If you need help, just say the word.\""
     },
     "3": {
@@ -1671,5 +1900,5 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
-  "Potential": []
+  "Potential": [138100]
 }

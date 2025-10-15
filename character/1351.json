@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3113510": {
+      "Name": "AvatarSkin_Pulchra_Name_000",
+      "Desc": "AvatarSkin_Pulchra_Desc_000",
+      "Image": "IconRole38"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

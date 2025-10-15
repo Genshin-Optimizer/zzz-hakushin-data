@@ -34,7 +34,7 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": { "3112010": { "Name": "", "Desc": "", "Image": "IconRole35" } },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

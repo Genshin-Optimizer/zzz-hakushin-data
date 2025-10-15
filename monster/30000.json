@@ -244,7 +244,7 @@
       "Id": 41021,
       "CodeName": "Monster_DurahanGrey_TurnBased",
       "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/Monster_Durahan.png",
-      "Tag": ["Ether", "Demote", "Middle", "Grey"],
+      "Tag": ["Ether", "Demote", "Middle", "Grey", "Elite"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -254,8 +254,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 1100,
-        "Attack": 288,
+        "Hp": 1200,
+        "Attack": 280,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -278,7 +278,7 @@
         "ResistBreakLevel": 1,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
-        "FrozenTimeRes": 5000,
+        "FrozenTimeRes": 0,
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,
@@ -363,7 +363,7 @@
       "Id": 41022,
       "CodeName": "Monster_DurahanRed_TurnBased",
       "Icon": "UI/Sprite/A1DynamicLoad/Activity/Ver2_3/MonsterFantasy/Packer/MonsterAvatar/Monster_Durahan.png",
-      "Tag": ["Ether", "Demote", "Middle", "Red"],
+      "Tag": ["Ether", "Demote", "Middle", "Red", "Elite"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -373,8 +373,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 2723,
-        "Attack": 191,
+        "Hp": 2000,
+        "Attack": 240,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -397,7 +397,7 @@
         "ResistBreakLevel": 1,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
-        "FrozenTimeRes": 5000,
+        "FrozenTimeRes": 0,
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,

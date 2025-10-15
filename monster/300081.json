@@ -135,8 +135,8 @@
         "Physical": 0
       },
       "Stats": {
-        "Hp": 10890,
-        "Attack": 227,
+        "Hp": 4000,
+        "Attack": 256,
         "Defence": 0,
         "Crit": 0,
         "CritDamage": 0,
@@ -159,7 +159,7 @@
         "ResistBreakLevel": 2,
         "ResistBreakLevelCorrectionFactor": 10000,
         "ResistBreakLevelProbability": 0,
-        "FrozenTimeRes": 7500,
+        "FrozenTimeRes": 0,
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,

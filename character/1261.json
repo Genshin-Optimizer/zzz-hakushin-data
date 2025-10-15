@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3112610": {
+      "Name": "AvatarSkin_JaneDoe_Name_000",
+      "Desc": "AvatarSkin_JaneDoe_Desc_000",
+      "Image": "IconRole24"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

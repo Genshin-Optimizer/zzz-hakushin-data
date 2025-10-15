@@ -34,7 +34,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3110710": {
+      "Name": "AvatarSkin_Caesar_Name_000",
+      "Desc": "AvatarSkin_Caesar_Desc_000",
+      "Image": "IconRole25"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

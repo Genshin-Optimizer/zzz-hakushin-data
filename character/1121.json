@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3111210": {
+      "Name": "AvatarSkin_Ben_Name_000",
+      "Desc": "AvatarSkin_Ben_Desc_000",
+      "Image": "IconRole16"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,
