@@ -78,7 +78,7 @@
     "hit": 101,
     "camp": 5,
     "icon": "IconRole05",
-    "potential": [],
+    "potential": [104100, 104101, 104102, 104103, 104104, 104105],
     "EN": "Soldier 11",
     "skin": {
       "3110410": {
@@ -109,7 +109,7 @@
         "Image": "IconRole52"
       }
     },
-    "desc": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. She is, after all, a gifted writer of strange tales, so it's only natural she might lose herself in the fantasy worlds she builds.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
+    "desc": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. As a gifted writer of bizarre tales, Yidhari should be more prone than most to immersing herself in the worlds of her own imagination.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
     "KO": "이드하리",
     "CHS": "伊德海莉",
     "JA": "イドリー"
@@ -191,13 +191,7 @@
     "potential": [],
     "EN": "Miyabi",
     "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
-    "skin": {
-      "3110910": {
-        "Name": "",
-        "Desc": "",
-        "Image": "IconRole13"
-      }
-    },
+    "skin": { "3110910": { "Name": "", "Desc": "", "Image": "IconRole13" } },
     "desc": "Hoshimi Miyabi, the Chief of Hollow Special Operations Section 6.\nMiyabi goes on a lot of field missions and still doesn't know which floor the regular monthly meeting is on.\nEven if you see Miyabi in the office, it's unlikely she's dealing with paperwork, and more likely polishing her sword.\n\nBeing conferred the title of Void Hunter due to her outstanding contributions, she's an elite amongst elites in Section 6.\nShe has great prestige amongst the citizens.\nOnce, Miyabi accidentally wandered into a \"Miyabi Fan Club\" hosted offline event.\nMiyabi was thought to be a fan with godlike impersonation skills, and that event resulted in a precious visual recording.\n\nHoshimi Miyabi is honest and pragmatic. She is not simply a martial artist obsessed with her art and without care for the world around her.\nAnyone who knows her will realize she's always pursued justice in her heart... even if it may eventually cause a revolution.",
     "KO": "미야비",
     "CHS": "雅",
@@ -345,13 +339,7 @@
     "icon": "IconRole26",
     "potential": [],
     "EN": "Lighter",
-    "skin": {
-      "3111610": {
-        "Name": "",
-        "Desc": "",
-        "Image": "IconRole26"
-      }
-    },
+    "skin": { "3111610": { "Name": "", "Desc": "", "Image": "IconRole26" } },
     "desc": "Lighter, the Champion of the Sons of Calydon and an ex-mercenary.\nIn the Outer Ring, the Champion of a team refers to the one responsible for dealing with the opponent's strongest fighter in a gang fight, and they often need to participate in one-on-one duels. Their victory is crucial, as it brings glory and morale to the entire team.\n\"The Champion can perish, but cannot lose.\"\n\nA red scarf is what identifies the Champion of the Sons of Calydon.\nEven if the opponent doesn't know Lighter, they'll know who he is just from seeing that red scarf.\n\nFrom what is currently known, Lighter is actually very low profile. He only steals the spotlight on the battlefield when he acts on his obligations as Champion.\nNote: Lighter is the second Red Scarf of the Sons of Calydon. He teasingly refers to the previous Red Scarf as \"Brother\" or \"predecessor.\"",
     "KO": "라이터",
     "CHS": "莱特",
@@ -365,7 +353,7 @@
     "hit": 103,
     "camp": 4,
     "icon": "IconRole32",
-    "potential": [],
+    "potential": [117100, 117101, 117102, 117103, 117104, 117105],
     "EN": "Burnice",
     "skin": {
       "3111710": {
@@ -387,7 +375,7 @@
     "hit": 103,
     "camp": 3,
     "icon": "IconRole20",
-    "potential": [],
+    "potential": [118100, 118101, 118102, 118103, 118104, 118105],
     "EN": "Grace",
     "skin": {
       "3111810": {
@@ -409,9 +397,7 @@
     "hit": 101,
     "camp": 2,
     "icon": "IconRole21",
-    "potential": [
-      119100
-    ],
+    "potential": [119100, 119101, 119102, 119103, 119104, 119105],
     "EN": "Ellen",
     "skin": {
       "3111910": {
@@ -440,13 +426,7 @@
     "icon": "IconRole35",
     "potential": [],
     "EN": "Harumasa",
-    "skin": {
-      "3112010": {
-        "Name": "",
-        "Desc": "",
-        "Image": "IconRole35"
-      }
-    },
+    "skin": { "3112010": { "Name": "", "Desc": "", "Image": "IconRole35" } },
     "desc": "Asaba Harumasa, a member of Hollow Special Operations Section 6.\nPossessing exceptional Ether aptitude since he was young and being dubbed a prodigy, he entered HSO after graduating with outstanding merit.\nWas originally a member of a certain ace division within HSO, but later left due to various reasons, joining Miyabi's team instead.\n\nHe possesses a carefree and laidback attitude, and his only wish is to achieve acceptable results with minimum effort.\nAfter efficiently taking care of his work to the lowest acceptable standard, he will hurry to use all the remainder of his available time to rest (slack off).\nHe claims he uses a bow to better slack off, as it effectively lowers the amount of running he has to do.\n\nAsaba Harumasa has poor health, and over-exercise sometimes triggers his illness.\nHe often uses this reason to apply for sick leave, though no one knows what he does with this time off. Either way, it's probably not resting.",
     "KO": "하루마사",
     "CHS": "悠真",
@@ -484,13 +464,7 @@
     "icon": "IconRole31",
     "potential": [],
     "EN": "Yanagi",
-    "skin": {
-      "3112210": {
-        "Name": "",
-        "Desc": "",
-        "Image": "IconRole31"
-      }
-    },
+    "skin": { "3112210": { "Name": "", "Desc": "", "Image": "IconRole31" } },
     "desc": "Tsukishiro Yanagi, Hollow Special Operations Section 6 Deputy Chief and intelligence officer.\nPrimarily responsible for personnel management, mission management and feedback, collecting intel, on-site support, etc.\nAt the same time, Yanagi is also Section 6 member Soukaku's Protector. Apart from taking care of Soukaku's day-to-day affairs, she is also responsible for and takes responsibility for all of Soukaku's behavior at work.\n\nSection 6 Chief Hoshimi Miyabi possesses a rather eccentric personality; Asaba Harumasa, a member of Section 6, is overly relaxed and carefree; and Soukaku, another member of Section, 6 is still an innocent and excitable child, so most of the team's work falls upon Yanagi's shoulders.\nSerious, diligent, and meticulous, Tsukishiro Yanagi is the only \"normal\" person on the team, so to speak. It is only due to her guidance and leadership that the strength of the three who make up Section 6's primary on-field force can be transformed into true combat power.\nOverall, Tsukishiro Yanagi is a talented and highly efficient executive officer, whose abilities are both exceptional and comprehensive.\nHowever, from certain data, Tsukishiro Yanagi appears to have a somewhat clumsy side to her when it comes to day-to-day affairs.",
     "KO": "야나기",
     "CHS": "柳",
@@ -726,6 +700,28 @@
     "CHS": "薇薇安",
     "JA": "ビビアン"
   },
+  "1341": {
+    "code": "Avatar_Female_Size00_XiaoZhao_En",
+    "rank": 4,
+    "type": 5,
+    "element": 202,
+    "hit": 101,
+    "camp": 12,
+    "icon": "IconRole56",
+    "potential": [],
+    "EN": "Avatar_Female_Size00_XiaoZhao",
+    "skin": {
+      "3113410": {
+        "Name": "AvatarSkin_XiaoZhao_Name_000",
+        "Desc": "AvatarSkin_XiaoZhao_Desc_000",
+        "Image": "IconRole01"
+      }
+    },
+    "desc": "Partner_ProfileDesc_1341",
+    "KO": "Avatar_Female_Size00_XiaoZhao",
+    "CHS": "照",
+    "JA": "Avatar_Female_Size00_XiaoZhao"
+  },
   "1351": {
     "code": "Pulchra",
     "rank": 3,
@@ -767,7 +763,7 @@
     },
     "desc": "Trigger is a sniper of New Eridu Defense Force, Obsidian Division's Obol Squad. Trigger is the code name she was assigned when enlisting in Eridu, and she's used it ever since.\n\nShe has extremely unique eyes. While she cannot see most things, in Hollow environments, she can distinctly identify the position and changes of any entities that emit Ether fluctuations. Note: Such entities include living beings, native Ether substances, Ether products, and Ethereals.\n\nAs a visually challenged person in the broadest sense, Trigger has honed her other senses to the utmost, allowing her to move and act as if she could see. She can even detect subtle changes in her environment with precision. This makes her highly adept in the tactical position of a sniper, capable of handling a variety of covert tasks such as stealth, surveillance, and assassination.\n\nIn contrast to her precise and deadly combat abilities, her personality makes her seem rather unassuming. Aside from occasionally appearing silently in the video store and giving the Second Assistant a sudden scare, she can generally be considered harmless.",
     "KO": "「트리거」",
-    "CHS": "「扳机���",
+    "CHS": "「扳机」",
     "JA": "「トリガー」"
   },
   "1371": {
@@ -806,9 +802,7 @@
     "hit": 101,
     "camp": 5,
     "icon": "IconRole40",
-    "potential": [
-      138100
-    ],
+    "potential": [138100, 138101, 138102, 138103, 138104, 138105],
     "EN": "Soldier 0 - Anby",
     "skin": {
       "3113810": {
@@ -920,6 +914,29 @@
     "CHS": "潘引壶",
     "JA": "潘引壺"
   },
+  "1431": {
+    "code": "Avatar_Female_Size02_Zhenzhen_En",
+    "rank": 4,
+    "type": 1,
+    "element": 200,
+    "hit": 101,
+    "camp": 10,
+    "icon": "IconRole55",
+    "potential": [],
+    "EN": "Ye Shunguang",
+    "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconHonedEdge.png",
+    "skin": {
+      "3114310": {
+        "Name": "Yuzuha: Tanuki Under the Shade",
+        "Desc": "Can you tell what the umbrella conceals? A tanuki, a trap, a ghost, or a girl's sly, spirited smile?",
+        "Image": "IconRole47"
+      }
+    },
+    "desc": "Partner_ProfileDesc_1431",
+    "KO": "Avatar_Female_Size02_Zhenzhen",
+    "CHS": "叶瞬光",
+    "JA": "葉瞬光"
+  },
   "1441": {
     "code": "Manato",
     "rank": 3,
@@ -930,11 +947,22 @@
     "icon": "IconRole51",
     "potential": [],
     "EN": "Manato",
-    "skin": {},
+    "skin": {
+      "3114410": {
+        "Name": "Komano Manato: Loyal Wild Soul",
+        "Desc": "The standard attire of the unofficial mediator in Sailume Bay, enough to intimidate petty thugs.\nStill, it sometimes draws wandering eyes.",
+        "Image": "IconRole51"
+      },
+      "3114411": {
+        "Name": "Komano Manato: White Heart Silhouette",
+        "Desc": "A young Manato made a solitary vow to himself — and from his deep reverie, a lone pale shadow was born.\nMimicking his attire enhances Manato's already exceedingly intimidating presence.",
+        "Image": "IconRole51_01"
+      }
+    },
     "desc": "Komano Manato, a member of Spook Shack and an exceptionally reliable person. Having lost his family in the fall of the old capital, he grew up alone in Waifei Peninsula until the day he happened to adopt two street children, A-Cing and A-Yuet. Since then, the three have lived as a family, depending on one another. It may be a young household, but to Manato, nothing matters more than looking after them.\nManato is currently enrolled at a company affiliated school in the city, where rumors paint him as the terrifying \"school delinquent.\" The label likely comes from his intimidating appearance, though in reality, he's far more soft-hearted and generous than he seems.\nAt first, Manato really did want to do something to clear up the misunderstanding about being a delinquent, but for various reasons, his efforts didn't make much of an impact. Still, his optimism soon led him to realize that the title wasn't all bad. It let him dodge unnecessary social events, live without being bothered by strangers, and even leverage the \"delinquent\" image to sniff out stories of school ghost tales, all while standing up for classmates suffering from actual bullying.\nBut when it comes to grades, he really does live up to the \"school delinquent\" label of a company affiliated school student.",
     "KO": "마나토",
     "CHS": "真斗",
-    "JA": "真斗"
+    "JA": "狛野真斗"
   },
   "1451": {
     "code": "Lucia",
@@ -953,7 +981,7 @@
         "Image": "IconRole50"
       }
     },
-    "desc": "Lucia, a member of Spook Shack, goes by the online name \"Night Emissary.\" She's a backpacker, an Ethereal story enthusiast, and a connoisseur of late-night food stalls.\n\nRecords show that Lucia hails from a clan living on the outskirts of the city. Legend has it their ancestors once encountered an Ethereal called the \"Night Horror\" (absent from the Hollow Investigative Association archives), which left them with a strange gift: Ethereals tend not to notice them. The cost, though, is that they dream of the Night Horror at night, and under its influence, they sleepwalk into Hollows, where corruption awaits.\nBecause of this, the clan took on the role of Nightwatchers. They rest during the day and hunt deep in the night, avoiding the Night Horror's pull. And if anyone must sleep at night, their family will keep vigil at their side until dawn.\n\nLucia grew up surrounded by her kin, and even after arriving in New Eridu, she has kept to the Nightwatcher tradition of staying awake through the night and watching over her cherished friends, shielding them from the Night Horror's reach.\nMaster, if you hear a knock at your window late at night, don't be alarmed. It may just be a sleepless night guardian stopping by to say hello.\n\nAdditional note: Lucia's pet is \"Chestnut,\" a small, friendly Hati. It once lived in the Hollow's outskirts, but has since moved deeper inside. Even I can no longer detect its exact whereabouts.",
+    "desc": "Lucia, a member of Spook Shack, goes by the online name \"Night Emissary.\" She's a backpacker, an Ethereal story enthusiast, and a connoisseur of late-night food stalls.\n\nRecords show that Lucia hails from a tribe living on the outskirts of the city. Legend has it their ancestors once encountered an Ethereal called the \"Night Horror\" (absent from the Hollow Investigative Association archives), which left them with a strange gift: Ethereals tend not to notice them. The cost, though, is that they dream of the Night Horror at night, and under its influence, they sleepwalk into Hollows, where corruption awaits.\nBecause of this, the tribe took on the role of Nightwatchers. They rest during the day and hunt deep in the night, avoiding the Night Horror's pull. And if anyone must sleep at night, their family will keep vigil at their side until dawn.\n\nLucia grew up surrounded by her kin, and even after arriving in New Eridu, she has kept to the Nightwatcher tradition of staying awake through the night and watching over her cherished friends, shielding them from the Night Horror's reach.\nMaster, if you hear a knock at your window late at night, don't be alarmed. It may just be a sleepless night guardian stopping by to say hello.\n\nAdditional note: Lucia's pet is \"Chestnut,\" a small, friendly Hati. It once lived in the Hollow's outskirts, but has since moved deeper inside. Even I can no longer detect its exact whereabouts.",
     "KO": "루시아",
     "CHS": "卢西娅",
     "JA": "リュシア"
@@ -979,5 +1007,49 @@
     "KO": "「시드」",
     "CHS": "「席德」",
     "JA": "「シード」"
+  },
+  "1471": {
+    "code": "BanYue",
+    "rank": 4,
+    "type": 6,
+    "element": 201,
+    "hit": 102,
+    "camp": 12,
+    "icon": "IconRole53",
+    "potential": [],
+    "EN": "Banyue",
+    "skin": {
+      "3114710": {
+        "Name": "AvatarSkin_BanYue_Name_000",
+        "Desc": "AvatarSkin_BanYue_Desc_000",
+        "Image": "IconRole39"
+      }
+    },
+    "desc": "Banyue is an Intelligent Construct who runs a martial arts school in Waifei, known to many as \"Banyue Shifu.\" He has lived for a long time, his stone-lion-like presence commanding respect. A martial arts expert of great skill, he shares a long-standing friendship with Yunkui Summit's current High Preceptor, Yixuan.\n\nAs a martial master, Banyue is quiet but dependable. His methods and beliefs are rooted in tradition, and he disciplines his students with strict yet thoughtful guidance, teaching them not just how to fight, but how to learn. Known as a true master of the martial arts, in battle, he can assume a special form known as the Visage of Wrath to vanquish all evil.\n\nA long inhabitant of Waifei, Banyue is quiet and even-tempered. He doesn't express emotions easily and has the manner of someone from another era. Knowing he's out of touch with modern trends, he's been secretly trying to learn the latest internet slang... yet his half-baked grasp of it tends to end in funny little misunderstandings.\n\nBanyue also appears to have a strange liking for round things — stone balls, spherical bollards, and the like. If the conversation ever goes silent while you're alone with him, bringing up something spherical usually does the trick.",
+    "KO": "반악",
+    "CHS": "般岳",
+    "JA": "盤岳"
+  },
+  "1481": {
+    "code": "Dialyn",
+    "rank": 4,
+    "type": 2,
+    "element": 200,
+    "hit": 101,
+    "camp": 12,
+    "icon": "IconRole54",
+    "potential": [],
+    "EN": "Dialyn",
+    "skin": {
+      "3114810": {
+        "Name": "AvatarSkin_Azural_Name_000",
+        "Desc": "AvatarSkin_Azural_Desc_000",
+        "Image": "IconRole29"
+      }
+    },
+    "desc": "Dialyn works as a customer service representative for TOPS' Cross-Department Customer Service Center, though few know her other identity — a Krampus Compliance Authority Judge.\n\nShe calls herself TOPS' top-rated representative, yet she also tops the list for the most complaints in the department. Despite never flaunting her authority as a Judge, she always delivers verdicts that cut closest to the truth.\n\nDialyn was born with the ability to hear the voices of those on the brink of death within the Hollows — a talent that's unmatched. Yet to a young Dialyn, it was a tormenting curse.\n\nBe it gift or curse, she has long turned it into a blade for discerning the truth. Despite the trials and tribulations she's borne, she's come far.",
+    "KO": "다이아린",
+    "CHS": "琉音",
+    "JA": "ダイアリン"
   }
 }

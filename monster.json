@@ -203,6 +203,18 @@
     "CHS": "纵火犯",
     "JA": "放火魔"
   },
+  "10017": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MiasmaSpider.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 1,
+    "group": 201,
+    "EN": "BriefName_Monster_MiasmaSpider",
+    "desc": "CardDesc_10017",
+    "KO": "BriefName_Monster_MiasmaSpider",
+    "CHS": "(Test1)",
+    "JA": "BriefName_Monster_MiasmaSpider"
+  },
   "10018": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugPoacher.png",
     "tag": ["Ether", "NotPro"],
@@ -527,6 +539,18 @@
     "CHS": "泰拉斯奎祸车",
     "JA": "タラスクミキサー"
   },
+  "20011": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Gloomaron.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 2,
+    "group": 201,
+    "EN": "BriefName_Monster_Gloomaron",
+    "desc": "CardDesc_20011",
+    "KO": "BriefName_Monster_Gloomaron",
+    "CHS": "(Test1)",
+    "JA": "BriefName_Monster_Gloomaron"
+  },
   "20012": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_FrenziedManiac.png",
     "tag": ["Ether", "NotPro"],
@@ -575,6 +599,18 @@
     "CHS": "魁梧施虐者",
     "JA": "殴打暴虐者"
   },
+  "20016": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaLightfootRover.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 2,
+    "group": 201,
+    "EN": "BriefName_Monster_MiasmaLightfootRover",
+    "desc": "CardDesc_20016",
+    "KO": "BriefName_Monster_MiasmaLightfootRover",
+    "CHS": "(Test1)",
+    "JA": "BriefName_Monster_MiasmaLightfootRover"
+  },
   "20017": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ThugBulkyEnforcer.png",
     "tag": ["Ether", "NotPro"],
@@ -586,6 +622,18 @@
     "KO": "덩치 행동대원",
     "CHS": "魁梧打手",
     "JA": "殴り屋"
+  },
+  "20018": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaHeavyStriker.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 2,
+    "group": 201,
+    "EN": "BriefName_Monster_MiasmaHeavyStriker",
+    "desc": "CardDesc_20018",
+    "KO": "BriefName_Monster_MiasmaHeavyStriker",
+    "CHS": "(Test1)",
+    "JA": "BriefName_Monster_MiasmaHeavyStriker"
   },
   "20020": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_RagingGuy.png",
@@ -654,7 +702,7 @@
     "rarity": 2,
     "group": 203,
     "EN": "Miasmic - Frenzied Maniac",
-    "desc": "A fallen creation, reshaped in profound darkness and impurity.\n\nUnfortunate souls mutated by the intense corruption of Ether matter within the Hollows. Due to a considerable degree of Ether aptitude and physical capability, their bodies have not been completely transformed by the Ether, retaining humanoid features but with enhanced mutant limbs that are more dangerous.\n\nJudging from the remnants of clothing and combat experience, likely once a senior gang member or Raider lurking in the Hollows.\n\nThese corrupted subjects, potentially due to their enhanced physiology or affinity for Ether matter, have developed formidable close combat abilities, making them even more menacing than the typical monsters found in the Hollow.\n\n\"Their weapons look very fancy... and kinda like they came as freebies.\"",
+    "desc": "A fallen creation, reshaped in profound darkness and impurity.\n\nUnfortunate souls mutated by the intense corruption of Etheric matter within the Hollows. Due to a considerable degree of Ether aptitude and physical capability, their bodies have not been completely transformed by the Ether, retaining humanoid features but with enhanced mutant limbs that are more dangerous.\n\nJudging from the remnants of clothing and combat experience, likely once a senior gang member or Raider lurking in the Hollows.\n\nThese corrupted subjects, potentially due to their enhanced physiology or affinity for Ether matter, have developed formidable close combat abilities, making them even more menacing than the typical monsters found in the Hollow.\n\n\"Their weapons look very fancy... and kinda like they came as freebies.\"",
     "KO": "미아즈믹·광분한 폭도",
     "CHS": "秽蚀·狂乱暴徒",
     "JA": "ミアズミック・狂乱暴徒"
@@ -678,10 +726,10 @@
     "rarity": 1,
     "group": 290,
     "EN": "Security Enforcer",
-    "desc": "This civilian-grade Tactical Security Unit, replicated by security companies based on Public Security's Search Patrollers, has been modified in both firepower and technology to avoid potential technical reviews and copyright infringement claims.\n\nHowever, these modifications haven't diminished the combat capabilities of these security devices. Without budget constraints on manufacturing, the security companies used higher-grade but more expensive materials, significantly enhancing their usability and durability.\n\nThese devices became highly sought after by many commercial companies as soon as they hit the market.\n\n\"Hello, Security Enforcer at your service. Please select your desired patrol mode...\"\n\"Uh... you're saying it has over a hundred preset modes?!\"",
+    "desc": "This civilian-grade Tactical Security Unit, replicated by Typhoeus Security based on Public Security's Search Patrollers, has been modified in both firepower and technology to avoid potential technical reviews and copyright infringement claims.\n\nHowever, these modifications haven't diminished the combat capabilities of these security devices. Without budget constraints on manufacturing, Typhoeus Security used higher-grade but more expensive materials, significantly enhancing their usability and durability.\n\nThese devices became highly sought after by many commercial companies as soon as they hit the market.\n\n\"Hello, Security Enforcer at your service. Please select your desired patrol mode...\"\n\"Uh... you're saying it has over a hundred preset modes?!\"",
     "KO": "질서 수호자",
     "CHS": "秩序护卫",
-    "JA": "ルールキーパー  "
+    "JA": "ルールキーパー"
   },
   "20029": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SecurityUnitPatroller.png",
@@ -690,10 +738,10 @@
     "rarity": 1,
     "group": 290,
     "EN": "Light Patroller",
-    "desc": "Mass-produced security units have been put into use across many civilian sectors. With numerous advantages, including affordability, versatility, a revolutionary single-wheel dynamic balance system, and an integrated intelligent threat recognition core, they're suitable for security needs in various complex spaces.\n\n\"This Tactical Security Unit, having passed 47 rigorous tests, has been successfully deployed in core areas of 32 industrial parks. Client feedback shows an average 91% reduction in tresspassing rates. Trust us: you can use it for any security task you can imagine.\"",
+    "desc": "A mass-produced security unit made by Typhoeus Security, put into use across many civilian sectors. With numerous advantages, including affordability, versatility, a revolutionary single-wheel dynamic balance system, and an integrated intelligent threat recognition core, they're suitable for security needs in various complex spaces.\n\n\"This Tactical Security Unit, having passed 47 rigorous tests, has been successfully deployed in core areas of 32 industrial parks. Client feedback shows an average 91% reduction in tresspassing rates. Trust us: you can use it for any security task you can imagine.\"",
     "KO": "소형 순찰원",
     "CHS": "巡逻者轻型",
-    "JA": "パトローラー・ライト  "
+    "JA": "パトローラー・ライト"
   },
   "20030": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_SecurityUnitLAAndroid.png",
@@ -702,10 +750,10 @@
     "rarity": 1,
     "group": 290,
     "EN": "Medium Patroller",
-    "desc": "A mass-produced security unit manufactured by a security company, modified from Public Security's support combat mechs. Compared to the support combat mechs, some combat capabilities have been reduced, mainly relying on its large shield to suppress low-threat groups like rioters, maintaining order and guiding crowds during large events and special occasions.\n\nAccording to reports, some units were purchased and modified by illegal operators to create the Illegal Support Unit \"Enraged Sweeper.\" Some even went as far as posting reviews on the company's official website saying \"This quality is worse than the scrapped support mechs I picked up in the Hollow!\" and giving the product a one-star rating.\n\n\"These illegal modifications have nothing to do with our security company and are private modifications by users. We will fight to the end against such negative reviews... I mean, illegal activities...\"",
+    "desc": "A mass-produced security unit manufactured by Typhoeus Security, modified from Public Security's support combat mechs. Compared to the support combat mechs, some combat capabilities have been reduced, mainly relying on its large shield to suppress low-threat groups like rioters, maintaining order and guiding crowds during large events and special occasions.\n\nAccording to reports, some units were purchased and modified by illegal operators to create the Illegal Support Unit \"Enraged Sweeper.\" Some even went as far as posting reviews on the company's official website saying \"This quality is worse than the scrapped support mechs I picked up in the Hollow!\" and giving the product a one-star rating.\n\n\"These illegal modifications have nothing to do with our security company and are private modifications by users. We will fight to the end against such negative reviews... I mean, illegal activities...\"",
     "KO": "중형 순찰원",
     "CHS": "巡逻者中型",
-    "JA": "パトローラー・ミドル  "
+    "JA": "パトローラー・ミドル"
   },
   "20031": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaWickedWraith.png",
@@ -713,11 +761,11 @@
     "tag2": [],
     "rarity": 2,
     "group": 203,
-    "EN": "BriefName_Monster_MiasmaWickedWraith",
-    "desc": "CardDesc_20031",
-    "KO": "BriefName_Monster_MiasmaWickedWraith",
-    "CHS": "(Test1)秽蚀·盛怒恶霸",
-    "JA": "BriefName_Monster_MiasmaWickedWraith"
+    "EN": "Miasmic - Wicked Wraith",
+    "desc": "A fallen being, reforged within the depths of corruption and shadow.\nIts most striking feature lies in its grotesquely developed arms, the embodiment of the Wicked Wraith's fury. The limbs themselves are bulkier than a standard double-door refrigerator, coated in dense keratin layers that interlock to form a natural hammer shape. One expert from the Hollow Investigative Association claimed such abnormal development may stem from the host's original body having long relied on heavy machinery or strength-enhancing equipment, causing its physical traits to become grotesquely amplified during the corruption process.\nReports indicate it can smash through reinforced concrete and fling the remains of derelict vehicles several dozen meters. Among investigators, it's colloquially known as the \"Hollow Demolition Crew.\"\nOne account tells of a Wicked Wraith that, in its fury, leveled a whole ruin in under a minute, only to get stuck in a tight corridor, its massive frame unable to keep balance, and was later retrieved as a research specimen.\n\"When it slams the ground, even the echoes throughout the Hollow tremble... but if you're quick enough, maybe you won't have to arm-wrestle it.\"",
+    "KO": "미아즈믹·분노한 조폭",
+    "CHS": "秽蚀·盛怒恶霸",
+    "JA": "ミアズミック・憤怒悪鬼"
   },
   "20032": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_IonizedPugnus.png",
@@ -725,11 +773,11 @@
     "tag2": [],
     "rarity": 2,
     "group": 201,
-    "EN": "BriefName_Monster_IonizedPugnus",
-    "desc": "CardDesc_20032",
-    "KO": "BriefName_Monster_IonizedPugnus",
-    "CHS": "(Test1)离子体·普格努斯",
-    "JA": "BriefName_Monster_IonizedPugnus"
+    "EN": "Ionized - Pugnus",
+    "desc": "Not all Ionized beings within the Hollows prefer to hide, and Pugnus wears its menace on every sharpened spike. Clad in armor, its back and tail bristle with razor spines, while its massive pincers serve not only as weapons but as war drums that pound the earth to mark its territory. Pugnus tends to build power from within the shadows, yet can suddenly spring forth — bringing its full weight down with both crushing claws upon its prey. Its shockwaves are powerful enough to throw inexperienced fighters off balance, and the flying debris that follows often seals off any escape routes. Its attack rhythm suggests it relies on ground vibrations to track its prey before lunging in a sudden, explosive strike to finish the fight. Interestingly, some Hollow Raiders who've spent years dealing with Pugnus have developed a unique \"Lightfoot Hollow Step\" technique: \"I used to get knocked off balance by its tremors, but then I learned to step on my toes and move quickly... Now I'm somehow winning stilts racing competitions at festivals.\"",
+    "KO": "플라스마·푸그누스",
+    "CHS": "离子体·普格努斯",
+    "JA": "電離体・プグヌス"
   },
   "29999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
@@ -778,6 +826,18 @@
     "KO": "「가디언」",
     "CHS": "「卫士」",
     "JA": "「ガーディアン」"
+  },
+  "30003": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_BlackMazingerGoldenBomb.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 3,
+    "group": 201,
+    "EN": "BriefName_Monster_BlackMazingerGoldenBomb",
+    "desc": "CardDesc_30003",
+    "KO": "BriefName_Monster_BlackMazingerGoldenBomb",
+    "CHS": "(Test1)",
+    "JA": "BriefName_Monster_BlackMazingerGoldenBomb"
   },
   "30004": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_BoringMachine.png",
@@ -886,6 +946,18 @@
     "KO": "마리오네트·쌍둥이",
     "CHS": "冥宁芙·双子",
     "JA": "マリオネット・ツインズ"
+  },
+  "30013": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Chelonethid.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 3,
+    "group": 201,
+    "EN": "BriefName_Monster_Chelonethid",
+    "desc": "CardDesc_30013",
+    "KO": "BriefName_Monster_Chelonethid",
+    "CHS": "(Test1)",
+    "JA": "BriefName_Monster_Chelonethid"
   },
   "30016": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MazingerGoldenBomb.png",
@@ -1159,7 +1231,7 @@
     "group": 290,
     "EN": "The Defiler",
     "desc": "The vengeful flames from beyond the river of the dead can never illuminate the path of those seeking revenge. The obsessed zealots who carved curses into sacred shrines now reaps the bitter fruit of their blasphemy.\n\nMiasma gathers beneath the towering spire as lost souls awaken from the Ether. In this ominous power steeped in filth and shadow, hatred takes form, coalescing into something tangible. Unbound by faith, untouched by justice, this profane force forges nothing but instruments of war, forged by vengeance and madness\n\nThe soil reeks with blood and sin, spreading ever onward... and finally reaches the end of this long, harrowing tale.\n\n\"If the ending cannot be perfect, then at least let it be written by my own hand.\"",
-    "KO": "「모독자��",
+    "KO": "「모독자」",
     "CHS": "「亵渎者」",
     "JA": "「冒涜者」"
   },
@@ -1170,7 +1242,7 @@
     "rarity": 3,
     "group": 203,
     "EN": "Haytor",
-    "desc": "A gaunt and eerie skeleton, bearing a pale, sharp \"Cape\"—another masterpiece from the Exaltists. When it comes to \"100 Ways to Integrate Humans into Hollows,\" their experimental enthusiasm is truly unmatched.\nThose who've encountered Hayyot believe these folks must be high-ranking Exaltist members; after all, even as Ethereals, they still couldn't resist creating some lackeys to boss around.\n\n\"I absolutely hate people like that!\"\n\n\"I bet they even say to their phantoms... 'I'm rather disappointed in you, as you could have done better; when I summoned you, I actually had higher expectations'?!\"",
+    "desc": "A gaunt and eerie skeleton, bearing a pale, sharp \"Cape\"—another masterpiece from the Exaltists. When it comes to \"100 Ways to Integrate Humans into Hollows,\" their experimental enthusiasm is truly unmatched.\nThose who've encountered Haytor believe these folks must be high-ranking Exaltist members; after all, even as Ethereals, they still couldn't resist creating some lackeys to boss around.\n\n\"I absolutely hate people like that!\"\n\n\"I bet they even say to their phantoms... 'I'm rather disappointed in you, as you could have done better; when I summoned you, I actually had higher expectations'?!\"",
     "KO": "헤이토",
     "CHS": "赫由托",
     "JA": "ハイヨト"
@@ -1184,8 +1256,8 @@
     "EN": "Drowned Ideal - Komano Manato",
     "desc": "A phantom enemy that shouldn't exist and may never be encountered again, yet the pressure of its power feels all too real. While records of it will ultimately become part of the Association's simulation data, the young men and women who first ventured into the dream realm as its discoverers have a different understanding of its behavioral patterns.\n\n\"Is it just me, or does it look skinnier than Manato?\"",
     "KO": "꿈잡이·코마노 마나토",
-    "CHS": "溺想体·狛野真斗",
-    "JA": "夢縋り・狛野真斗_JP3A"
+    "CHS": "溺想者·狛野真斗",
+    "JA": "夢縋り・狛野真斗"
   },
   "30041": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_WanderingHunter.png",
@@ -1194,7 +1266,7 @@
     "rarity": 4,
     "group": 203,
     "EN": "Wandering Hunter",
-    "desc": "A Corruption Complex with rich combat experience, equally skilled in offense and defense, moving with agility. It excels at lurking in hidden spots, launching the most efficient attacks targeting weak points.\n\nI should have recorded more - its behavioral patterns, the haunting song that follows it like a shadow, things like that... But let's leave it at that, just like the half-finished portrait in Lucia's book.\n\n\"Counting stars, one. Counting stars, two. Count to three, children hide away.\"",
+    "desc": "A Corrupted with rich combat experience, equally skilled in offense and defense, moving with agility. It excels at lurking in hidden spots, launching the most efficient attacks targeting weak points.\n\nI should have recorded more - its behavioral patterns, the haunting song that follows it like a shadow, things like that... But let's leave it at that, just like the half-finished portrait in Lucia's book.\n\n\"One little star, up high. Two little stars, float by. Three little stars, it's time to go and hide.\"",
     "KO": "방황하는 사냥꾼",
     "CHS": "彷徨猎手",
     "JA": "ワンダリングハンター"
@@ -1205,23 +1277,11 @@
     "tag2": [],
     "rarity": 4,
     "group": 290,
-    "EN": "BriefName_Monster_Awakener",
-    "desc": "CardDesc_30042",
-    "KO": "BriefName_Monster_Awakener",
-    "CHS": "(Test1)全新人形BOSS",
-    "JA": "BriefName_Monster_Awakener"
-  },
-  "30043": {
-    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Sobek.png",
-    "tag": ["Ether", "NotPro"],
-    "tag2": [],
-    "rarity": 4,
-    "group": 290,
-    "EN": "BriefName_Monster_Sobek",
-    "desc": "CardDesc_30043",
-    "KO": "BriefName_Monster_Sobek",
-    "CHS": "(Test1)Boss秽息蚀者· 索贝克",
-    "JA": "BriefName_Monster_Sobek"
+    "EN": "全新人形BOSS",
+    "desc": "全新人形BOSS",
+    "KO": "全新人形BOSS",
+    "CHS": "全新人形BOSS",
+    "JA": "全新人形BOSS"
   },
   "30044": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_CovenantGuardian.png",
@@ -1229,11 +1289,11 @@
     "tag2": [],
     "rarity": 3,
     "group": 290,
-    "EN": "BriefName_Monster_CovenantGuardian",
-    "desc": "CardDesc_30044",
-    "KO": "BriefName_Monster_CovenantGuardian",
-    "CHS": "(Test1)牲鬼·卫律使者",
-    "JA": "BriefName_Monster_CovenantGuardian"
+    "EN": "Sacrifice - Covenant Guardian",
+    "desc": "\"All who hear the sound shall behold the form of truth.\" —Even if that truth is nothing more than an illusion dredged from delirious murmurs.\nPerhaps it once had a name, a history, a self. For reasons unknown, it willingly stepped into a dark chamber one day, offering its ears, its eyes, even its mind to become a vessel existing solely to transmit a certain sound. It mistook the whispers of something within a Hollow for divine revelation, seeing itself as the voice through which \"It\" spoke directly to the mortal world. When its prey grows careless, that voice, eerily familiar, undeniably their own, rings within their mind, impossible to resist.\nYet in those brief pauses between its divine utterances, when the mind resists the murmurs and shatters the delusion, does it, in turn, feel a faint sting of human emotion?\nTo the very end, it pulsed with the remnants of an unspoken \"truth.\" No rage, no terror — just a solemn, almost sacred determination, until the last note faded into silence along with its lifeless shell.\n\n\"The 'Covenant Guardian'? It clings to that disgusting voice as if upholding divine law. Like some idiot convinced they'd found their way home, only to become a tombstone carved from sound.\" \"But really... what's the use in despising the vessel? If there's blame to be had, it belongs to whatever makes the sound.\"",
+    "KO": "새크리파이스·약속의 수호자",
+    "CHS": "牲鬼·卫律使者",
+    "JA": "サクリファイス・コヴェナント・ガーディアン"
   },
   "35001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Nineveh.png",
@@ -1258,6 +1318,18 @@
     "KO": "OfficialName_",
     "CHS": "OfficialName_",
     "JA": "OfficialName_"
+  },
+  "40000": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Vessel.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 4,
+    "group": 201,
+    "EN": "BriefName_Monster_Vessel",
+    "desc": "CardDesc_40000",
+    "KO": "BriefName_Monster_Vessel",
+    "CHS": "(Test1)",
+    "JA": "BriefName_Monster_Vessel"
   },
   "100001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGreyPro.png",
@@ -1927,7 +1999,7 @@
     "group": 201,
     "EN": "Notorious - Armored Hati",
     "desc": "The Armored Hati is widely regarded as a formidable adversary by many experienced Hollow investigators.\nAlthough its armored shell limits its agility, it compensates with exceptional resistance to attacks.\nAdditionally, the corrupted material on its body forms sharp and hardened protrusions that can cause additional damage when an Armored Hati charges at high speeds.\nThis creature's agile movements, resilience to blows, and seamless armor compel even the most seasoned explorers to seek alternative routes to avoid direct confrontation.\nSome novice Hollow Raiders have attempted to lure Armored Hati away with pet food.\nHowever, these endeavors have proven futile.\n\"Run! It doesn't like this flavor of dog food!\"",
-    "KO": "노토리���스·무장 하티",
+    "KO": "노토리우스·무장 하티",
     "CHS": "恶名·装甲哈提",
     "JA": "要警戒・アーマーハティ"
   },
@@ -2397,7 +2469,7 @@
     "desc": "At the moment a high concentration of Ether infiltrated its backup flash drive, a deluge of data flooded into Friday's memory.\nImages, audio files, video files... A huge assortment of files overwhelmed its limited processing capacity.\nAt that fateful moment, Friday experienced a realization.\nIt stood there for a while, eventually confirming through repeated searches in the database the reason behind the \"anomaly\" it has experienced.\n—Enlightenment.\nIt was a one-in-a-million occurrence, a miracle that only happens to intelligent mechanical beings that have faced crises like system crashes and power failures, and overcome them against all odds..\nAfter 0.02 seconds of contemplation, Friday made the decision to reject the recall signal from Belobog Heavy Industries.\nBecause it knows, with the chosen one of destiny now revealed, a crisis looms over the world.\nThe enemy is stirring in the darkness, and its sole mission holds countless lives at stake. It must face a dreadful adversary and seal it away once and for all.\n\"I shall strengthen the seal to save this land; it is destiny, and destiny cannot be defied!\"",
     "KO": "프라이데이·오버클럭형",
     "CHS": "星期五·超频型",
-    "JA": "フライデー・高周波数型"
+    "JA": "フライデ��・高周波数型"
   },
   "300071": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Cottus.png",
@@ -2517,7 +2589,7 @@
     "desc": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\n\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\n\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\n\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
     "KO": "도플갱어·코마노 마나토",
     "CHS": "多佩冈亚·狛野真斗",
-    "JA": "ドッペルゲンガー・狛野真斗_JP3A"
+    "JA": "ドッペルゲンガー・狛野真斗"
   },
   "300402": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaNoranoSlime.png",
@@ -2526,22 +2598,10 @@
     "rarity": 3,
     "group": 290,
     "EN": "Miasmic Komano Manato",
-    "desc": "CardDesc_300402",
+    "desc": "A form reshaped in profound darkness from fallen creation.\nEven among Ionized enemies, which are renowned for their strange and uncanny qualities, \"Ionized Doppelgangers\" are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. From detail to texture, these creatures are experts in mixing the spurious and genuine.\nMore challenging still is their ability to mimic the powerful and fearsome combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable nemeses from their opponent's memories, before attacking in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
     "KO": "미아즈믹·코마노 마나토",
     "CHS": "秽蚀·狛野真斗",
     "JA": "ミアズミック・狛野真斗"
-  },
-  "300421": {
-    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_AwakenerSlime.png",
-    "tag": ["Ether", "NotPro"],
-    "tag2": [],
-    "rarity": 3,
-    "group": 290,
-    "EN": "BriefName_Monster_AwakenerSlime",
-    "desc": "CardDesc_300421",
-    "KO": "BriefName_Monster_AwakenerSlime",
-    "CHS": "(Test1)全新人形BOSS",
-    "JA": "BriefName_Monster_AwakenerSlime"
   },
   "930146": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGrey.png",
@@ -2671,7 +2731,7 @@
     "group": 203,
     "EN": "Vicious Striker",
     "desc": "Vicious Striker <color=#D9A600>has high HP</color>. Focus your fire on them.",
-    "KO": "악독한 싸움��",
+    "KO": "악독한 싸움���",
     "CHS": "恶毒打手",
     "JA": "悪辣討手"
   },
@@ -2997,7 +3057,7 @@
     "desc": "CardDesc_990167",
     "KO": "불꽃 환몽가",
     "CHS": "秉火梦徒",
-    "JA": "火を帯びし夢見者  "
+    "JA": "火を帯びし夢見者"
   },
   "990174": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_DreamingHymnist.png",
@@ -3009,6 +3069,6 @@
     "desc": "CardDesc_990174",
     "KO": "환몽 예찬자",
     "CHS": "幻梦赞者",
-    "JA": "幻賛者  "
+    "JA": "幻賛者"
   }
 }

@@ -23,7 +23,11 @@
     "Race": "Victoria Housekeeping Co.",
     "RoleIcon": "IconRole/UnPacker/IconRole21",
     "Stature": "161",
-    "UnlockCondition": ["Obtain Agent", "Complete Main Commission Chapter 3"],
+    "UnlockCondition": [
+      "Obtain Agent",
+      "Complete Main Commission Chapter 3",
+      "Complete the \"Anby's Problem\" commission"
+    ],
     "TrustLv": {
       "1": "Ellen is a maid working for Victoria Housekeeping Co. and its latest member.\nShe is a laid-back individual who dislikes activities that require energy. However, with the full support of her teammates, she can unleash her formidable power during critical moments.\nSince her fighting style leads to high energy consumption, she always carries a lollipop in her mouth to ensure an adequate sugar intake.\nWhile she frequently expresses her desire to change jobs due to the hassle, she genuinely values her companions at Victoria Housekeeping.\n\nEllen attends a school in New Eridu and has a group of ordinary friends.\nApart from her role as a maid at Victoria Housekeeping, Ellen spends a significant amount of time with her friends, leading an ordinary and contented student life.\n\nThoughts: As a multitasker, Ellen must balance her student life with her job at Victoria Housekeeping Co.\nPerhaps this is one of the reasons why she often feels tired?",
       "2": "",
@@ -263,12 +267,12 @@
         {
           "Name": "Basic Attack: Glacial Blade Wave",
           "Desc": "After the 3rd hit of <color=#FFFFFF>Basic Attack: Flash Freeze Trimming</color>, <color=#FFFFFF>Dash Attack: Arctic Ambush</color>'s charged scissor strike, <color=#FFFFFF>Dodge Counter: Reef Rock</color>, and <color=#FFFFFF>Quick Assist</color>, if Ellen has <color=#FFFFFF>Flash Freeze Charges</color>, pressing <IconMap:Icon_Normal> will launch <color=#FFFFFF>Basic Attack: Glacial Blade Wave</color>, dealing <color=#98EFF0>Ice DMG</color>.\nThis skill consumes 2 points of <color=#FFFFFF>Flash Freeze Charge</color>.\nAfter use, it can be directly followed up with the 3rd hit of her <color=#FFFFFF>Basic Attack</color>.\nCharacter is invulnerable while using this skill.",
-          "Potential": [119100]
+          "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
         },
         {
           "Name": "Basic Attack: Icy Blade",
           "Desc": "After the 3rd hit of <color=#FFFFFF>Basic Attack: Flash Freeze Trimming</color>, <color=#FFFFFF>EX Special Attack: Sharknami</color>, <color=#FFFFFF>Dodge Counter: Reef Rock</color>, and <color=#FFFFFF>Assist Follow-Up</color>, automatically launch <color=#FFFFFF>Basic Attack: Icy Blade</color>, dealing multiple instances of <color=#98EFF0>Ice DMG</color> to all enemies in a large area ahead. It inflicts additional instances of <color=#98EFF0>Ice DMG</color> against Medium and Large foes.\nAfter the skill, Ellen gains the <color=#FFFFFF>Quick Charge</color> effect.\n<color=#FFFFFF>Basic Attack: Icy Blade</color> does not affect the branch or form of the original skill.\nCharacter is invulnerable while using this skill.",
-          "Potential": [119100]
+          "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
         },
         {
           "Name": "Basic Attack: Saw Teeth Trimming",
@@ -621,7 +625,7 @@
                   "EtherPurify": 9125
                 }
               },
-              "Potential": [119100]
+              "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
             },
             {
               "Name": "2nd-Hit DMG Multiplier",
@@ -647,7 +651,7 @@
                   "EtherPurify": 5464
                 }
               },
-              "Potential": [119100]
+              "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
             },
             {
               "Name": "1st-Hit Daze Multiplier",
@@ -673,7 +677,7 @@
                   "EtherPurify": 9125
                 }
               },
-              "Potential": [119100]
+              "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
             },
             {
               "Name": "2nd-Hit Daze Multiplier",
@@ -699,10 +703,10 @@
                   "EtherPurify": 5464
                 }
               },
-              "Potential": [119100]
+              "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
             }
           ],
-          "Potential": [119100]
+          "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
         },
         {
           "Name": "Basic Attack: Icy Blade",
@@ -731,7 +735,7 @@
                   "EtherPurify": 2339
                 }
               },
-              "Potential": [119100]
+              "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
             },
             {
               "Name": "DMG Multiplier to Medium Enemies",
@@ -776,7 +780,7 @@
                   "EtherPurify": 502
                 }
               },
-              "Potential": [119100]
+              "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
             },
             {
               "Name": "DMG Multiplier to Large Enemies",
@@ -821,7 +825,7 @@
                   "EtherPurify": 502
                 }
               },
-              "Potential": [119100]
+              "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
             },
             {
               "Name": "Daze Multiplier to Small Enemies",
@@ -847,7 +851,7 @@
                   "EtherPurify": 2339
                 }
               },
-              "Potential": [119100]
+              "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
             },
             {
               "Name": "Daze Multiplier to Medium Enemies",
@@ -892,7 +896,7 @@
                   "EtherPurify": 502
                 }
               },
-              "Potential": [119100]
+              "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
             },
             {
               "Name": "Daze Multiplier to Large Enemies",
@@ -937,10 +941,10 @@
                   "EtherPurify": 502
                 }
               },
-              "Potential": [119100]
+              "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
             }
           ],
-          "Potential": [119100]
+          "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
         }
       ],
       "Material": {
@@ -978,7 +982,7 @@
         {
           "Name": "Dash Attack: Arctic Ambush",
           "Desc": "While in the <color=#FFFFFF>Roaming</color> state, press <IconMap:Icon_Normal> to activate:\nDelivers a spinning slash to enemies before opening her scissors for a Swift Scissors strike, dealing <color=#98EFF0>Ice DMG</color>.\nGain 1 point of <color=#FFFFFF>Flash Freeze Charge</color> when the Swift Scissors strike hits.\n\nWhile in the <color=#FFFFFF>Roaming</color> state, hold <IconMap:Icon_Normal> to activate:\nPerform a spinning slash against the enemy, then pull apart the scissors to unleash a Charged Scissor strike, dealing massive <color=#98EFF0>Ice DMG</color>.\nGain 3 points of <color=#FFFFFF>Flash Freeze Charge</color> when the Charged Scissor strike hits. If the enemy is <color=#98EFF0>Frozen</color>, it always triggers <color=#98EFF0>Shatter</color>.\nAnti-Interrupt level is increased while charging the skill, and DMG taken is reduced by 40%.\nWhen taking DMG from enemies while the skill is charging, that instance of DMG is nullified, and charging instantly completes.\nCharacter is invulnerable while using this skill.",
-          "Potential": [119100]
+          "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
         },
         {
           "Name": "Flash Freeze",
@@ -1969,14 +1973,14 @@
       "Desc": "<IconMap:Icon_Normal> ; <IconMap:Icon_Normal> ; <IconMap:Icon_Normal> (Flash Freeze) ; <IconMap:Icon_Normal> (Flash Freeze)",
       "ElementType": 202,
       "HitType": 101,
-      "Potential": [119100]
+      "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
     },
     "1191004": {
       "Name": "Basic Attack: Icy Blade",
       "Desc": "<IconMap:Icon_Normal> ; <IconMap:Icon_Normal> ; <IconMap:Icon_Normal> (Flash Freeze) (Automatic)",
       "ElementType": 202,
       "HitType": 101,
-      "Potential": [119100]
+      "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
     },
     "1191005": {
       "Name": "Special Attack: Drift",
@@ -2004,7 +2008,7 @@
       "Desc": "<IconMap:Icon_SpecialReady> ; <IconMap:Icon_SpecialReady> (Automatic)",
       "ElementType": 202,
       "HitType": 101,
-      "Potential": [119100]
+      "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
     },
     "1191009": {
       "Name": "Dash: Roaming Hunt",
@@ -2032,7 +2036,7 @@
       "Desc": "<IconMap:Icon_Normal> (Sprint State) (Hold) ; <IconMap:Icon_Normal>",
       "ElementType": 202,
       "HitType": 101,
-      "Potential": [119100]
+      "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
     },
     "1191013": {
       "Name": "Dash Attack: Monstrous Wave",
@@ -2203,7 +2207,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> character or shares the same Attribute or Faction:\nWhen Ellen deals <color=#98EFF0>Ice DMG</color>, subsequent <color=#98EFF0>Ice DMG</color> increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
         ],
         "ExtraProperty": {},
-        "Potential": [119100]
+        "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
       },
       "1191509": {
         "Level": 2,
@@ -2217,7 +2221,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> character or shares the same Attribute or Faction:\nWhen Ellen deals <color=#98EFF0>Ice DMG</color>, subsequent <color=#98EFF0>Ice DMG</color> increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
         ],
         "ExtraProperty": {},
-        "Potential": [119100]
+        "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
       },
       "1191510": {
         "Level": 3,
@@ -2231,7 +2235,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> character or shares the same Attribute or Faction:\nWhen Ellen deals <color=#98EFF0>Ice DMG</color>, subsequent <color=#98EFF0>Ice DMG</color> increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
         ],
         "ExtraProperty": {},
-        "Potential": [119100]
+        "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
       },
       "1191511": {
         "Level": 4,
@@ -2245,7 +2249,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> character or shares the same Attribute or Faction:\nWhen Ellen deals <color=#98EFF0>Ice DMG</color>, subsequent <color=#98EFF0>Ice DMG</color> increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
         ],
         "ExtraProperty": {},
-        "Potential": [119100]
+        "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
       },
       "1191512": {
         "Level": 5,
@@ -2259,7 +2263,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> character or shares the same Attribute or Faction:\nWhen Ellen deals <color=#98EFF0>Ice DMG</color>, subsequent <color=#98EFF0>Ice DMG</color> increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
         ],
         "ExtraProperty": {},
-        "Potential": [119100]
+        "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
       },
       "1191513": {
         "Level": 6,
@@ -2273,7 +2277,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> character or shares the same Attribute or Faction:\nWhen Ellen deals <color=#98EFF0>Ice DMG</color>, subsequent <color=#98EFF0>Ice DMG</color> increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
         ],
         "ExtraProperty": {},
-        "Potential": [119100]
+        "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
       },
       "1191514": {
         "Level": 7,
@@ -2287,7 +2291,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> character or shares the same Attribute or Faction:\nWhen Ellen deals <color=#98EFF0>Ice DMG</color>, subsequent <color=#98EFF0>Ice DMG</color> increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
         ],
         "ExtraProperty": {},
-        "Potential": [119100]
+        "Potential": [119100, 119101, 119102, 119103, 119104, 119105]
       }
     },
     "Materials": {
@@ -2366,5 +2370,67 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
   },
-  "Potential": [119100]
+  "Potential": [119100, 119101, 119102, 119103, 119104, 119105],
+  "PotentialDetail": {
+    "119100": {
+      "Id": 119100,
+      "Name": "",
+      "Desc": "",
+      "Image": "Ellen",
+      "LevelShowName": "Shark Rage I",
+      "Level": 1,
+      "AbilityList": [11191401],
+      "PotentialMaterials": [{ "ItemId": 20119, "Number": 1 }]
+    },
+    "119101": {
+      "Id": 119101,
+      "Name": "Potential Awakening: ??",
+      "Desc": "Ellen’s [Additional Ability: Rising Storm] increases critical damage by 1.6% per stack.",
+      "Image": "Ellen",
+      "LevelShowName": "Shark Rage II",
+      "Level": 2,
+      "AbilityList": [11191401, 11191501],
+      "PotentialMaterials": [{ "ItemId": 20119, "Number": 1 }]
+    },
+    "119102": {
+      "Id": 119102,
+      "Name": "Potential Awakening: ??",
+      "Desc": "Ellen’s [Additional Ability: Rising Storm] increases critical damage by 2.4% per stack.",
+      "Image": "Ellen",
+      "LevelShowName": "Shark Rage III",
+      "Level": 3,
+      "AbilityList": [11191401, 11191502],
+      "PotentialMaterials": [{ "ItemId": 20119, "Number": 1 }]
+    },
+    "119103": {
+      "Id": 119103,
+      "Name": "Potential Awakening: ??",
+      "Desc": "Ellen’s [Additional Ability: Rising Storm] increases critical damage by 3.2% per stack.",
+      "Image": "Ellen",
+      "LevelShowName": "Shark Rage IV",
+      "Level": 4,
+      "AbilityList": [11191401, 11191503],
+      "PotentialMaterials": [{ "ItemId": 20119, "Number": 1 }]
+    },
+    "119104": {
+      "Id": 119104,
+      "Name": "Potential Awakening: ??",
+      "Desc": "Ellen’s [Additional Ability: Rising Storm] increases critical damage by 4% per stack.",
+      "Image": "Ellen",
+      "LevelShowName": "Shark Rage V",
+      "Level": 5,
+      "AbilityList": [11191401, 11191504],
+      "PotentialMaterials": [{ "ItemId": 20119, "Number": 1 }]
+    },
+    "119105": {
+      "Id": 119105,
+      "Name": "Potential Awakening: ??",
+      "Desc": "Ellen’s [Additional Ability: Rising Storm] increases critical damage by 4.8% per stack.",
+      "Image": "Ellen",
+      "LevelShowName": "Shark Rage VI",
+      "Level": 6,
+      "AbilityList": [11191401, 11191505],
+      "PotentialMaterials": [{ "ItemId": 20119, "Number": 1 }]
+    }
+  }
 }

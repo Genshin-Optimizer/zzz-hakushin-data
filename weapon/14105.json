@@ -2,9 +2,9 @@
   "Id": 14105,
   "CodeName": "Weapon_S_1051",
   "Name": "Kraken's Cradle",
-  "Desc": "...",
+  "Desc": "Most inspiration streaks by like a meteor, vanishing in a blink. Yet while modifying this W-Engine, a surge of powerful emotion sparked an idea that anchored itself in her mind, refusing to fade. Not a shackle, nor a consuming force, but something treasured — something she longed to keep safe. That became the source of this W-Engine's design.\n\n<color=#959595>\"It's simply trying to guard the greatest treasure in this world, in the way it knows how.\" —She spoke softly, noticing the puzzled expressions on the Proxy siblings.</color>",
   "Desc2": "Equip to increase Rupture Agents' combat capabilities",
-  "Desc3": "...",
+  "Desc3": "In chasing illusions, she was entranced by the light that pierced through the mist.",
   "Rarity": 4,
   "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/ItemIconWeapon/UnPacker/Weapon_S_1051.png",
   "WeaponType": { "6": "Rupture" },
@@ -95,23 +95,23 @@
   "Talents": {
     "1": {
       "Name": "Heartfelt Caress",
-      "Desc": "When the equipper's HP decreases, their <color=#98EFF0>Ice Sheer DMG</color> increases by <color=#2BAD00>6%</color>, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of max HP or below, CRIT Rate increases by <color=#2BAD00>20%</color>."
+      "Desc": "When the equipper's HP decreases, their <color=#98EFF0>Ice Sheer DMG</color> increases by <color=#2BAD00>6%</color>, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of Max HP or below, CRIT Rate increases by <color=#2BAD00>20%</color>."
     },
     "2": {
       "Name": "Heartfelt Caress",
-      "Desc": "When the equipper's HP decreases, their <color=#98EFF0>Ice Sheer DMG</color> increases by <color=#2BAD00>7%</color>, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of max HP or below, CRIT Rate increases by <color=#2BAD00>23%</color>."
+      "Desc": "When the equipper's HP decreases, their <color=#98EFF0>Ice Sheer DMG</color> increases by <color=#2BAD00>7%</color>, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of Max HP or below, CRIT Rate increases by <color=#2BAD00>23%</color>."
     },
     "3": {
       "Name": "Heartfelt Caress",
-      "Desc": "When the equipper's HP decreases, their <color=#98EFF0>Ice Sheer DMG</color> increases by <color=#2BAD00>8%</color>, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of max HP or below, CRIT Rate increases by <color=#2BAD00>26%</color>."
+      "Desc": "When the equipper's HP decreases, their <color=#98EFF0>Ice Sheer DMG</color> increases by <color=#2BAD00>8%</color>, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of Max HP or below, CRIT Rate increases by <color=#2BAD00>26%</color>."
     },
     "4": {
       "Name": "Heartfelt Caress",
-      "Desc": "When the equipper's HP decreases, their <color=#98EFF0>Ice Sheer DMG</color> increases by <color=#2BAD00>9%</color>, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of max HP or below, CRIT Rate increases by <color=#2BAD00>29%</color>."
+      "Desc": "When the equipper's HP decreases, their <color=#98EFF0>Ice Sheer DMG</color> increases by <color=#2BAD00>9%</color>, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of Max HP or below, CRIT Rate increases by <color=#2BAD00>29%</color>."
     },
     "5": {
       "Name": "Heartfelt Caress",
-      "Desc": "When the equipper's HP decreases, their <color=#98EFF0>Ice Sheer DMG</color> increases by <color=#2BAD00>10%</color>, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of max HP or below, CRIT Rate increases by <color=#2BAD00>32%</color>."
+      "Desc": "When the equipper's HP decreases, their <color=#98EFF0>Ice Sheer DMG</color> increases by <color=#2BAD00>10%</color>, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of Max HP or below, CRIT Rate increases by <color=#2BAD00>32%</color>."
     }
   }
 }

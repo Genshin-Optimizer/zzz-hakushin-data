@@ -25,7 +25,8 @@
     "Stature": "185",
     "UnlockCondition": [
       "Obtain Agent",
-      "Complete Main Story \"Leisurely Lull: Wandering Visitor\" (available after completing Main Story Season 1 - Epilogue (B))"
+      "Complete Main Story \"Leisurely Lull: Wandering Visitor\" (available after completing Main Story Season 1 - Epilogue (B))",
+      "Complete the \"Anby's Problem\" commission"
     ],
     "TrustLv": {
       "1": "Hugo calls himself a collector and runs a fairly successful gallery, mingling with the \"elite\" of New Eridu.\nIn truth, he's the leader of the phantom thieves syndicate, Mockingbird — and Lycaon's former partner.\nDespite his cruel (edgy and dramatic) words, deep down he has his own sense of fairness and justice.\n\nRecords suggest that Hugo had a troubled childhood.\nAs the illegitimate son of the Ravenlocks, a long-established TOPS family, he was rejected by his mother from an early age because of his heterochromatic eyes.\nHis father bought him back like a cheap commodity, using him to provoke a cutthroat succession battle between his children. In that brutal struggle, the only one kind to Hugo — his sister, Serena — became the first to fall. The ones who orchestrated her death pinned the blame on Hugo, thinking it would destroy him. But to their shock, their father actually praised Hugo's actions, calling them the very traits a worthy heir should possess.\nAfter running away from his family, Hugo met Lycaon and Jack and learned to be a phantom thief. After Jack passed away, Hugo and Lycaon formed Mockingbird together.\n\nLater, during one of Mockingbird's missions, Hugo came face-to-face with his father. In a brief moment of hesitation, he chose not to take his revenge and kill him — an act of mercy that ended up costing the lives of many innocent people. His close friend Lycaon, due to a misunderstanding born from those circumstances, broke ties with him and ultimately left Mockingbird.\nAfter drifting on his own for a while, Hugo met Vivian, a girl who reminded him of his sister Serena. He took her under his wing and reformed the Mockingbird syndicate.",
@@ -1949,5 +1950,6 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
   },
-  "Potential": []
+  "Potential": [],
+  "PotentialDetail": {}
 }

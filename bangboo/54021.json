@@ -1,0 +1,399 @@
+{
+  "Id": 54021,
+  "CodeName": "Bangboo_Name_en_54021",
+  "Name": "Bangboo_Name_54021",
+  "Desc": "Bangboo_Desc_54021",
+  "Rarity": 4,
+  "Icon": "",
+  "Stats": {
+    "Stamina": 100,
+    "StaminaUpragde": 10,
+    "Endurance": 180,
+    "HpMax": 396,
+    "Hpupgrade": 471237,
+    "Attack": 72,
+    "AttackUpgrade": 360408,
+    "BreakStun": 103,
+    "ElementAbnormalPower": 110,
+    "Defence": 28,
+    "DefUpgrade": 78871,
+    "Crit": 500,
+    "PenRatio": 0,
+    "CritDmg": 5000
+  },
+  "Level": {
+    "1": {
+      "HpMax": 0,
+      "Attack": 0,
+      "Defence": 0,
+      "LevelMax": 10,
+      "LevelMin": 0,
+      "Materials": { "10": 15000, "102010": 4 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        }
+      }
+    },
+    "2": {
+      "HpMax": 207,
+      "Attack": 67,
+      "Defence": 35,
+      "LevelMax": 20,
+      "LevelMin": 10,
+      "Materials": { "10": 35000, "102020": 12 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 450
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        }
+      }
+    },
+    "3": {
+      "HpMax": 414,
+      "Attack": 333,
+      "Defence": 69,
+      "LevelMax": 30,
+      "LevelMin": 20,
+      "Materials": { "10": 75000, "102020": 20 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 2250
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 0
+        }
+      }
+    },
+    "4": {
+      "HpMax": 621,
+      "Attack": 1000,
+      "Defence": 104,
+      "LevelMax": 40,
+      "LevelMin": 30,
+      "Materials": { "10": 125000, "102030": 10 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 2250
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 2500
+        }
+      }
+    },
+    "5": {
+      "HpMax": 828,
+      "Attack": 2666,
+      "Defence": 139,
+      "LevelMax": 50,
+      "LevelMin": 40,
+      "Materials": { "10": 250000, "102030": 20 },
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 4500
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 2500
+        }
+      }
+    },
+    "6": {
+      "HpMax": 1034,
+      "Attack": 6665,
+      "Defence": 173,
+      "LevelMax": 60,
+      "LevelMin": 50,
+      "Materials": {},
+      "Extra": {
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 4500
+        },
+        "21101": {
+          "Prop": 21101,
+          "Name": "CRIT DMG",
+          "Format": "{0:0.#%}",
+          "Value": 5000
+        }
+      }
+    }
+  },
+  "Skill": {
+    "A": {
+      "Level": {
+        "1": {
+          "Name": "Bangboo_ActiveSkill_Title_54021",
+          "Desc": "Bangboo_ActiveSkill_Des_54021",
+          "Property": [
+            "Bangboo_ActiveSkill_Property_Des_5402101",
+            "Bangboo_ActiveSkill_Property_Des_5402102",
+            "Cooldown"
+          ],
+          "Param": "Bangboo_ActiveSkill_Property_Val_5402101_01|Bangboo_ActiveSkill_Property_Val_5402102_01|Bangboo_ActiveSkill_Property_CD_54021"
+        },
+        "2": {
+          "Name": "Bangboo_ActiveSkill_Title_54021",
+          "Desc": "Bangboo_ActiveSkill_Des_54021",
+          "Property": [
+            "Bangboo_ActiveSkill_Property_Des_5402101",
+            "Bangboo_ActiveSkill_Property_Des_5402102",
+            "Cooldown"
+          ],
+          "Param": "Bangboo_ActiveSkill_Property_Val_5402101_02|Bangboo_ActiveSkill_Property_Val_5402102_02|Bangboo_ActiveSkill_Property_CD_54021"
+        },
+        "3": {
+          "Name": "Bangboo_ActiveSkill_Title_54021",
+          "Desc": "Bangboo_ActiveSkill_Des_54021",
+          "Property": [
+            "Bangboo_ActiveSkill_Property_Des_5402101",
+            "Bangboo_ActiveSkill_Property_Des_5402102",
+            "Cooldown"
+          ],
+          "Param": "Bangboo_ActiveSkill_Property_Val_5402101_03|Bangboo_ActiveSkill_Property_Val_5402102_03|Bangboo_ActiveSkill_Property_CD_54021"
+        },
+        "4": {
+          "Name": "Bangboo_ActiveSkill_Title_54021",
+          "Desc": "Bangboo_ActiveSkill_Des_54021",
+          "Property": [
+            "Bangboo_ActiveSkill_Property_Des_5402101",
+            "Bangboo_ActiveSkill_Property_Des_5402102",
+            "Cooldown"
+          ],
+          "Param": "Bangboo_ActiveSkill_Property_Val_5402101_04|Bangboo_ActiveSkill_Property_Val_5402102_04|Bangboo_ActiveSkill_Property_CD_54021"
+        },
+        "5": {
+          "Name": "Bangboo_ActiveSkill_Title_54021",
+          "Desc": "Bangboo_ActiveSkill_Des_54021",
+          "Property": [
+            "Bangboo_ActiveSkill_Property_Des_5402101",
+            "Bangboo_ActiveSkill_Property_Des_5402102",
+            "Cooldown"
+          ],
+          "Param": "Bangboo_ActiveSkill_Property_Val_5402101_05|Bangboo_ActiveSkill_Property_Val_5402102_05|Bangboo_ActiveSkill_Property_CD_54021"
+        },
+        "6": {
+          "Name": "Bangboo_ActiveSkill_Title_54021",
+          "Desc": "Bangboo_ActiveSkill_Des_54021",
+          "Property": [
+            "Bangboo_ActiveSkill_Property_Des_5402101",
+            "Bangboo_ActiveSkill_Property_Des_5402102",
+            "Cooldown"
+          ],
+          "Param": "Bangboo_ActiveSkill_Property_Val_5402101_06|Bangboo_ActiveSkill_Property_Val_5402102_06|Bangboo_ActiveSkill_Property_CD_54021"
+        },
+        "7": {
+          "Name": "Bangboo_ActiveSkill_Title_54021",
+          "Desc": "Bangboo_ActiveSkill_Des_54021",
+          "Property": [
+            "Bangboo_ActiveSkill_Property_Des_5402101",
+            "Bangboo_ActiveSkill_Property_Des_5402102",
+            "Cooldown"
+          ],
+          "Param": "Bangboo_ActiveSkill_Property_Val_5402101_07|Bangboo_ActiveSkill_Property_Val_5402102_07|Bangboo_ActiveSkill_Property_CD_54021"
+        },
+        "8": {
+          "Name": "Bangboo_ActiveSkill_Title_54021",
+          "Desc": "Bangboo_ActiveSkill_Des_54021",
+          "Property": [
+            "Bangboo_ActiveSkill_Property_Des_5402101",
+            "Bangboo_ActiveSkill_Property_Des_5402102",
+            "Cooldown"
+          ],
+          "Param": "Bangboo_ActiveSkill_Property_Val_5402101_08|Bangboo_ActiveSkill_Property_Val_5402102_08|Bangboo_ActiveSkill_Property_CD_54021"
+        },
+        "9": {
+          "Name": "Bangboo_ActiveSkill_Title_54021",
+          "Desc": "Bangboo_ActiveSkill_Des_54021",
+          "Property": [
+            "Bangboo_ActiveSkill_Property_Des_5402101",
+            "Bangboo_ActiveSkill_Property_Des_5402102",
+            "Cooldown"
+          ],
+          "Param": "Bangboo_ActiveSkill_Property_Val_5402101_09|Bangboo_ActiveSkill_Property_Val_5402102_09|Bangboo_ActiveSkill_Property_CD_54021"
+        },
+        "10": {
+          "Name": "Bangboo_ActiveSkill_Title_54021",
+          "Desc": "Bangboo_ActiveSkill_Des_54021",
+          "Property": [
+            "Bangboo_ActiveSkill_Property_Des_5402101",
+            "Bangboo_ActiveSkill_Property_Des_5402102",
+            "Cooldown"
+          ],
+          "Param": "Bangboo_ActiveSkill_Property_Val_5402101_10|Bangboo_ActiveSkill_Property_Val_5402102_10|Bangboo_ActiveSkill_Property_CD_54021"
+        }
+      }
+    },
+    "B": {
+      "Level": {
+        "1": {
+          "Name": "Bangboo_TalentSkill_Title_54021",
+          "Desc": "Bangboo_TalentSkill_Des_54021_01",
+          "Property": [
+            "Bangboo_TalentSkill_Property_Des_5402101",
+            "Bangboo_TalentSkill_Property_Des_5402102",
+            "Bangboo_TalentSkill_Property_Des_5402103"
+          ],
+          "Param": "Bangboo_TalentSkill_Property_Val_5402101_01|Bangboo_TalentSkill_Property_Val_5402102_01|Bangboo_TalentSkill_Property_Val_5402103_01"
+        },
+        "2": {
+          "Name": "Bangboo_TalentSkill_Title_54021",
+          "Desc": "Bangboo_TalentSkill_Des_54021_02",
+          "Property": [
+            "Bangboo_TalentSkill_Property_Des_5402101",
+            "Bangboo_TalentSkill_Property_Des_5402102",
+            "Bangboo_TalentSkill_Property_Des_5402103"
+          ],
+          "Param": "Bangboo_TalentSkill_Property_Val_5402101_02|Bangboo_TalentSkill_Property_Val_5402102_02|Bangboo_TalentSkill_Property_Val_5402103_02"
+        },
+        "3": {
+          "Name": "Bangboo_TalentSkill_Title_54021",
+          "Desc": "Bangboo_TalentSkill_Des_54021_03",
+          "Property": [
+            "Bangboo_TalentSkill_Property_Des_5402101",
+            "Bangboo_TalentSkill_Property_Des_5402102",
+            "Bangboo_TalentSkill_Property_Des_5402103"
+          ],
+          "Param": "Bangboo_TalentSkill_Property_Val_5402101_03|Bangboo_TalentSkill_Property_Val_5402102_03|Bangboo_TalentSkill_Property_Val_5402103_03"
+        },
+        "4": {
+          "Name": "Bangboo_TalentSkill_Title_54021",
+          "Desc": "Bangboo_TalentSkill_Des_54021_04",
+          "Property": [
+            "Bangboo_TalentSkill_Property_Des_5402101",
+            "Bangboo_TalentSkill_Property_Des_5402102",
+            "Bangboo_TalentSkill_Property_Des_5402103"
+          ],
+          "Param": "Bangboo_TalentSkill_Property_Val_5402101_04|Bangboo_TalentSkill_Property_Val_5402102_04|Bangboo_TalentSkill_Property_Val_5402103_04"
+        },
+        "5": {
+          "Name": "Bangboo_TalentSkill_Title_54021",
+          "Desc": "Bangboo_TalentSkill_Des_54021_05",
+          "Property": [
+            "Bangboo_TalentSkill_Property_Des_5402101",
+            "Bangboo_TalentSkill_Property_Des_5402102",
+            "Bangboo_TalentSkill_Property_Des_5402103"
+          ],
+          "Param": "Bangboo_TalentSkill_Property_Val_5402101_05|Bangboo_TalentSkill_Property_Val_5402102_05|Bangboo_TalentSkill_Property_Val_5402103_05"
+        }
+      }
+    },
+    "C": {
+      "Level": {
+        "1": {
+          "Name": "Bangboo_QTE_Title_54021",
+          "Desc": "Bangboo_QTE_Des_54021",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5402102, Prop:1001}|{Skill:5402102, Prop:1002}"
+        },
+        "2": {
+          "Name": "Bangboo_QTE_Title_54021",
+          "Desc": "Bangboo_QTE_Des_54021",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5402102, Prop:1001}|{Skill:5402102, Prop:1002}"
+        },
+        "3": {
+          "Name": "Bangboo_QTE_Title_54021",
+          "Desc": "Bangboo_QTE_Des_54021",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5402102, Prop:1001}|{Skill:5402102, Prop:1002}"
+        },
+        "4": {
+          "Name": "Bangboo_QTE_Title_54021",
+          "Desc": "Bangboo_QTE_Des_54021",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5402102, Prop:1001}|{Skill:5402102, Prop:1002}"
+        },
+        "5": {
+          "Name": "Bangboo_QTE_Title_54021",
+          "Desc": "Bangboo_QTE_Des_54021",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5402102, Prop:1001}|{Skill:5402102, Prop:1002}"
+        },
+        "6": {
+          "Name": "Bangboo_QTE_Title_54021",
+          "Desc": "Bangboo_QTE_Des_54021",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5402102, Prop:1001}|{Skill:5402102, Prop:1002}"
+        },
+        "7": {
+          "Name": "Bangboo_QTE_Title_54021",
+          "Desc": "Bangboo_QTE_Des_54021",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5402102, Prop:1001}|{Skill:5402102, Prop:1002}"
+        },
+        "8": {
+          "Name": "Bangboo_QTE_Title_54021",
+          "Desc": "Bangboo_QTE_Des_54021",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5402102, Prop:1001}|{Skill:5402102, Prop:1002}"
+        },
+        "9": {
+          "Name": "Bangboo_QTE_Title_54021",
+          "Desc": "Bangboo_QTE_Des_54021",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5402102, Prop:1001}|{Skill:5402102, Prop:1002}"
+        },
+        "10": {
+          "Name": "Bangboo_QTE_Title_54021",
+          "Desc": "Bangboo_QTE_Des_54021",
+          "Property": ["DMG Multiplier", "Daze Multiplier"],
+          "Param": "{Skill:5402102, Prop:1001}|{Skill:5402102, Prop:1002}"
+        }
+      }
+    }
+  },
+  "SkillProp": {
+    "5402101": {
+      "1001": { "Main": 26900, "Growth": 2690, "Format": "%" },
+      "1002": { "Main": 9800, "Growth": 980, "Format": "%" },
+      "ElementAccumulationValue": 12600
+    },
+    "5402102": {
+      "1001": { "Main": 35800, "Growth": 3580, "Format": "%" },
+      "1002": { "Main": 13100, "Growth": 1310, "Format": "%" },
+      "ElementAccumulationValue": 16800
+    },
+    "5402103": {
+      "1001": { "Main": 94500, "Growth": 9450, "Format": "%" },
+      "1002": { "Main": 13500, "Growth": 1350, "Format": "%" },
+      "ElementAccumulationValue": 40500
+    }
+  }
+}

@@ -25,7 +25,8 @@
     "Stature": "198",
     "UnlockCondition": [
       "Obtain Agent",
-      "Complete Agent Story \"And the True Heroes Are Always Behind the Scenes\""
+      "Complete Agent Story \"And the True Heroes Are Always Behind the Scenes\"",
+      "Complete the \"Anby's Problem\" commission"
     ],
     "TrustLv": {
       "1": "Lycaon, the substantive leader and representative of Victoria Housekeeping Co., is responsible for managing all members of the company.\nRational and reliable, Lycaon is an elegant gentleman and a versatile attendant who can solve any problem. He is the cornerstone of his team and a reassuring presence.\nHe has a slight obsession with cleanliness, always tidying up his surroundings and unable to tolerate dirty environments.\n\nAlthough Lycaon maintains his elegance and composure, his canine instincts occasionally shine through. When he is particularly happy, his tail and ears unconsciously wag. He seems to be aware of this habit and somewhat bothered by it.\nAdditionally, like most furry Thiren, Lycaon takes great care of his fur.\n\nSuggestion: Since Lycaon is a canine Thiren, stroking his head or chin may enhance the emotional connection between you. (Note: Success is not guaranteed.)\n* Risks: Due to his height, you may not be able to do this even if you stand on tiptoes.",
@@ -2036,5 +2037,6 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
-  "Potential": []
+  "Potential": [],
+  "PotentialDetail": {}
 }

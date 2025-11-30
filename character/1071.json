@@ -25,7 +25,8 @@
     "Stature": "176",
     "UnlockCondition": [
       "Obtain Agent",
-      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
+      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock",
+      "Complete the \"Anby's Problem\" commission"
     ],
     "TrustLv": {
       "1": "Caesar: Leader of the Sons of Calydon biker gang and a \"monarch\" in the making.\nHer combination of formidable strength and bold, straightforward personality has earned her the love and respect of the Outer Ring's residents.\nAlthough she appears to do things in her own way, she is actually very willing to listen to others' opinions. Caesar actively listens to and implements any valid suggestion she hears — regardless of who it comes from.\nShe is completely defenseless against those she trusts. Once she accepts someone, she considers them part of her inner circle, treating them with absolute trust.\n(Assumption: Caesar currently views you in this way.)\n\nCaesar's father has been missing for as long as she can remember, and her mother passed away from illness when she was young. She was raised by Big Daddy, who took a very hands-off approach to raising her, allowing her to grow up freely and independently.\n\nIn addition, Caesar seems to have a curious interest in matters related to romance.\nIf you wish to get closer to her, you might want to try discussing this topic with her.",
@@ -1935,5 +1936,6 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
-  "Potential": []
+  "Potential": [],
+  "PotentialDetail": {}
 }

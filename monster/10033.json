@@ -378,7 +378,7 @@
   "GroupDesc": "Corrupted",
   "CardObtain": "[Unidentified] Defeat this monster in Hollow Zero 1 time to obtain its data",
   "CardQuote": "—Two Hollow Investigators exchanging intel on the sly.",
-  "CardSkillDesc": "",
+  "CardSkillDesc": "During combat, Miasmic Trooper - Shieldguard uses its shield to both significantly reduce DMG and Daze taken, and also counterattack.",
   "ElementAbnormal": {
     "10001": 600,
     "10002": 600,

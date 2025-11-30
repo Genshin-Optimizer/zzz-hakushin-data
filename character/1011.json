@@ -1488,5 +1488,6 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
-  "Potential": []
+  "Potential": [],
+  "PotentialDetail": {}
 }

@@ -175,7 +175,7 @@
     "type": 3,
     "EN": "Rainforest Gourmet",
     "desc": "A consumer-class W-Engine launched by an exotic pet fan club to promote pet culture. Due to its cute appearance, it was once a very popular model.",
-    "KO": "우림의 식객",
+    "KO": "우림의 ���객",
     "CHS": "雨林饕客",
     "JA": "密林の食いしん坊"
   },
@@ -295,7 +295,7 @@
     "type": 1,
     "EN": "Marcato Desire",
     "desc": "Gather 'round, mortals! Turn up the music!",
-    "KO": "열망의 악센트",
+    "KO": "열망��� 악센트",
     "CHS": "强音热望",
     "JA": "強音デザイア"
   },
@@ -308,6 +308,16 @@
     "KO": "조명을 새기는 칼",
     "CHS": "光影刻刀",
     "JA": "光と影のカット"
+  },
+  "13019": {
+    "icon": "Weapon_A_Common_19",
+    "rank": 3,
+    "type": 5,
+    "EN": "Item_Weapon_A_Common_19_Name",
+    "desc": "Item_Weapon_A_Common_19_ShortDesc",
+    "KO": "Item_Weapon_A_Common_19_Name",
+    "CHS": "Item_Weapon_A_Common_19_Name",
+    "JA": "Item_Weapon_A_Common_19_Name"
   },
   "13101": {
     "icon": "Weapon_A_1011",
@@ -434,7 +444,7 @@
     "rank": 3,
     "type": 6,
     "EN": "Grill O'Wisp",
-    "desc": "...",
+    "desc": "A flame both fierce and faithful, burning without end.",
     "KO": "어스름한 밤의 화염",
     "CHS": "燔火胧夜",
     "JA": "燔火の朧夜"
@@ -494,7 +504,7 @@
     "rank": 4,
     "type": 6,
     "EN": "Kraken's Cradle",
-    "desc": "...",
+    "desc": "In chasing illusions, she was entranced by the light that pierced through the mist.",
     "KO": "크라켄의 요람",
     "CHS": "海妖摇篮",
     "JA": "セイレーンクレードル"
@@ -537,7 +547,7 @@
     "desc": "A special W-Engine with a powerful temperature control system. Modified by Lycaon, it has the capability to quickly create extremely cold environments.",
     "KO": "구속된 자",
     "CHS": "拘缚者",
-    "JA": "拘縛されし者"
+    "JA": "拘縛され���者"
   },
   "14116": {
     "icon": "Weapon_S_1161",
@@ -557,7 +567,7 @@
     "desc": "Modified by Burnice, this W-Engine uses a special fuel as its power source to boost combustion performance to the max.",
     "KO": "타오르는 셰이커",
     "CHS": "灼心摇壶",
-    "JA": "バー��ング・シェイカー"
+    "JA": "バーニング・シェイカー"
   },
   "14118": {
     "icon": "Weapon_S_1181",
@@ -625,7 +635,7 @@
     "type": 2,
     "EN": "Ice-Jade Teapot",
     "desc": "A custom stun W-Engine made for an Automaton referencing the combat style and abilities of one. Energy is stored within, then lashes outwards upon conversion.",
-    "KO": "맑��� 옥주전자",
+    "KO": "맑은 옥주전자",
     "CHS": "玉壶青冰",
     "JA": "玉壺青氷"
   },
@@ -665,7 +675,7 @@
     "type": 4,
     "EN": "Elegant Vanity",
     "desc": "Underneath the radiant splendor, her genuine self has never been hidden.",
-    "KO": "우아한 베니티���",
+    "KO": "우아한 베니티백",
     "CHS": "玲珑妆匣",
     "JA": "優美のヴァニティ"
   },
@@ -688,6 +698,16 @@
     "KO": "별빛 꿈을 누비는 새",
     "CHS": "飞鸟星梦",
     "JA": "鳥は夢へと羽ばたいて"
+  },
+  "14134": {
+    "icon": "Weapon_S_1341",
+    "rank": 4,
+    "type": 5,
+    "EN": "Half-Sugar Hail",
+    "desc": "Test text",
+    "KO": "Item_Weapon_S_1341_Name",
+    "CHS": "半糖冰雹",
+    "JA": "ハーフシュガーアイス"
   },
   "14136": {
     "icon": "Weapon_S_1361",
@@ -749,12 +769,22 @@
     "CHS": "狸法七变化",
     "JA": "狸の七変化"
   },
+  "14143": {
+    "icon": "Weapon_S_1431",
+    "rank": 4,
+    "type": 1,
+    "EN": "Lone Light in the Clouds",
+    "desc": "Test text",
+    "KO": "Item_Weapon_S_1431_Name",
+    "CHS": "云霓孤光",
+    "JA": "雲霓孤光"
+  },
   "14145": {
     "icon": "Weapon_S_1451",
     "rank": 4,
     "type": 4,
     "EN": "Dreamlit Hearth",
-    "desc": "...",
+    "desc": "After countless years, it remains a silent puzzle.",
     "KO": "꿈을 빚는 용광로의 노래",
     "CHS": "铸梦炉歌",
     "JA": "炉で歌い上げられる夢"
@@ -768,5 +798,25 @@
     "KO": "기계 심장에 내린 씨앗",
     "CHS": "机巧心种",
     "JA": "駆動する種"
+  },
+  "14147": {
+    "icon": "Weapon_S_1471",
+    "rank": 4,
+    "type": 6,
+    "EN": "Wrathful Vajra",
+    "desc": "The purging flames burned a hundred times, yet never cleansed me.",
+    "KO": "성난 눈의 금강",
+    "CHS": "怒目金刚",
+    "JA": "金剛不壊怒髪衝冠"
+  },
+  "14148": {
+    "icon": "Weapon_S_1481",
+    "rank": 4,
+    "type": 2,
+    "EN": "Yesterday Calls",
+    "desc": "That call you never picked up... she's the one who answered it.",
+    "KO": "지난밤의 전화",
+    "CHS": "昨夜来电",
+    "JA": "昨夜からの着信"
   }
 }

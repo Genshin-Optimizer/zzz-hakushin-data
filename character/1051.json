@@ -19,7 +19,7 @@
     "ImpressionM": "I know the feeling... When we hung out together before, I was in such a rush, I skipped lunch, and she noticed right away. She said my lips looked pale, so I must have come without eating, even though I couldn't tell myself...",
     "Name": "",
     "OutlookDesc": "",
-    "ProfileDesc": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. She is, after all, a gifted writer of strange tales, so it's only natural she might lose herself in the fantasy worlds she builds.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
+    "ProfileDesc": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. As a gifted writer of bizarre tales, Yidhari should be more prone than most to immersing herself in the worlds of her own imagination.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
     "Race": "Spook Shack",
     "RoleIcon": "IconRole/UnPacker/IconRole52",
     "Stature": "171",
@@ -29,7 +29,7 @@
       "Complete the \"Anby's Problem\" commission"
     ],
     "TrustLv": {
-      "1": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. She is, after all, a gifted writer of strange tales, so it's only natural she might lose herself in the fantasy worlds she builds.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
+      "1": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. As a gifted writer of bizarre tales, Yidhari should be more prone than most to immersing herself in the worlds of her own imagination.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
       "2": "",
       "3": "Yidhari has an unusual fondness for rainy days and long baths.\nThese two comforts grant her brief moments of peace in the real world, allowing her moments of rest free from the tangled streams of information in her mind.\n\nBut lately, her feelings toward these two comforts have changed.\nShe's grown unaccustomed to being alone, no longer anxiously yearning for the rain, no longer relying on warm baths to heal herself.\nShe has begun strolling beneath clear skies, moving with ease through bustling crowds... and looking forward to trying everything that feels new to her.\nFor Yidhari, everything started to change from the moment she met you.",
       "4": ""
@@ -256,7 +256,7 @@
         },
         {
           "Name": "Basic Attack: Frostbite Embrace",
-          "Desc": "Hold <IconMap:Icon_Normal> to activate:\nYidhari begins charging, continuously consuming HP to reach up to three levels of charge. When <IconMap:Icon_Normal> is released, Yidhari unleashes a powerful charged hammer strike in front based on the current charge level, dealing massive <color=#98EFF0>Ice DMG</color>.\nThe higher Yidhari's HP, the faster charging consumes it. HP consumption will at most reduce Yidhari's HP to 25% of Max HP.\nAt 2 charge levels, after using the skill, press <IconMap:Icon_Normal> to chain directly into the 3rd hit of <color=#FFFFFF>Basic Attack: Crushing Strike</color>. The DMG of a <color=#FFFFFF>Basic Attack: Crushing Strike</color> triggered this way increases based on the current charge level, up to 30%.\nAt 3 charge levels, Yidhari gains increased Anti-Interrupt level during the charged skill. Press <IconMap:Icon_Normal> to chain early into the finishing smash.",
+          "Desc": "Hold <IconMap:Icon_Normal> to activate:\nYidhari begins charging, continuously consuming HP to reach up to three levels of charge. When <IconMap:Icon_Normal> is released, Yidhari unleashes a powerful charged hammer attack in front based on the current charge level, dealing massive <color=#98EFF0>Ice DMG</color>.\nThe higher Yidhari's HP, the faster charging consumes it. HP consumption will at most reduce Yidhari's HP to 25% of Max HP.\nAt 2 charge levels, after using the skill, press <IconMap:Icon_Normal> to immediately follow up with the 3rd hit of <color=#FFFFFF>Basic Attack: Crushing Strike</color>. The DMG of a <color=#FFFFFF>Basic Attack: Crushing Strike</color> triggered this way increases based on the current charge level, up to 30%.\nAt 3 charge levels, Yidhari gains increased Anti-Interrupt level during the charged skill. Press <IconMap:Icon_Normal> to chain early into the finishing smash.",
           "Potential": []
         },
         {
@@ -934,7 +934,7 @@
         },
         {
           "Name": "EX Special Attack: Glacial Crush",
-          "Desc": "When triggering Surging Cold or Crushing Pursuit, and with enough Adrenaline, press <IconMap:Icon_SpecialReady_Rp> or <IconMap:Icon_Normal> to activate:\nDash forward with an upward attack, then leap into the air before delivering a powerful ground smash, dealing massive <color=#98EFF0>Ice DMG</color>.\nIf <color=#FFFFFF>EX Special Attack: Glacial Crush</color> hits an enemy, Yidhari heals at the end of the skill for 33% of her missing HP.\nIf the skill is used after Surging Cold, it grants an additional 15 Adrenaline. This effect can trigger once every 1s.\nAfter the skill, press <IconMap:Icon_Normal> to immediately unleash the finishing slam of <color=#FFFFFF>Basic Attack: Frostbite Embrace</color> based on the current charge level.\nCharacter is invulnerable while using this skill.",
+          "Desc": "When triggering Surging Cold or Crushing Pursuit, and with enough Adrenaline, press <IconMap:Icon_SpecialReady_Rp> or <IconMap:Icon_Normal> to activate:\nDash forward with an upward attack, then leap into the air before delivering a powerful downward smash, dealing massive <color=#98EFF0>Ice DMG</color>.\nIf <color=#FFFFFF>EX Special Attack: Glacial Crush</color> hits an enemy, Yidhari heals at the end of the skill for 33% of her missing HP.\nIf the skill is used after Surging Cold, it grants an additional 15 Adrenaline. This effect can trigger once every 1s.\nAfter using this skill, press <IconMap:Icon_Normal> to immediately unleash the finishing slam of <color=#FFFFFF>Basic Attack: Frostbite Embrace</color> based on the current charge level.\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
@@ -1286,7 +1286,7 @@
               "Potential": []
             },
             {
-              "Name": "Chain Attack DMG Multiplier in Ether Veil: Wellspring",
+              "Name": "DMG Multiplier in Ether Veil: Wellspring",
               "Desc": "{Skill:1051025, Prop:1001}",
               "Param": {
                 "1051025": {
@@ -1312,7 +1312,7 @@
               "Potential": []
             },
             {
-              "Name": "Chain Attack Daze Multiplier in Ether Veil: Wellspring",
+              "Name": "Daze Multiplier in Ether Veil: Wellspring",
               "Desc": "{Skill:1051025, Prop:1002}",
               "Param": {
                 "1051025": {
@@ -1686,7 +1686,7 @@
     },
     "1051006": {
       "Name": "Special Attack: Surging Cold, Crushing Pursuit",
-      "Desc": "<IconMap:Icon_Normal> (Hold) ; <IconMap:Icon_Special> (Release when fully charged) ; <IconMap:Icon_Special> (During Basic Attack: Frostbite Embrace's charged rotating strike)",
+      "Desc": "<IconMap:Icon_Normal> (Hold) ; <IconMap:Icon_Normal> (Release when fully charged) ; <IconMap:Icon_Special> (During Basic Attack: Frostbite Embrace's charged rotating strike)",
       "ElementType": 202,
       "HitType": 102,
       "Potential": []
@@ -1918,13 +1918,13 @@
       "Level": 2,
       "Name": "Who Lingers Here, Lost in Thought?",
       "Desc": "Yidhari's CRIT DMG increases by 40%. Triggering <color=#FFFFFF>Surging Cold</color> or <color=#FFFFFF>Crushing Pursuit</color> grants Adrenaline regen of 0.5/s for up to 30s. Repeated triggers reset the duration.",
-      "Desc2": "In the darkness lay the girl's slumbering thoughts.\nThey were not innocent daydreams, nor carefree flights of fancy.\nHer mind was fixed on the memories she had witnessed.\n\"What must I do? What must I bear?\"\n\"Good thing it's me, and not someone else.\"\n\"I know how to deal with being alone... I think.\"\nAs she sifted through the past, the girl calmly accepted this heavy gift."
+      "Desc2": "In the darkness lay the girl's slumbering thoughts.\nThey were not innocent daydreams, nor carefree flights of fancy.\nHer mind was fixed on the memories she had witnessed.\n\"What must I do? What must I bear?\"\n\"Good thing it's me, and not someone else.\"\n\"I know how to deal with being alone... I think.\"\nAs she sifted through those pasts, the girl calmly accepted this heavy gift."
     },
     "3": {
       "Level": 3,
       "Name": "A Story Without an Audience",
       "Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
-      "Desc2": "So this is what humanity is—such a complex existence.\nA lifetime can hold so much joy, and just as much sorrow.\nYet now, all of it has fallen into this void, to be swallowed, erased, and buried.\nNo one will ever care again for those joyful laughs, or those grief-stricken cries.\nStill... every one of those untold stories has been etched into this abyss of the soul."
+      "Desc2": "So this is what humanity is — such a complex existence.\nA lifetime can hold so much joy, and just as much sorrow.\nYet now, all of it has fallen into this void, to be swallowed, erased, and buried.\nNo one will ever care again for those joyful laughs, or those grief-stricken cries.\nStill... every one of those untold stories has been etched into this abyss of the soul."
     },
     "4": {
       "Level": 4,
@@ -1942,7 +1942,7 @@
       "Level": 6,
       "Name": "At Last, a Peaceful Dream",
       "Desc": "After Yidhari spends Decibels to activate or extend <color=#FFFFFF>Ether Veil: Wellspring</color>, she gains <color=#FFFFFF>Erudition</color> for 30s. While <color=#FFFFFF>Erudition</color> is active, her Sheer DMG increases by 25%. Also, upon taking fatal DMG for the first time, her HP is reduced to at most 1, and for the next 5s, she cannot be defeated and will restore 25% HP over time.",
-      "Desc2": "Immersed in the tide of memories, she had never found even a fleeting rest.\nHer only refuge was solitude, escaping the bustle of the world, losing herself in strange tales, seeking quiet beneath veils of misty rain or within the embrace of warm waters.\nBut now, she can walk calmly among the crowds, no longer troubled by noise or the burning sun, for \"illusion\" no longer binds her spirit, and \"reality\" has become the anchor of her soul."
+      "Desc2": "Immersed in the tide of memories, she had never found even fleeting rest.\nHer only refuge was solitude, escaping the bustle of the world, losing herself in strange tales, seeking quiet beneath veils of misty rain or within the embrace of warm waters.\nBut now, she can walk calmly among the crowds, no longer troubled by noise or the burning sun, for \"illusion\" no longer binds her spirit, and \"reality\" has become the anchor of her soul."
     }
   },
   "FairyRecommend": {
@@ -1974,5 +1974,6 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
     }
   },
-  "Potential": []
+  "Potential": [],
+  "PotentialDetail": {}
 }

@@ -172,12 +172,12 @@
   "53019": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole41.png",
     "rank": 3,
-    "codename": "Bangboo_Name_en_53019",
-    "EN": "Bangboo_Name_53019",
-    "desc": "Bangboo_Desc_53019",
-    "KO": "Bangboo_Name_53019",
-    "CHS": "Bangboo_Name_53019",
-    "JA": "Bangboo_Name_53019"
+    "codename": "Bild N. Boolok",
+    "EN": "Bild N. Boolok",
+    "desc": "Don't step on the blocks barefoot.",
+    "KO": "블록부",
+    "CHS": "乐玩布",
+    "JA": "ブロックボンプ"
   },
   "54001": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole07.png",
@@ -342,7 +342,7 @@
   "54019": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole38.png",
     "rank": 4,
-    "codename": "Mercury",
+    "codename": "「Mercury」",
     "EN": "Mercury",
     "desc": "A Bangboo uninterested in military merits is not a good soldier.",
     "KO": "「머큐리」",
@@ -352,11 +352,21 @@
   "54020": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole42.png",
     "rank": 4,
-    "codename": "Bangboo_Name_en_54020",
-    "EN": "Bangboo_Name_54020",
-    "desc": "Bangboo_Desc_54020",
-    "KO": "Bangboo_Name_54020",
-    "CHS": "Bangboo_Name_54020",
-    "JA": "Bangboo_Name_54020"
+    "codename": "Birkblick",
+    "EN": "Birkblick",
+    "desc": "We're both caught in the camera's eye.",
+    "KO": "비르크블리크",
+    "CHS": "比克布利克",
+    "JA": "ビャークブリック"
+  },
+  "54021": {
+    "icon": "",
+    "rank": 4,
+    "codename": "Bangboo_Name_en_54021",
+    "EN": "Bangboo_Name_54021",
+    "desc": "Bangboo_Desc_54021",
+    "KO": "Bangboo_Name_54021",
+    "CHS": "Bangboo_Name_54021",
+    "JA": "Bangboo_Name_54021"
   }
 }

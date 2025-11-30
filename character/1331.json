@@ -25,7 +25,8 @@
     "Stature": "162",
     "UnlockCondition": [
       "Obtain Agent",
-      "Complete Main Story \"Leisurely Lull: Wandering Visitor\" (available after completing Main Story Season 1 - Epilogue (B))"
+      "Complete Main Story \"Leisurely Lull: Wandering Visitor\" (available after completing Main Story Season 1 - Epilogue (B))",
+      "Complete the \"Anby's Problem\" commission"
     ],
     "TrustLv": {
       "1": "Vivian is a member of Mockingbird, skilled in gathering all kinds of intel. She's also a jack of many trades — cooking, mixology, translation, art forgery, electronics repair, and more.\nIn the past, she apparently wandered without a home and was viewed as one who \"brought disaster,\" almost like a living omen of bad luck.\nIt's said she can predict incoming misfortune through her tears, though there's no scientific proof of this ability.\nA loyal follower of Phaethon. Ever since your original account went inactive on Inter-Knot, she's been trying to track you down — digging for clues, running intense searches across the network. However, Master, she didn't find anything... all thanks to my efforts in keeping your cybersecurity airtight.\nSuggestion: Until her true intentions are clear, do not reveal your identity as Phaethon.\nIn case you've already let your identity slip, be sure to lock your doors and wear proper sleepwear before going to bed. Based on her old blog posts, she's likely to express her admiration in... overly passionate and intense ways.",
@@ -1624,5 +1625,6 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
-  "Potential": []
+  "Potential": [],
+  "PotentialDetail": {}
 }

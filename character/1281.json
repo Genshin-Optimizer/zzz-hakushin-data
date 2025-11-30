@@ -25,7 +25,8 @@
     "Stature": "151",
     "UnlockCondition": [
       "Obtain Agent",
-      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
+      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock",
+      "Complete the \"Anby's Problem\" commission"
     ],
     "TrustLv": {
       "1": "Piper is a truck driver for the Sons of Calydon. Apart from driving, she's also responsible for vehicle maintenance and other related jobs.\nHer tiny stature, cute voice (though she always seems half-asleep when not driving), and adorably harmless appearance (though she's a shut-in who can't be bothered to take care of her own appearance) make it hard to imagine that she would have such a crazy driving style.\nUsually, by the time she drawls out, \"Hold~ on~ tight~,\" the truck is already barreling down the road.\nRumor has it, Piper is a driver who doesn't need brakes. Though riding with her is a terrifying experience, she will always get you where you need to go safely, and in the shortest time possible. Of course, \"safely\" doesn't include any trauma that may be induced.\n\nPiper has many hobbies that don't seem to match her age, such as reading newspapers, buying lottery tickets, and collecting car magazines.\nPiper's biggest wish is to live each day slowly and leisurely.\nNote: Please keep in mind, Master, that this is also my wish.",
@@ -1663,5 +1664,6 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
-  "Potential": []
+  "Potential": [],
+  "PotentialDetail": {}
 }

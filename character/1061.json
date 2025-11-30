@@ -23,7 +23,11 @@
     "Race": "Victoria Housekeeping Co.",
     "RoleIcon": "IconRole/UnPacker/IconRole09",
     "Stature": "141",
-    "UnlockCondition": ["Obtain Agent", "Complete Main Commission Chapter 3"],
+    "UnlockCondition": [
+      "Obtain Agent",
+      "Complete Main Commission Chapter 3",
+      "Complete the \"Anby's Problem\" commission"
+    ],
     "TrustLv": {
       "1": "Corin is one of the maids working for Victoria Housekeeping Co.\nShe is a highly obedient maid but lacks confidence and often fears being disliked by others. When in a rush, she becomes flustered and stutters.\nCorin is always apologizing no matter what happens.\n\"I... I... I'm so sorry! I'm so incompetent... I'll never get things right...\"\n\nCorin never, however, fails to fulfill her tasks with excellence and is one of the most reliable members of Victoria Housekeeping Co.\nDespite her flawless performance, Corin remains skeptical about her abilities, constantly worrying about being a burden to her colleagues, which can sometimes frustrate Lycaon.\nThoughts: Is Corin's personality innate, shaped by her life experiences?",
       "2": "",
@@ -1747,5 +1751,6 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
   },
-  "Potential": []
+  "Potential": [],
+  "PotentialDetail": {}
 }

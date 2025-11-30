@@ -259,7 +259,7 @@
   "GroupDesc": "Ether Mutants",
   "CardObtain": "[Unidentified] Defeat this monster in Hollow Zero 1 time to obtain its data",
   "CardQuote": "—Hollow Investigative Association's 17th Dead End Hollow Investigation",
-  "CardSkillDesc": "",
+  "CardSkillDesc": "In combat, the notorious Dead End Butcher can skillfully utilize Ether Energy to unleash various ranged attacks and enter an \"Ether Enhanced\" state to boost their ATK; Dazing them will cancel their \"Ether Enhanced\" state.",
   "ElementAbnormal": {
     "10001": 600,
     "10002": 600,

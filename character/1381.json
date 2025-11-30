@@ -233,7 +233,7 @@
         {
           "Name": "Basic Attack: Penetrating Shock",
           "Desc": "Press <IconMap:Icon_Normal> to activate:\nPerform up to five slashes ahead, dealing <color=#2EB6FF>Electric DMG</color>.\nOn the 3rd hit of the Basic Attack, enemies are continuously pulled in.\nAfter the 4th attack hits the enemy, repeatedly press or hold <IconMap:Icon_Normal> to quickly pass through enemies in front up to 5 times.",
-          "Potential": [138100]
+          "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
         },
         {
           "Name": "Basic Attack: Penetrating Shock",
@@ -340,7 +340,7 @@
                   "EtherPurify": 7000
                 }
               },
-              "Potential": [138100]
+              "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
             },
             {
               "Name": "3rd-Hit Finisher DMG Multiplier",
@@ -522,7 +522,7 @@
                   "EtherPurify": 7000
                 }
               },
-              "Potential": [138100]
+              "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
             },
             {
               "Name": "3rd-Hit Finisher Daze Multiplier",
@@ -641,7 +641,7 @@
         {
           "Name": "Dodge Counter: Ground Flash Counter",
           "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nPerform consecutive slashes at enemies in front, dealing <color=#2EB6FF>Electric DMG</color>. On hit, gain the Voltage Overload state for 15s. Repeated triggers refresh the duration.\nWhile in the Voltage Overload state, dodge performance is enhanced. Additionally, when using Basic Attack/Dash Attack/Dodge Counter, if the enemy target has <color=#FFFFFF>White Thunder</color>, pressing <IconMap:Icon_Special> will immediately cancel the current skill and launch <color=#FFFFFF>Special Attack: Azure Flash</color>.\nWhile in this state, if the enemy does not have <color=#FFFFFF>White Thunder</color>, press <IconMap:Icon_SpecialReady> to directly launch EX Special Attack: Sundering Bolt.\nCharacter is invulnerable while using this skill.",
-          "Potential": [138100]
+          "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
         },
         {
           "Name": "Dash Attack: Torrent",
@@ -794,8 +794,8 @@
         },
         {
           "Name": "Special Attack: Azure Flash - Boundary",
-          "Desc": "When <color=#FFFFFF>Special Attack: Thunder Smite</color> DMG is triggered:\nIf <color=#FFFFFF>EX Special Attack: Sundering Bolt</color> or <color=#FFFFFF>Special Attack: Azure Flash</color> is currently being used, then <color=#FFFFFF>Special Attack: Azure Flash - Boundary</color> will automatically trigger when the current skill ends, unleashing a flurry of slashes that deal multiple instances of <color=#2EB6FF>Electric DMG</color>. This skill counts as an <color=#FFFFFF>Aftershock</color>.\nCharacter is invulnerable while using this skill.",
-          "Potential": [138100]
+          "Desc": "When <color=#FFFFFF>Special Attack: Thunder Smite</color> DMG is triggered:\nIf EX Special Attack: Sundering Bolt or Special Attack: Azure Flash is currently being used, then <color=#FFFFFF>Special Attack: Azure Flash - Boundary</color> will automatically trigger when the current skill ends, unleashing a flurry of slashes that deal multiple instances of <color=#2EB6FF>Electric DMG</color>. This skill counts as an <color=#FFFFFF>Aftershock</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
         },
         {
           "Name": "EX Special Attack: Sundering Bolt",
@@ -1055,7 +1055,7 @@
                   "EtherPurify": 8667
                 }
               },
-              "Potential": [138100]
+              "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
             },
             {
               "Name": "Daze Multiplier",
@@ -1081,10 +1081,10 @@
                   "EtherPurify": 8667
                 }
               },
-              "Potential": [138100]
+              "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
             }
           ],
-          "Potential": [138100]
+          "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
         },
         {
           "Name": "EX Special Attack: Sundering Bolt",
@@ -1737,7 +1737,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
         ],
         "ExtraProperty": {},
-        "Potential": [138100]
+        "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381509": {
         "Level": 2,
@@ -1751,7 +1751,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
         ],
         "ExtraProperty": {},
-        "Potential": [138100]
+        "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381510": {
         "Level": 3,
@@ -1765,7 +1765,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
         ],
         "ExtraProperty": {},
-        "Potential": [138100]
+        "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381511": {
         "Level": 4,
@@ -1779,7 +1779,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
         ],
         "ExtraProperty": {},
-        "Potential": [138100]
+        "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381512": {
         "Level": 5,
@@ -1793,7 +1793,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
         ],
         "ExtraProperty": {},
-        "Potential": [138100]
+        "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381513": {
         "Level": 6,
@@ -1807,7 +1807,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
         ],
         "ExtraProperty": {},
-        "Potential": [138100]
+        "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
       },
       "1381514": {
         "Level": 7,
@@ -1821,7 +1821,7 @@
           "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When the current active character is Soldier 0 - Anby, all squad members' <color=#FFFFFF>Aftershocks</color> deal 25% more DMG to enemies marked with <color=#FFFFFF>Silver Star</color>.\nSoldier 0 - Anby's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> are treated as <color=#FFFFFF>Aftershock</color> DMG."
         ],
         "ExtraProperty": {},
-        "Potential": [138100]
+        "Potential": [138100, 138101, 138102, 138103, 138104, 138105]
       }
     },
     "Materials": {
@@ -1900,5 +1900,67 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
-  "Potential": [138100]
+  "Potential": [138100, 138101, 138102, 138103, 138104, 138105],
+  "PotentialDetail": {
+    "138100": {
+      "Id": 138100,
+      "Name": "",
+      "Desc": "",
+      "Image": "SilverAnby",
+      "LevelShowName": "Silver Heart I",
+      "Level": 1,
+      "AbilityList": [13811401],
+      "PotentialMaterials": [{ "ItemId": 20138, "Number": 1 }]
+    },
+    "138101": {
+      "Id": 138101,
+      "Name": "Potential Awakening: ??",
+      "Desc": "In <color=#FFFFFF>[Additional Ability: Voltage Surge]</color>, all squad members’ Aftershocks deal 34% more damage to enemies marked with <color=#FFFFFF>[Silver Star]</color>.",
+      "Image": "SilverAnby",
+      "LevelShowName": "Silver Heart II",
+      "Level": 2,
+      "AbilityList": [13811401, 13811501],
+      "PotentialMaterials": [{ "ItemId": 20138, "Number": 1 }]
+    },
+    "138102": {
+      "Id": 138102,
+      "Name": "Potential Awakening: ??",
+      "Desc": "In <color=#FFFFFF>[Additional Ability: Voltage Surge]</color>, all squad members’ Aftershocks deal 38% more damage to enemies marked with <color=#FFFFFF>[Silver Star]</color>.",
+      "Image": "SilverAnby",
+      "LevelShowName": "Silver Heart III",
+      "Level": 3,
+      "AbilityList": [13811401, 13811502],
+      "PotentialMaterials": [{ "ItemId": 20138, "Number": 1 }]
+    },
+    "138103": {
+      "Id": 138103,
+      "Name": "Potential Awakening: ??",
+      "Desc": "In <color=#FFFFFF>[Additional Ability: Voltage Surge]</color>, all squad members’ Aftershocks deal 42% more damage to enemies marked with <color=#FFFFFF>[Silver Star]</color>.",
+      "Image": "SilverAnby",
+      "LevelShowName": "Silver Heart IV",
+      "Level": 4,
+      "AbilityList": [13811401, 13811503],
+      "PotentialMaterials": [{ "ItemId": 20138, "Number": 1 }]
+    },
+    "138104": {
+      "Id": 138104,
+      "Name": "Potential Awakening: ??",
+      "Desc": "In <color=#FFFFFF>[Additional Ability: Voltage Surge]</color>, all squad members’ Aftershocks deal 46% more damage to enemies marked with <color=#FFFFFF>[Silver Star]</color>.",
+      "Image": "SilverAnby",
+      "LevelShowName": "Silver Heart V",
+      "Level": 5,
+      "AbilityList": [13811401, 13811504],
+      "PotentialMaterials": [{ "ItemId": 20138, "Number": 1 }]
+    },
+    "138105": {
+      "Id": 138105,
+      "Name": "Potential Awakening: ??",
+      "Desc": "In <color=#FFFFFF>[Additional Ability: Voltage Surge]</color>, all squad members’ Aftershocks deal 50% more damage to enemies marked with <color=#FFFFFF>[Silver Star]</color>.",
+      "Image": "SilverAnby",
+      "LevelShowName": "Silver Heart VI",
+      "Level": 6,
+      "AbilityList": [13811401, 13811505],
+      "PotentialMaterials": [{ "ItemId": 20138, "Number": 1 }]
+    }
+  }
 }

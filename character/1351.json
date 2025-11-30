@@ -25,7 +25,8 @@
     "Stature": "173",
     "UnlockCondition": [
       "Obtain Agent",
-      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
+      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock",
+      "Complete the \"Anby's Problem\" commission"
     ],
     "TrustLv": {
       "1": "Pulchra, formerly a mercenary from the Outer Ring, is now a member of the Sons of Calydon. She works as an ordinary employee at the logistics company Leaps and Bounds.\nWarning: Financial transactions have been detected between Pulchra and several biker and criminal gangs from the Outer Ring. These records have reduced since joining the Sons of Calydon, but there has been a large increase in funds transferred from New Eridu. This is likely because Pulchra's new position allows for easier access to New Eridu.\nFurther information indicates Pulchra has indirect involvement in several major events in the Outer Ring, including but not limited to: gang conflicts, leaks of crucial convoy supply intel, mysterious road damage, and price surges of essential goods...\nPulchra does not have deep connections with Lucius, and there is no current risk of her being an insider for any other biker gangs. However, her interpersonal network is highly complicated. Caution is advised when interacting with her, especially in protecting personal privacy.",
@@ -1453,5 +1454,6 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
-  "Potential": []
+  "Potential": [],
+  "PotentialDetail": {}
 }

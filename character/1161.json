@@ -25,7 +25,8 @@
     "Stature": "185",
     "UnlockCondition": [
       "Obtain Agent",
-      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
+      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock",
+      "Complete the \"Anby's Problem\" commission"
     ],
     "TrustLv": {
       "1": "Lighter, the Champion of the Sons of Calydon and an ex-mercenary.\nIn the Outer Ring, the Champion of a team refers to the one responsible for dealing with the opponent's strongest fighter in a gang fight, and they often need to participate in one-on-one duels. Their victory is crucial, as it brings glory and morale to the entire team.\n\"The Champion can perish, but cannot lose.\"\n\nA red scarf is what identifies the Champion of the Sons of Calydon.\nEven if the opponent doesn't know Lighter, they'll know who he is just from seeing that red scarf.\n\nFrom what is currently known, Lighter is actually very low profile. He only steals the spotlight on the battlefield when he acts on his obligations as Champion.\nNote: Lighter is the second Red Scarf of the Sons of Calydon. He teasingly refers to the previous Red Scarf as \"Brother\" or \"predecessor.\"",
@@ -1259,7 +1260,7 @@
         },
         {
           "Name": "EX Special Attack: V-Form Sunrise Uppercut - Full Distance",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLeaps into the air with a powerful uppercut, striking enemies in front and dealing massive <color=#FF5521>Fire DMG</color>.\nPress <IconMap:Icon_SpecialReady> again during this skill to spend additional Energy to perform a powerful follow-up attack, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold <IconMap:Icon_Normal> to follow up with the 4th hit of the <color=#FFFFFF>Basic Attack</color>.\nWith enough Energy, press <IconMap:Icon_SpecialReady> during the shuffle dodge to activate:\nStrike forward with a powerful punch combo, dealing massive <color=#FF5521>Fire DMG</color>.\nThis skill will not interrupt the combo count for <color=#FFFFFF>Basic Attacks</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press or hold <IconMap:Icon_Normal> to immediately follow up with the 5th hit of the <color=#FFFFFF>Basic Attack</color>.",
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nStrikes enemies in front with a powerful uppercut, leaping into the air and dealing massive <color=#FF5521>Fire DMG</color>.\nDuring the move, press <IconMap:Icon_SpecialReady> again to spend additional Energy to perform a powerful follow-up attack, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill\nAfter using the move, press or hold <IconMap:Icon_Normal> to transition to the 4th hit of the <color=#FFFFFF>Basic Attack</color>.\nDuring the shuffle dodge, with enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nPerform a powerful combo punch forward, dealing massive <color=#FF5521>Fire DMG</color>. Using this skill will not break the combo count for <color=#FFFFFF>Basic Attacks</color>.\nCharacter is invulnerable while using this skill.\nAfter the attack, press or hold <IconMap:Icon_Normal> to immediately transition into the 5th hit of the <color=#FFFFFF>Basic Attack</color>. ",
           "Potential": []
         },
         {
@@ -2096,5 +2097,6 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
-  "Potential": []
+  "Potential": [],
+  "PotentialDetail": {}
 }

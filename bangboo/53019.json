@@ -1,8 +1,8 @@
 {
   "Id": 53019,
-  "CodeName": "Bangboo_Name_en_53019",
-  "Name": "Bangboo_Name_53019",
-  "Desc": "Bangboo_Desc_53019",
+  "CodeName": "Bild N. Boolok",
+  "Name": "Bild N. Boolok",
+  "Desc": "Don't step on the blocks barefoot.",
   "Rarity": 3,
   "Icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole41.png",
   "Stats": {
@@ -158,125 +158,161 @@
   "Skill": {
     "A": {
       "Level": {
-        "7": {
-          "Name": "Bangboo_ActiveSkill_Title_53019",
-          "Desc": "Bangboo_ActiveSkill_Des_53019",
+        "1": {
+          "Name": "Block Hopscotch",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nSwings a staff and assembles blocks into a giant hammer to attack the enemy. After hitting the enemy four times or completing three hammer swings, leaps up and slams down, causing <color=#FFFFFF>Block Spikes</color> to erupt outward. Enemies take <color=#F0D12B>Physical DMG</color> upon coming into contact with <color=#FFFFFF>Block Spikes</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
-          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|Bangboo_ActiveSkill_Property_CD_53019"
+          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|24s"
+        },
+        "2": {
+          "Name": "Block Hopscotch",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nSwings a staff and assembles blocks into a giant hammer to attack the enemy. After hitting the enemy four times or completing three hammer swings, leaps up and slams down, causing <color=#FFFFFF>Block Spikes</color> to erupt outward. Enemies take <color=#F0D12B>Physical DMG</color> upon coming into contact with <color=#FFFFFF>Block Spikes</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|24s"
+        },
+        "3": {
+          "Name": "Block Hopscotch",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nSwings a staff and assembles blocks into a giant hammer to attack the enemy. After hitting the enemy four times or completing three hammer swings, leaps up and slams down, causing <color=#FFFFFF>Block Spikes</color> to erupt outward. Enemies take <color=#F0D12B>Physical DMG</color> upon coming into contact with <color=#FFFFFF>Block Spikes</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|24s"
+        },
+        "4": {
+          "Name": "Block Hopscotch",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nSwings a staff and assembles blocks into a giant hammer to attack the enemy. After hitting the enemy four times or completing three hammer swings, leaps up and slams down, causing <color=#FFFFFF>Block Spikes</color> to erupt outward. Enemies take <color=#F0D12B>Physical DMG</color> upon coming into contact with <color=#FFFFFF>Block Spikes</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|24s"
+        },
+        "5": {
+          "Name": "Block Hopscotch",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nSwings a staff and assembles blocks into a giant hammer to attack the enemy. After hitting the enemy four times or completing three hammer swings, leaps up and slams down, causing <color=#FFFFFF>Block Spikes</color> to erupt outward. Enemies take <color=#F0D12B>Physical DMG</color> upon coming into contact with <color=#FFFFFF>Block Spikes</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|24s"
+        },
+        "6": {
+          "Name": "Block Hopscotch",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nSwings a staff and assembles blocks into a giant hammer to attack the enemy. After hitting the enemy four times or completing three hammer swings, leaps up and slams down, causing <color=#FFFFFF>Block Spikes</color> to erupt outward. Enemies take <color=#F0D12B>Physical DMG</color> upon coming into contact with <color=#FFFFFF>Block Spikes</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|24s"
+        },
+        "7": {
+          "Name": "Block Hopscotch",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nSwings a staff and assembles blocks into a giant hammer to attack the enemy. After hitting the enemy four times or completing three hammer swings, leaps up and slams down, causing <color=#FFFFFF>Block Spikes</color> to erupt outward. Enemies take <color=#F0D12B>Physical DMG</color> upon coming into contact with <color=#FFFFFF>Block Spikes</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|24s"
         },
         "8": {
-          "Name": "Bangboo_ActiveSkill_Title_53019",
-          "Desc": "Bangboo_ActiveSkill_Des_53019",
+          "Name": "Block Hopscotch",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nSwings a staff and assembles blocks into a giant hammer to attack the enemy. After hitting the enemy four times or completing three hammer swings, leaps up and slams down, causing <color=#FFFFFF>Block Spikes</color> to erupt outward. Enemies take <color=#F0D12B>Physical DMG</color> upon coming into contact with <color=#FFFFFF>Block Spikes</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
-          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|Bangboo_ActiveSkill_Property_CD_53019"
+          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|24s"
         },
         "9": {
-          "Name": "Bangboo_ActiveSkill_Title_53019",
-          "Desc": "Bangboo_ActiveSkill_Des_53019",
+          "Name": "Block Hopscotch",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nSwings a staff and assembles blocks into a giant hammer to attack the enemy. After hitting the enemy four times or completing three hammer swings, leaps up and slams down, causing <color=#FFFFFF>Block Spikes</color> to erupt outward. Enemies take <color=#F0D12B>Physical DMG</color> upon coming into contact with <color=#FFFFFF>Block Spikes</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
-          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|Bangboo_ActiveSkill_Property_CD_53019"
+          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|24s"
         },
         "10": {
-          "Name": "Bangboo_ActiveSkill_Title_53019",
-          "Desc": "Bangboo_ActiveSkill_Des_53019",
+          "Name": "Block Hopscotch",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nSwings a staff and assembles blocks into a giant hammer to attack the enemy. After hitting the enemy four times or completing three hammer swings, leaps up and slams down, causing <color=#FFFFFF>Block Spikes</color> to erupt outward. Enemies take <color=#F0D12B>Physical DMG</color> upon coming into contact with <color=#FFFFFF>Block Spikes</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
-          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|Bangboo_ActiveSkill_Property_CD_53019"
+          "Param": "{Skill:5301901, Prop:1001}|{Skill:5301901, Prop:1002}|24s"
         }
       }
     },
     "B": {
       "Level": {
         "1": {
-          "Name": "Bangboo_TalentSkill_Title_53019",
-          "Desc": "Bangboo_TalentSkill_Des_53019_01",
-          "Property": ["Bangboo_TalentSkill_Property_Des_5301901"],
-          "Param": "Bangboo_TalentSkill_Property_Val_5301901_01"
+          "Name": "Red Light! Nobody Move!",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad: Bild N. Boolok's <color=#FFFFFF>Active Skill</color> releases 7 <color=#FFFFFF>Block Spikes</color>, and its <color=#FFFFFF>Active Skill</color> DMG increases by 30%.",
+          "Property": ["DMG Increase"],
+          "Param": "30%"
         },
         "2": {
-          "Name": "Bangboo_TalentSkill_Title_53019",
-          "Desc": "Bangboo_TalentSkill_Des_53019_02",
-          "Property": ["Bangboo_TalentSkill_Property_Des_5301901"],
-          "Param": "Bangboo_TalentSkill_Property_Val_5301901_02"
+          "Name": "Red Light! Nobody Move!",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad: Bild N. Boolok's <color=#FFFFFF>Active Skill</color> releases 7 <color=#FFFFFF>Block Spikes</color>, and its <color=#FFFFFF>Active Skill</color> DMG increases by 37.5%.",
+          "Property": ["DMG Increase"],
+          "Param": "37.5%"
         },
         "3": {
-          "Name": "Bangboo_TalentSkill_Title_53019",
-          "Desc": "Bangboo_TalentSkill_Des_53019_03",
-          "Property": ["Bangboo_TalentSkill_Property_Des_5301901"],
-          "Param": "Bangboo_TalentSkill_Property_Val_5301901_03"
+          "Name": "Red Light! Nobody Move!",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad: Bild N. Boolok's <color=#FFFFFF>Active Skill</color> releases 7 <color=#FFFFFF>Block Spikes</color>, and its <color=#FFFFFF>Active Skill</color> DMG increases by 45%.",
+          "Property": ["DMG Increase"],
+          "Param": "45%"
         },
         "4": {
-          "Name": "Bangboo_TalentSkill_Title_53019",
-          "Desc": "Bangboo_TalentSkill_Des_53019_04",
-          "Property": ["Bangboo_TalentSkill_Property_Des_5301901"],
-          "Param": "Bangboo_TalentSkill_Property_Val_5301901_04"
+          "Name": "Red Light! Nobody Move!",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad: Bild N. Boolok's <color=#FFFFFF>Active Skill</color> releases 7 <color=#FFFFFF>Block Spikes</color>, and its <color=#FFFFFF>Active Skill</color> DMG increases by 52.5%.",
+          "Property": ["DMG Increase"],
+          "Param": "52.5%"
         },
         "5": {
-          "Name": "Bangboo_TalentSkill_Title_53019",
-          "Desc": "Bangboo_TalentSkill_Des_53019_05",
-          "Property": ["Bangboo_TalentSkill_Property_Des_5301901"],
-          "Param": "Bangboo_TalentSkill_Property_Val_5301901_05"
+          "Name": "Red Light! Nobody Move!",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Support</color> character in your squad: Bild N. Boolok's <color=#FFFFFF>Active Skill</color> releases 7 <color=#FFFFFF>Block Spikes</color>, and its <color=#FFFFFF>Active Skill</color> DMG increases by 60%.",
+          "Property": ["DMG Increase"],
+          "Param": "60%"
         }
       }
     },
     "C": {
       "Level": {
         "1": {
-          "Name": "Bangboo_QTE_Title_53019",
-          "Desc": "Bangboo_QTE_Des_53019",
+          "Name": "Castle Dodgeball",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nSwings its staff with full force, launching blocks ahead to deal massive <color=#F0D12B>Physical DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5301902, Prop:1001}|{Skill:5301902, Prop:1002}"
         },
         "2": {
-          "Name": "Bangboo_QTE_Title_53019",
-          "Desc": "Bangboo_QTE_Des_53019",
+          "Name": "Castle Dodgeball",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nSwings its staff with full force, launching blocks ahead to deal massive <color=#F0D12B>Physical DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5301902, Prop:1001}|{Skill:5301902, Prop:1002}"
         },
         "3": {
-          "Name": "Bangboo_QTE_Title_53019",
-          "Desc": "Bangboo_QTE_Des_53019",
+          "Name": "Castle Dodgeball",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nSwings its staff with full force, launching blocks ahead to deal massive <color=#F0D12B>Physical DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5301902, Prop:1001}|{Skill:5301902, Prop:1002}"
         },
         "4": {
-          "Name": "Bangboo_QTE_Title_53019",
-          "Desc": "Bangboo_QTE_Des_53019",
+          "Name": "Castle Dodgeball",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nSwings its staff with full force, launching blocks ahead to deal massive <color=#F0D12B>Physical DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5301902, Prop:1001}|{Skill:5301902, Prop:1002}"
         },
         "5": {
-          "Name": "Bangboo_QTE_Title_53019",
-          "Desc": "Bangboo_QTE_Des_53019",
+          "Name": "Castle Dodgeball",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nSwings its staff with full force, launching blocks ahead to deal massive <color=#F0D12B>Physical DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5301902, Prop:1001}|{Skill:5301902, Prop:1002}"
         },
         "6": {
-          "Name": "Bangboo_QTE_Title_53019",
-          "Desc": "Bangboo_QTE_Des_53019",
+          "Name": "Castle Dodgeball",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nSwings its staff with full force, launching blocks ahead to deal massive <color=#F0D12B>Physical DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5301902, Prop:1001}|{Skill:5301902, Prop:1002}"
         },
         "7": {
-          "Name": "Bangboo_QTE_Title_53019",
-          "Desc": "Bangboo_QTE_Des_53019",
+          "Name": "Castle Dodgeball",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nSwings its staff with full force, launching blocks ahead to deal massive <color=#F0D12B>Physical DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5301902, Prop:1001}|{Skill:5301902, Prop:1002}"
         },
         "8": {
-          "Name": "Bangboo_QTE_Title_53019",
-          "Desc": "Bangboo_QTE_Des_53019",
+          "Name": "Castle Dodgeball",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nSwings its staff with full force, launching blocks ahead to deal massive <color=#F0D12B>Physical DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5301902, Prop:1001}|{Skill:5301902, Prop:1002}"
         },
         "9": {
-          "Name": "Bangboo_QTE_Title_53019",
-          "Desc": "Bangboo_QTE_Des_53019",
+          "Name": "Castle Dodgeball",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nSwings its staff with full force, launching blocks ahead to deal massive <color=#F0D12B>Physical DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5301902, Prop:1001}|{Skill:5301902, Prop:1002}"
         },
         "10": {
-          "Name": "Bangboo_QTE_Title_53019",
-          "Desc": "Bangboo_QTE_Des_53019",
+          "Name": "Castle Dodgeball",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nSwings its staff with full force, launching blocks ahead to deal massive <color=#F0D12B>Physical DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5301902, Prop:1001}|{Skill:5301902, Prop:1002}"
         }
@@ -285,9 +321,9 @@
   },
   "SkillProp": {
     "5301901": {
-      "1001": { "Main": 36000, "Growth": 3600, "Format": "%" },
-      "1002": { "Main": 21100, "Growth": 2110, "Format": "%" },
-      "ElementAccumulationValue": 27000
+      "1001": { "Main": 40000, "Growth": 4000, "Format": "%" },
+      "1002": { "Main": 23400, "Growth": 2340, "Format": "%" },
+      "ElementAccumulationValue": 30000
     },
     "5301902": {
       "1001": { "Main": 85800, "Growth": 8580, "Format": "%" },
