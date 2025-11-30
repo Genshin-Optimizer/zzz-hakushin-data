@@ -252,12 +252,7 @@
         {
           "Name": "Basic Attack: High-Pressure Spike",
           "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 attacks, dealing <color=#F0D12B>Physical DMG</color> and <color=#2EB6FF>Electric DMG</color>.\nWhile launching <color=#FFFFFF>Basic Attacks</color>, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to attack while moving. This allows Grace to reposition herself and deal <color=#F0D12B>Physical DMG</color>.\nWhile Grace is launching <color=#FFFFFF>Basic Attacks</color>, her <color=#FFFFFF>Basic Attack</color> combo will not be interrupted by her <color=#FFFFFF>Special Attacks</color>, <color=#FFFFFF>EX Special Attacks</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Dash Attacks</color>, or <color=#FFFFFF>Dodge Counter</color>.",
-          "Potential": [0]
-        },
-        {
-          "Name": "Basic Attack: High-Pressure Spike",
-          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 4 attacks, dealing <color=#F0D12B>Physical DMG</color> and <color=#2EB6FF>Electric DMG</color>;\nWhile launching <color=#FFFFFF>[Basic Attack]</color>, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} sideways to perform a step-shooting attack, reposition yourself and deal <color=#F0D12B>Physical DMG</color>. When activated after the first/second hit of <color=#FFFFFF>[Basic Attack]</color>, continue pressing <IconMap:Icon_Normal> to proceed with the third/fourth hit of <color=#FFFFFF>[Basic Attack]</color>;\nWhile Grace is launching <color=#FFFFFF>[Basic Attack]</color>, her <color=#FFFFFF>[Basic Attack]</color> combo will not be interrupted by her <color=#FFFFFF>[Special Attack]</color>, <color=#FFFFFF>[EX Special Attack]</color>, <color=#FFFFFF>[Dodge]</color>, <color=#FFFFFF>[Dash Attack]</color>, or <color=#FFFFFF>[Dodge Counter]</color>.",
-          "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
+          "Potential": []
         },
         {
           "Name": "Basic Attack: High-Pressure Spike",
@@ -556,12 +551,7 @@
         {
           "Name": "Dodge Counter: Violation Penalty",
           "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nThrows a grenade at enemies, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
-          "Potential": [0]
-        },
-        {
-          "Name": "Dodge Counter: Violation Penalty",
-          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nThrows a grenade at enemies, dealing <color=#2EB6FF>Electric DMG</color>, then automatically transitions to the 4th hit of <color=#FFFFFF>Basic Attack</color>;\nCharacter is invulnerable while using this skill.",
-          "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
+          "Potential": []
         },
         {
           "Name": "Dash Attack: Quick Inspection",
@@ -700,32 +690,12 @@
         {
           "Name": "Special Attack: Obstruction Removal",
           "Desc": "Press <IconMap:Icon_Special> to activate:\nThrows a grenade to the front, dealing <color=#2EB6FF>Electric DMG</color>.\nUpon use, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to change directions.\nAnti-Interrupt level is increased while using this skill.",
-          "Potential": [0]
-        },
-        {
-          "Name": "Special Attack: Obstruction Removal",
-          "Desc": "Press <IconMap:Icon_Special> to activate:\nThrows a grenade to the front, dealing <color=#2EB6FF>Electric DMG</color>;\nUpon use, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to change directions;\nWhen activated with <color=#FFFFFF>[Zap]</color>, dodge enemy attacks;\nAnti-Interrupt level is increased while using this skill.",
-          "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
+          "Potential": []
         },
         {
           "Name": "EX Special Attack: Supercharged Obstruction Removal",
           "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLeap in the air and throw two grenades to the front, dealing massive <color=#2EB6FF>Electric DMG</color>.\nUpon use, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to change directions.\nCharacter is invulnerable while using this skill.",
-          "Potential": [0]
-        },
-        {
-          "Name": "EX Special Attack: Supercharged Obstruction Removal",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLeap in the air and throw two grenades to the front, dealing massive <color=#2EB6FF>Electric DMG</color>;\nUpon use, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to change directions;\nWhen <color=#FFFFFF>[Zap]</color> stacks reach maximum, throw an additional [Vortex Cluster Grenade] that creates an electromagnetic field at the explosion point, continuously pulling enemies and dealing <color=#2EB6FF>Electric DMG</color>;\nCharacter is invulnerable while using this skill.",
-          "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-        },
-        {
-          "Name": "[Overclock]",
-          "Desc": "When activating [Ultimate], gain 25 stacks of <color=#FFFFFF>[Overclock]</color> (max 25 stacks). Consuming <color=#FFFFFF>[Overclock]</color> when gaining <color=#FFFFFF>[Zap]</color>;\nWhen consuming <color=#FFFFFF>[Overclock]</color> to gain 8 <color=#FFFFFF>[Zap]</color>, your next grenade throw will launch an additional overclocked grenade. When hitting targets affected by <color=#FE437E>Ether Attribute Anomaly</color>, <color=#2EB6FF>Electric Attribute Anomaly</color>, <color=#FF5521>Fire Attribute Anomaly</color>, <color=#F0D12B>Physical Attribute Anomaly</color>, <color=#98EFF0>Ice Attribute Anomaly</color>, trigger [Abloom]: Deal additional <color=#FE437E>560%</color>/<color=#2EB6FF>280%</color>/<color=#FF5521>700%</color>/<color=#F0D12B>50%</color>/<color=#98EFF0>70%</color> DMG of the original attribute anomaly;\nWhile [Overclock] is active, unlock <color=#FFFFFF>[Special Attack: Obstruction Removal - Loop]</color>.",
-          "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-        },
-        {
-          "Name": "Special Attack: Obstruction Removal - Loop",
-          "Desc": "During [Overclock], hold <IconMap:Icon_Special> to activate:\nContinuously throws grenades forward, dealing <color=#2EB6FF>Electric DMG</color>, gaining one stack of <color=#FFFFFF>[Zap]</color> for each grenade thrown;\nUpon use, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to change directions and dodge enemy attacks;\nAnti-Interrupt level is increased while using this skill.",
-          "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
+          "Potential": []
         },
         {
           "Name": "Special Attack: Obstruction Removal",
@@ -843,154 +813,6 @@
             { "Name": "Energy Cost", "Desc": "40", "Potential": [] }
           ],
           "Potential": []
-        },
-        {
-          "Name": "Vortex Cluster Grenade Base Multiplier",
-          "Param": [
-            {
-              "Name": "DMG Multiplier",
-              "Desc": "{Skill:1181020, Prop:1001}",
-              "Param": {
-                "1181020": {
-                  "Main": 8750,
-                  "Growth": 800,
-                  "Format": "%",
-                  "DamagePercentage": 8750,
-                  "DamagePercentageGrowth": 800,
-                  "StunRatio": 0,
-                  "StunRatioGrowth": 0,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 0,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 3000,
-                  "SpConsume": 0,
-                  "AttackData": [],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 0
-                }
-              },
-              "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-            },
-            {
-              "Name": "Daze Multiplier",
-              "Desc": "{Skill:1181020, Prop:1002}",
-              "Param": {
-                "1181020": {
-                  "Main": 0,
-                  "Growth": 0,
-                  "Format": "%",
-                  "DamagePercentage": 8750,
-                  "DamagePercentageGrowth": 800,
-                  "StunRatio": 0,
-                  "StunRatioGrowth": 0,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 0,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 3000,
-                  "SpConsume": 0,
-                  "AttackData": [],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 0
-                }
-              },
-              "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-            }
-          ],
-          "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-        },
-        {
-          "Name": "Special Attack: Obstruction Removal - Loop",
-          "Param": [
-            {
-              "Name": "DMG Multiplier",
-              "Desc": "{Skill:1181018, Prop:1001}/29",
-              "Param": {
-                "1181018": {
-                  "Main": 56340,
-                  "Growth": 5130,
-                  "Format": "%",
-                  "DamagePercentage": 56340,
-                  "DamagePercentageGrowth": 5130,
-                  "StunRatio": 51280,
-                  "StunRatioGrowth": 2340,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 1343100,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 48833,
-                  "SpConsume": 0,
-                  "AttackData": [],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 48834
-                }
-              },
-              "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-            },
-            {
-              "Name": "Daze Multiplier",
-              "Desc": "{Skill:1181018, Prop:1002}/29",
-              "Param": {
-                "1181018": {
-                  "Main": 51280,
-                  "Growth": 2340,
-                  "Format": "%",
-                  "DamagePercentage": 56340,
-                  "DamagePercentageGrowth": 5130,
-                  "StunRatio": 51280,
-                  "StunRatioGrowth": 2340,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 1343100,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 48833,
-                  "SpConsume": 0,
-                  "AttackData": [],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 48834
-                }
-              },
-              "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-            }
-          ],
-          "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-        },
-        {
-          "Name": "Overclock Grenade Multiplier",
-          "Param": [
-            {
-              "Name": "DMG Multiplier",
-              "Desc": "{Skill:1181019, Prop:1001}",
-              "Param": {
-                "1181019": {
-                  "Main": 4200,
-                  "Growth": 390,
-                  "Format": "%",
-                  "DamagePercentage": 4200,
-                  "DamagePercentageGrowth": 390,
-                  "StunRatio": 0,
-                  "StunRatioGrowth": 0,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 0,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 0,
-                  "SpConsume": 0,
-                  "AttackData": [],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 0
-                }
-              },
-              "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-            }
-          ],
-          "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
         }
       ],
       "Material": {
@@ -1018,12 +840,7 @@
         {
           "Name": "Ultimate: Demolition Blast - Beware",
           "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nThrows a custom grenade which explodes in the air and splits into four smaller grenades, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
-          "Potential": [0]
-        },
-        {
-          "Name": "Ultimate: Demolition Blast - Beware",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nThrows a custom grenade which explodes in the air and splits into four smaller grenades, dealing massive <color=#2EB6FF>Electric DMG</color>;\nGain 25 stacks of <color=#FFFFFF>[Overclock]</color> (max 25 stacks);\nCharacter is invulnerable while using this skill.",
-          "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
+          "Potential": []
         },
         {
           "Name": "Chain Attack: Collaborative Construction",
@@ -1393,7 +1210,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
-        "Potential": [0]
+        "Potential": []
       },
       "1181502": {
         "Level": 2,
@@ -1407,7 +1224,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
-        "Potential": [0]
+        "Potential": []
       },
       "1181503": {
         "Level": 3,
@@ -1421,7 +1238,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
-        "Potential": [0]
+        "Potential": []
       },
       "1181504": {
         "Level": 4,
@@ -1435,7 +1252,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
-        "Potential": [0]
+        "Potential": []
       },
       "1181505": {
         "Level": 5,
@@ -1449,7 +1266,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
-        "Potential": [0]
+        "Potential": []
       },
       "1181506": {
         "Level": 6,
@@ -1463,7 +1280,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
-        "Potential": [0]
+        "Potential": []
       },
       "1181507": {
         "Level": 7,
@@ -1477,105 +1294,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
-        "Potential": [0]
-      },
-      "1181508": {
-        "Level": 1,
-        "Id": 1181508,
-        "Name": [
-          "Core Passive: Pre-Driven Needle",
-          "Additional Ability: Tech Support Dept."
-        ],
-        "Desc": [
-          "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>65%</color>.",
-          "When another character in your squad shares the same Attribute, Faction, or is an <color=#FFFFFF>[Anomaly]</color> character:\nUpon hitting an enemy with Grace's <color=#FFFFFF>[EX Special Attack]</color>, the next <color=#2EB6FF>[Shock]</color> effect inflicted on the target increases <color=#2EB6FF>[Shock]</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>[Shock]</color> effect ends."
-        ],
-        "ExtraProperty": {},
-        "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-      },
-      "1181509": {
-        "Level": 2,
-        "Id": 1181509,
-        "Name": [
-          "Core Passive: Pre-Driven Needle",
-          "Additional Ability: Tech Support Dept."
-        ],
-        "Desc": [
-          "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>75.8%</color>.",
-          "When another character in your squad shares the same Attribute, Faction, or is an <color=#FFFFFF>[Anomaly]</color> character:\nUpon hitting an enemy with Grace's <color=#FFFFFF>[EX Special Attack]</color>, the next <color=#2EB6FF>[Shock]</color> effect inflicted on the target increases <color=#2EB6FF>[Shock]</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>[Shock]</color> effect ends."
-        ],
-        "ExtraProperty": {},
-        "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-      },
-      "1181510": {
-        "Level": 3,
-        "Id": 1181510,
-        "Name": [
-          "Core Passive: Pre-Driven Needle",
-          "Additional Ability: Tech Support Dept."
-        ],
-        "Desc": [
-          "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>86.6%</color>.",
-          "When another character in your squad shares the same Attribute, Faction, or is an <color=#FFFFFF>[Anomaly]</color> character:\nUpon hitting an enemy with Grace's <color=#FFFFFF>[EX Special Attack]</color>, the next <color=#2EB6FF>[Shock]</color> effect inflicted on the target increases <color=#2EB6FF>[Shock]</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>[Shock]</color> effect ends."
-        ],
-        "ExtraProperty": {},
-        "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-      },
-      "1181511": {
-        "Level": 4,
-        "Id": 1181511,
-        "Name": [
-          "Core Passive: Pre-Driven Needle",
-          "Additional Ability: Tech Support Dept."
-        ],
-        "Desc": [
-          "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>97.5%</color>.",
-          "When another character in your squad shares the same Attribute, Faction, or is an <color=#FFFFFF>[Anomaly]</color> character:\nUpon hitting an enemy with Grace's <color=#FFFFFF>[EX Special Attack]</color>, the next <color=#2EB6FF>[Shock]</color> effect inflicted on the target increases <color=#2EB6FF>[Shock]</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>[Shock]</color> effect ends."
-        ],
-        "ExtraProperty": {},
-        "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-      },
-      "1181512": {
-        "Level": 5,
-        "Id": 1181512,
-        "Name": [
-          "Core Passive: Pre-Driven Needle",
-          "Additional Ability: Tech Support Dept."
-        ],
-        "Desc": [
-          "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>108.3%</color>.",
-          "When another character in your squad shares the same Attribute, Faction, or is an <color=#FFFFFF>[Anomaly]</color> character:\nUpon hitting an enemy with Grace's <color=#FFFFFF>[EX Special Attack]</color>, the next <color=#2EB6FF>[Shock]</color> effect inflicted on the target increases <color=#2EB6FF>[Shock]</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>[Shock]</color> effect ends."
-        ],
-        "ExtraProperty": {},
-        "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-      },
-      "1181513": {
-        "Level": 6,
-        "Id": 1181513,
-        "Name": [
-          "Core Passive: Pre-Driven Needle",
-          "Additional Ability: Tech Support Dept."
-        ],
-        "Desc": [
-          "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>119.1%</color>.",
-          "When another character in your squad shares the same Attribute, Faction, or is an <color=#FFFFFF>[Anomaly]</color> character:\nUpon hitting an enemy with Grace's <color=#FFFFFF>[EX Special Attack]</color>, the next <color=#2EB6FF>[Shock]</color> effect inflicted on the target increases <color=#2EB6FF>[Shock]</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>[Shock]</color> effect ends."
-        ],
-        "ExtraProperty": {},
-        "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
-      },
-      "1181514": {
-        "Level": 7,
-        "Id": 1181514,
-        "Name": [
-          "Core Passive: Pre-Driven Needle",
-          "Additional Ability: Tech Support Dept."
-        ],
-        "Desc": [
-          "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>130%</color>.",
-          "When another character in your squad shares the same Attribute, Faction, or is an <color=#FFFFFF>[Anomaly]</color> character:\nUpon hitting an enemy with Grace's <color=#FFFFFF>[EX Special Attack]</color>, the next <color=#2EB6FF>[Shock]</color> effect inflicted on the target increases <color=#2EB6FF>[Shock]</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>[Shock]</color> effect ends."
-        ],
-        "ExtraProperty": {},
-        "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
+        "Potential": []
       }
     },
     "Materials": {
@@ -1654,67 +1373,5 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
-  "Potential": [118100, 118101, 118102, 118103, 118104, 118105],
-  "PotentialDetail": {
-    "118100": {
-      "Id": 118100,
-      "Name": "",
-      "Desc": "",
-      "Image": "Grace",
-      "LevelShowName": "Mechanical Symphony I",
-      "Level": 1,
-      "AbilityList": [11181401],
-      "PotentialMaterials": [{ "ItemId": 20118, "Number": 1 }]
-    },
-    "118101": {
-      "Id": 118101,
-      "Name": "Potential Awakening: ??",
-      "Desc": "When consuming <color=#FFFFFF>[Zap]</color>, gain the <color=#FFFFFF>[Energy Empowerment]</color> status, which boosts <color=#2EB6FF>Electric Damage</color> dealt by <color=#2BAD00>10%</color>. The status lasts for 25 seconds. Repeated triggers resrt the duration.",
-      "Image": "Grace",
-      "LevelShowName": "Mechanical Symphony II",
-      "Level": 2,
-      "AbilityList": [11181401, 11181501],
-      "PotentialMaterials": [{ "ItemId": 20118, "Number": 1 }]
-    },
-    "118102": {
-      "Id": 118102,
-      "Name": "Potential Awakening: ??",
-      "Desc": "When consuming <color=#FFFFFF>[Zap]</color>, gain the <color=#FFFFFF>[Energy Empowerment]</color> status, which boosts <color=#2EB6FF>Electric Damage</color> dealt by <color=#2BAD00>15%</color>. The status lasts for 25 seconds. Repeated triggers resrt the duration.",
-      "Image": "Grace",
-      "LevelShowName": "Mechanical Symphony III",
-      "Level": 3,
-      "AbilityList": [11181401, 11181502],
-      "PotentialMaterials": [{ "ItemId": 20118, "Number": 1 }]
-    },
-    "118103": {
-      "Id": 118103,
-      "Name": "Potential Awakening: ??",
-      "Desc": "When consuming <color=#FFFFFF>[Zap]</color>, gain the <color=#FFFFFF>[Energy Empowerment]</color> status, which boosts <color=#2EB6FF>Electric Damage</color> dealt by <color=#2BAD00>20%</color>. The status lasts for 25 seconds. Repeated triggers resrt the duration.",
-      "Image": "Grace",
-      "LevelShowName": "Mechanical Symphony IV",
-      "Level": 4,
-      "AbilityList": [11181401, 11181503],
-      "PotentialMaterials": [{ "ItemId": 20118, "Number": 1 }]
-    },
-    "118104": {
-      "Id": 118104,
-      "Name": "Potential Awakening: ??",
-      "Desc": "When consuming <color=#FFFFFF>[Zap]</color>, gain the <color=#FFFFFF>[Energy Empowerment]</color> status, which boosts <color=#2EB6FF>Electric Damage</color> dealt by <color=#2BAD00>25%</color>. The status lasts for 25 seconds. Repeated triggers resrt the duration.",
-      "Image": "Grace",
-      "LevelShowName": "Mechanical Symphony V",
-      "Level": 5,
-      "AbilityList": [11181401, 11181504],
-      "PotentialMaterials": [{ "ItemId": 20118, "Number": 1 }]
-    },
-    "118105": {
-      "Id": 118105,
-      "Name": "Potential Awakening: ??",
-      "Desc": "When consuming <color=#FFFFFF>[Zap]</color>, gain the <color=#FFFFFF>[Energy Empowerment]</color> status, which boosts <color=#2EB6FF>Electric Damage</color> dealt by <color=#2BAD00>30%</color>. The status lasts for 25 seconds. Repeated triggers resrt the duration.",
-      "Image": "Grace",
-      "LevelShowName": "Mechanical Symphony VI",
-      "Level": 6,
-      "AbilityList": [11181401, 11181505],
-      "PotentialMaterials": [{ "ItemId": 20118, "Number": 1 }]
-    }
-  }
+  "Potential": []
 }

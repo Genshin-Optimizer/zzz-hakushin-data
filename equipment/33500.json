@@ -1,9 +1,0 @@
-{
-  "Id": 33500,
-  "Name": "White Water Ballad",
-  "Desc2": "EquipmentSuit_33500_2_des",
-  "Desc4": "While the equipper is within any <color=#FFFFFF>[Ether Veil]</color>, their CRIT Rate increases by 12%. After leaving the <color=#FFFFFF>[Ether Veil]</color>, this buff persists for 15 seconds. When the equipper is an <color=#FFFFFF>[Attack]</color> Character, activating or extending the duration of <color=#FFFFFF>[Ether Veil]</color> additionally increases their CRIT Rate by 12% for 30 seconds; repeated triggers reset the duration.",
-  "Story": "This ancient melody was inscribed on yellowed paper, tucked away in the \"Qingming Sword Manual\" for years. No one knows who composed it - probably some long-forgotten Sword Keeper lost to the mists of time.",
-  "Icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWhiteWaterBallad.png",
-  "Icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShiningAria.png"
-}

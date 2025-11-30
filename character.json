@@ -78,7 +78,14 @@
     "hit": 101,
     "camp": 5,
     "icon": "IconRole05",
-    "potential": [104100, 104101, 104102, 104103, 104104, 104105],
+    "potential": [
+      104100,
+      104101,
+      104102,
+      104103,
+      104104,
+      104105
+    ],
     "EN": "Soldier 11",
     "skin": {
       "3110410": {
@@ -191,7 +198,13 @@
     "potential": [],
     "EN": "Miyabi",
     "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
-    "skin": { "3110910": { "Name": "", "Desc": "", "Image": "IconRole13" } },
+    "skin": {
+      "3110910": {
+        "Name": "",
+        "Desc": "",
+        "Image": "IconRole13"
+      }
+    },
     "desc": "Hoshimi Miyabi, the Chief of Hollow Special Operations Section 6.\nMiyabi goes on a lot of field missions and still doesn't know which floor the regular monthly meeting is on.\nEven if you see Miyabi in the office, it's unlikely she's dealing with paperwork, and more likely polishing her sword.\n\nBeing conferred the title of Void Hunter due to her outstanding contributions, she's an elite amongst elites in Section 6.\nShe has great prestige amongst the citizens.\nOnce, Miyabi accidentally wandered into a \"Miyabi Fan Club\" hosted offline event.\nMiyabi was thought to be a fan with godlike impersonation skills, and that event resulted in a precious visual recording.\n\nHoshimi Miyabi is honest and pragmatic. She is not simply a martial artist obsessed with her art and without care for the world around her.\nAnyone who knows her will realize she's always pursued justice in her heart... even if it may eventually cause a revolution.",
     "KO": "미야비",
     "CHS": "雅",
@@ -339,7 +352,13 @@
     "icon": "IconRole26",
     "potential": [],
     "EN": "Lighter",
-    "skin": { "3111610": { "Name": "", "Desc": "", "Image": "IconRole26" } },
+    "skin": {
+      "3111610": {
+        "Name": "",
+        "Desc": "",
+        "Image": "IconRole26"
+      }
+    },
     "desc": "Lighter, the Champion of the Sons of Calydon and an ex-mercenary.\nIn the Outer Ring, the Champion of a team refers to the one responsible for dealing with the opponent's strongest fighter in a gang fight, and they often need to participate in one-on-one duels. Their victory is crucial, as it brings glory and morale to the entire team.\n\"The Champion can perish, but cannot lose.\"\n\nA red scarf is what identifies the Champion of the Sons of Calydon.\nEven if the opponent doesn't know Lighter, they'll know who he is just from seeing that red scarf.\n\nFrom what is currently known, Lighter is actually very low profile. He only steals the spotlight on the battlefield when he acts on his obligations as Champion.\nNote: Lighter is the second Red Scarf of the Sons of Calydon. He teasingly refers to the previous Red Scarf as \"Brother\" or \"predecessor.\"",
     "KO": "라이터",
     "CHS": "莱特",
@@ -353,7 +372,14 @@
     "hit": 103,
     "camp": 4,
     "icon": "IconRole32",
-    "potential": [117100, 117101, 117102, 117103, 117104, 117105],
+    "potential": [
+      117100,
+      117101,
+      117102,
+      117103,
+      117104,
+      117105
+    ],
     "EN": "Burnice",
     "skin": {
       "3111710": {
@@ -375,7 +401,14 @@
     "hit": 103,
     "camp": 3,
     "icon": "IconRole20",
-    "potential": [118100, 118101, 118102, 118103, 118104, 118105],
+    "potential": [
+      118100,
+      118101,
+      118102,
+      118103,
+      118104,
+      118105
+    ],
     "EN": "Grace",
     "skin": {
       "3111810": {
@@ -397,7 +430,14 @@
     "hit": 101,
     "camp": 2,
     "icon": "IconRole21",
-    "potential": [119100, 119101, 119102, 119103, 119104, 119105],
+    "potential": [
+      119100,
+      119101,
+      119102,
+      119103,
+      119104,
+      119105
+    ],
     "EN": "Ellen",
     "skin": {
       "3111910": {
@@ -426,7 +466,13 @@
     "icon": "IconRole35",
     "potential": [],
     "EN": "Harumasa",
-    "skin": { "3112010": { "Name": "", "Desc": "", "Image": "IconRole35" } },
+    "skin": {
+      "3112010": {
+        "Name": "",
+        "Desc": "",
+        "Image": "IconRole35"
+      }
+    },
     "desc": "Asaba Harumasa, a member of Hollow Special Operations Section 6.\nPossessing exceptional Ether aptitude since he was young and being dubbed a prodigy, he entered HSO after graduating with outstanding merit.\nWas originally a member of a certain ace division within HSO, but later left due to various reasons, joining Miyabi's team instead.\n\nHe possesses a carefree and laidback attitude, and his only wish is to achieve acceptable results with minimum effort.\nAfter efficiently taking care of his work to the lowest acceptable standard, he will hurry to use all the remainder of his available time to rest (slack off).\nHe claims he uses a bow to better slack off, as it effectively lowers the amount of running he has to do.\n\nAsaba Harumasa has poor health, and over-exercise sometimes triggers his illness.\nHe often uses this reason to apply for sick leave, though no one knows what he does with this time off. Either way, it's probably not resting.",
     "KO": "하루마사",
     "CHS": "悠真",
@@ -464,7 +510,13 @@
     "icon": "IconRole31",
     "potential": [],
     "EN": "Yanagi",
-    "skin": { "3112210": { "Name": "", "Desc": "", "Image": "IconRole31" } },
+    "skin": {
+      "3112210": {
+        "Name": "",
+        "Desc": "",
+        "Image": "IconRole31"
+      }
+    },
     "desc": "Tsukishiro Yanagi, Hollow Special Operations Section 6 Deputy Chief and intelligence officer.\nPrimarily responsible for personnel management, mission management and feedback, collecting intel, on-site support, etc.\nAt the same time, Yanagi is also Section 6 member Soukaku's Protector. Apart from taking care of Soukaku's day-to-day affairs, she is also responsible for and takes responsibility for all of Soukaku's behavior at work.\n\nSection 6 Chief Hoshimi Miyabi possesses a rather eccentric personality; Asaba Harumasa, a member of Section 6, is overly relaxed and carefree; and Soukaku, another member of Section, 6 is still an innocent and excitable child, so most of the team's work falls upon Yanagi's shoulders.\nSerious, diligent, and meticulous, Tsukishiro Yanagi is the only \"normal\" person on the team, so to speak. It is only due to her guidance and leadership that the strength of the three who make up Section 6's primary on-field force can be transformed into true combat power.\nOverall, Tsukishiro Yanagi is a talented and highly efficient executive officer, whose abilities are both exceptional and comprehensive.\nHowever, from certain data, Tsukishiro Yanagi appears to have a somewhat clumsy side to her when it comes to day-to-day affairs.",
     "KO": "야나기",
     "CHS": "柳",
@@ -700,28 +752,6 @@
     "CHS": "薇薇安",
     "JA": "ビビアン"
   },
-  "1341": {
-    "code": "Avatar_Female_Size00_XiaoZhao_En",
-    "rank": 4,
-    "type": 5,
-    "element": 202,
-    "hit": 101,
-    "camp": 12,
-    "icon": "IconRole56",
-    "potential": [],
-    "EN": "Avatar_Female_Size00_XiaoZhao",
-    "skin": {
-      "3113410": {
-        "Name": "AvatarSkin_XiaoZhao_Name_000",
-        "Desc": "AvatarSkin_XiaoZhao_Desc_000",
-        "Image": "IconRole01"
-      }
-    },
-    "desc": "Partner_ProfileDesc_1341",
-    "KO": "Avatar_Female_Size00_XiaoZhao",
-    "CHS": "照",
-    "JA": "Avatar_Female_Size00_XiaoZhao"
-  },
   "1351": {
     "code": "Pulchra",
     "rank": 3,
@@ -802,7 +832,14 @@
     "hit": 101,
     "camp": 5,
     "icon": "IconRole40",
-    "potential": [138100, 138101, 138102, 138103, 138104, 138105],
+    "potential": [
+      138100,
+      138101,
+      138102,
+      138103,
+      138104,
+      138105
+    ],
     "EN": "Soldier 0 - Anby",
     "skin": {
       "3113810": {
@@ -913,29 +950,6 @@
     "KO": "반인호",
     "CHS": "潘引壶",
     "JA": "潘引壺"
-  },
-  "1431": {
-    "code": "Avatar_Female_Size02_Zhenzhen_En",
-    "rank": 4,
-    "type": 1,
-    "element": 200,
-    "hit": 101,
-    "camp": 10,
-    "icon": "IconRole55",
-    "potential": [],
-    "EN": "Ye Shunguang",
-    "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconHonedEdge.png",
-    "skin": {
-      "3114310": {
-        "Name": "Yuzuha: Tanuki Under the Shade",
-        "Desc": "Can you tell what the umbrella conceals? A tanuki, a trap, a ghost, or a girl's sly, spirited smile?",
-        "Image": "IconRole47"
-      }
-    },
-    "desc": "Partner_ProfileDesc_1431",
-    "KO": "Avatar_Female_Size02_Zhenzhen",
-    "CHS": "叶瞬光",
-    "JA": "葉瞬光"
   },
   "1441": {
     "code": "Manato",

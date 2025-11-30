@@ -309,16 +309,6 @@
     "CHS": "光影刻刀",
     "JA": "光と影のカット"
   },
-  "13019": {
-    "icon": "Weapon_A_Common_19",
-    "rank": 3,
-    "type": 5,
-    "EN": "Item_Weapon_A_Common_19_Name",
-    "desc": "Item_Weapon_A_Common_19_ShortDesc",
-    "KO": "Item_Weapon_A_Common_19_Name",
-    "CHS": "Item_Weapon_A_Common_19_Name",
-    "JA": "Item_Weapon_A_Common_19_Name"
-  },
   "13101": {
     "icon": "Weapon_A_1011",
     "rank": 3,
@@ -699,16 +689,6 @@
     "CHS": "飞鸟星梦",
     "JA": "鳥は夢へと羽ばたいて"
   },
-  "14134": {
-    "icon": "Weapon_S_1341",
-    "rank": 4,
-    "type": 5,
-    "EN": "Half-Sugar Hail",
-    "desc": "Test text",
-    "KO": "Item_Weapon_S_1341_Name",
-    "CHS": "半糖冰雹",
-    "JA": "ハーフシュガーアイス"
-  },
   "14136": {
     "icon": "Weapon_S_1361",
     "rank": 4,
@@ -768,16 +748,6 @@
     "KO": "너구리의 7단 변신",
     "CHS": "狸法七变化",
     "JA": "狸の七変化"
-  },
-  "14143": {
-    "icon": "Weapon_S_1431",
-    "rank": 4,
-    "type": 1,
-    "EN": "Lone Light in the Clouds",
-    "desc": "Test text",
-    "KO": "Item_Weapon_S_1431_Name",
-    "CHS": "云霓孤光",
-    "JA": "雲霓孤光"
   },
   "14145": {
     "icon": "Weapon_S_1451",

@@ -25,8 +25,7 @@
     "Stature": "160",
     "UnlockCondition": [
       "Obtain Agent",
-      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock",
-      "Complete the \"Anby's Problem\" commission"
+      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
     ],
     "TrustLv": {
       "1": "Burnice, the Nitro-Fuel bartender for the Sons of Calydon.\nA hopeless fuel lover. She is responsible for all the fuel used by the machinery owned by the Sons of Calydon.\nShe seems to have a passion for fuel that overwhelms all else.\n\nBurnice is super outgoing, friendly, and carefree.\nShe is easily able to spread her emotions to the people around her, bringing them the same optimism she possesses.\n\"You like the drinks I mix? Thank you! Steeltusk does, too~ That big guy can drink two hundred liters in one go!\"\n\"Do you wanna try its special fuel blend? It's suuuuper hot!\"",
@@ -257,12 +256,7 @@
         {
           "Name": "Basic Attack: Mixed Flame Blend",
           "Desc": "In the <color=#FFFFFF>Nitro-Fuel Cocktail</color> state, hold <IconMap:Icon_Normal> to activate:\nSpin continuously while spraying flames around, followed by a Finishing Move that inflicts <color=#FF5521>Fire DMG</color>. Continuing to hold extends the flame-spraying duration.\nWhen the move is activated, it consumes 20 <color=#FFFFFF>Heat</color>;\nAnti-Interrupt level is increased while using this skill.\nAfter executing the Finishing Move, press <IconMap:Icon_SpecialReady> to immediately follow up with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>.",
-          "Potential": [0]
-        },
-        {
-          "Name": "Basic Attack: Mixed Flame Blend",
-          "Desc": "In the <color=#FFFFFF>[Nitro-Fuel Cocktail]</color> state, hold <IconMap:Icon_Normal> to activate:\nSpin continuously while spraying flames around, followed by a Finishing Move that triggers an additional cost-free <color=#FFFFFF>[Afterburn]</color>, dealing <color=#FF5521>Fire DMG</color>. Continuing to hold extends the flame-spraying duration;\nThe skill's damage is also counted as <color=#FFFFFF>[Assist Attack]</color> damage;\nUpon activating this skill, it consumes 20 <color=#FFFFFF>[Heat]</color>;\nAnti-Interrupt level is increased while using this skill;\nAfter executing the Finishing Move, press <IconMap:Icon_SpecialReady> to immediately follow up with <color=#FFFFFF>[EX Special Attack: Intense Heat Stirring Method - Double Shot]</color>.",
-          "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Direct Flame Blend",
@@ -823,11 +817,6 @@
           "Potential": []
         },
         {
-          "Name": "EX Special Attack: Hot Juggling",
-          "Desc": "When <color=#FFFFFF>[Flow Fire]</color> is available, triggers upon entering the field:\nAfter teammates trigger <color=#FFFFFF>[Afterburn]</color> 12 times, Burnice gains one <color=#FFFFFF>[Flow Fire]</color>. On next entry, Burnice will automatically use this skill, and this entry is considered as [Quick Assist];\nQuickly dash through enemies and unleash a Blazing Impact, dealing <color=#FF5521>Fire DMG</color>;\nWhen skill <color=#FFFFFF>[heavy attack]</color> hits targets affected by <color=#FE437E>Ether Anomaly</color>, <color=#2EB6FF>Electric Anomaly</color>, <color=#FF5521>Fire Anomaly</color>, <color=#F0D12B>Physical Anomaly</color>, <color=#98EFF0>Ice Anomaly</color>, triggers <color=#FFFFFF>[Abloom]</color>: deals additional <color=#FE437E>480%</color>/<color=#2EB6FF>240%</color>/<color=#FF5521>600%</color>/<color=#F0D12B>40%</color>/<color=#98EFF0>60%</color> of the original Anomaly DMG;\nThis skill can also gain Fire Anomaly Buildup from [Additional Ability: Fire Kindling];\nCharacter is invulnerable while using this skill.",
-          "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
-        },
-        {
           "Name": "Special Attack: Intense Heat Aging Method",
           "Param": [
             {
@@ -1168,64 +1157,6 @@
               "Potential": []
             },
             { "Name": "Fire Blast Energy Cost", "Desc": "10", "Potential": [] }
-          ],
-          "Potential": []
-        },
-        {
-          "Name": "EX Special Attack: Hot Juggling",
-          "Param": [
-            {
-              "Name": "DMG Multiplier",
-              "Desc": "{Skill:1171026, Prop:1001}",
-              "Param": {
-                "1171026": {
-                  "Main": 19990,
-                  "Growth": 1820,
-                  "Format": "%",
-                  "DamagePercentage": 19990,
-                  "DamagePercentageGrowth": 1820,
-                  "StunRatio": 19990,
-                  "StunRatioGrowth": 910,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 249975,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 9083,
-                  "SpConsume": 0,
-                  "AttackData": [],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 9084
-                }
-              },
-              "Potential": []
-            },
-            {
-              "Name": "Daze Multiplier",
-              "Desc": "{Skill:1171026, Prop:1002}",
-              "Param": {
-                "1171026": {
-                  "Main": 19990,
-                  "Growth": 910,
-                  "Format": "%",
-                  "DamagePercentage": 19990,
-                  "DamagePercentageGrowth": 1820,
-                  "StunRatio": 19990,
-                  "StunRatioGrowth": 910,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 249975,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 9083,
-                  "SpConsume": 0,
-                  "AttackData": [],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 9084
-                }
-              },
-              "Potential": []
-            }
           ],
           "Potential": []
         }
@@ -1886,67 +1817,5 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
-  "Potential": [117100, 117101, 117102, 117103, 117104, 117105],
-  "PotentialDetail": {
-    "117100": {
-      "Id": 117100,
-      "Name": "",
-      "Desc": "",
-      "Image": "Burnice",
-      "LevelShowName": "Dance of Raging Fire I",
-      "Level": 1,
-      "AbilityList": [11171501, 11171601],
-      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
-    },
-    "117101": {
-      "Id": 117101,
-      "Name": "Potential Awakening: ??",
-      "Desc": "When Burnice's initial Energy Regen is greater than or equal to 1.8, for every 0.1 points of initial Energy Regen exceeding this amount, Anomaly Mastery is increased by <color=#2BAD00>1</color>, DMG is increased by <color=#2BAD00>1%</color>, up to a maximum increase of 25 for Anomaly Mastery and 20% for DMG; the interval of triggering <color=#FFFFFF>[Afterburn]</color> in [Core Passive: Nitro-Fuel Cocktail] is reduced to 1.35 seconds.",
-      "Image": "Burnice",
-      "LevelShowName": "Dance of Raging Fire II",
-      "Level": 2,
-      "AbilityList": [11171501, 11171601, 11171701],
-      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
-    },
-    "117102": {
-      "Id": 117102,
-      "Name": "Potential Awakening: ??",
-      "Desc": "When Burnice's initial Energy Regen is greater than or equal to 1.8, for every 0.1 points of initial Energy Regen exceeding this amount, Anomaly Mastery is increased by <color=#2BAD00>1.3</color>, DMG is increased by <color=#2BAD00>1.25%</color>, up to a maximum increase of 25 for Anomaly Mastery and 20% for DMG; the interval of triggering <color=#FFFFFF>[Afterburn]</color> in [Core Passive: Nitro-Fuel Cocktail] is reduced to 1.35 seconds.",
-      "Image": "Burnice",
-      "LevelShowName": "Dance of Raging Fire III",
-      "Level": 3,
-      "AbilityList": [11171501, 11171601, 11171702],
-      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
-    },
-    "117103": {
-      "Id": 117103,
-      "Name": "Potential Awakening: ??",
-      "Desc": "When Burnice's initial Energy Regen is greater than or equal to 1.8, for every 0.1 points of initial Energy Regen exceeding this amount, Anomaly Mastery is increased by <color=#2BAD00>1.6</color>, DMG is increased by <color=#2BAD00>1.5%</color>, up to a maximum increase of 25 for Anomaly Mastery and 20% for DMG; the interval of triggering <color=#FFFFFF>[Afterburn]</color> in [Core Passive: Nitro-Fuel Cocktail] is reduced to 1.35 seconds.",
-      "Image": "Burnice",
-      "LevelShowName": "Dance of Raging Fire IV",
-      "Level": 4,
-      "AbilityList": [11171501, 11171601, 11171703],
-      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
-    },
-    "117104": {
-      "Id": 117104,
-      "Name": "Potential Awakening: ??",
-      "Desc": "When Burnice's initial Energy Regen is greater than or equal to 1.8, for every 0.1 points of initial Energy Regen exceeding this amount, Anomaly Mastery is increased by <color=#2BAD00>2</color>, DMG is increased by <color=#2BAD00>1.75%</color>, up to a maximum increase of 25 for Anomaly Mastery and 20% for DMG; the interval of triggering <color=#FFFFFF>[Afterburn]</color> in [Core Passive: Nitro-Fuel Cocktail] is reduced to 1.35 seconds.",
-      "Image": "Burnice",
-      "LevelShowName": "Dance of Raging Fire V",
-      "Level": 5,
-      "AbilityList": [11171501, 11171601, 11171704],
-      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
-    },
-    "117105": {
-      "Id": 117105,
-      "Name": "Potential Awakening: ??",
-      "Desc": "When Burnice's initial Energy Regen is greater than or equal to 1.8, for every 0.1 points of initial Energy Regen exceeding this amount, Anomaly Mastery is increased by <color=#2BAD00>2.5</color>, DMG is increased by <color=#2BAD00>2%</color>, up to a maximum increase of 25 for Anomaly Mastery and 20% for DMG; the interval of triggering <color=#FFFFFF>[Afterburn]</color> in [Core Passive: Nitro-Fuel Cocktail] is reduced to 1.35 seconds.",
-      "Image": "Burnice",
-      "LevelShowName": "Dance of Raging Fire VI",
-      "Level": 6,
-      "AbilityList": [11171501, 11171601, 11171705],
-      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
-    }
-  }
+  "Potential": []
 }
