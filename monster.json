@@ -1,13 +1,8 @@
 {
   "10000": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Tyrfing",
@@ -18,13 +13,8 @@
   },
   "10001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_CyclopsGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Alpeca",
@@ -35,13 +25,8 @@
   },
   "10002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Satyrus.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Faun",
@@ -52,13 +37,8 @@
   },
   "10003": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Golemgrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Hoplitai",
@@ -69,14 +49,8 @@
   },
   "10004": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SpiderGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Blastcrawler",
@@ -87,14 +61,8 @@
   },
   "10005": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_StrikeJaeger.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 205,
     "EN": "Strike Jaeger",
@@ -105,14 +73,8 @@
   },
   "10006": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_LightJaeger.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 205,
     "EN": "Light Jaeger",
@@ -123,14 +85,8 @@
   },
   "10007": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster-MeleeJaeger.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 205,
     "EN": "Rookie Jaeger",
@@ -141,14 +97,8 @@
   },
   "10008": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_HeavyJaeger.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 205,
     "EN": "Guard Jaeger",
@@ -159,14 +109,8 @@
   },
   "10009": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GrenadierJaeger.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 205,
     "EN": "Grenadier Jaegers",
@@ -177,14 +121,8 @@
   },
   "10010": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 204,
     "EN": "Unknown Unit",
@@ -195,14 +133,8 @@
   },
   "10011": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 204,
     "EN": "Unknown Unit",
@@ -213,14 +145,8 @@
   },
   "10012": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 204,
     "EN": "Unknown Unit",
@@ -231,14 +157,8 @@
   },
   "10013": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Patroller.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 290,
     "EN": "OfficialName_",
@@ -249,32 +169,20 @@
   },
   "10014": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Mandrake.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Mandrake",
     "desc": "Mandrake derive their name from a toxic herb. The scholar who initially assigned the name believed there was a resemblance between the two solely based on their appearance.\nWhile blooming, Mandrake emit heat rays targeting nearby objects, while sturdy leaves anchor it firmly to the ground, preventing uprooting. When threatened, Mandrake may use their sharp leaves for self-defense.\nSimilar to the legend of their namesake, Mandrake cries can be highly deadly.\n\"Stay away! It's gonna bloom any second now!\"",
     "KO": "맨드레이크",
-    "CHS": "曼德拉",
+    "CHS": "曼��拉",
     "JA": "マンドレイク"
   },
   "10015": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugRaider.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 202,
     "EN": "Raider",
@@ -285,14 +193,8 @@
   },
   "10016": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugPyromaniac.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 202,
     "EN": "Pyromaniac",
@@ -301,16 +203,22 @@
     "CHS": "纵火犯",
     "JA": "放火魔"
   },
+  "10017": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MiasmaSpider.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 1,
+    "group": 203,
+    "EN": "Miasmic - Blastcrawler",
+    "desc": "A fallen creation, reshaped in deep, tainted darkness.\nThe Miasma Blastcrawler wears crimson red, yet still can't shake off its \"low threat\" stigma, as its movement speed and blast radius remain— unchanged...\nHowever, the Association has repeatedly issued warnings, urging investigators to guard against the miasma smoke released after its explosion. If inhaled carelessly, a moment of disorientation is enough for even an Elite Investigator to perish in the ever-changing Hollows.\n\"Red team is ready! Here comes the green team walking towards us...\"",
+    "KO": "미아즈믹·블라스트크롤러",
+    "CHS": "秽蚀·雷蛛",
+    "JA": "ミアズミック・ブラストスパイダー"
+  },
   "10018": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugPoacher.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 202,
     "EN": "Poacher",
@@ -321,14 +229,8 @@
   },
   "10019": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugAssaulter.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 202,
     "EN": "Assaulter",
@@ -339,14 +241,8 @@
   },
   "10020": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_FierySerpent.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "OfficialName_",
@@ -357,14 +253,8 @@
   },
   "10021": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_UVARaven.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 203,
     "EN": "Raven UAV",
@@ -375,14 +265,8 @@
   },
   "10023": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GoldenBomb.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 290,
     "EN": "Golden Bangboo",
@@ -393,14 +277,8 @@
   },
   "10025": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Ahriman.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Ahriman",
@@ -411,14 +289,8 @@
   },
   "10026": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Specter.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Specter",
@@ -429,14 +301,8 @@
   },
   "10027": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ViciousStriker.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 203,
     "EN": "OfficialName_",
@@ -447,14 +313,8 @@
   },
   "10028": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GreedyRanger.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 203,
     "EN": "OfficialName_",
@@ -465,14 +325,8 @@
   },
   "10029": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_BeholderEngine.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Beholder Engine",
@@ -483,14 +337,8 @@
   },
   "10030": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Fossor.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Fossor",
@@ -501,14 +349,8 @@
   },
   "10031": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Sordidus.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Sordidus",
@@ -519,10 +361,7 @@
   },
   "10032": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MiasmaSpawn.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 1,
     "group": 290,
@@ -534,10 +373,7 @@
   },
   "10033": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MiasmaWalkerGuardJaeger.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 1,
     "group": 203,
@@ -549,10 +385,7 @@
   },
   "10034": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MiasmaWalkerGrenadierJaeger.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 1,
     "group": 203,
@@ -564,13 +397,8 @@
   },
   "19999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 290,
     "EN": "Random Enemy Card",
@@ -581,14 +409,8 @@
   },
   "20000": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GiantGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Farbauti",
@@ -599,14 +421,8 @@
   },
   "20001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HatiGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Hati",
@@ -617,14 +433,8 @@
   },
   "20002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GoblinGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Goblin",
@@ -635,14 +445,8 @@
   },
   "20003": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HatiArmoredGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Armored Hati",
@@ -653,14 +457,8 @@
   },
   "20004": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GoblinMetro.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Metro Goblin",
@@ -671,14 +469,8 @@
   },
   "20005": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ArlauneGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Arlaune",
@@ -689,14 +481,8 @@
   },
   "20006": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_LAAndroid.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 204,
     "EN": "Autonomous Support Unit - Sweeper",
@@ -707,14 +493,8 @@
   },
   "20007": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HeavyStriker.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 205,
     "EN": "Heavy Striker",
@@ -725,14 +505,8 @@
   },
   "20008": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_LightfootRover.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 205,
     "EN": "Lightfoot Rover",
@@ -743,14 +517,8 @@
   },
   "20009": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HeavyFirepower.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 205,
     "EN": "Heavy Gunner",
@@ -761,14 +529,8 @@
   },
   "20010": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_TarasqueMixer.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Tarasque Mixer",
@@ -777,16 +539,22 @@
     "CHS": "泰拉斯奎祸车",
     "JA": "タラスクミキサー"
   },
+  "20011": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Gloomaron.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 2,
+    "group": 203,
+    "EN": "Miasmic - Huskron",
+    "desc": "A fallen creation, reshaped in the depths of impure darkness.\nTo step into the domain of the sleeping behemoth is to prepare for confronting the crimson nightmare, for it's no longer content with games of hide and seek.\nThe reckless Hollow Raider attempts to provoke, luring it to expose its deeply buried core. Yet skilled hunters often appear as prey - letting your guard down when the enemy's weakness is revealed is often a rookie's deadliest flaw.\n\"Don't call me stupid, my head really was caught in those Ethereal pincers...\"",
+    "KO": "미아즈믹·허스크론",
+    "CHS": "秽蚀·赫斯克龙",
+    "JA": "ミアズミック・ハスクロン"
+  },
   "20012": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_FrenziedManiac.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 203,
     "EN": "OfficialName_",
@@ -797,14 +565,8 @@
   },
   "20013": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_WickedWraith.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 203,
     "EN": "OfficialName_",
@@ -815,14 +577,8 @@
   },
   "20014": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_RuthlessFiend.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 203,
     "EN": "OfficialName_",
@@ -833,14 +589,8 @@
   },
   "20015": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ThugBulkyAbuser.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 202,
     "EN": "Bulky Intimidator",
@@ -849,16 +599,22 @@
     "CHS": "魁梧施虐者",
     "JA": "殴打暴虐者"
   },
+  "20016": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaLightfootRover.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 2,
+    "group": 203,
+    "EN": "Miasmic - Lightfoot Rover",
+    "desc": "Once a standard fire-support mech, now corrupted within the Hollow. It's tactical algorithms now in total disarray, flagging every lifeform it sees as a high-threat target and firing indiscriminately.\nBuilt for offense over defense, it boasts exceptional mobility, making it hard to hit and relentless in pursuit.\nIf you're unlucky enough to be tagged by it, pray there's a spatial rift nearby — without one, escape is nearly impossible.\n\"If I could go back to middle school, I'd never slack off in track practice again.\"",
+    "KO": "미아즈믹·「민첩한 방랑자」",
+    "CHS": "秽蚀·「捷足巡游者」",
+    "JA": "ミアズミック・「駿足ローバー」"
+  },
   "20017": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ThugBulkyEnforcer.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 202,
     "EN": "Bulky Enforcer",
@@ -867,16 +623,22 @@
     "CHS": "魁梧打手",
     "JA": "殴り屋"
   },
+  "20018": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaHeavyStriker.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 2,
+    "group": 203,
+    "EN": "Miasmic - Heavy Striker",
+    "desc": "This autonomous tactical mech, swallowed by the Hollow, has grown even more brutal after corruption, powerful enough to crush Goblins with ease.\nOnce a steadfast shield protecting soldiers against devastating attacks, the Defense Force's most trusted companion has now transformed into a terrifying killing machine.\n\"If you have the courage, then grant our once-reliable friend a final end, freeing it from the sins and shattered honor it now carries.\"",
+    "KO": "미아즈믹·「중무장 스트라이커」",
+    "CHS": "秽蚀·「重装侵袭者」",
+    "JA": "ミアズミック・「重装ストライカー」"
+  },
   "20020": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_RagingGuy.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 202,
     "EN": "Enraged Sweeper",
@@ -887,14 +649,8 @@
   },
   "20022": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_NinevehBee.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Hornet",
@@ -905,14 +661,8 @@
   },
   "20023": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Mors.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 202,
     "EN": "Mors",
@@ -923,14 +673,8 @@
   },
   "20024": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Pulchra.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 202,
     "EN": "Pulchra",
@@ -941,14 +685,8 @@
   },
   "20025": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Bellum.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 202,
     "EN": "Bellum",
@@ -959,10 +697,7 @@
   },
   "20026": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaFrenziedManiac.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 2,
     "group": 203,
@@ -974,10 +709,7 @@
   },
   "20027": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaTrinox.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 2,
     "group": 203,
@@ -989,10 +721,7 @@
   },
   "20028": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SecurityUnitSoldier.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 1,
     "group": 290,
@@ -1004,10 +733,7 @@
   },
   "20029": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SecurityUnitPatroller.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 1,
     "group": 290,
@@ -1019,10 +745,7 @@
   },
   "20030": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_SecurityUnitLAAndroid.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 1,
     "group": 290,
@@ -1034,10 +757,7 @@
   },
   "20031": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaWickedWraith.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 2,
     "group": 203,
@@ -1049,10 +769,7 @@
   },
   "20032": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_IonizedPugnus.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 2,
     "group": 201,
@@ -1064,14 +781,8 @@
   },
   "29999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 290,
     "EN": "Random Enemy Card",
@@ -1082,14 +793,8 @@
   },
   "30000": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_DurahanGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Dullahan",
@@ -1100,14 +805,8 @@
   },
   "30001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DeathXIIIGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Thanatos",
@@ -1118,14 +817,8 @@
   },
   "30002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Guardian.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 205,
     "EN": "Guardian",
@@ -1134,16 +827,22 @@
     "CHS": "「卫士」",
     "JA": "「ガーディアン」"
   },
+  "30003": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_BlackMazingerGoldenBomb.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 3,
+    "group": 290,
+    "EN": "Lockspring",
+    "desc": "In the early days of Bangboo's creation, Lady Sunbringer had a grand vision: to create a highly intelligent Bangboo capable of independently judging and executing \"protection\" commands to help humanity against threats from the Hollows.\n\nAnd \"Lockspring,\" designated GU-0001, was the first creation of this great plan.\n\nHe was given the most advanced tactical modules, the most powerful fire systems, and... a pure heart programmed with the highest directive to \"protect humanity.\"\n\nHowever, during the hellish disaster of the old capital's fall, he witnessed for the first time the irredeemable darkness lurking in the souls of the humans he was meant to \"protect.\" He saw people betray and slaughter each other for survival, and watched as his trusted users forced him to point his gun at defenseless fellow humans.\n\nThe noble ideals etched in his core code clashed violently with the ugly reality before him in the most acute and cruel way.\n\nAt that moment, he finally understood that humanity's greatest enemy was never the monsters from outside—\n\nBut rather humanity's own endless desires and conflicts.\n\n\"Humans are truly adorable. Even though you keep making the same mistakes...\"\n\n\"But it's alright, I'll forgive you.\"\n\n\"And... I'll help fix everything with my own hands.\"",
+    "KO": "록스프링",
+    "CHS": "缄枢",
+    "JA": "ロックスプリング"
+  },
   "30004": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_BoringMachine.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Greta",
@@ -1154,14 +853,8 @@
   },
   "30005": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MaterialHandler.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Hans",
@@ -1172,14 +865,8 @@
   },
   "30006": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_PileDriver.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Friday",
@@ -1190,14 +877,8 @@
   },
   "30007": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_CottusGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 201,
     "EN": "Dead End Butcher",
@@ -1208,14 +889,8 @@
   },
   "30008": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MetalGorilla.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 205,
     "EN": "Typhon Challenger",
@@ -1226,14 +901,8 @@
   },
   "30009": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_ComplexCorrupted.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 203,
     "EN": "Unknown Corruption Complex",
@@ -1244,14 +913,8 @@
   },
   "30010": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_LampasBlackVeil.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Black Veil Marionette",
@@ -1262,14 +925,8 @@
   },
   "30011": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_LampasGrayVeil.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Gray Veil Marionette",
@@ -1280,14 +937,8 @@
   },
   "30012": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Marionette_Twins.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 201,
     "EN": "Twin Marionettes",
@@ -1296,16 +947,22 @@
     "CHS": "冥宁芙·双子",
     "JA": "マリオネット・ツインズ"
   },
+  "30013": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Chelonethid.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 3,
+    "group": 201,
+    "EN": "Miasma Walker - Scorpse",
+    "desc": "In a desolate realm completely devoured by the Hollows, it slumbered... until the arrival of \"that power.\"\n\nThis aggressive and contaminating force, like a skilled yet malicious craftsman, refilled it with purer dark energy, transforming it into the current \"Miasmic Scorpse.\"\n\nGradually, it seemed to grasp the trick of \"existence\" through mimicry. It could split its miasmic energy, creating multiple Mimics indistinguishable from the real thing.\n\nThese Mimics possess nearly identical offensive capabilities as the original, launching dazzling attacks from different angles to conceal the one lethal \"truth.\"\n\nWhen facing its encirclement, remember this well: all you see is illusion. All you feel is a trap.\n\n\"Only by filtering out all distractions and perceiving the one 'truth' can you find a glimmer of hope in this deadly dance of phantoms.\"",
+    "KO": "미아즈마 워커·스콥스",
+    "CHS": "秽息行者·蝎骸",
+    "JA": "ミアズマの歩者・ムクロサソリ"
+  },
   "30016": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MazingerGoldenBomb.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "OfficialName_",
@@ -1316,14 +973,8 @@
   },
   "30017": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Cyrtoidea.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Ionized - Cyrtoidea",
@@ -1334,14 +985,8 @@
   },
   "30018": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Nassellaria.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Ionized - Nassellaria",
@@ -1352,14 +997,8 @@
   },
   "30019": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_DubiousHero.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 202,
     "EN": "Rampant Brute",
@@ -1370,14 +1009,8 @@
   },
   "30020": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_JaneBoss.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Doppelganger - Jane",
@@ -1388,14 +1021,8 @@
   },
   "30021": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_TyrantPompey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 203,
     "EN": "Corrupted Overlord - Pompey",
@@ -1406,14 +1033,8 @@
   },
   "30022": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_JaneDoe.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Jane Doe",
@@ -1424,14 +1045,8 @@
   },
   "30023": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Thracian.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Thracian",
@@ -1442,14 +1057,8 @@
   },
   "30024": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_SacrificeBringer.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 290,
     "EN": "Sacrifice - Bringer",
@@ -1460,14 +1069,8 @@
   },
   "30025": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Hitchspiker.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Hitchspiker",
@@ -1478,14 +1081,8 @@
   },
   "30026": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_TerrorBird.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 205,
     "EN": "Terror Raptor",
@@ -1496,14 +1093,8 @@
   },
   "30027": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Harvester.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 202,
     "EN": "Lumberjack",
@@ -1514,14 +1105,8 @@
   },
   "30028": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_SecurityOperative.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 290,
     "EN": "Security Operative",
@@ -1532,14 +1117,8 @@
   },
   "30029": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Slime.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Ionized - Doppelganger",
@@ -1550,14 +1129,8 @@
   },
   "30030": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_HugoVlad.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Abyssal Enforcer",
@@ -1568,14 +1141,8 @@
   },
   "30031": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Hecate.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Palicus",
@@ -1586,14 +1153,8 @@
   },
   "30032": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Geppetto.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 201,
     "EN": "Geppetto",
@@ -1604,14 +1165,8 @@
   },
   "30033": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_MentorMevorakh.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 201,
     "EN": "Miasma Priest",
@@ -1622,10 +1177,7 @@
   },
   "30034": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_NamelessOne.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 4,
     "group": 203,
@@ -1637,10 +1189,7 @@
   },
   "30035": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_HereticHunter.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
     "group": 290,
@@ -1652,10 +1201,7 @@
   },
   "30036": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaTerrorBird.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
     "group": 203,
@@ -1667,10 +1213,7 @@
   },
   "30037": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Isolde.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
     "group": 290,
@@ -1682,10 +1225,7 @@
   },
   "30038": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_IsoldetheDefiler.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 4,
     "group": 290,
@@ -1697,10 +1237,7 @@
   },
   "30039": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Hayyot.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
     "group": 203,
@@ -1712,10 +1249,7 @@
   },
   "30040": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Norano.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
     "group": 290,
@@ -1727,10 +1261,7 @@
   },
   "30041": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_WanderingHunter.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 4,
     "group": 203,
@@ -1742,25 +1273,19 @@
   },
   "30042": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Awakener.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 4,
     "group": 290,
-    "EN": "全新人形BOSS",
-    "desc": "全新人形BOSS",
-    "KO": "全新人形BOSS",
-    "CHS": "全新人形BOSS",
-    "JA": "全新人形BOSS"
+    "EN": "Ye Shiyuan the Thrall",
+    "desc": "Tainted miasma and a corrupt will pull the strings. The beast still retains its instinct to roam and prowl, yet the human form upon its back has lost all reason. Only a faint trace of sorrow remains. At times, he slashes through the dark fog with his blade; at others, he commands the beast's gaping jaws to rend the earth itself. His strikes are precise, devoid of the gentle humanity he once held — like a puppet pulled by the tattered remnants of a nightmare.\nOnly when a streak of red ribbon flashes across his senses does his sword arm falter for an instant — as though that lingering sorrow had, for a heartbeat, tightened around his corroded soul.\n\n\"As for the two, who is truly controlling whom... The \"person\" on its back is my real prisoner.\"\n\"Despair should be utilized to its fullest until the very end, shouldn't it?\"",
+    "KO": "악몽에 묶인 자·엽석연",
+    "CHS": "魇缚者·叶释渊",
+    "JA": "悪夢に縛られし者・葉釈淵"
   },
   "30044": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_CovenantGuardian.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
     "group": 290,
@@ -1772,14 +1297,8 @@
   },
   "35001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Nineveh.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 201,
     "EN": "Nineveh",
@@ -1790,14 +1309,8 @@
   },
   "35002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Geppetto.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "OfficialName_",
@@ -1806,15 +1319,22 @@
     "CHS": "OfficialName_",
     "JA": "OfficialName_"
   },
+  "40000": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Vessel.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 4,
+    "group": 290,
+    "EN": "Primordial Nightmare - \"The Creator\"",
+    "desc": "For humans struggling through the long dark night, life is an endless torture.\nGood and evil, love and hate, hope and despair... these eternally opposing concepts are like shackles wrapped around the soul, forcing humanity to tear at each other in endless cycles, never finding peace.\nYet before all concepts were born, before all oppositions formed, there existed a primordial \"One.\"\nThey are the beginning of all things and the end of all things. They hold no good or evil, for They are good and evil itself. They know no joy or sorrow, for They embody every emotion.\nThey will erase the boundaries between \"you\" and \"me,\" letting all independent consciousness flow back into the great stream of \"Unity.\"\nIn Their world, without individuals, there is no selfish desire. Without conflict, there is no suffering. Without choice, there can be no mistakes. All souls shall break free from their chains, returning to the primordial, absolutely equal, eternal peace.\nThey have no fixed form, for They are the form of all things. They have no fixed voice, for They are the resonance of the universe.\nThey are the storm, and also the calm. The end, and also rebirth.\n\"Abandon your futile struggles, lost children.\"\n\"Your suffering ends here.\"\n\"Return to Their embrace...\"",
+    "KO": "태초의 악몽·「창조주」",
+    "CHS": "太初梦魇·「始主」",
+    "JA": "原初の悪夢・「始まりの主」"
+  },
   "100001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Tyrfing - Energized",
@@ -1825,13 +1345,8 @@
   },
   "100002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Claymore.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "OfficialName_",
@@ -1842,13 +1357,8 @@
   },
   "100003": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGrey.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "OfficialName_",
@@ -1859,30 +1369,20 @@
   },
   "100004": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_TyrfingInfested.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Tyrfing (Infested)",
     "desc": "The Hollow Investigative Association has been studying Tyrfing's behavioral patterns, and research results show that its seemingly unbalanced stance of swaying and skewing is, in fact, a highly efficient stance for launching successive slashing attacks.\nDue to its frequent appearances and aggressive behavior, Tyrfing has been identified as one of the most deadly Ethereals in the Hollow, particularly for certain Hollow personnel.\nWhen faced with a shielded enemy, it relentlessly launches attacks until either its enemy or itself is destroyed.\n\"Perhaps... they don't actually hate us, but just think of us as punching bags for practice?\"",
     "KO": "티르빙(감염 상태)",
-    "CHS": "提尔锋（寄生态）",
+    "CHS": "提尔��（寄生态）",
     "JA": "ティルヴィング（寄主形態）"
   },
   "100011": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_CyclopsGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Alpeca - Energized",
@@ -1893,13 +1393,8 @@
   },
   "100012": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Cyclops.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "OfficialName_",
@@ -1910,13 +1405,8 @@
   },
   "100013": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_CyclopsPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "OfficialName_",
@@ -1927,13 +1417,8 @@
   },
   "100014": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_AlpecaInfested.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Alpeca (Infested)",
@@ -1944,13 +1429,8 @@
   },
   "100021": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SatyrusPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Faun - Energized",
@@ -1961,13 +1441,8 @@
   },
   "100031": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GolemGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Hoplitai - Energized",
@@ -1978,13 +1453,8 @@
   },
   "100032": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Golem.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "OfficialName_",
@@ -1995,13 +1465,8 @@
   },
   "100033": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GolemPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "OfficialName_",
@@ -2012,14 +1477,8 @@
   },
   "100041": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SpiderGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Blastcrawler - Energized",
@@ -2030,14 +1489,8 @@
   },
   "100042": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Spider.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "OfficialName_",
@@ -2048,14 +1501,8 @@
   },
   "100043": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SpiderPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "OfficialName_",
@@ -2066,14 +1513,8 @@
   },
   "100044": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Shatterbug.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Shatterbug",
@@ -2084,14 +1525,8 @@
   },
   "100051": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_StrikeJaegerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 205,
     "EN": "Harrier Jaeger",
@@ -2102,14 +1537,8 @@
   },
   "100061": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_LightJaegerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 205,
     "EN": "Scout Jaeger",
@@ -2120,14 +1549,8 @@
   },
   "100071": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MeleeJaegerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 205,
     "EN": "Private Jaeger",
@@ -2138,14 +1561,8 @@
   },
   "100081": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_HeavyJaeger_Pro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 205,
     "EN": "Patrol Jaeger",
@@ -2156,14 +1573,8 @@
   },
   "100091": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GrenadierJaegerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 205,
     "EN": "Demolition Jaeger",
@@ -2174,14 +1585,8 @@
   },
   "100101": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_HeavySoldierPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 204,
     "EN": "OfficialName_",
@@ -2192,14 +1597,8 @@
   },
   "100111": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MeleeSoldierPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 204,
     "EN": "OfficialName_",
@@ -2210,14 +1609,8 @@
   },
   "100121": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_RangeSoldierPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 204,
     "EN": "OfficialName_",
@@ -2228,14 +1621,8 @@
   },
   "100131": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_PatrollerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 290,
     "EN": "OfficialName_",
@@ -2246,14 +1633,8 @@
   },
   "100132": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_PatrollerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 290,
     "EN": "Light Patroller",
@@ -2264,14 +1645,8 @@
   },
   "100141": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MandrakePro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Mandrake - Energized",
@@ -2282,14 +1657,8 @@
   },
   "100151": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugRaiderPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 202,
     "EN": "Looter",
@@ -2300,14 +1669,8 @@
   },
   "100161": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugPyromaniacPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 202,
     "EN": "Arsonist",
@@ -2318,14 +1681,8 @@
   },
   "100181": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugPoacherPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 202,
     "EN": "Rustler",
@@ -2336,14 +1693,8 @@
   },
   "100191": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugAssaulterPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 202,
     "EN": "Ambusher",
@@ -2354,14 +1705,8 @@
   },
   "100211": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_UVARavenPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 203,
     "EN": "Raven UAV - Activated",
@@ -2372,14 +1717,8 @@
   },
   "100231": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_PlatinumBangboo.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 290,
     "EN": "Platinum Bangboo",
@@ -2390,14 +1729,8 @@
   },
   "100251": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_AhrimanPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Ahriman - Energized",
@@ -2408,14 +1741,8 @@
   },
   "100261": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SpecterPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Specter - Energized",
@@ -2426,14 +1753,8 @@
   },
   "100271": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ViciousStrikerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 203,
     "EN": "Vicious Striker",
@@ -2444,14 +1765,8 @@
   },
   "100281": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GreedyRangerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 203,
     "EN": "Greedy Ranger",
@@ -2462,14 +1777,8 @@
   },
   "100291": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_BeholderEnginePro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "OfficialName_",
@@ -2480,14 +1789,8 @@
   },
   "100301": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_FossorPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Fossor - Energized",
@@ -2498,14 +1801,8 @@
   },
   "100311": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SordidusPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Sordidus - Energized",
@@ -2516,14 +1813,8 @@
   },
   "200001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GiantGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Farbauti - Energized",
@@ -2534,14 +1825,8 @@
   },
   "200002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Giant.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -2552,14 +1837,8 @@
   },
   "200003": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GiantPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -2570,14 +1849,8 @@
   },
   "200004": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GiantEnergy.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Ionized - Farbauti",
@@ -2588,14 +1861,8 @@
   },
   "200011": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HatiGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Hati - Energized",
@@ -2606,14 +1873,8 @@
   },
   "200012": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Hati.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -2624,14 +1885,8 @@
   },
   "200013": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HatiPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -2642,14 +1897,8 @@
   },
   "200014": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_HatiBoss.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Notorious - Hati",
@@ -2660,14 +1909,8 @@
   },
   "200015": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_HatiEnergized.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Hati Pack Leader — Energized",
@@ -2678,14 +1921,8 @@
   },
   "200021": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GoblinGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Goblin - Energized",
@@ -2696,14 +1933,8 @@
   },
   "200022": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Goblin.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -2714,14 +1945,8 @@
   },
   "200023": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GoblinPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -2732,14 +1957,8 @@
   },
   "200031": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HatiArmoredGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Armored Hati - Energized",
@@ -2750,14 +1969,8 @@
   },
   "200032": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HatiArmored.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -2768,14 +1981,8 @@
   },
   "200033": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HatiArmoredPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -2786,14 +1993,8 @@
   },
   "200034": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_HatiArmoredBoss.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Notorious - Armored Hati",
@@ -2804,14 +2005,8 @@
   },
   "200041": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GoblinMetroPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Metro Goblin - Energized",
@@ -2822,14 +2017,8 @@
   },
   "200051": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ArlauneGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Arlaune - Energized",
@@ -2840,14 +2029,8 @@
   },
   "200052": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Arlaune.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -2858,14 +2041,8 @@
   },
   "200053": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ArlaunePro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -2876,14 +2053,8 @@
   },
   "200061": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_LAAndroidPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 204,
     "EN": "OfficialName_",
@@ -2894,14 +2065,8 @@
   },
   "200071": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HeavyStrikerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 205,
     "EN": "Heavy Striker MK II",
@@ -2912,14 +2077,8 @@
   },
   "200072": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_HeavyStrikerBoss.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 205,
     "EN": "Shielded Defender",
@@ -2930,14 +2089,8 @@
   },
   "200073": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_HeavyStrikerBossPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 205,
     "EN": "Shielded Defender Omega",
@@ -2948,14 +2101,8 @@
   },
   "200081": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_LightfootRoverPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 205,
     "EN": "Lightfoot Rover MK II",
@@ -2966,14 +2113,8 @@
   },
   "200091": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_HeavyFirepowerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 205,
     "EN": "Assault Gunner",
@@ -2984,14 +2125,8 @@
   },
   "200092": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_TacticalAssaultGunner.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 205,
     "EN": "Specialized Assault Bomber",
@@ -3002,14 +2137,8 @@
   },
   "200101": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_TarasqueMixerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -3020,14 +2149,8 @@
   },
   "200121": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_FrenziedManiacPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 203,
     "EN": "Frenzied Maniac",
@@ -3038,14 +2161,8 @@
   },
   "200131": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_WickedWraithPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 203,
     "EN": "Wicked Wraith",
@@ -3056,14 +2173,8 @@
   },
   "200141": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_RuthlessFiendPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 203,
     "EN": "Ruthless Fiend",
@@ -3074,14 +2185,8 @@
   },
   "200151": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ThugBulkyAbuserPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 202,
     "EN": "Wanted Intimidator",
@@ -3092,14 +2197,8 @@
   },
   "200171": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ThugBulkyEnforcerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 202,
     "EN": "Wanted Enforcer",
@@ -3110,14 +2209,8 @@
   },
   "200172": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ThugBulkyEnforcerBoss.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 202,
     "EN": "Troublemaker - Wanted Enforcer",
@@ -3128,14 +2221,8 @@
   },
   "200231": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Doppelganger_Mors.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Doppelganger - Mors",
@@ -3146,14 +2233,8 @@
   },
   "200241": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Doppelganger_Pulchra.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Doppelganger - Pulchra",
@@ -3164,14 +2245,8 @@
   },
   "200251": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Doppelganger_Bellum.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Doppelganger - Bellum",
@@ -3182,14 +2257,8 @@
   },
   "300001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DurahanGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Dullahan - Energized",
@@ -3200,14 +2269,8 @@
   },
   "300002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Durahan.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Newborn Dullahan",
@@ -3218,14 +2281,8 @@
   },
   "300003": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DurahanPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "OfficialName_",
@@ -3236,14 +2293,8 @@
   },
   "300004": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DurahanEnergy.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Ionized - Dullahan",
@@ -3254,14 +2305,8 @@
   },
   "300005": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DurahanBoss.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Notorious - Dullahan",
@@ -3272,14 +2317,8 @@
   },
   "300011": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DeathXIIIGreyPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Thanatos - Energized",
@@ -3290,14 +2329,8 @@
   },
   "300012": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DeathXIII.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "OfficialName_",
@@ -3308,14 +2341,8 @@
   },
   "300013": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DeathXIIIPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "OfficialName_",
@@ -3326,14 +2353,8 @@
   },
   "300014": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DeathXIIIEnergy.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Ionized - Thanatos",
@@ -3344,14 +2365,8 @@
   },
   "300015": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DeathXIIIBoss.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Notorious - Thanatos",
@@ -3362,14 +2377,8 @@
   },
   "300021": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GuardianPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 205,
     "EN": "Guardian MK II",
@@ -3380,14 +2389,8 @@
   },
   "300022": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GuardianBoss.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 205,
     "EN": "Guardian MK III",
@@ -3398,14 +2401,8 @@
   },
   "300041": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_BoringMachineRed.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Greta - Energized",
@@ -3416,14 +2413,8 @@
   },
   "300042": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_GretelOverclocked.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Greta - Overclocked",
@@ -3434,14 +2425,8 @@
   },
   "300051": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MaterialHandlerRed.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Hans - Energized",
@@ -3452,14 +2437,8 @@
   },
   "300052": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_HansOverclocked.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Hans - Overclocked",
@@ -3470,14 +2449,8 @@
   },
   "300061": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_PileDriverRed.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Friday - Energized",
@@ -3488,50 +2461,32 @@
   },
   "300062": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_FridayOverclocked.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 290,
     "EN": "Friday - Overclocked",
     "desc": "At the moment a high concentration of Ether infiltrated its backup flash drive, a deluge of data flooded into Friday's memory.\nImages, audio files, video files... A huge assortment of files overwhelmed its limited processing capacity.\nAt that fateful moment, Friday experienced a realization.\nIt stood there for a while, eventually confirming through repeated searches in the database the reason behind the \"anomaly\" it has experienced.\n—Enlightenment.\nIt was a one-in-a-million occurrence, a miracle that only happens to intelligent mechanical beings that have faced crises like system crashes and power failures, and overcome them against all odds..\nAfter 0.02 seconds of contemplation, Friday made the decision to reject the recall signal from Belobog Heavy Industries.\nBecause it knows, with the chosen one of destiny now revealed, a crisis looms over the world.\nThe enemy is stirring in the darkness, and its sole mission holds countless lives at stake. It must face a dreadful adversary and seal it away once and for all.\n\"I shall strengthen the seal to save this land; it is destiny, and destiny cannot be defied!\"",
     "KO": "프라이데이·오버클럭형",
     "CHS": "星期五·超频型",
-    "JA": "フライデ��・高周波数型"
+    "JA": "フライデー・高周波数型"
   },
   "300071": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Cottus.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 201,
     "EN": "Newborn Dead End Butcher",
     "desc": "Unlike other highly dangerous Ethereals, the Ether within the Dead End Butcher's body often remains in a low-activity dormant state.\nNevertheless, it possesses immense brute strength capable of demolishing any obstacle, and the entire twisted and ravaged metro zone serves as its off-limits kitchen.\nOnly when a threatening target piques its interest will a horrifying transformation take place...\nWithin moments, the high concentration of Ether stored in its body undergoes a violent transformation and the exponentially surging energy prompts its limbs to quickly distort, assuming a more brutal and voracious \"feeding stance.\nThe time for \"appetizers\" is over, and an unparalleled \"feast\" is about to begin.\nAnyone who doesn't want to be part of this feast should be extremely cautious in choosing their route, and stay away from its \"kitchen\" at all costs.\n\"The paths within the Hollows are complex, but one thing's for sure, when it appears at the end of the road, that path is a 'dead end.'\"",
     "KO": "갓 태어난 죽음의 도살자",
     "CHS": "初生死路屠夫",
-    "JA": "初生のデッドエンドブッチャー"
+    "JA": "初生のデッド���ンドブッチャー"
   },
   "300072": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_NotoriousDeadEndButcher.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 201,
     "EN": "Notorious - Dead End Butcher",
@@ -3542,14 +2497,8 @@
   },
   "300081": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MetalGorillaPro.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 205,
     "EN": "Typhon Slugger",
@@ -3560,14 +2509,8 @@
   },
   "300082": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_TyphonDestroyer.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 205,
     "EN": "Autonomous Assault Unit - Typhon Destroyer",
@@ -3578,14 +2521,8 @@
   },
   "300121": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_NotoriousMarionette.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 201,
     "EN": "Notorious - Marionette",
@@ -3596,14 +2533,8 @@
   },
   "300211": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_NotoriousPompey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 4,
     "group": 203,
     "EN": "Notorious - Pompey",
@@ -3614,14 +2545,8 @@
   },
   "300301": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_HugoVlad_Boss.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 201,
     "EN": "Doppelganger - Abyssal Enforcer",
@@ -3632,10 +2557,7 @@
   },
   "300371": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_IsoldeSlime.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
     "group": 201,
@@ -3647,10 +2569,7 @@
   },
   "300372": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaIsoldeSlime.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
     "group": 290,
@@ -3662,10 +2581,7 @@
   },
   "300401": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_NoranoEgo_Slime.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
     "group": 201,
@@ -3677,10 +2593,7 @@
   },
   "300402": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaNoranoSlime.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
+    "tag": ["Ether", "NotPro"],
     "tag2": [],
     "rarity": 3,
     "group": 290,
@@ -3692,13 +2605,8 @@
   },
   "930146": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Tyrfing",
@@ -3709,14 +2617,8 @@
   },
   "930147": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ArlauneGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Arlaune",
@@ -3727,14 +2629,8 @@
   },
   "930148": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Ahriman.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Ahriman",
@@ -3745,13 +2641,8 @@
   },
   "930149": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_CyclopsGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Alpeca",
@@ -3762,14 +2653,8 @@
   },
   "930150": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_DurahanGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Dullahan",
@@ -3780,14 +2665,8 @@
   },
   "930151": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GoldenBomb.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 290,
     "EN": "Golden Bangboo",
@@ -3798,13 +2677,8 @@
   },
   "930152": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Golemgrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Hoplitai",
@@ -3815,13 +2689,8 @@
   },
   "930153": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Satyrus.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Faun",
@@ -3832,14 +2701,8 @@
   },
   "930154": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SpiderGrey.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Blastcrawler",
@@ -3850,14 +2713,8 @@
   },
   "930155": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ViciousStriker.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 203,
     "EN": "Vicious Striker",
@@ -3868,31 +2725,20 @@
   },
   "930156": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ViciousStriker.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 203,
     "EN": "Vicious Striker",
     "desc": "Vicious Striker <color=#D9A600>has high HP</color>. Focus your fire on them.",
-    "KO": "악독한 싸움���",
+    "KO": "악독한 싸움꾼",
     "CHS": "恶毒打手",
     "JA": "悪辣討手"
   },
   "930157": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGreyPro.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Tyrfing",
@@ -3903,14 +2749,8 @@
   },
   "930158": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ArlauneGreyPro.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Arlaune",
@@ -3921,14 +2761,8 @@
   },
   "930159": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_AhrimanPro.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Ahriman",
@@ -3939,13 +2773,8 @@
   },
   "930160": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_CyclopsGreyPro.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Alpeca",
@@ -3956,14 +2785,8 @@
   },
   "930161": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DurahanGreyPro.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 2,
     "group": 201,
     "EN": "Dullahan",
@@ -3974,13 +2797,8 @@
   },
   "930162": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GolemGreyPro.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Hoplitai",
@@ -3991,13 +2809,8 @@
   },
   "930163": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SatyrusPro.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "All"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["All"],
     "rarity": 1,
     "group": 201,
     "EN": "Faun",
@@ -4008,14 +2821,8 @@
   },
   "930164": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_SpiderGreyPro.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 201,
     "EN": "Blastcrawler",
@@ -4026,14 +2833,8 @@
   },
   "930165": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ViciousStrikerPro.png",
-    "tag": [
-      "Ether",
-      "Pro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "Pro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 1,
     "group": 203,
     "EN": "Vicious Striker",
@@ -4212,14 +3013,8 @@
   },
   "940002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Harvester.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 202,
     "EN": "Lumberjack",
@@ -4230,14 +3025,8 @@
   },
   "940003": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_DubiousHero.png",
-    "tag": [
-      "Ether",
-      "NotPro"
-    ],
-    "tag2": [
-      "Metro",
-      "SkyScraper"
-    ],
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
     "rarity": 3,
     "group": 202,
     "EN": "Rampant Brute",

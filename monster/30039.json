@@ -259,7 +259,8 @@
         "Miasma",
         "DisableAI",
         "HayyotSummon",
-        "NotCounting"
+        "NotCounting",
+        "Summon"
       ],
       "Type": "Monster",
       "Element": {

@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": { "3112010": { "Name": "", "Desc": "", "Image": "IconRole35" } },
+  "Skin": {
+    "3112010": {
+      "Name": "Asaba Harumasa: Full-Fledged Strings",
+      "Desc": "His eyes are brighter than the streak of bright yellow upon his brow. His arrows pierce through deceit and lies and scatter the past like feathers on the wind. Dawn may not have arrived yet, but beyond the horizon, a golden future shimmers faintly.",
+      "Image": "IconRole35"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

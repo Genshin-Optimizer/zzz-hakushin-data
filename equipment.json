@@ -9,7 +9,7 @@
     "KO": {
       "name": "딱따구리 일렉트로",
       "desc2": "치명타 확률+8%",
-      "desc4": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피 반격]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중하고 치명타 발동 시 착용자에게 각각 1스택의 버프 효과를 제공하며 버프 효과 스택당 착용자의 공격력이 9% 증가한다. 지속 시간: 6초, 각 스킬의 지속 시간은 따로 계산된다."
+      "desc4": "<color=#FFFFFF>[일반 공격]</color>, <color=#FFFFFF>[회피 반격]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color>이 적��게 명중하고 치명타 발동 시 착용자에게 각각 1스택의 버프 효과를 제공하며 버프 효과 스택당 착용자의 공격력이 9% 증가한다. 지속 시간: 6초, 각 스킬의 지속 시간은 따로 계산된다."
     },
     "CHS": {
       "name": "啄木鸟电音",
@@ -101,7 +101,7 @@
     "KO": {
       "name": "호르몬 펑크",
       "desc2": "공격력+10%",
-      "desc4": "교전 상태에서의 현재 조작 중인 캐���터가 될 시, 착용자의 공격력이 25% 증가한다. 지속 시간: 10초, 20초 동안 최대 1회 발동한다."
+      "desc4": "교전 상태에서의 현재 조작 중인 캐릭터가 될 시, 착용자의 공격력이 25% 증가한다. 지속 시간: 10초, 20초 동안 최대 1회 발동한다."
     },
     "CHS": {
       "name": "激素朋克",
@@ -175,7 +175,7 @@
     "CHS": {
       "name": "混沌爵士",
       "desc2": "异常精通+30点。",
-      "desc4": "<color=#FF5521>火属性伤害</color>和<color=#2EB6FF>电属性伤害</color>提升15%；位于后场时，<color=#FFFFFF>[强化特殊技]</color>和<color=#FFFFFF>[支援攻击]</color>造成的伤害提升20%，换入前场后，该增益效果仍然保留，持续5秒，保留效果7.5秒内最多触发一次。"
+      "desc4": "<color=#FF5521>火属性伤害</color>和<color=#2EB6FF>电属��伤害</color>提升15%；位于后场时，<color=#FFFFFF>[强化特殊技]</color>和<color=#FFFFFF>[支援攻击]</color>造成的伤害提升20%，换入前场后，该增益效果仍然保留，持续5秒，保留效果7.5秒内最多触发一次。"
     },
     "JA": {
       "name": "ケイオス・ジャズ",
@@ -193,7 +193,7 @@
     "KO": {
       "name": "원시 펑크",
       "desc2": "부여하는 실드량+15%",
-      "desc4": "파티 내 임의의 캐릭터가 <color=#FFFFFF>[패링 지원]</color> 혹은 <color=#FFFFFF>[회피 지원]</color> 시��� 시 파티 내 모든 캐릭터가 주는 피해가 15% 증가한다. 지속 시간: 10초, 이름이 같은 패시브 효과끼리 중첩되지 않는다."
+      "desc4": "파티 내 임의의 캐릭터가 <color=#FFFFFF>[패링 지원]</color> 혹은 <color=#FFFFFF>[회피 지원]</color> 시전 시 파티 내 모든 캐릭터가 주는 피해가 15% 증가한다. 지속 시간: 10초, 이름이 같은 패시브 효과끼리 중첩되지 않는다."
     },
     "CHS": {
       "name": "原始朋克",
@@ -249,7 +249,7 @@
     "JA": {
       "name": "混沌のヘヴィメタル",
       "desc2": "<color=#FE437E>エーテル属性ダメージ</color>+10%。",
-      "desc4": "装備者の会心ダメージ+20%。任意のメンバーによって<color=#FE437E>[侵蝕]</color>効果の追加ダメージが発生した時、この効果がさらに+5.5%、最大6重まで重ね掛け可能、継続時間8秒。重複して発動すると継続時間が更新される。"
+      "desc4": "装備者の会心ダメージ+20%。任意のメンバーによって<color=#FE437E>[侵蝕]</color>効果の追加ダメージが発生した時、この効果��さらに+5.5%、最大6重まで重ね掛け可能、継続時間8秒。重複して発動すると継続時間が更新される。"
     }
   },
   "32400": {
@@ -295,7 +295,7 @@
     "JA": {
       "name": "極地のヘヴィメタル",
       "desc2": "<color=#98EFF0>氷属性ダメージ</color>+10%。",
-      "desc4": "<color=#FFFFFF>『通常攻撃』</color>と<color=#FFFFFF>『ダッシュ攻撃』</color>の与ダメージ+20%。任意のメンバーが敵に<color=#98EFF0>[凍結]</color>効果を付与した時、または<color=#98EFF0>[砕氷]</color>効果を発動した時、この効果がさらに+20%、継続時間12秒。"
+      "desc4": "<color=#FFFFFF>『通常攻撃』</color>と<color=#FFFFFF>��ダッシュ攻撃』</color>の与ダメージ+20%。任意のメンバーが敵に<color=#98EFF0>[凍結]</color>効果を付与した時、または<color=#98EFF0>[砕氷]</color>効果を発動した時、この効果がさらに+20%、継続時間12秒。"
     }
   },
   "32600": {
@@ -359,7 +359,7 @@
     "CHS": {
       "name": "静听嘉音",
       "desc2": "攻击力+10%。",
-      "desc4": "队伍中任意角色通过<color=#FFFFFF>[快速支援]</color>入场时，全队角色获得1层<color=#FFFFFF>[嘉音]</color>，最多叠加3层，持续15秒，重复触发时刷新持续时间，每拥有1层<color=#FFFFFF>[嘉音]</color>，通过<color=#FFFFFF>[快速支援]</color>入场的角色造成的伤害提升8%，同名被动效果之间不可叠加。"
+      "desc4": "队伍中任意角色通过<color=#FFFFFF>[快速支援]</color>入场时，全队角色获得1层<color=#FFFFFF>[嘉音]</color>��最多叠加3层，持续15秒，重复触发时刷新持续时间，每拥有1层<color=#FFFFFF>[嘉音]</color>，通过<color=#FFFFFF>[快速支援]</color>入场的角色造成的伤害提升8%，同名被动效果之间不可叠加。"
     },
     "JA": {
       "name": "静寂のアストラ",
@@ -382,7 +382,7 @@
     "CHS": {
       "name": "如影相随",
       "desc2": "<color=#FFFFFF>[追加攻击]</color>和<color=#FFFFFF>[冲刺攻击]</color>造成的伤害提升15%。",
-      "desc4": "<color=#FFFFFF>[追加攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人时，若造成的伤害与装备者的属性一致，则获得1层增益效果，同一招式内最多触发一次；每拥有1层增益效果，装备者的攻击力提升4%，暴击率提升4%，最多叠加3层，持续15秒，重复触发时刷新持续时间。"
+      "desc4": "<color=#FFFFFF>[追加攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人时，若造成的伤害与装备者的属性一致，则获得1层增益效果，同一招式内最多触发一次；每拥有1层���益效果，装备者的攻击力提升4%，暴击率提升4%，最多叠加3层，持续15秒，重复触发时刷新持续时间。"
     },
     "JA": {
       "name": "シャドウハーモニー",
@@ -423,7 +423,7 @@
     "KO": {
       "name": "운규 이야기",
       "desc2": "HP+10%",
-      "desc4": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>, <color=#FFFFFF>[궁극기]</color> 시전 시 치명타 확률이 4% 증가한다. 최대 중첩: 3스택, 지속 시간: 15초. 중복 발동 �� 지속 시간이 갱신되며, 3스택 효과 보유 시 주는 관입 피해가 10% 증가한다."
+      "desc4": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color>, <color=#FFFFFF>[궁극기]</color> 시전 시 치명타 확률이 4% 증가한다. 최대 중첩: 3스택, 지속 시간: 15초. 중복 발동 시 지속 시간이 갱신되며, 3스택 효과 보유 시 주는 관입 피해가 10% 증가한다."
     },
     "CHS": {
       "name": "云岿如我",
@@ -492,7 +492,7 @@
     "KO": {
       "name": "달빛 기사의 칭송",
       "desc2": "에너지 자동 회복+20%",
-      "desc4": "착용자가 [지원] 캐릭터일 때 <color=#FFFFFF>[강화 특수 스킬]</color> ���은 <color=#FFFFFF>[궁극기]</color>를 시전하면 파티 내 모든 캐릭터가 주는 피해가 18% 증가한다. 지속 시간: 25초, 중복 발동 시 지속 시간이 갱신되며, 이름이 같은 패시브 효과끼리 중첩되지 않는다."
+      "desc4": "착용자가 [지원] 캐릭터일 때 <color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>를 시전하면 파티 내 모든 캐릭터가 주는 피해가 18% 증가한다. 지속 시간: 25초, 중복 발동 시 지속 시간이 갱신되며, 이름이 같은 패시브 효과끼리 중첩되지 않는다."
     },
     "CHS": {
       "name": "月光骑士颂",
@@ -503,6 +503,52 @@
       "name": "月光騎士の讃歌",
       "desc2": "エネルギー自動回復+20%。",
       "desc4": "装備者が[支援]メンバーの場合、<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、メンバー全員の与ダメージ+18%、継続時間25秒、重複して発動すると継続時間が更新される。同じパッシブ効果は重ね掛け不可。"
+    }
+  },
+  "33500": {
+    "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitWhiteWaterBallad.png",
+    "EN": {
+      "name": "White Water Ballad",
+      "desc2": "<color=#F0D12B>Physical DMG</color> +10%",
+      "desc4": "When the equipper is within any <color=#FFFFFF>Ether Veil</color>, their CRIT Rate increases by 10%. After leaving the <color=#FFFFFF>Ether Veil</color>, this buff remains for 15s. If the equipper is an <color=#FFFFFF>Attack</color> character, activating an <color=#FFFFFF>Ether Veil</color> or extending an <color=#FFFFFF>Ether Veil</color>'s duration increases their CRIT Rate by 10% and ATK by 10% for 30s. Repeated triggers reset the duration."
+    },
+    "KO": {
+      "name": "물빛 노랫소리",
+      "desc2": "<color=#F0D12B>물리 피해</color>+10%",
+      "desc4": "착용자가 임의의 <color=#FFFFFF>[에테르 장막]</color> 중에 있을 때 자신의 치명타 확률이 10% 증가하며, <color=#FFFFFF>[에테르 장막]</color>에서 벗어난 후에도 해당 버프는 유지된다. 지속 시간: 15초. 착용자가 <color=#FFFFFF>[강공]</color> 캐릭터일 경우, <color=#FFFFFF>[에테르 장막]</color>을 발동하거나 <color=#FFFFFF>[에테르 장막]</color>의 지속 시간 연장 시, 자신의 치명타 확률이 10% 증가하고 공격력이 10% 증가한다. 지속 시간: 30초, 중복 발동 시 지속 시간이 갱신된다."
+    },
+    "CHS": {
+      "name": "沧浪行歌",
+      "desc2": "<color=#F0D12B>物理伤害</color>+10%。",
+      "desc4": "装备者处于任意<color=#FFFFFF>[以太帷幕]</color>中时，自身暴击率提高10%，离开<color=#FFFFFF>[以太帷幕]</color>后，该增益效果仍然保留，持续15秒；装备者为<color=#FFFFFF>[强攻]</color>角色时，开启<color=#FFFFFF>[以太帷幕]</color>或延长<color=#FFFFFF>[以太帷幕]</color>的持续时间会使自身暴击率提升10%和攻击力提升10%，持续30秒，重复触发时刷新持续时间。"
+    },
+    "JA": {
+      "name": "純白の行歌",
+      "desc2": "<color=#F0D12B>物理属性ダメージ</color>+10%。",
+      "desc4": "装備者が任意の<color=#FFFFFF>「エーテルベール」</color>効果を受けている時、自身の会心率+10%。<color=#FFFFFF>「エーテルベール」</color>終了後でも、この効果は15秒継続する。装備者が<color=#FFFFFF>[強攻]</color>メンバーの場合、<color=#FFFFFF>「エーテルベール」</color>を展開、または<color=#FFFFFF>「エーテルベール」</color>の継続時間を延長した際、自身の会心率+10%、攻撃力+10%、継続時間30秒、重複して発動すると継続時間が更新される。"
+    }
+  },
+  "33600": {
+    "icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitShiningAria.png",
+    "EN": {
+      "name": "Shining Aria",
+      "desc2": "<color=#FE437E>Ether DMG</color> +10%",
+      "desc4": "When the equipper's <color=#FFFFFF>Basic Attack</color> hits an enemy, their Anomaly Proficiency increases by 36, lasting 8s. Repeated triggers reset the duration. When any enemy on the field is Stunned, the equipper's DMG increases by 25% for 18s. Repeated triggers reset the duration."
+    },
+    "KO": {
+      "name": "빛의 ���리아",
+      "desc2": "<color=#FE437E>에테르 피해</color>+10%",
+      "desc4": "착용자가 <color=#FFFFFF>[일반 공격]</color>으로 적 명중 시 자신의 이상 마스터리가 36pt 증가한다. 지속 시간: 8초, 중복 발동 시 지속 시간이 갱신된다. 전장 위 적이 그로기 상태에 진입할 시 착용자가 주는 피해가 25% 증가한다. 지속 시간: 18초, 중복 발동 시 지속 시간이 갱신된다."
+    },
+    "CHS": {
+      "name": "流光咏叹",
+      "desc2": "<color=#FE437E>以太伤害</color>+10%。",
+      "desc4": "装备者发动<color=#FFFFFF>[普通攻击]</color>命中敌人时，自身异常精通提升36点，持续8秒，重复触发时刷新持续时间；当场上有敌人进入失衡状态时，装备者造成的伤害提升25%，持续18秒，重复触发时刷新持续时间。"
+    },
+    "JA": {
+      "name": "流光のアリア",
+      "desc2": "<color=#FE437E>エーテル属性ダメージ</color>+10%。",
+      "desc4": "装備者の<color=#FFFFFF>『通常攻撃』</color>が敵に命中した時、自身の異常マスタリー+36Pt、継続時間8秒、重複して発動すると継続時間が更新される。フィールド上の敵がブレイク状態になった時、装備者の与ダメージ+25%、継続時間18秒、重複して発動すると継続時間��更新される。"
     }
   }
 }

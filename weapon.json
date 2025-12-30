@@ -175,7 +175,7 @@
     "type": 3,
     "EN": "Rainforest Gourmet",
     "desc": "A consumer-class W-Engine launched by an exotic pet fan club to promote pet culture. Due to its cute appearance, it was once a very popular model.",
-    "KO": "우림의 ���객",
+    "KO": "우림의 식객",
     "CHS": "雨林饕客",
     "JA": "密林の食いしん坊"
   },
@@ -295,7 +295,7 @@
     "type": 1,
     "EN": "Marcato Desire",
     "desc": "Gather 'round, mortals! Turn up the music!",
-    "KO": "열망��� 악센트",
+    "KO": "열망의 악센트",
     "CHS": "强音热望",
     "JA": "強音デザイア"
   },
@@ -308,6 +308,16 @@
     "KO": "조명을 새기는 칼",
     "CHS": "光影刻刀",
     "JA": "光と影のカット"
+  },
+  "13019": {
+    "icon": "Weapon_A_Common_19",
+    "rank": 3,
+    "type": 6,
+    "EN": "Cauldron of Clarity",
+    "desc": "Countless threads of Sword Will echo through this tiny stretch of sky.",
+    "KO": "푸른 물결의 솥",
+    "CHS": "青漪灵鼎",
+    "JA": "蒼き波の霊器"
   },
   "13101": {
     "icon": "Weapon_A_1011",
@@ -327,7 +337,7 @@
     "desc": "A cost-effective W-Engine that can store energy, with improvements made to its internal space. This model is often used by Nicole.",
     "KO": "보물함",
     "CHS": "聚宝箱",
-    "JA": "ザ・ボールト"
+    "JA": "ザ���ボールト"
   },
   "13106": {
     "icon": "Weapon_A_1061",
@@ -537,7 +547,7 @@
     "desc": "A special W-Engine with a powerful temperature control system. Modified by Lycaon, it has the capability to quickly create extremely cold environments.",
     "KO": "구속된 자",
     "CHS": "拘缚者",
-    "JA": "拘縛され���者"
+    "JA": "拘縛されし者"
   },
   "14116": {
     "icon": "Weapon_S_1161",
@@ -686,8 +696,18 @@
     "EN": "Flight of Fancy",
     "desc": "A bird landed on the windowsill, scattering starlight from its tail feathers.",
     "KO": "별빛 꿈을 누비는 새",
-    "CHS": "飞鸟星梦",
+    "CHS": "���鸟星梦",
     "JA": "鳥は夢へと羽ばたいて"
+  },
+  "14134": {
+    "icon": "Weapon_S_1341",
+    "rank": 4,
+    "type": 5,
+    "EN": "Half-Sugar Bunny",
+    "desc": "Not too sweet, and not too cold.",
+    "KO": "당도 50% 눈토끼",
+    "CHS": "半糖雪兔",
+    "JA": "甘さ控えめ雪うさぎ"
   },
   "14136": {
     "icon": "Weapon_S_1361",
@@ -748,6 +768,16 @@
     "KO": "너구리의 7단 변신",
     "CHS": "狸法七变化",
     "JA": "狸の七変化"
+  },
+  "14143": {
+    "icon": "Weapon_S_1431",
+    "rank": 4,
+    "type": 1,
+    "EN": "Cloudcleave Radiance",
+    "desc": "The world may change, but my heart remains constant, like clouds standing eternal.",
+    "KO": "구름을 헤친 빛",
+    "CHS": "云霓孤光",
+    "JA": "孤光彩雲"
   },
   "14145": {
     "icon": "Weapon_S_1451",

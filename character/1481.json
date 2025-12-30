@@ -37,9 +37,9 @@
   },
   "Skin": {
     "3114810": {
-      "Name": "AvatarSkin_Azural_Name_000",
-      "Desc": "AvatarSkin_Azural_Desc_000",
-      "Image": "IconRole29"
+      "Name": "Dialyn: Ringing Judgment",
+      "Desc": "A sweet voice comes from the receiver, and when you lean in to listen, it softens into a gentle whisper, announcing that the verdict has arrived... just kidding, it's just a standard satisfaction survey.",
+      "Image": "IconRole54"
     }
   },
   "Stats": {
@@ -856,7 +856,7 @@
       "Description": [
         {
           "Name": "EX Special Attack: Get Lost!",
-          "Desc": "With <color=#FFFFFF>Customer Complaint</color>, hold <IconMap:Icon_Normal> to activate:\nDelivers a forward martial salute attack. On activation, it consumes 1 <color=#FFFFFF>Customer Complaint</color> and deals <color=#F0D12B>Physical DMG</color>.\nOn activation, the previous character's <color=#FFFFFF>Quick Assist</color> is triggered.\nCharacter is invulnerable while using this skill.",
+          "Desc": "With <color=#FFFFFF>Customer Complaint</color>, hold <IconMap:Icon_Normal> to activate:\nDelivers a forward martial salute attack. On activation, it consumes 1 <color=#FFFFFF>Customer Complaint</color> and deals <color=#F0D12B>Physical DMG</color>.\nAfter activation, the previous character's <color=#FFFFFF>Quick Assist</color> is triggered.\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {

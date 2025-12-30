@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": {},
+  "Skin": {
+    "3110410": {
+      "Name": "Soldier 11: Elite Soldier",
+      "Desc": "Those warm-toned goggles can't hide her icy, soldier's gaze. Want to see her crack a smile? Pick one: 87.5 one-arm push-ups or a bowl of extra-spicy noodles.",
+      "Image": "IconRole05"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,
@@ -251,7 +257,17 @@
         {
           "Name": "Basic Attack: Fire Suppression",
           "Desc": "Press <IconMap:Icon_Normal> at the right moment to activate:\nUnleashes a set of more powerful slashes, dealing <color=#FF5521>Fire DMG</color>.",
-          "Potential": []
+          "Potential": [0]
+        },
+        {
+          "Name": "Basic Attack: Fire Suppression",
+          "Desc": "Press <IconMap:Icon_Normal> at the right moment to activate:\nLaunches a stronger slash, dealing <color=#FF5521>Fire DMG</color>.\nWhen <color=#FFFFFF>Fire Suppression</color> is guaranteed to trigger, pressing <IconMap:Icon_Normal> when the attack is about to end speeds up the transition into the next hit of <color=#FFFFFF>Basic Attack</color>.\nWhen <color=#FFFFFF>Fire Suppression</color> is guaranteed to trigger, the 5th hit of the <color=#FFFFFF>Basic Attack</color> string unlocks. Activating a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color> powers up her next <color=#FFFFFF>Basic Attack</color> 5th hit. A strengthened <color=#FFFFFF>Basic Attack</color> 5th hit will consume all remaining guaranteed <color=#FFFFFF>Fire Suppression</color> activations to deal additional <color=#FF5521>Fire DMG</color> per activation spent.\nAfter triggering a <color=#FFFFFF>Perfect Dodge</color>, the current Basic Attack hit count is retained for 5s. After performing a <color=#FFFFFF>Dodge Counter</color>, pressing <IconMap:Icon_Normal> resumes the <color=#FFFFFF>Basic Attack</color> from the retained hit count.",
+          "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
+        },
+        {
+          "Name": "Basic Attack: Fire Assault",
+          "Desc": "Hold <IconMap:Icon_Normal> to activate: <color=#FFFFFF>Basic Attack: Fire Charge</color>\nRelease <IconMap:Icon_Normal> while Basic Attack: Fire Charge is activated to launch <color=#FFFFFF>Basic Attack: Fire Assault</color>.\nIf attacked by an enemy during <color=#FFFFFF>Basic Attack: Fire Assault</color> or the moment <color=#FFFFFF>Basic Attack: Fire Charge</color> is activated, a Block Counter can be triggered, negating that instance of DMG and granting 3 guaranteed triggers of <color=#FFFFFF>Fire Suppression</color>. Press <IconMap:Icon_Normal> to follow up with the 3rd hit of a <color=#FFFFFF>Basic Attack</color>, up to 8 times.\nWhile charging, tilting the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} launches <color=#FFFFFF>Basic Attack: Blazing Rush</color>.",
+          "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
         },
         {
           "Name": "Basic Attack: Warmup Sparks",
@@ -575,6 +591,84 @@
               "Potential": []
             },
             {
+              "Name": "5th-Hit DMG Multiplier",
+              "Desc": "{Skill:1041024, Prop:1001}",
+              "Param": {
+                "1041024": {
+                  "Main": 44170,
+                  "Growth": 4020,
+                  "Format": "%",
+                  "DamagePercentage": 44170,
+                  "DamagePercentageGrowth": 4020,
+                  "StunRatio": 14530,
+                  "StunRatioGrowth": 670,
+                  "SpRecovery": 49800,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 380600,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 13833,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 13834
+                }
+              },
+              "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
+            },
+            {
+              "Name": "Enhanced Basic Attack 5th-Hit DMG Multiplier",
+              "Desc": "{Skill:1041025, Prop:1001}",
+              "Param": {
+                "1041025": {
+                  "Main": 44170,
+                  "Growth": 4020,
+                  "Format": "%",
+                  "DamagePercentage": 44170,
+                  "DamagePercentageGrowth": 4020,
+                  "StunRatio": 14530,
+                  "StunRatioGrowth": 670,
+                  "SpRecovery": 49800,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 380600,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 13833,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 13834
+                }
+              },
+              "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
+            },
+            {
+              "Name": "Enhanced Basic Attack 5th-Hit Additional DMG Multiplier",
+              "Desc": "{Skill:1041026, Prop:1001}",
+              "Param": {
+                "1041026": {
+                  "Main": 8280,
+                  "Growth": 760,
+                  "Format": "%",
+                  "DamagePercentage": 8280,
+                  "DamagePercentageGrowth": 760,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
+            },
+            {
               "Name": "1st-Hit Daze Multiplier",
               "Desc": "{Skill:1041002, Prop:1002}",
               "Param": {
@@ -677,9 +771,119 @@
                 }
               },
               "Potential": []
+            },
+            {
+              "Name": "5th-Hit Daze Multiplier",
+              "Desc": "{Skill:1041024, Prop:1002}",
+              "Param": {
+                "1041024": {
+                  "Main": 14530,
+                  "Growth": 670,
+                  "Format": "%",
+                  "DamagePercentage": 44170,
+                  "DamagePercentageGrowth": 4020,
+                  "StunRatio": 14530,
+                  "StunRatioGrowth": 670,
+                  "SpRecovery": 49800,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 380600,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 13833,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 13834
+                }
+              },
+              "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
+            },
+            {
+              "Name": "Enhanced Basic Attack 5th-Hit Daze Multiplier",
+              "Desc": "{Skill:1041025, Prop:1002}",
+              "Param": {
+                "1041025": {
+                  "Main": 14530,
+                  "Growth": 670,
+                  "Format": "%",
+                  "DamagePercentage": 44170,
+                  "DamagePercentageGrowth": 4020,
+                  "StunRatio": 14530,
+                  "StunRatioGrowth": 670,
+                  "SpRecovery": 49800,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 380600,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 13833,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 13834
+                }
+              },
+              "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
             }
           ],
           "Potential": []
+        },
+        {
+          "Name": "Basic Attack: Fire Assault",
+          "Param": [
+            {
+              "Name": "Basic Attack: Fire Assault DMG Multiplier",
+              "Desc": "{Skill:1041027, Prop:1001}",
+              "Param": {
+                "1041027": {
+                  "Main": 9410,
+                  "Growth": 860,
+                  "Format": "%",
+                  "DamagePercentage": 9410,
+                  "DamagePercentageGrowth": 860,
+                  "StunRatio": 3070,
+                  "StunRatioGrowth": 140,
+                  "SpRecovery": 10510,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 80300,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2916,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2917
+                }
+              },
+              "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
+            },
+            {
+              "Name": "Basic Attack: Fire Assault Daze Multiplier",
+              "Desc": "{Skill:1041027, Prop:1002}",
+              "Param": {
+                "1041027": {
+                  "Main": 3070,
+                  "Growth": 140,
+                  "Format": "%",
+                  "DamagePercentage": 9410,
+                  "DamagePercentageGrowth": 860,
+                  "StunRatio": 3070,
+                  "StunRatioGrowth": 140,
+                  "SpRecovery": 10510,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 80300,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2916,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2917
+                }
+              },
+              "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
+            }
+          ],
+          "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
         }
       ],
       "Material": {
@@ -918,8 +1122,13 @@
         },
         {
           "Name": "EX Special Attack: Fervent Fire",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nSlashes enemies nearby, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> will trigger <color=#FFFFFF>Fire Suppression</color> for up to 15s or 8 times.",
-          "Potential": []
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nSlashes enemies nearby, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> will trigger <color=#FFFFFF>Fire Suppression</color> for up to 30s or 8 times.",
+          "Potential": [0]
+        },
+        {
+          "Name": "EX Special Attack: Fervent Fire",
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nExecutes a powerful slash against enemies nearby, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> are guaranteed to trigger <color=#FFFFFF>Fire Suppression</color> for up to 30s or 8 times.\nAfter using this skill, press <IconMap:Icon_Normal> to immediately follow up with the 4th hit of a <color=#FFFFFF>Basic Attack</color>.\nSoldier 11 enters the <color=#FFFFFF>Alert Stance</color> after using this skill. While in <color=#FFFFFF>Alert Stance</color>, if hit during a <color=#FFFFFF>Basic Attack</color>, triggers <color=#FFFFFF>Basic Attack: Fire Charge</color> to block the attack, followed by <color=#FFFFFF>Basic Attack: Fire Assault</color>. After <color=#FFFFFF>Basic Attack: Fire Assault</color> is performed, press <IconMap:Icon_Normal> to resume <color=#FFFFFF>Basic Attack</color> from the retained Basic Attack hit count.",
+          "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
         },
         {
           "Name": "Special Attack: Raging Fire",
@@ -1058,13 +1267,23 @@
       "Description": [
         {
           "Name": "Chain Attack: Uplifting Flame",
-          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful upward slash at enemies in a small area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> trigger <color=#FFFFFF>Fire Suppression</color> for the next 15s, up to 8 times.",
-          "Potential": []
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nUnleashes a powerful upward slash at enemies in a small area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> trigger <color=#FFFFFF>Fire Suppression</color> for the next 30s, up to 8 times.",
+          "Potential": [0]
+        },
+        {
+          "Name": "Chain Attack: Uplifting Flame",
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nSlashes enemies in a small area ahead, then executes a powerful upwards slash, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> are guaranteed to trigger <color=#FFFFFF>Fire Suppression</color> for up to 30s or 8 times.\nAfter using this skill, press <IconMap:Icon_Normal> to immediately follow up with the 4th hit of a <color=#FFFFFF>Basic Attack</color>.\nSoldier 11 enters the <color=#FFFFFF>Alert Stance</color> after using this skill. While in <color=#FFFFFF>Alert Stance</color>, if hit during a <color=#FFFFFF>Basic Attack</color>, triggers <color=#FFFFFF>Basic Attack: Fire Charge</color> to block the attack, followed by <color=#FFFFFF>Basic Attack: Fire Assault</color>. After <color=#FFFFFF>Basic Attack: Fire Assault</color> is performed, press <IconMap:Icon_Normal> to resume <color=#FFFFFF>Basic Attack</color> from the retained Basic Attack hit count.",
+          "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
         },
         {
           "Name": "Ultimate: Bellowing Flame",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful upward slash at enemies in a small area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> trigger <color=#FFFFFF>Fire Suppression</color> for the next 15s, up to 8 times.",
-          "Potential": []
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nUnleashes a powerful upward slash at enemies in a small area, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> trigger <color=#FFFFFF>Fire Suppression</color> for the next 30s, up to 8 times.",
+          "Potential": [0]
+        },
+        {
+          "Name": "Ultimate: Bellowing Flame",
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nSlashes enemies nearby, dealing massive <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, Soldier 11's <color=#FFFFFF>Basic Attacks</color> and <color=#FFFFFF>Dash Attacks</color> are guaranteed to trigger <color=#FFFFFF>Fire Suppression</color> for up to 30s or 8 times.\nAfter using this skill, press <IconMap:Icon_Normal> to immediately follow up with the 4th hit of a <color=#FFFFFF>Basic Attack</color>.\nSoldier 11 enters the <color=#FFFFFF>Alert Stance</color> after using this skill. While in <color=#FFFFFF>Alert Stance</color>, if hit during a <color=#FFFFFF>Basic Attack</color>, triggers <color=#FFFFFF>Basic Attack: Fire Charge</color> to block the attack, followed by <color=#FFFFFF>Basic Attack: Fire Assault</color>. After <color=#FFFFFF>Basic Attack: Fire Assault</color> is performed, press <IconMap:Icon_Normal> to resume <color=#FFFFFF>Basic Attack</color> from the retained Basic Attack hit count.",
+          "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
         },
         {
           "Name": "Chain Attack: Uplifting Flame",
@@ -1509,6 +1728,27 @@
       "ElementType": 201,
       "HitType": 101,
       "Potential": []
+    },
+    "1041012": {
+      "Name": "Basic Attack: Fire Charge",
+      "Desc": "<IconMap:Icon_Normal> (Hold)",
+      "ElementType": 0,
+      "HitType": 0,
+      "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
+    },
+    "1041013": {
+      "Name": "Basic Attack: Blazing Rush",
+      "Desc": "<IconMap:Icon_Normal> (Hold while tilting joystick)",
+      "ElementType": 0,
+      "HitType": 0,
+      "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
+    },
+    "1041014": {
+      "Name": "Basic Attack: Fire Assault",
+      "Desc": "<IconMap:Icon_Normal> (Release during Basic Attack: Fire Charge or Basic Attack: Blazing Rush)",
+      "ElementType": 201,
+      "HitType": 101,
+      "Potential": [104100, 104101, 104102, 104103, 104104, 104105]
     }
   },
   "Passive": {
@@ -1688,5 +1928,85 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
   },
-  "Potential": []
+  "Potential": [104100, 104101, 104102, 104103, 104104, 104105],
+  "PotentialDetail": {
+    "104100": {
+      "Id": 104100,
+      "Name": "",
+      "Desc": "",
+      "Image": "Soldier11",
+      "LevelShowName": "Blazing Melody I",
+      "Level": 1,
+      "AbilityList": [
+        11041501, 11041601, 11041701, 11041801, 11041802, 11041803, 11041804,
+        11041901, 11042101, 11042201, 11042401
+      ],
+      "PotentialMaterials": [{ "ItemId": 20104, "Number": 1 }]
+    },
+    "104101": {
+      "Id": 104101,
+      "Name": "Awakened Potential: Infernal Blaze",
+      "Desc": "In Additional Ability: Fields of Fire, Soldier 11's CRIT DMG is increased by <color=#2BAD00>16%</color>.",
+      "Image": "Soldier11",
+      "LevelShowName": "Blazing Melody II",
+      "Level": 2,
+      "AbilityList": [
+        11041501, 11041601, 11041701, 11041801, 11041802, 11041803, 11041804,
+        11041901, 11042101, 11042201, 11042301, 11042401
+      ],
+      "PotentialMaterials": [{ "ItemId": 20104, "Number": 1 }]
+    },
+    "104102": {
+      "Id": 104102,
+      "Name": "Awakened Potential: Infernal Blaze",
+      "Desc": "In Additional Ability: Fields of Fire, Soldier 11's CRIT DMG is increased by <color=#2BAD00>24%</color>.",
+      "Image": "Soldier11",
+      "LevelShowName": "Blazing Melody III",
+      "Level": 3,
+      "AbilityList": [
+        11041501, 11041601, 11041701, 11041801, 11041802, 11041803, 11041804,
+        11041901, 11042101, 11042201, 11042302, 11042401
+      ],
+      "PotentialMaterials": [{ "ItemId": 20104, "Number": 1 }]
+    },
+    "104103": {
+      "Id": 104103,
+      "Name": "Awakened Potential: Infernal Blaze",
+      "Desc": "In Additional Ability: Fields of Fire, Soldier 11's CRIT DMG is increased by <color=#2BAD00>32%</color>.",
+      "Image": "Soldier11",
+      "LevelShowName": "Blazing Melody IV",
+      "Level": 4,
+      "AbilityList": [
+        11041501, 11041601, 11041701, 11041801, 11041802, 11041803, 11041804,
+        11041901, 11042101, 11042201, 11042303, 11042401
+      ],
+      "PotentialMaterials": [{ "ItemId": 20104, "Number": 1 }]
+    },
+    "104104": {
+      "Id": 104104,
+      "Name": "Awakened Potential: Infernal Blaze",
+      "Desc": "In Additional Ability: Fields of Fire, Soldier 11's CRIT DMG is increased by <color=#2BAD00>40%</color>.",
+      "Image": "Soldier11",
+      "LevelShowName": "Blazing Melody V",
+      "Level": 5,
+      "AbilityList": [
+        11041501, 11041601, 11041701, 11041801, 11041802, 11041803, 11041804,
+        11041901, 11042101, 11042201, 11042304, 11042401
+      ],
+      "PotentialMaterials": [{ "ItemId": 20104, "Number": 1 }]
+    },
+    "104105": {
+      "Id": 104105,
+      "Name": "Awakened Potential: Infernal Blaze",
+      "Desc": "In Additional Ability: Fields of Fire, Soldier 11's CRIT DMG is increased by <color=#2BAD00>48%</color>.",
+      "Image": "Soldier11",
+      "LevelShowName": "Blazing Melody VI",
+      "Level": 6,
+      "AbilityList": [
+        11041501, 11041601, 11041701, 11041801, 11041802, 11041803, 11041804,
+        11041901, 11042101, 11042201, 11042305, 11042401
+      ],
+      "PotentialMaterials": [{ "ItemId": 20104, "Number": 1 }]
+    }
+  }
 }

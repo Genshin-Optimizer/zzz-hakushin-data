@@ -35,7 +35,13 @@
       "4": ""
     }
   },
-  "Skin": { "3111610": { "Name": "", "Desc": "", "Image": "IconRole26" } },
+  "Skin": {
+    "3111610": {
+      "Name": "Lighter: Everburn Embers",
+      "Desc": "The undefeated champion never takes off his sunglasses... or his scarf. Glory stopped mattering long ago, but the countless dusks shared with his companions are still worth waiting for.",
+      "Image": "IconRole26"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

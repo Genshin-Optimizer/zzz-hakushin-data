@@ -13,7 +13,8 @@
         "Miasma",
         "LiquidEther_SpecialMaterial",
         "DisableAI",
-        "IsoldetheDefiler"
+        "IsoldetheDefiler",
+        "Summon"
       ],
       "Type": "Monster",
       "Element": {

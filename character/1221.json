@@ -36,7 +36,13 @@
       "4": ""
     }
   },
-  "Skin": { "3112210": { "Name": "", "Desc": "", "Image": "IconRole31" } },
+  "Skin": {
+    "3112210": {
+      "Name": "Tsukishiro Yanagi: Flowing Moonshade",
+      "Desc": "Even reflective lenses can't hide the sharp gleam in the Deputy Chief's eyes. She has to constantly keep watch over a warrior obsessed with training, a scout who slacks off whenever possible, and a little one who's forever getting stomachaches.",
+      "Image": "IconRole31"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

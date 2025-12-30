@@ -40,7 +40,13 @@
       "4": ""
     }
   },
-  "Skin": { "3110910": { "Name": "", "Desc": "", "Image": "IconRole13" } },
+  "Skin": {
+    "3110910": {
+      "Name": "Hoshimi Miyabi: Frostgleam Dew",
+      "Desc": "A blade that fells the Hollows, a lighthouse that pierces the fog. People hope for a fighter who hones the world and a helmsman who steers the course; for flags that never fall and honor that lives on. Yet power is finite. Only training remains constant.",
+      "Image": "IconRole13"
+    }
+  },
   "Stats": {
     "Armor": 0,
     "ArmorGrowth": 0,

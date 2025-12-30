@@ -67,7 +67,7 @@
     "desc": "Who knows what troubles plague a young Bangboo?",
     "KO": "울보부",
     "CHS": "泪眼布",
-    "JA": "ウルリンボンプ"
+    "JA": "ウル���ンボンプ"
   },
   "53008": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole03.png",
@@ -117,7 +117,7 @@
     "desc": "Understanding the mood of a conversation is key to becoming a Bangboo social expert.",
     "KO": "압력부",
     "CHS": "气压布",
-    "JA": "キアツデボンプ"
+    "JA": "キアツ��ボンプ"
   },
   "53013": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole24.png",
@@ -358,5 +358,15 @@
     "KO": "비르크블리크",
     "CHS": "比克布利克",
     "JA": "ビャークブリック"
+  },
+  "54021": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole43.png",
+    "rank": 4,
+    "codename": "Sprout",
+    "EN": "Sprout",
+    "desc": "Don't underestimate our bond!",
+    "KO": "싹싹",
+    "CHS": "芽芽",
+    "JA": "メメ"
   }
 }

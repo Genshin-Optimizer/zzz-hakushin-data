@@ -11,8 +11,8 @@
     "EN": "Anby",
     "skin": {
       "3110110": {
-        "Name": "AvatarSkin_Anbi_Name_000",
-        "Desc": "AvatarSkin_Anbi_Desc_000",
+        "Name": "Anby: Street Streak",
+        "Desc": "These casual clothes were hand-picked and styled for Anby by Nicole. They're designed for easy movement and ideal for moving about the streets. The fabrics and accessories cost a lot more than they seem, so (?) Anby treats the outfit with real care.",
         "Image": "IconRole01"
       }
     },
@@ -33,8 +33,8 @@
     "EN": "Nekomata",
     "skin": {
       "3110210": {
-        "Name": "AvatarSkin_Tsubaki_Name_000",
-        "Desc": "AvatarSkin_Tsubaki_Desc_000",
+        "Name": "Nekomata: Cat's Gratitude",
+        "Desc": "A lost cat doesn't know where to go — only that it has to keep moving.\nShe wandered through the vast streets of New Eridu, her thin clothes offering no protection from the elements, until a tiny odd-job agency finally took her in.",
         "Image": "IconRole11"
       }
     },
@@ -78,19 +78,12 @@
     "hit": 101,
     "camp": 5,
     "icon": "IconRole05",
-    "potential": [
-      104100,
-      104101,
-      104102,
-      104103,
-      104104,
-      104105
-    ],
+    "potential": [104100, 104101, 104102, 104103, 104104, 104105],
     "EN": "Soldier 11",
     "skin": {
       "3110410": {
-        "Name": "AvatarSkin_Longinus_Name_000",
-        "Desc": "AvatarSkin_Longinus_Desc_000",
+        "Name": "Soldier 11: Elite Soldier",
+        "Desc": "Those warm-toned goggles can't hide her icy, soldier's gaze. Want to see her crack a smile? Pick one: 87.5 one-arm push-ups or a bowl of extra-spicy noodles.",
         "Image": "IconRole05"
       }
     },
@@ -111,8 +104,8 @@
     "EN": "Yidhari",
     "skin": {
       "3110510": {
-        "Name": "AvatarSkin_Yidhari_Name_000",
-        "Desc": "AvatarSkin_Yidhari_Desc_000",
+        "Name": "Yidhari: Stream of Consciousness",
+        "Desc": "Past recollections and novel dreams spill over, inviting her to drown in them as they entwine on paper. With a blank page before her, she pens the opening line at the crossroads of reality and illusion.",
         "Image": "IconRole52"
       }
     },
@@ -133,8 +126,8 @@
     "EN": "Corin",
     "skin": {
       "3110610": {
-        "Name": "AvatarSkin_Corin_Name_000",
-        "Desc": "AvatarSkin_Corin_Desc_000",
+        "Name": "Corin: Matcha Profiterole",
+        "Desc": "From that small frame bursts surprising strength, her roaring chainsaw drowning out her soft whimpers. The well-behaved, ever-professional maid is always short on confidence... so take a moment to wait for her.",
         "Image": "IconRole09"
       }
     },
@@ -155,8 +148,8 @@
     "EN": "Caesar",
     "skin": {
       "3110710": {
-        "Name": "AvatarSkin_Caesar_Name_000",
-        "Desc": "AvatarSkin_Caesar_Desc_000",
+        "Name": "Caesar: Inferno Joyride",
+        "Desc": "A ruler ready to ready to sound the triumphal anthem anew, a hero poised to reignite her legend. The not-yet-seasoned leader has finally met the flames of her coronation, yet she still walks the gritty sands of the Outer Ring.\nA light tap on the piano keys sends her desert-tinged song drifting across this land that bears the weight of hope.",
         "Image": "IconRole25"
       }
     },
@@ -177,8 +170,8 @@
     "EN": "Billy",
     "skin": {
       "3110810": {
-        "Name": "AvatarSkin_Billy_Name_000",
-        "Desc": "AvatarSkin_Billy_Desc_000",
+        "Name": "Billy: Shining Starlight Costume",
+        "Desc": "Style is justice, justice is style. That's the eternal creed of a true knight! Though, yeah... those joint screws really do wear down fast...",
         "Image": "IconRole10"
       }
     },
@@ -200,8 +193,8 @@
     "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
     "skin": {
       "3110910": {
-        "Name": "",
-        "Desc": "",
+        "Name": "Hoshimi Miyabi: Frostgleam Dew",
+        "Desc": "A blade that fells the Hollows, a lighthouse that pierces the fog. People hope for a fighter who hones the world and a helmsman who steers the course; for flags that never fall and honor that lives on. Yet power is finite. Only training remains constant.",
         "Image": "IconRole13"
       }
     },
@@ -222,8 +215,8 @@
     "EN": "Koleda",
     "skin": {
       "3111010": {
-        "Name": "AvatarSkin_OokumaMari_Name_000",
-        "Desc": "AvatarSkin_OokumaMari_Desc_000",
+        "Name": "Koleda: Heart & Hammer",
+        "Desc": "A crimson figure swings twin hammers as if she could even shatter time itself.\nStill young, her journey is only just beginning. Growing up can wait; in the end, every person becomes their own true self.",
         "Image": "IconRole14"
       }
     },
@@ -244,8 +237,8 @@
     "EN": "Anton",
     "skin": {
       "3111110": {
-        "Name": "AvatarSkin_Anton_Name_000",
-        "Desc": "AvatarSkin_Anton_Desc_000",
+        "Name": "Anton: Earthshaking Axle",
+        "Desc": "The jackhammer's bearings rumble without pause, echoing the hot, thunderous beat of its wielder's heart.",
         "Image": "IconRole15"
       }
     },
@@ -266,8 +259,8 @@
     "EN": "Ben",
     "skin": {
       "3111210": {
-        "Name": "AvatarSkin_Ben_Name_000",
-        "Desc": "AvatarSkin_Ben_Desc_000",
+        "Name": "Ben: Fluffy Beastking",
+        "Desc": "Ignoring the intimidating look meant to cow outsiders, even the Beast King struggles with grooming his fur and sorting out the bills.",
         "Image": "IconRole16"
       }
     },
@@ -288,8 +281,8 @@
     "EN": "Soukaku",
     "skin": {
       "3111310": {
-        "Name": "AvatarSkin_Aokaku_Name_000",
-        "Desc": "AvatarSkin_Aokaku_Desc_000",
+        "Name": "Soukaku: Dance of Azure Ice",
+        "Desc": "Swinging a blade-banner as tall as half a person, and with a stomach rumbling with just as big a sound: fwish fwish fwish fwish fwish — work's done! Time to head home for dinner!",
         "Image": "IconRole17"
       }
     },
@@ -310,8 +303,8 @@
     "EN": "Lycaon",
     "skin": {
       "3111410": {
-        "Name": "AvatarSkin_Lycaon_Name_000",
-        "Desc": "AvatarSkin_Lycaon_Desc_000",
+        "Name": "Lycaon: Moonlight Prowl",
+        "Desc": "Under the clear moonlight, the attendant's poise is flawless. Yet with the red moon's ascent, the feral nature hidden beneath this suit emerges with a composure and grace all its own.",
         "Image": "IconRole18"
       }
     },
@@ -332,8 +325,8 @@
     "EN": "Lucy",
     "skin": {
       "3111510": {
-        "Name": "AvatarSkin_Lucy_Name_000",
-        "Desc": "AvatarSkin_Lucy_Desc_000",
+        "Name": "Lucy: Ironfist Gentlewoman",
+        "Desc": "Her outfit is considered rather polished by biker standards and said to work wonders in negotiations with outsiders.\nThe runaway princess found her freedom in the Outer Ring, glittering under the starlit night, burning at the edge of dusk, and resting quietly among the grains of sand at her feet.",
         "Image": "IconRole27"
       }
     },
@@ -354,8 +347,8 @@
     "EN": "Lighter",
     "skin": {
       "3111610": {
-        "Name": "",
-        "Desc": "",
+        "Name": "Lighter: Everburn Embers",
+        "Desc": "The undefeated champion never takes off his sunglasses... or his scarf. Glory stopped mattering long ago, but the countless dusks shared with his companions are still worth waiting for.",
         "Image": "IconRole26"
       }
     },
@@ -372,19 +365,12 @@
     "hit": 103,
     "camp": 4,
     "icon": "IconRole32",
-    "potential": [
-      117100,
-      117101,
-      117102,
-      117103,
-      117104,
-      117105
-    ],
+    "potential": [117100, 117101, 117102, 117103, 117104, 117105],
     "EN": "Burnice",
     "skin": {
       "3111710": {
-        "Name": "AvatarSkin_Burnice_Name_000",
-        "Desc": "AvatarSkin_Burnice_Desc_000",
+        "Name": "Burnice: Wildfire Rave",
+        "Desc": "An outfit hotter than any Nitro-Fuel. Wander into a party in the Outer Ring, and odds are you'll bump into Burnice... but drink her signature cocktails at your own risk...\nWait, you've already taken a sip? Well then — 3, 2, 1... fire!",
         "Image": "IconRole32"
       }
     },
@@ -401,19 +387,12 @@
     "hit": 103,
     "camp": 3,
     "icon": "IconRole20",
-    "potential": [
-      118100,
-      118101,
-      118102,
-      118103,
-      118104,
-      118105
-    ],
+    "potential": [118100, 118101, 118102, 118103, 118104, 118105],
     "EN": "Grace",
     "skin": {
       "3111810": {
-        "Name": "AvatarSkin_Lisa_Name_000",
-        "Desc": "AvatarSkin_Lisa_Desc_000",
+        "Name": "Grace: The Iron Witch",
+        "Desc": "A clean, no-nonsense work uniform. What the genius mechanic loves most are the many pockets on the outside — big ones, small ones — all perfect for holding screws, gears, and even wrenches of every size.",
         "Image": "IconRole20"
       }
     },
@@ -430,14 +409,7 @@
     "hit": 101,
     "camp": 2,
     "icon": "IconRole21",
-    "potential": [
-      119100,
-      119101,
-      119102,
-      119103,
-      119104,
-      119105
-    ],
+    "potential": [119100, 119101, 119102, 119103, 119104, 119105],
     "EN": "Ellen",
     "skin": {
       "3111910": {
@@ -468,8 +440,8 @@
     "EN": "Harumasa",
     "skin": {
       "3112010": {
-        "Name": "",
-        "Desc": "",
+        "Name": "Asaba Harumasa: Full-Fledged Strings",
+        "Desc": "His eyes are brighter than the streak of bright yellow upon his brow. His arrows pierce through deceit and lies and scatter the past like feathers on the wind. Dawn may not have arrived yet, but beyond the horizon, a golden future shimmers faintly.",
         "Image": "IconRole35"
       }
     },
@@ -490,8 +462,8 @@
     "EN": "Rina",
     "skin": {
       "3112110": {
-        "Name": "AvatarSkin_Rina_Name_000",
-        "Desc": "AvatarSkin_Rina_Desc_000",
+        "Name": "Rina: Head Maid's Perfection",
+        "Desc": "Her skirt is immaculate and her appearance flawlessly composed — such is the head maid's standard of perfection. Yet in the kitchen, her definition of \"perfect\" appears to be something else entirely...",
         "Image": "IconRole22"
       }
     },
@@ -512,8 +484,8 @@
     "EN": "Yanagi",
     "skin": {
       "3112210": {
-        "Name": "",
-        "Desc": "",
+        "Name": "Tsukishiro Yanagi: Flowing Moonshade",
+        "Desc": "Even reflective lenses can't hide the sharp gleam in the Deputy Chief's eyes. She has to constantly keep watch over a warrior obsessed with training, a scout who slacks off whenever possible, and a little one who's forever getting stomachaches.",
         "Image": "IconRole31"
       }
     },
@@ -534,8 +506,8 @@
     "EN": "Zhu Yuan",
     "skin": {
       "3112410": {
-        "Name": "AvatarSkin_ZhuYuan_Name_000",
-        "Desc": "AvatarSkin_ZhuYuan_Desc_000",
+        "Name": "Zhu Yuan: Suppressor of Evil",
+        "Desc": "This high-grade anti-riot uniform from Public Security has been specially modified to suit Zhu Yuan's fighting style.\nWinner of the Janus Precinct's combat tournament three years running, the young top Public Security Officer is on call 24/7, ready to arrest any criminal in her path.",
         "Image": "IconRole23"
       }
     },
@@ -556,8 +528,8 @@
     "EN": "Qingyi",
     "skin": {
       "3112510": {
-        "Name": "AvatarSkin_QingYi_Name_000",
-        "Desc": "AvatarSkin_QingYi_Desc_000",
+        "Name": "Qingyi: Clarity, Peace, and Joy",
+        "Desc": "Keep your teapot close and drink plenty of hot water — that's ancient wisdom passed down from the old civilization. But why would an intelligent construct drink tea? It must be for health purposes... right?",
         "Image": "IconRole29"
       }
     },
@@ -578,9 +550,14 @@
     "EN": "Jane",
     "skin": {
       "3112610": {
-        "Name": "AvatarSkin_JaneDoe_Name_000",
-        "Desc": "AvatarSkin_JaneDoe_Desc_000",
+        "Name": "Jane: Hidden Nightfade",
+        "Desc": "Her everyday look when she isn't putting on a disguise. Maybe it's just one of the countless faces she wears. The night becomes her cover, and her mask is the one truth she never sets aside.",
         "Image": "IconRole24"
+      },
+      "3112611": {
+        "Name": "Jane: Nocturne of Light",
+        "Desc": "Who says sunlight must accompany a seaside stroll? For lurkers with names unknown, the night is their most faithful companion. The anonymous lady says the evening sea holds unspeakable secrets — is this the truth, or another deception?",
+        "Image": "IconRole24_01"
       }
     },
     "desc": "Jane, a criminal behavior specialist, has had a \"colorful\" career as a consultant with Public Security over the years.\nShe is an expert in disguise, infiltration, and other investigative work.\nShe has a bad habit of trolling others and sometimes plays harmless pranks.\nShe's a skilled mimic, able to change her appearance and demeanor at will, making people wonder what the \"real\" Jane is like.\n\nJane has a wealth of life experience and can seamlessly blend into any environment, as though she has dabbled in everything there is to do.\nHowever, if you ask her for any further details, she'll give you a different story every time.\nWho knows which, if any, are true.\n\nNote 1: Jane does not know our true identity. Do not reveal this to her under any circumstances.\nNote 2: Despite \"Jane Doe\" being an obvious alias, we haven't found any information about her real or former name.\nThis is not my problem. My guess is that her true identity has been completely erased due to her special status.\nLet me reiterate: This is not my problem.",
@@ -600,8 +577,8 @@
     "EN": "Seth",
     "skin": {
       "3112710": {
-        "Name": "AvatarSkin_Seth_Name_000",
-        "Desc": "AvatarSkin_Seth_Desc_000",
+        "Name": "Seth: Incorruptible Heart",
+        "Desc": "He may be slow to pick up on things, slower even than the weight of the shield in his left hand, but his ability to detect evil is keener than the baton in his right.",
         "Image": "IconRole30"
       }
     },
@@ -622,8 +599,8 @@
     "EN": "Piper",
     "skin": {
       "3112810": {
-        "Name": "AvatarSkin_Clara_Name_000",
-        "Desc": "AvatarSkin_Clara_Desc_000",
+        "Name": "Piper: Lazy Speed",
+        "Desc": "Don't be fooled by this truck driver's lazy gaze. One tap on the gas is enough to fling every passenger's soul straight into the back seat.",
         "Image": "IconRole28"
       }
     },
@@ -644,8 +621,8 @@
     "EN": "Hugo",
     "skin": {
       "3112910": {
-        "Name": "AvatarSkin_HugoVlad_Name_000",
-        "Desc": "AvatarSkin_HugoVlad_Desc_000",
+        "Name": "Hugo: Crownless Rebellion",
+        "Desc": "Never be claimed by fate. Defy its clamps, its control, its taunts, its alms, its curses, and its so-called blessings. Once you return from the abyss, it is fate that should kneel to you.",
         "Image": "IconRole42"
       }
     },
@@ -666,8 +643,8 @@
     "EN": "Orphie & Magus",
     "skin": {
       "3113010": {
-        "Name": "AvatarSkin_Brujas_Name_000",
-        "Desc": "AvatarSkin_Brujas_Desc_000",
+        "Name": "Orphie & Magus: Two Banks of the River",
+        "Desc": "A soul of mirrored halves, having twice crossed the river of the dead. One side forged in fire, the other shaped into ice; one looking back on where it came from, the other watching for a new dawn. They wander on — never lost, never ceasing.",
         "Image": "IconRole49"
       }
     },
@@ -715,8 +692,8 @@
     "EN": "Evelyn",
     "skin": {
       "3113210": {
-        "Name": "AvatarSkin_Evelyn_Name_000",
-        "Desc": "AvatarSkin_Evelyn_Desc_000",
+        "Name": "Evelyn: A Moth to Light",
+        "Desc": "A sharp, no-nonsense manager's outfit. Its hidden edges are enough to make onlookers back off. Her yellow-brown hair weaves a fine, delicate net, where a quiet pool of starlight seems to rest.",
         "Image": "IconRole37"
       }
     },
@@ -752,6 +729,28 @@
     "CHS": "薇薇安",
     "JA": "ビビアン"
   },
+  "1341": {
+    "code": "Zhao",
+    "rank": 4,
+    "type": 5,
+    "element": 202,
+    "hit": 101,
+    "camp": 12,
+    "icon": "IconRole56",
+    "potential": [],
+    "EN": "Zhao",
+    "skin": {
+      "3113410": {
+        "Name": "Zhao: Cuddly Executor",
+        "Desc": "Warm, woolly ears and a small build may invite underestimation, but the Judge of \"Value\" won't think twice about bringing her branch down on anyone who tries.",
+        "Image": "IconRole56"
+      }
+    },
+    "desc": "Zhao, a Krampus Compliance Authority Judge, was one of the elite members who joined in the early days.\n\nThough she looks innocent and cute on the outside, she's actually sharp-minded, meticulous, and principled. She puts great importance on \"value\" and \"equivalent exchange\" — not in the sense of pricing things with money, but in analyzing someone's ability and potential, giving an objective and long-term assessment of the impact they can make.\n\nIt's said this mindset didn't come from Zhao's work at Krampus, but had already taken root during her childhood. She evaluates not only others, but herself as well. \"Only those with value deserve to be seen.\"\n\nThough she rarely shows it openly, Zhao remains cautious toward kindness that comes without reason. It conflicts with her belief in \"equivalent exchange,\" and she tends to assume the other person must have a deeper motive for offering help.\nAs such, when dealing with Zhao, it's best to focus on mutual benefit first. If you want to break through her defenses with sheer sincerity and goodwill, you'll be fighting an uphill battle.\n\nThere's also one piece of intel that can't be fully confirmed: Zhao loves vegetables and dislikes meat, but she seems to be pretending she enjoys meat as well.",
+    "KO": "자오",
+    "CHS": "照",
+    "JA": "照"
+  },
   "1351": {
     "code": "Pulchra",
     "rank": 3,
@@ -764,8 +763,8 @@
     "EN": "Pulchra",
     "skin": {
       "3113510": {
-        "Name": "AvatarSkin_Pulchra_Name_000",
-        "Desc": "AvatarSkin_Pulchra_Desc_000",
+        "Name": "Pulchra: Rest for a Weary Tail",
+        "Desc": "A wandering mercenary should be out roaming the world, but the sunlight here is warm — perfect for a nap.",
         "Image": "IconRole38"
       }
     },
@@ -786,8 +785,8 @@
     "EN": "Trigger",
     "skin": {
       "3113610": {
-        "Name": "AvatarSkin_Trigger_Name_000",
-        "Desc": "AvatarSkin_Trigger_Desc_000",
+        "Name": "Trigger: Gaze Into the Light",
+        "Desc": "In the Hollows, her aim never wavers. She's a teammate one can rely on to cover their back without question. But once she returns to Sixth Street, that constant watchfulness softens, lingering for a moment before disappearing the instant it's sensed.",
         "Image": "IconRole39"
       }
     },
@@ -832,19 +831,12 @@
     "hit": 101,
     "camp": 5,
     "icon": "IconRole40",
-    "potential": [
-      138100,
-      138101,
-      138102,
-      138103,
-      138104,
-      138105
-    ],
+    "potential": [138100, 138101, 138102, 138103, 138104, 138105],
     "EN": "Soldier 0 - Anby",
     "skin": {
       "3113810": {
-        "Name": "AvatarSkin_SilverAnby_Name_000",
-        "Desc": "AvatarSkin_SilverAnby_Desc_000",
+        "Name": "Soldier 0 - Anby: Silver Soldier",
+        "Desc": "Anby's old Silver Squad uniform, stained with memories that never truly fade.\nWhen the shadows of the past strike without warning, would you stand and face them, or stumble and flee? No matter the choice, home always awaits your return.",
         "Image": "IconRole40"
       }
     },
@@ -865,8 +857,8 @@
     "EN": "Ju Fufu",
     "skin": {
       "3113910": {
-        "Name": "AvatarSkin_Jufufu_Name_000",
-        "Desc": "AvatarSkin_Jufufu_Desc_000",
+        "Name": "Ju Fufu: Summit's Cute Tiger",
+        "Desc": "Dressed like a simple mystic, this senior sister looks like she's tucked all her bravado away, but with a tiger in her heart... she still radiates that heroic fire.",
         "Image": "IconRole43"
       }
     },
@@ -941,15 +933,43 @@
     "EN": "Pan Yinhu",
     "skin": {
       "3114210": {
-        "Name": "AvatarSkin_PanYinhu_Name_000",
-        "Desc": "AvatarSkin_PanYinhu_Desc_000",
+        "Name": "Pan Yinhu: Hundred Flavors",
+        "Desc": "Yunkui Summit's largest disciple uniform, spacious enough for this senior brother's belly and all his seasonings. And that iron wok on top is a first of its kind. But... putting a pan you just used for stir-frying on your head? Doesn't it burn?",
         "Image": "IconRole45"
       }
     },
     "desc": "Pan Yinhu, disciple of Yunkui Summit, serves as both the head chef and financial manager of Suibian Temple. He's proficient in martial arts, and an expert in pressure-point techniques.\nAs the one managing Suibian Temple's money, he's a master at keeping costs down and can bargain a 5,000 Denny piece of meat down to 500. If he can make something at home, he refuses to purchase it at a store, and no matter which big supermarket or shop you name, he's got a coupon for it tucked in his pocket.\nThanks to him, the members of Suibian Temple enjoy delicious yet budget-friendly meals every day. As the head of the kitchen, he demands precise flavor profiles and pays keen attention to his friends' opinions.\nWhat's more, given his years of frugality, it's safe to assume that both the group's treasury and his secret piggy bank have ballooned to jaw-dropping levels.",
-    "KO": "반인호",
+    "KO": "반���호",
     "CHS": "潘引壶",
     "JA": "潘引壺"
+  },
+  "1431": {
+    "code": "Ye Shunguang",
+    "rank": 4,
+    "type": 1,
+    "element": 200,
+    "hit": 101,
+    "camp": 10,
+    "icon": "IconRole55",
+    "potential": [],
+    "EN": "Ye Shunguang",
+    "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconHonedEdge.png",
+    "skin": {
+      "3114310": {
+        "Name": "Ye Shunguang: Clouddrift Illumination",
+        "Desc": "Cloud-woven silk, a blade's gleam reflected in its folds. The attire mirrors the person.\nBut who truly chose this dress? Was it her... or the deeper self within?",
+        "Image": "IconRole55"
+      },
+      "3114311": {
+        "Name": "Ye Shunguang: Touch of Dawnlight",
+        "Desc": "The gentle glow of sunlight and warm breeze seem to welcome your next encounter as you walk down the streets.",
+        "Image": "IconRole55_01"
+      }
+    },
+    "desc": "Ye Shunguang is the Sword Keeper of Yunkui Summit's treasured Qingming Sword, a disciple of Yixuan, and the younger sister of Ye Shiyuan, as well as a swordswoman blessed with extraordinary talent.\nShe enjoyed a happy childhood until the fall of the old capital, when her parents lost their lives rescuing others, bringing all her happiness to an abrupt end.\nFrom then on, she relied solely on her brother — up until Yixuan took them in, bringing them into Yunkui Summit. Later, she was chosen by the Qingming Sword, taking up the mantle and duty of Sword Keeper.\n\nRumor has it that the Qingming Sword's favor is less a blessing and more a kind of curse. Though it gives its Sword Keeper Void Hunter level power, it extracts a harsh cost — the loss of one's memories and five senses.\nIn order to subdue this side effect, Yixuan Shifu crafted a custom sword case for Ye Shunguang. It appears effective for the moment, but the true nature of the weapon is still shrouded in mystery.",
+    "KO": "엽빛나",
+    "CHS": "叶瞬光",
+    "JA": "葉瞬光"
   },
   "1441": {
     "code": "Manato",
@@ -990,8 +1010,8 @@
     "EN": "Lucia",
     "skin": {
       "3114510": {
-        "Name": "AvatarSkin_Lucia_Name_000",
-        "Desc": "AvatarSkin_Lucia_Desc_000",
+        "Name": "Lucia: Whispering Dreams",
+        "Desc": "Her cloak is the curtain of night, and beneath her hood rests the world's quiet whispers. She sings for the dusk and speaks in dreams, gathering the thoughts sleepers leave behind and weaving them into halos and riddles across the stars.",
         "Image": "IconRole50"
       }
     },
@@ -1012,8 +1032,8 @@
     "EN": "Seed",
     "skin": {
       "3114610": {
-        "Name": "AvatarSkin_Seed_Name_000",
-        "Desc": "AvatarSkin_Seed_Desc_000",
+        "Name": "Seed: Flower in Bloom",
+        "Desc": "A corner of the world blooming in color, a single salty tear, a perfect circle of life — this is where the girl and the construct uncovered the truth of the heart. She never needs to look back; she has already blossomed into her own sea of petals.",
         "Image": "IconRole48"
       }
     },
@@ -1023,7 +1043,7 @@
     "JA": "「シード」"
   },
   "1471": {
-    "code": "BanYue",
+    "code": "Banyue",
     "rank": 4,
     "type": 6,
     "element": 201,
@@ -1034,9 +1054,9 @@
     "EN": "Banyue",
     "skin": {
       "3114710": {
-        "Name": "AvatarSkin_BanYue_Name_000",
-        "Desc": "AvatarSkin_BanYue_Desc_000",
-        "Image": "IconRole39"
+        "Name": "Banyue: Blazestone Heart",
+        "Desc": "He carries a righteous, unshakable aura — every bit the master he is. Don't judge him by his silence; a stone heart makes no sound, and compassion doesn't speak aloud either.",
+        "Image": "IconRole53"
       }
     },
     "desc": "Banyue is an Intelligent Construct who runs a martial arts school in Waifei, known to many as \"Banyue Shifu.\" He has lived for a long time, his stone-lion-like presence commanding respect. A martial arts expert of great skill, he shares a long-standing friendship with Yunkui Summit's current High Preceptor, Yixuan.\n\nAs a martial master, Banyue is quiet but dependable. His methods and beliefs are rooted in tradition, and he disciplines his students with strict yet thoughtful guidance, teaching them not just how to fight, but how to learn. Known as a true master of the martial arts, in battle, he can assume a special form known as the Visage of Wrath to vanquish all evil.\n\nA long inhabitant of Waifei, Banyue is quiet and even-tempered. He doesn't express emotions easily and has the manner of someone from another era. Knowing he's out of touch with modern trends, he's been secretly trying to learn the latest internet slang... yet his half-baked grasp of it tends to end in funny little misunderstandings.\n\nBanyue also appears to have a strange liking for round things — stone balls, spherical bollards, and the like. If the conversation ever goes silent while you're alone with him, bringing up something spherical usually does the trick.",
@@ -1056,9 +1076,9 @@
     "EN": "Dialyn",
     "skin": {
       "3114810": {
-        "Name": "AvatarSkin_Azural_Name_000",
-        "Desc": "AvatarSkin_Azural_Desc_000",
-        "Image": "IconRole29"
+        "Name": "Dialyn: Ringing Judgment",
+        "Desc": "A sweet voice comes from the receiver, and when you lean in to listen, it softens into a gentle whisper, announcing that the verdict has arrived... just kidding, it's just a standard satisfaction survey.",
+        "Image": "IconRole54"
       }
     },
     "desc": "Dialyn works as a customer service representative for TOPS' Cross-Department Customer Service Center, though few know her other identity — a Krampus Compliance Authority Judge.\n\nShe calls herself TOPS' top-rated representative, yet she also tops the list for the most complaints in the department. Despite never flaunting her authority as a Judge, she always delivers verdicts that cut closest to the truth.\n\nDialyn was born with the ability to hear the voices of those on the brink of death within the Hollows — a talent that's unmatched. Yet to a young Dialyn, it was a tormenting curse.\n\nBe it gift or curse, she has long turned it into a blade for discerning the truth. Despite the trials and tribulations she's borne, she's come far.",

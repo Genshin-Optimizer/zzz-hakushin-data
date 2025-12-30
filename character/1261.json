@@ -37,9 +37,14 @@
   },
   "Skin": {
     "3112610": {
-      "Name": "AvatarSkin_JaneDoe_Name_000",
-      "Desc": "AvatarSkin_JaneDoe_Desc_000",
+      "Name": "Jane: Hidden Nightfade",
+      "Desc": "Her everyday look when she isn't putting on a disguise. Maybe it's just one of the countless faces she wears. The night becomes her cover, and her mask is the one truth she never sets aside.",
       "Image": "IconRole24"
+    },
+    "3112611": {
+      "Name": "Jane: Nocturne of Light",
+      "Desc": "Who says sunlight must accompany a seaside stroll? For lurkers with names unknown, the night is their most faithful companion. The anonymous lady says the evening sea holds unspeakable secrets — is this the truth, or another deception?",
+      "Image": "IconRole24_01"
     }
   },
   "Stats": {

@@ -264,7 +264,7 @@
         "PenRate": 0,
         "PenDelta": 0,
         "Stun": 693,
-        "IsStun": true,
+        "IsStun": false,
         "BreakStun": 0,
         "AutoRecoverRate": 0,
         "AutoRecoverCd": 0,

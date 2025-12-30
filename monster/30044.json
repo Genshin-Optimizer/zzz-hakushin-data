@@ -258,7 +258,7 @@
   "GroupDesc": "Special",
   "CardObtain": "[Unidentified] Defeat this monster in Hollow Zero 1 time to obtain its data",
   "CardQuote": "—As told by a customer service agent who couldn't resist a good chat while on a work call.",
-  "CardSkillDesc": "In combat, Sacrifice - Covenant Guardian will use wings to launch follow-up attacks. When successfully performing a Defensive Assist against some of the Guardian's skills, you can interrupt its attacks. Additionally, the Covenant Guardian will concentrate its Energy to unleash ranged attacks, with some of these ranged skills creating a Miasma Pool on the ground. Homing projectiles summoned from the Miasma Pool will pursue you.use the brief moment when the projectiles turn to trigger a Perfect Dodge and perform an Evasive Assist.",
+  "CardSkillDesc": "In combat, Sacrifice - Covenant Guardian will use wings to launch follow-up attacks. When successfully performing a Defensive Assist against some of the Guardian's skills, you can interrupt its attacks. Additionally, the Covenant Guardian will concentrate its Energy to unleash ranged attacks, with some of these ranged skills creating a Miasma Pool on the ground. Homing projectiles summoned from the Miasma Pool will pursue you. Use the brief moment when the projectiles turn to trigger a Perfect Dodge and perform a Dodge Counter.",
   "ElementAbnormal": {
     "10001": 600,
     "10002": 600,

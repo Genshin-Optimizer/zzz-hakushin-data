@@ -25,7 +25,8 @@
     "Stature": "160",
     "UnlockCondition": [
       "Obtain Agent",
-      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock"
+      "Complete Main Story \"Leisurely Lull: Unexpected New Customer\" (available after completing Main Story Chapter 4) to unlock",
+      "Complete the \"Anby's Problem\" commission"
     ],
     "TrustLv": {
       "1": "Burnice, the Nitro-Fuel bartender for the Sons of Calydon.\nA hopeless fuel lover. She is responsible for all the fuel used by the machinery owned by the Sons of Calydon.\nShe seems to have a passion for fuel that overwhelms all else.\n\nBurnice is super outgoing, friendly, and carefree.\nShe is easily able to spread her emotions to the people around her, bringing them the same optimism she possesses.\n\"You like the drinks I mix? Thank you! Steeltusk does, too~ That big guy can drink two hundred liters in one go!\"\n\"Do you wanna try its special fuel blend? It's suuuuper hot!\"",
@@ -36,8 +37,8 @@
   },
   "Skin": {
     "3111710": {
-      "Name": "AvatarSkin_Burnice_Name_000",
-      "Desc": "AvatarSkin_Burnice_Desc_000",
+      "Name": "Burnice: Wildfire Rave",
+      "Desc": "An outfit hotter than any Nitro-Fuel. Wander into a party in the Outer Ring, and odds are you'll bump into Burnice... but drink her signature cocktails at your own risk...\nWait, you've already taken a sip? Well then — 3, 2, 1... fire!",
       "Image": "IconRole32"
     }
   },
@@ -256,7 +257,12 @@
         {
           "Name": "Basic Attack: Mixed Flame Blend",
           "Desc": "In the <color=#FFFFFF>Nitro-Fuel Cocktail</color> state, hold <IconMap:Icon_Normal> to activate:\nSpin continuously while spraying flames around, followed by a Finishing Move that inflicts <color=#FF5521>Fire DMG</color>. Continuing to hold extends the flame-spraying duration.\nWhen the move is activated, it consumes 20 <color=#FFFFFF>Heat</color>;\nAnti-Interrupt level is increased while using this skill.\nAfter executing the Finishing Move, press <IconMap:Icon_SpecialReady> to immediately follow up with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>.",
-          "Potential": []
+          "Potential": [0]
+        },
+        {
+          "Name": "Basic Attack: Mixed Flame Blend",
+          "Desc": "In the <color=#FFFFFF>Nitro-Fuel Cocktail</color> state, hold <IconMap:Icon_Normal> to activate:\nSpins continuously while spraying flames around, followed by a Finishing Move, then triggers an extra instance of <color=#FFFFFF>Afterburn</color> that doesn't cost <color=#FFFFFF>Heat</color> and deals <color=#FF5521>Fire DMG</color>. Continuing to hold extends the flame-spraying duration.\nThe DMG dealt by this skill also counts as <color=#FFFFFF>Assist Attack</color> DMG.\nUpon activation, it consumes 20 <color=#FFFFFF>Heat</color>.\nAnti-Interrupt level is increased while using this skill.\nAfter executing the Finishing Move, press <IconMap:Icon_SpecialReady> to immediately follow up with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>.",
+          "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
         },
         {
           "Name": "Basic Attack: Direct Flame Blend",
@@ -809,12 +815,27 @@
         {
           "Name": "EX Special Attack: Intense Heat Stirring Method",
           "Desc": "With enough energy, press <IconMap:Icon_SpecialReady> to activate:\nContinuously spray flames with a one-handed flamethrower, then release a fire blast in a straight line ahead, dealing massive <color=#FF5521>Fire DMG</color>. Continue holding to steadily consume energy and extend the spray's duration.\nWhile continuously spraying, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to execute a sidestep dodge, adjusting your position in the corresponding direction.\nAnti-Interrupt Level is increased while continuously spraying, and DMG taken is reduced by 40%.\nCharacter is invulnerable during sidestep dodge and fire blast.",
-          "Potential": []
+          "Potential": [0]
+        },
+        {
+          "Name": "EX Special Attack: Intense Heat Stirring Method",
+          "Desc": "With enough energy, press <IconMap:Icon_SpecialReady> to activate:\nContinuously spray flames with a one-handed flamethrower, then release a fire blast in a straight line ahead, dealing massive <color=#FF5521>Fire DMG</color>. Continue holding to steadily consume energy and extend the spray's duration.\nWhile continuously spraying, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} to execute a sidestep dodge, adjusting your position in the corresponding direction.\nAnti-Interrupt Level is increased while continuously spraying, and DMG taken is reduced by 60%.\nCharacter is invulnerable during sidestep dodge and fire blast.",
+          "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
         },
         {
           "Name": "EX Special Attack: Intense Heat Stirring Method - Double Shot",
           "Desc": "While using <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method</color>, with enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nUse both flamethrowers to continuously spray flames, followed by a fire blast in a front line, dealing massive <color=#FF5521>Fire DMG</color>. Keep holding to continue consuming Energy and extend the spray's duration.\nCharacter is invulnerable during the moment the spray is activated and during the activation of the fire blast.\nAnti-Interrupt Level is increased while spraying, and DMG received is reduced by 40%.",
-          "Potential": []
+          "Potential": [0]
+        },
+        {
+          "Name": "EX Special Attack: Intense Heat Stirring Method - Double Shot",
+          "Desc": "While using <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method</color>, with enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nUse both flamethrowers to continuously spray flames, followed by a fire blast in a front line, dealing massive <color=#FF5521>Fire DMG</color>. Keep holding to continue consuming Energy and extend the spray's duration.\nCharacter is invulnerable during the moment the spray is activated and during the activation of the fire blast.\nAnti-Interrupt Level is increased while spraying, and DMG received is reduced by 60%.",
+          "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
+        },
+        {
+          "Name": "EX Special Attack: Intense Heat Tossing Method",
+          "Desc": "If Burnice has <color=#FFFFFF>Emberflow</color>, coming on-field activates this skill.\nAfter squadmates trigger <color=#FFFFFF>Afterburn</color> 12 times, Burnice gains 1 point of <color=#FFFFFF>Emberflow</color>. With <color=#FFFFFF>Emberflow</color>, Burnice's next entry onto the field consumes 1 stack to automatically activate this skill. This entry is considered a Quick Assist. When <color=#FFFFFF>Afterburn</color> triggered by <color=#FFFFFF>Basic Attack: Mixed Flame Blend</color> hits an enemy, it counts for 2 times. While possessing <color=#FFFFFF>Emberflow</color>, the counter no longer increases. Consuming <color=#FFFFFF>Emberflow</color> clears the counter.\nQuickly dashes forward and passes through the enemy, unleashing a fiery impact that deals <color=#F0D12B>Physical DMG</color> and <color=#FF5521>Fire DMG</color>.\nWhen the skill's heavy attack hits a target suffering <color=#FE437E>Ether</color>, <color=#2EB6FF>Electric</color>, <color=#FF5521>Fire</color>, <color=#F0D12B>Physical</color>, or <color=#98EFF0>Ice</color> Anomaly, it triggers <color=#FFFFFF>Abloom</color>: deals an additional instance of DMG equal to <color=#FE437E>480%</color>/<color=#2EB6FF>240%</color>/<color=#FF5521>600%</color>/<color=#F0D12B>40%</color>/<color=#98EFF0>60%</color> of the original Anomaly's DMG.\nThe <color=#FF5521>Fire Anomaly Buildup</color> increase from Additional Ability: Fire Kindling applies to this skill.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press <IconMap:Icon_SpecialReady> to immediately follow up with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>.",
+          "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
         },
         {
           "Name": "Special Attack: Intense Heat Aging Method",
@@ -1159,6 +1180,64 @@
             { "Name": "Fire Blast Energy Cost", "Desc": "10", "Potential": [] }
           ],
           "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: Intense Heat Tossing Method",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1171026, Prop:1001}",
+              "Param": {
+                "1171026": {
+                  "Main": 19990,
+                  "Growth": 1820,
+                  "Format": "%",
+                  "DamagePercentage": 19990,
+                  "DamagePercentageGrowth": 1820,
+                  "StunRatio": 19990,
+                  "StunRatioGrowth": 910,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 249975,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9083,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9084
+                }
+              },
+              "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1171026, Prop:1002}",
+              "Param": {
+                "1171026": {
+                  "Main": 19990,
+                  "Growth": 910,
+                  "Format": "%",
+                  "DamagePercentage": 19990,
+                  "DamagePercentageGrowth": 1820,
+                  "StunRatio": 19990,
+                  "StunRatioGrowth": 910,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 249975,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 9083,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9084
+                }
+              },
+              "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
+            }
+          ],
+          "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
         }
       ],
       "Material": {
@@ -1325,7 +1404,12 @@
         {
           "Name": "Quick Assist: Energizing Specialty Drink",
           "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nUnleash a flurry of attacks on enemies in front while spraying flames, dealing <color=#F0D12B>Physical DMG</color> and <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.",
-          "Potential": []
+          "Potential": [0]
+        },
+        {
+          "Name": "Quick Assist: Energizing Specialty Drink",
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nLaunches a series of attacks at enemies ahead and sprays flames, dealing <color=#F0D12B>Physical DMG</color> and <color=#FF5521>Fire DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, press <IconMap:Icon_SpecialReady> to immediately follow up with <color=#FFFFFF>EX Special Attack: Intense Heat Stirring Method - Double Shot</color>.",
+          "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
         },
         {
           "Name": "Defensive Assist: Smoky Cauldron",
@@ -1638,6 +1722,13 @@
       "ElementType": 201,
       "HitType": 103,
       "Potential": []
+    },
+    "1171013": {
+      "Name": "EX Special Attack: Intense Heat Tossing Method",
+      "Desc": "<IconMap:Icon_Switch> (Switching in with Emberflow)",
+      "ElementType": 201,
+      "HitType": 103,
+      "Potential": [117100, 117101, 117102, 117103, 117104, 117105]
     }
   },
   "Passive": {
@@ -1817,5 +1908,67 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
-  "Potential": []
+  "Potential": [117100, 117101, 117102, 117103, 117104, 117105],
+  "PotentialDetail": {
+    "117100": {
+      "Id": 117100,
+      "Name": "",
+      "Desc": "",
+      "Image": "Burnice",
+      "LevelShowName": "Spiral of Fire I",
+      "Level": 1,
+      "AbilityList": [11171501, 11171601],
+      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
+    },
+    "117101": {
+      "Id": 117101,
+      "Name": "Awakened Potential: Boiling Point Party",
+      "Desc": "When Burnice's initial Energy Regen is greater than or equal to 1.8, every extra 0.1 points of initial Energy Regen increases Anomaly Mastery by <color=#2BAD00>1</color> and DMG by <color=#2BAD00>1%</color>, up to a maximum increase of 25 Anomaly Mastery and 20% DMG. Core Passive: Nitro-Fuel Cocktail's <color=#FFFFFF>Afterburn</color> interval is reduced to 1.35s.",
+      "Image": "Burnice",
+      "LevelShowName": "Spiral of Fire II",
+      "Level": 2,
+      "AbilityList": [11171501, 11171601, 11171701],
+      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
+    },
+    "117102": {
+      "Id": 117102,
+      "Name": "Awakened Potential: Boiling Point Party",
+      "Desc": "When Burnice's initial Energy Regen is greater than or equal to 1.8, every extra 0.1 points of initial Energy Regen increases Anomaly Mastery by <color=#2BAD00>1.3</color> and DMG by <color=#2BAD00>1.25%</color>, up to a maximum increase of 25 Anomaly Mastery and 20% DMG. Core Passive: Nitro-Fuel Cocktail's <color=#FFFFFF>Afterburn</color> interval is reduced to 1.35s.",
+      "Image": "Burnice",
+      "LevelShowName": "Spiral of Fire III",
+      "Level": 3,
+      "AbilityList": [11171501, 11171601, 11171702],
+      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
+    },
+    "117103": {
+      "Id": 117103,
+      "Name": "Awakened Potential: Boiling Point Party",
+      "Desc": "When Burnice's initial Energy Regen is greater than or equal to 1.8, every extra 0.1 points of initial Energy Regen increases Anomaly Mastery by <color=#2BAD00>1.6</color> and DMG by <color=#2BAD00>1.5%</color>, up to a maximum increase of 25 Anomaly Mastery and 20% DMG. Core Passive: Nitro-Fuel Cocktail's <color=#FFFFFF>Afterburn</color> interval is reduced to 1.35s.",
+      "Image": "Burnice",
+      "LevelShowName": "Spiral of Fire IV",
+      "Level": 4,
+      "AbilityList": [11171501, 11171601, 11171703],
+      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
+    },
+    "117104": {
+      "Id": 117104,
+      "Name": "Awakened Potential: Boiling Point Party",
+      "Desc": "When Burnice's initial Energy Regen is greater than or equal to 1.8, every extra 0.1 points of initial Energy Regen increases Anomaly Mastery by <color=#2BAD00>2</color> and DMG by <color=#2BAD00>1.75%</color>, up to a maximum increase of 25 Anomaly Mastery and 20% DMG. Core Passive: Nitro-Fuel Cocktail's <color=#FFFFFF>Afterburn</color> interval is reduced to 1.35s.",
+      "Image": "Burnice",
+      "LevelShowName": "Spiral of Fire V",
+      "Level": 5,
+      "AbilityList": [11171501, 11171601, 11171704],
+      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
+    },
+    "117105": {
+      "Id": 117105,
+      "Name": "Awakened Potential: Boiling Point Party",
+      "Desc": "When Burnice's initial Energy Regen is greater than or equal to 1.8, every extra 0.1 points of initial Energy Regen increases Anomaly Mastery by <color=#2BAD00>2.5</color> and DMG by <color=#2BAD00>2%</color>, up to a maximum increase of 25 Anomaly Mastery and 20% DMG. Core Passive: Nitro-Fuel Cocktail's <color=#FFFFFF>Afterburn</color> interval is reduced to 1.35s.",
+      "Image": "Burnice",
+      "LevelShowName": "Spiral of Fire VI",
+      "Level": 6,
+      "AbilityList": [11171501, 11171601, 11171705],
+      "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
+    }
+  }
 }
