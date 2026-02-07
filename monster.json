@@ -176,7 +176,7 @@
     "EN": "Mandrake",
     "desc": "Mandrake derive their name from a toxic herb. The scholar who initially assigned the name believed there was a resemblance between the two solely based on their appearance.\nWhile blooming, Mandrake emit heat rays targeting nearby objects, while sturdy leaves anchor it firmly to the ground, preventing uprooting. When threatened, Mandrake may use their sharp leaves for self-defense.\nSimilar to the legend of their namesake, Mandrake cries can be highly deadly.\n\"Stay away! It's gonna bloom any second now!\"",
     "KO": "맨드레이크",
-    "CHS": "曼��拉",
+    "CHS": "曼德拉",
     "JA": "マンドレイク"
   },
   "10015": {
@@ -259,7 +259,7 @@
     "group": 203,
     "EN": "Raven UAV",
     "desc": "Unknown",
-    "KO": "레이븐 드론",
+    "KO": "레이븐 드��",
     "CHS": "渡鸦无人机",
     "JA": "レイヴンドローン"
   },
@@ -959,6 +959,30 @@
     "CHS": "秽息行者·蝎骸",
     "JA": "ミアズマの歩者・ムクロサソリ"
   },
+  "30014": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_PinkBowTrooper.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 3,
+    "group": 290,
+    "EN": "Wishful Finale - Aria",
+    "desc": "When the Angels of Delusion were first formed, the three young girls made a wish: to create a \"Delusional Stage\" where audiences could lose themselves, forget their troubles, and bask in the joy delivered through song and smiles.\nAnd Aria, model \"A-H0L0,\" was the most unique member of this warm vision. On the path to becoming an idol, a paradox has always lingered in her heart.\nShe expresses emotion, yet questions whether those emotions are real; she was born from steel and code, yet yearns to sing symphonies of flesh and soul. She's a weapon by design, with annihilation hardwired into her logic, but she is also a singer, her core pulsing with impossible desire.\nPerhaps the divide between those two natures was never truly erased, only carefully tucked away into the shadows after she found the light.\nUntil external stigma spread like corrosion, until malicious whispers nurtured those buried shadows into monstrous dread... She realized with horror that her uncontrollable combat instinct was about to become the greatest threat to her \"Delusion,\" and the past known as the \"Mirage Archer Unit\" took control of her body. Energy gathered in her palms, condensing into cold, razor-sharp blades. This was nothing like her imperfect dances of before. She leapt, cleaved downward, and thrust forward. The blades of light obeyed her will flawlessly, exact and efficient, without a trace of waste. Emotion was cut away, each strike numb and mechanical, until the delusional stage lay in ruins.\nThe song meant to hold everything together had grown thin and weak.\nThus the paradox began to converge — she would use her own silence in exchange for the angels' eternal protection.\n\"The stage... it's so warm. Even though my voice lacks the warmth of a heartbeat...\"\n\"But it's okay. You'll keep singing.\"\n\"Keep going for me. Witness in my stead, what this cold heart never knew — the glow of that delusional rainbow.\"",
+    "KO": "염원의 피날레·아리아",
+    "CHS": "终曲之愿·爱芮",
+    "JA": "フィナーレの願い・アリア"
+  },
+  "30015": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_ObsoleteAndroid.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 3,
+    "group": 290,
+    "EN": "Mirage Archer Unit",
+    "desc": "An old-era military autonomous unit specializing in long-range elimination, equipped with an appearance-simulation system that can effectively disrupt enemy recognition.\nThe Mirage Archer Unit is proficient in multiple attack methods. When facing formidable enemies, it activates excess power output to generate Energy, compressing it into a nearly solid concentrated Energy blade. With highly threatening offensive pressure, it unleashes continuous slashes to sweep the battlefield. When energy reaches its threshold, the light blade enter an overload state, and the escaping energy disrupts enemy movement and reactions, creating an opening for the next decisive assault. Originally deployed as a standardized tactical weapon system, the Mirage Archer Unit was fully decommissioned as the era changed and sealed deep within the Hollows. Prolonged stasis and Ether corruption have caused corrosion and system instability, yet its core extermination protocols remain dormant within its residual commands.\n\n\"Its task remains unfinished, yet the body rots away... the torment this brings needs no more words.\"",
+    "KO": "환영의 화살 유닛",
+    "CHS": "幻矢单元",
+    "JA": "ホログラフィックアロー"
+  },
   "30016": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MazingerGoldenBomb.png",
     "tag": ["Ether", "NotPro"],
@@ -1295,6 +1319,18 @@
     "CHS": "牲鬼·卫律使者",
     "JA": "サクリファイス・コヴェナント・ガーディアン"
   },
+  "30045": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaDubiousHero.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 3,
+    "group": 203,
+    "EN": "Miasmic - Rampant Brute",
+    "desc": "A fallen creation, reshaped in the depths of impure darkness.\nThe \"Rampant Brute,\" once a symbol of absolute violence, has become a prisoner to the Miasma. Its mechanical armor has nearly fused with flesh, consciousness completely shattered, leaving only raw destructive instinct to lash out and crush everything it encounters within the Hollows.\nThanks to the street workout culture it once worshipped in life, fragments of muscle memory still carry out warped \"training routines,\" but every application of force tears apart its own structure, destroying any trace of strength’s beauty.\n\"Boss? What're you doing?! Boss!\"\n\"The fighting moves you taught, the workout techniques — this ain't it... You're not my boss. I won't accept this!\"",
+    "KO": "미아즈믹·횡포자",
+    "CHS": "秽蚀·蛮横力士",
+    "JA": "ミアズミック・剛力横暴者"
+  },
   "35001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Nineveh.png",
     "tag": ["Ether", "NotPro"],
@@ -1330,6 +1366,18 @@
     "KO": "태초의 악몽·「창조주」",
     "CHS": "太初梦魇·「始主」",
     "JA": "原初の悪夢・「始まりの主」"
+  },
+  "40001": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Vesper.png",
+    "tag": ["Ether", "NotPro"],
+    "tag2": ["Metro", "SkyScraper"],
+    "rarity": 4,
+    "group": 290,
+    "EN": "Discordant Solo - Vesper",
+    "desc": "New Eridu never hesitates to spotlight rising stars, nor does it stop consuming legends born and burnt out in a flash. In TOPS Entertainment's dazzling blueprint, the perfect \"new star\" is always described this way: a songstress who is flawlessly precise, absolutely controllable, and capable of carrying any artistic vision, defining the idol standard of a new era.\nAnd Vesper, model \"V-DTX,\" stands among their most closely cultivated test cases.\nShe was given the most advanced vocal module, the most sophisticated emotion simulation system, and... a crystal-clear Core inscribed with \"love for the stage.\" With every curtain call and in every pause between her lyrics, she could feel it again and again — her own heart, pure as crystal.\nAnd yet she slipped into an obsession: no matter how much of herself she gave, she and her voice were nothing but instruments on a stage, just numbers in a producer’s ledger.\nEven the most perfect performances and the hottest applause were only footnotes for someone else’s story, never the fire that truly burned inside her.\nHer voice began to pick up faint distortions, and her \"heart\" was no longer pure, collapsing into a shattered, pitiful void. The stage she once cherished above all else became a beautiful, merciless cage.\n\"The stage really is beautiful, isn't it? Even though you only want to hear the echoes you designed...\"\n\"But that's okay. I'll sing for you.\"\n\"In my own way, I'll bring this false performance to its final rest.\"",
+    "KO": "고독한 불협의 노래·베스퍼",
+    "CHS": "叛律孤歌·薇斯珀",
+    "JA": "プリマ・イコノクラスト・ヴェスポ"
   },
   "100001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGreyPro.png",

@@ -1962,5 +1962,6 @@
       "AbilityList": [13811401, 13811505],
       "PotentialMaterials": [{ "ItemId": 20138, "Number": 1 }]
     }
-  }
+  },
+  "Live2D": "UISpineSPAnbi"
 }

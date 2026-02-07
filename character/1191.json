@@ -2432,5 +2432,6 @@
       "AbilityList": [11191401, 11191505],
       "PotentialMaterials": [{ "ItemId": 20119, "Number": 1 }]
     }
-  }
+  },
+  "Live2D": "UISpineEllen"
 }

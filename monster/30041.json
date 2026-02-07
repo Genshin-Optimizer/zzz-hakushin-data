@@ -6,7 +6,14 @@
       "Id": 11841,
       "CodeName": "Monster_WanderingHunter",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_WanderingHunter.png",
-      "Tag": ["Ether", "Middle", "MainStoryBoss", "EtherBarrierBoss", "Miasma"],
+      "Tag": [
+        "Ether",
+        "Middle",
+        "MainStoryBoss",
+        "EtherBarrierBoss",
+        "Miasma",
+        "SummerBuffForceFollowHead"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -131,7 +138,8 @@
         "MainStoryBoss",
         "EtherBarrierBoss",
         "HighEtherBarrier",
-        "Miasma"
+        "Miasma",
+        "SummerBuffForceFollowHead"
       ],
       "Type": "Monster",
       "Element": {

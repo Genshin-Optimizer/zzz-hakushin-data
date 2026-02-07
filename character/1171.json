@@ -1970,5 +1970,6 @@
       "AbilityList": [11171501, 11171601, 11171705],
       "PotentialMaterials": [{ "ItemId": 20117, "Number": 1 }]
     }
-  }
+  },
+  "Live2D": "UISpine_Burnice"
 }

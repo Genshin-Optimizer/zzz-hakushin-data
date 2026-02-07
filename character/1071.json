@@ -1937,5 +1937,6 @@
     }
   },
   "Potential": [],
-  "PotentialDetail": {}
+  "PotentialDetail": {},
+  "Live2D": "UISpineCeasar"
 }

@@ -102,6 +102,7 @@
     "icon": "IconRole52",
     "potential": [],
     "EN": "Yidhari",
+    "live2d": "UISpine_Yidhari",
     "skin": {
       "3110510": {
         "Name": "Yidhari: Stream of Consciousness",
@@ -146,6 +147,7 @@
     "icon": "IconRole25",
     "potential": [],
     "EN": "Caesar",
+    "live2d": "UISpineCeasar",
     "skin": {
       "3110710": {
         "Name": "Caesar: Inferno Joyride",
@@ -191,6 +193,7 @@
     "potential": [],
     "EN": "Miyabi",
     "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
+    "live2d": "UISpine_Xingjianya",
     "skin": {
       "3110910": {
         "Name": "Hoshimi Miyabi: Frostgleam Dew",
@@ -299,7 +302,7 @@
     "hit": 102,
     "camp": 2,
     "icon": "IconRole18",
-    "potential": [],
+    "potential": [114100, 114101, 114102, 114103, 114104, 114105],
     "EN": "Lycaon",
     "skin": {
       "3111410": {
@@ -345,6 +348,7 @@
     "icon": "IconRole26",
     "potential": [],
     "EN": "Lighter",
+    "live2d": "UISpine_Lighter",
     "skin": {
       "3111610": {
         "Name": "Lighter: Everburn Embers",
@@ -367,6 +371,7 @@
     "icon": "IconRole32",
     "potential": [117100, 117101, 117102, 117103, 117104, 117105],
     "EN": "Burnice",
+    "live2d": "UISpine_Burnice",
     "skin": {
       "3111710": {
         "Name": "Burnice: Wildfire Rave",
@@ -411,6 +416,7 @@
     "icon": "IconRole21",
     "potential": [119100, 119101, 119102, 119103, 119104, 119105],
     "EN": "Ellen",
+    "live2d": "UISpineEllen",
     "skin": {
       "3111910": {
         "Name": "Ellen: Ellen Scissorhands",
@@ -436,8 +442,9 @@
     "hit": 103,
     "camp": 6,
     "icon": "IconRole35",
-    "potential": [],
+    "potential": [120100, 120101, 120102, 120103, 120104, 120105],
     "EN": "Harumasa",
+    "live2d": "UISpine_Qianyuyouzhen",
     "skin": {
       "3112010": {
         "Name": "Asaba Harumasa: Full-Fledged Strings",
@@ -482,6 +489,7 @@
     "icon": "IconRole31",
     "potential": [],
     "EN": "Yanagi",
+    "live2d": "UISpineYanagi",
     "skin": {
       "3112210": {
         "Name": "Tsukishiro Yanagi: Flowing Moonshade",
@@ -504,6 +512,7 @@
     "icon": "IconRole23",
     "potential": [],
     "EN": "Zhu Yuan",
+    "live2d": "UISpineZhuyuan",
     "skin": {
       "3112410": {
         "Name": "Zhu Yuan: Suppressor of Evil",
@@ -526,6 +535,7 @@
     "icon": "IconRole29",
     "potential": [],
     "EN": "Qingyi",
+    "live2d": "UISpine_Qingyi",
     "skin": {
       "3112510": {
         "Name": "Qingyi: Clarity, Peace, and Joy",
@@ -548,6 +558,7 @@
     "icon": "IconRole24",
     "potential": [],
     "EN": "Jane",
+    "live2d": "UISpine_Jian",
     "skin": {
       "3112610": {
         "Name": "Jane: Hidden Nightfade",
@@ -619,6 +630,7 @@
     "icon": "IconRole42",
     "potential": [],
     "EN": "Hugo",
+    "live2d": "UISpine_Hugo",
     "skin": {
       "3112910": {
         "Name": "Hugo: Crownless Rebellion",
@@ -641,6 +653,7 @@
     "icon": "IconRole49",
     "potential": [],
     "EN": "Orphie & Magus",
+    "live2d": "UISpine_Aofeisi",
     "skin": {
       "3113010": {
         "Name": "Orphie & Magus: Two Banks of the River",
@@ -649,7 +662,7 @@
       }
     },
     "desc": "Orphie Magnusson serves in the New Eridu Defense Force's Obsidian Division, Obol Squad. She is the wielder of Magus, an Intelligent Construct in gun form.\n\nMagus is the captain of Obol Squad. She was gravely injured during the fall of the old capital and on the brink of death. After taking part in a military research project, her consciousness was transferred into a weapon, allowing her to survive as an Intelligent Construct. Since the squad's formation, she has remained its heart and soul — hot-tempered and impulsive at times, yet deeply respected and trusted by her comrades.\nOrphie shares an extraordinary bond with Magus — one that goes far beyond that of just \"partners.\" The two have known each other for years, and Magus often acts like a mother, offering guidance and care. In return, Orphie does everything she can to meet Magus' expectations, aspiring to become a strong, independent soldier like her captain.\n\nStrictly speaking, Orphie enjoys many things Magus disapproves of: fancy desserts, cute animals, and overly decorative toys. Her captain sees them as signs of softness, unfit for a soldier. Still, while Magus enforces discipline in public and imposes the expectations of a perfect soldier, she pretends to be in \"sleep mode\" just to turn a blind eye to Orphie's less-than-perfect behavior. According to this supposedly \"strict and impartial\" captain, she's simply following the parenting advice laid out in an online series titled \"Raising a Child Prodigy.\"",
-    "KO": "오피 & 「도깨비불」",
+    "KO": "오피&「도깨비불」",
     "CHS": "奥菲丝&「鬼火」",
     "JA": "オルペウス＆「鬼火」"
   },
@@ -663,6 +676,7 @@
     "icon": "IconRole36",
     "potential": [],
     "EN": "Astra Yao",
+    "live2d": "UISpineYaoJiayin",
     "skin": {
       "3113110": {
         "Name": "Astra Yao: Scarlet Rock",
@@ -690,6 +704,7 @@
     "icon": "IconRole37",
     "potential": [],
     "EN": "Evelyn",
+    "live2d": "UISpineEvelyn",
     "skin": {
       "3113210": {
         "Name": "Evelyn: A Moth to Light",
@@ -712,6 +727,7 @@
     "icon": "IconRole41",
     "potential": [],
     "EN": "Vivian",
+    "live2d": "UISpine_Vivian",
     "skin": {
       "3113310": {
         "Name": "Vivian: Fluttering Violet",
@@ -739,6 +755,7 @@
     "icon": "IconRole56",
     "potential": [],
     "EN": "Zhao",
+    "live2d": "UISpinezhao",
     "skin": {
       "3113410": {
         "Name": "Zhao: Cuddly Executor",
@@ -783,6 +800,7 @@
     "icon": "IconRole39",
     "potential": [],
     "EN": "Trigger",
+    "live2d": "UIspineTrigger",
     "skin": {
       "3113610": {
         "Name": "Trigger: Gaze Into the Light",
@@ -806,6 +824,7 @@
     "potential": [],
     "EN": "Yixuan",
     "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconAuricInk.png",
+    "live2d": "UISpine_Yixuan",
     "skin": {
       "3113710": {
         "Name": "Yixuan: Summit of Clouds",
@@ -833,6 +852,7 @@
     "icon": "IconRole40",
     "potential": [138100, 138101, 138102, 138103, 138104, 138105],
     "EN": "Soldier 0 - Anby",
+    "live2d": "UISpineSPAnbi",
     "skin": {
       "3113810": {
         "Name": "Soldier 0 - Anby: Silver Soldier",
@@ -855,6 +875,7 @@
     "icon": "IconRole43",
     "potential": [],
     "EN": "Ju Fufu",
+    "live2d": "UISpineJufufu",
     "skin": {
       "3113910": {
         "Name": "Ju Fufu: Summit's Cute Tiger",
@@ -877,6 +898,7 @@
     "icon": "IconRole46",
     "potential": [],
     "EN": "Alice",
+    "live2d": "UISpineAlice",
     "skin": {
       "3114010": {
         "Name": "Alice: Celestian Etiquette",
@@ -904,6 +926,7 @@
     "icon": "IconRole47",
     "potential": [],
     "EN": "Yuzuha",
+    "live2d": "UISpine_Youye",
     "skin": {
       "3114110": {
         "Name": "Yuzuha: Tanuki Under the Shade",
@@ -936,10 +959,15 @@
         "Name": "Pan Yinhu: Hundred Flavors",
         "Desc": "Yunkui Summit's largest disciple uniform, spacious enough for this senior brother's belly and all his seasonings. And that iron wok on top is a first of its kind. But... putting a pan you just used for stir-frying on your head? Doesn't it burn?",
         "Image": "IconRole45"
+      },
+      "3114211": {
+        "Name": "Pan Yinhu: Culinary Jewel",
+        "Desc": "Senior Yinhu once dreamed of becoming a renowned chef, but in this day and age, there's always some thug looking to smash your bowl.\n—\"Go on, try smashing one.\"",
+        "Image": "IconRole45_01"
       }
     },
     "desc": "Pan Yinhu, disciple of Yunkui Summit, serves as both the head chef and financial manager of Suibian Temple. He's proficient in martial arts, and an expert in pressure-point techniques.\nAs the one managing Suibian Temple's money, he's a master at keeping costs down and can bargain a 5,000 Denny piece of meat down to 500. If he can make something at home, he refuses to purchase it at a store, and no matter which big supermarket or shop you name, he's got a coupon for it tucked in his pocket.\nThanks to him, the members of Suibian Temple enjoy delicious yet budget-friendly meals every day. As the head of the kitchen, he demands precise flavor profiles and pays keen attention to his friends' opinions.\nWhat's more, given his years of frugality, it's safe to assume that both the group's treasury and his secret piggy bank have ballooned to jaw-dropping levels.",
-    "KO": "반���호",
+    "KO": "반인호",
     "CHS": "潘引壶",
     "JA": "潘引壺"
   },
@@ -954,6 +982,7 @@
     "potential": [],
     "EN": "Ye Shunguang",
     "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconHonedEdge.png",
+    "live2d": "UISpine_Yeshunguang",
     "skin": {
       "3114310": {
         "Name": "Ye Shunguang: Clouddrift Illumination",
@@ -1008,6 +1037,7 @@
     "icon": "IconRole50",
     "potential": [],
     "EN": "Lucia",
+    "live2d": "UISpineLucia",
     "skin": {
       "3114510": {
         "Name": "Lucia: Whispering Dreams",
@@ -1030,6 +1060,7 @@
     "icon": "IconRole48",
     "potential": [],
     "EN": "Seed",
+    "live2d": "UISpine_Seed",
     "skin": {
       "3114610": {
         "Name": "Seed: Flower in Bloom",
@@ -1052,6 +1083,7 @@
     "icon": "IconRole53",
     "potential": [],
     "EN": "Banyue",
+    "live2d": "UISpineBanyue",
     "skin": {
       "3114710": {
         "Name": "Banyue: Blazestone Heart",
@@ -1074,6 +1106,7 @@
     "icon": "IconRole54",
     "potential": [],
     "EN": "Dialyn",
+    "live2d": "UISpine_Liuyin",
     "skin": {
       "3114810": {
         "Name": "Dialyn: Ringing Judgment",
@@ -1085,5 +1118,61 @@
     "KO": "다이아린",
     "CHS": "琉音",
     "JA": "ダイアリン"
+  },
+  "1491": {
+    "code": "Sunna",
+    "rank": 4,
+    "type": 4,
+    "element": 200,
+    "hit": 102,
+    "camp": 13,
+    "icon": "IconRole58",
+    "potential": [],
+    "EN": "Sunna",
+    "live2d": "UISpine_Qianxialeimi",
+    "skin": {
+      "3114910": {
+        "Name": "Sunna: Dreams on Loop",
+        "Desc": "Put on the outfit she finds cutest, and she can break free from the crowd, slipping into the lingering echoes of delusion.",
+        "Image": "IconRole58"
+      },
+      "3114911": {
+        "Name": "Sunna: Afternoon Tea Break",
+        "Desc": "Freshly baked cake, rich aromatic coffee, and the warm afternoon sun...\nWrapped in moments of softness, it's time to begin today's tea break",
+        "Image": "IconRole58_01"
+      }
+    },
+    "desc": "Sunna is a member of the Angels of Delusion idol group and the composer behind all of the group's music. Maintaining top-tier songwriting while keeping pace with rehearsals and stage performances is anything but easy for her. When the pressure piles up, she occasionally employs the tactic of \"retreat is the best option\" to dodge Captain Nangong Yu's brutal scheduling.\nNote: Reliable intelligence suggests that this tactic works largely because Nangong Yu intentionally lets it slide.\n\nSunna and Nangong Yu, another member of the Angels of Delusion, have known each other since they were young and grew up together. While they appear to always squabble, the two are in fact deeply dependent on one another. When it comes to music, Sunna shares a strong connection with their final member, Aria. As Aria puts it, the two frequently spend whole days in the studio discussing melodies for new songs, only to drift off to sleep without even realizing it, heads resting against each other.\n\nSunna is fairly introverted and prefers spending time alone over group activities. That said, her two teammates know her weaknesses all too well — she finds it hard to say no and can't handle praise — and are helping her gradually overcome her social anxiety through desensitization training (progress: about 25%).\n\nWhile most fans see Sunna's \"hopeless\" side as endearing, she herself seems eager to tear off that label and become a confident, \"proper idol.\" As the creative force behind the music, she often wants to flee the stage — yet in truth, she's not as indifferent to performing as she claims to be.\nEvidence: A sticky note by Sunna's bedside that reads \"I can't disappoint the fans. I need to give them my very best on stage!\"",
+    "KO": "수나",
+    "CHS": "千夏",
+    "JA": "千夏"
+  },
+  "1501": {
+    "code": "Aria",
+    "rank": 4,
+    "type": 3,
+    "element": 205,
+    "hit": 102,
+    "camp": 13,
+    "icon": "IconRole57",
+    "potential": [],
+    "EN": "Aria",
+    "live2d": "UISpineAria",
+    "skin": {
+      "3115010": {
+        "Name": "Aria: Energetic Idol",
+        "Desc": "A touch of pink and white, a hint of lights and sound, plus countless days and nights devoted to singing — all of it comes together as a boundless delusion on stage.",
+        "Image": "IconRole57"
+      },
+      "3115011": {
+        "Name": "Aria: Discordant Note",
+        "Desc": "Aria's performance outfit for special shows, worn only a handful of times.\nA pure-white \"angel\" clad in \"demonic\" wings. Take a deep breath, get ready... once the spotlight comes on, it's the Angels of Delusion's time to rebel.",
+        "Image": "IconRole57_01"
+      }
+    },
+    "desc": "Aria is the lead vocalist and center of the Angels of Delusion. Bright and full of energy, she always shines on stage, bringing warmth and strength to all Delulus.\nShe has a near-perfect voice, even though she was never professionally trained. At first, Aria only sang because she loved her idol, the retired songstress Cersea, copying her performances and singing along, until she realized she had a gift for song of her own.\nThough Aria's vocal skills are undeniably professional, she lacks a solid foundation in dance. Even with dedicated practice, she can still get flustered when faced with more complex moves. Still, fans deeply appreciate her attitude of \"even if I can't dance well, I'll still give it everything I've got.\"\n\"Pushing herself to the limit, wrestling with her own limbs to try and keep up with the rhythm... that's our Angels of Delusion lead vocalist!\" —One Delulu sobbing after a show.",
+    "KO": "아리아",
+    "CHS": "爱芮",
+    "JA": "アリア"
   }
 }

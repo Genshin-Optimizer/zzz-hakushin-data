@@ -1557,12 +1557,22 @@
         {
           "Name": "Defensive Assist: Disrupted Hunt",
           "Desc": "When the character on field is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
-          "Potential": []
+          "Potential": [0]
+        },
+        {
+          "Name": "Defensive Assist: Disrupted Hunt",
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nThis skill excels at parrying enemy attacks and reduces the consumption of <color=#FFFFFF>Assist Points</color> when the character is under intense attacks.\nCharacter is invulnerable while using this skill.",
+          "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
         },
         {
           "Name": "Assist Follow-Up: Vengeful Counterattack",
           "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nCreates an icicle in front, which strikes all enemies within range, dealing <color=#98EFF0>Ice DMG</color>.\nCharacter is invulnerable while using this skill.",
           "Potential": []
+        },
+        {
+          "Name": "Assist Follow-Up: Vengeful Counterattack - Glacial Waltz",
+          "Desc": "Hold <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nQuickly launch multiple strikes against enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
         },
         {
           "Name": "Quick Assist: Wolf Pack",
@@ -1763,6 +1773,64 @@
             }
           ],
           "Potential": []
+        },
+        {
+          "Name": "Assist Follow-Up: Vengeful Counterattack - Glacial Waltz",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1141027, Prop:1001}",
+              "Param": {
+                "1141027": {
+                  "Main": 41070,
+                  "Growth": 3740,
+                  "Format": "%",
+                  "DamagePercentage": 41070,
+                  "DamagePercentageGrowth": 3740,
+                  "StunRatio": 36050,
+                  "StunRatioGrowth": 1640,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1206975,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 36722,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 20000
+                }
+              },
+              "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1141027, Prop:1002}",
+              "Param": {
+                "1141027": {
+                  "Main": 36050,
+                  "Growth": 1640,
+                  "Format": "%",
+                  "DamagePercentage": 41070,
+                  "DamagePercentageGrowth": 3740,
+                  "StunRatio": 36050,
+                  "StunRatioGrowth": 1640,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1206975,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 36722,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 20000
+                }
+              },
+              "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
+            }
+          ],
+          "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
         }
       ],
       "Material": {
@@ -1858,6 +1926,13 @@
       "ElementType": 202,
       "HitType": 102,
       "Potential": []
+    },
+    "1141012": {
+      "Name": "Assist Follow-Up: Vengeful Counterattack - Glacial Waltz",
+      "Desc": "<IconMap:Icon_Normal> (Hold after Defensive Assist)",
+      "ElementType": 202,
+      "HitType": 102,
+      "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
     }
   },
   "Passive": {
@@ -1874,7 +1949,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1141502": {
         "Level": 2,
@@ -1888,7 +1963,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1141503": {
         "Level": 3,
@@ -1902,7 +1977,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1141504": {
         "Level": 4,
@@ -1916,7 +1991,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1141505": {
         "Level": 5,
@@ -1930,7 +2005,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1141506": {
         "Level": 6,
@@ -1944,7 +2019,7 @@
           "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
       },
       "1141507": {
         "Level": 7,
@@ -1958,7 +2033,105 @@
           "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
         ],
         "ExtraProperty": {},
-        "Potential": []
+        "Potential": [0]
+      },
+      "1141508": {
+        "Level": 1,
+        "Id": 1141508,
+        "Name": [
+          "Core Passive: Metallic Paws",
+          "Additional Ability: Elegant Predator"
+        ],
+        "Desc": [
+          "When Lycaon completes charging during a <color=#FFFFFF>Basic Attack</color>, or activates a <color=#FFFFFF>Dodge Counter</color> or <color=#FFFFFF>Dash Attack</color>, the Daze inflicted by the skill increases by <color=#2BAD00>40%</color>.\nWhen <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color>, <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color>, or <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> hits an enemy, the target's <color=#98EFF0>Ice RES</color> is reduced by 25%, and it increases the DMG to the target from other attributes by <color=#FFFFFF>30%</color> for 30s.\nUpon entering the battlefield, Lycaon gains one <color=#FFFFFF>Encircle Prey</color> activation chance.\nWhen <color=#FFFFFF>Encircle Prey</color> has available activations, hitting an enemy with <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> triggers the <color=#FFFFFF>Quick Assist</color> of the previous character in the squad. During this skill, when other squad members enter via <color=#FFFFFF>Quick Assist</color>, Lycaon enters the <color=#FFFFFF>Encircle Prey</color> state for 8s.\nWhen an elite or boss enemy becomes Stunned, 1<color=#FFFFFF>Encircle Prey</color> activation chance is gained. Up to 1 <color=#FFFFFF>Encircle Prey</color> activation can be stored.\nWhen the <color=#FFFFFF>Encircle Prey</color> state ends, Lycaon automatically activates <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>. If the <color=#FFFFFF>Encircle Prey</color> state ends early, for every 1s of remaining duration, the Daze dealt by the next <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> increases by <color=#FFFFFF>6%</color>.\nWhen the currently active character stops attacking or uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Lycaon will end the <color=#FFFFFF>Encircle Prey</color> state early.\nWhen Lycaon manually uses <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>, the <color=#FFFFFF>Encircle Prey</color> state also ends early, but <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> will not be automatically triggered.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, Lycaon will activate <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> based on the skills used by the currently active character.\nWhen the currently active character uses a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>EX Special Attack</color>, Lycaon will simultaneously perform the 1st through 3rd hits of his <color=#FFFFFF>Basic Attack</color>.\nWhen the active character performs a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>, Lycaon will simultaneously perform a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>. After performing a <color=#FFFFFF>Dodge Counter</color> while in the <color=#FFFFFF>Encircle Prey</color> state, Lycaon can immediately follow up with the 3rd hit of his <color=#FFFFFF>Basic Attack</color>.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, when Lycaon is not the currently active Agent, his attacks only deal DMG and Daze. While Lycaon is the currently active character, the <color=#FFFFFF>Encircle Prey</color> duration does not decrease.",
+          "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+        ],
+        "ExtraProperty": {},
+        "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
+      },
+      "1141509": {
+        "Level": 2,
+        "Id": 1141509,
+        "Name": [
+          "Core Passive: Metallic Paws",
+          "Additional Ability: Elegant Predator"
+        ],
+        "Desc": [
+          "When Lycaon completes charging during a <color=#FFFFFF>Basic Attack</color>, or activates a <color=#FFFFFF>Dodge Counter</color> or <color=#FFFFFF>Dash Attack</color>, the Daze inflicted by the skill increases by <color=#2BAD00>46.6%</color>.\nWhen <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color>, <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color>, or <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> hits an enemy, the target's <color=#98EFF0>Ice RES</color> is reduced by 25%, and it increases the DMG to the target from other attributes by <color=#FFFFFF>30%</color> for 30s.\nUpon entering the battlefield, Lycaon gains one <color=#FFFFFF>Encircle Prey</color> activation chance.\nWhen <color=#FFFFFF>Encircle Prey</color> has available activations, hitting an enemy with <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> triggers the <color=#FFFFFF>Quick Assist</color> of the previous character in the squad. During this skill, when other squad members enter via <color=#FFFFFF>Quick Assist</color>, Lycaon enters the <color=#FFFFFF>Encircle Prey</color> state for 8s.\nWhen an elite or boss enemy becomes Stunned, 1<color=#FFFFFF>Encircle Prey</color> activation chance is gained. Up to 1 <color=#FFFFFF>Encircle Prey</color> activation can be stored.\nWhen the <color=#FFFFFF>Encircle Prey</color> state ends, Lycaon automatically activates <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>. If the <color=#FFFFFF>Encircle Prey</color> state ends early, for every 1s of remaining duration, the Daze dealt by the next <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> increases by <color=#FFFFFF>6%</color>.\nWhen the currently active character stops attacking or uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Lycaon will end the <color=#FFFFFF>Encircle Prey</color> state early.\nWhen Lycaon manually uses <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>, the <color=#FFFFFF>Encircle Prey</color> state also ends early, but <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> will not be automatically triggered.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, Lycaon will activate <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> based on the skills used by the currently active character.\nWhen the currently active character uses a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>EX Special Attack</color>, Lycaon will simultaneously perform the 1st through 3rd hits of his <color=#FFFFFF>Basic Attack</color>.\nWhen the active character performs a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>, Lycaon will simultaneously perform a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>. After performing a <color=#FFFFFF>Dodge Counter</color> while in the <color=#FFFFFF>Encircle Prey</color> state, Lycaon can immediately follow up with the 3rd hit of his <color=#FFFFFF>Basic Attack</color>.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, when Lycaon is not the currently active Agent, his attacks only deal DMG and Daze. While Lycaon is the currently active character, the <color=#FFFFFF>Encircle Prey</color> duration does not decrease.",
+          "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+        ],
+        "ExtraProperty": {},
+        "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
+      },
+      "1141510": {
+        "Level": 3,
+        "Id": 1141510,
+        "Name": [
+          "Core Passive: Metallic Paws",
+          "Additional Ability: Elegant Predator"
+        ],
+        "Desc": [
+          "When Lycaon completes charging during a <color=#FFFFFF>Basic Attack</color>, or activates a <color=#FFFFFF>Dodge Counter</color> or <color=#FFFFFF>Dash Attack</color>, the Daze inflicted by the skill increases by <color=#2BAD00>53.3%</color>.\nWhen <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color>, <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color>, or <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> hits an enemy, the target's <color=#98EFF0>Ice RES</color> is reduced by 25%, and it increases the DMG to the target from other attributes by <color=#FFFFFF>30%</color> for 30s.\nUpon entering the battlefield, Lycaon gains one <color=#FFFFFF>Encircle Prey</color> activation chance.\nWhen <color=#FFFFFF>Encircle Prey</color> has available activations, hitting an enemy with <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> triggers the <color=#FFFFFF>Quick Assist</color> of the previous character in the squad. During this skill, when other squad members enter via <color=#FFFFFF>Quick Assist</color>, Lycaon enters the <color=#FFFFFF>Encircle Prey</color> state for 8s.\nWhen an elite or boss enemy becomes Stunned, 1<color=#FFFFFF>Encircle Prey</color> activation chance is gained. Up to 1 <color=#FFFFFF>Encircle Prey</color> activation can be stored.\nWhen the <color=#FFFFFF>Encircle Prey</color> state ends, Lycaon automatically activates <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>. If the <color=#FFFFFF>Encircle Prey</color> state ends early, for every 1s of remaining duration, the Daze dealt by the next <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> increases by <color=#FFFFFF>6%</color>.\nWhen the currently active character stops attacking or uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Lycaon will end the <color=#FFFFFF>Encircle Prey</color> state early.\nWhen Lycaon manually uses <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>, the <color=#FFFFFF>Encircle Prey</color> state also ends early, but <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> will not be automatically triggered.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, Lycaon will activate <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> based on the skills used by the currently active character.\nWhen the currently active character uses a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>EX Special Attack</color>, Lycaon will simultaneously perform the 1st through 3rd hits of his <color=#FFFFFF>Basic Attack</color>.\nWhen the active character performs a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>, Lycaon will simultaneously perform a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>. After performing a <color=#FFFFFF>Dodge Counter</color> while in the <color=#FFFFFF>Encircle Prey</color> state, Lycaon can immediately follow up with the 3rd hit of his <color=#FFFFFF>Basic Attack</color>.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, when Lycaon is not the currently active Agent, his attacks only deal DMG and Daze. While Lycaon is the currently active character, the <color=#FFFFFF>Encircle Prey</color> duration does not decrease.",
+          "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+        ],
+        "ExtraProperty": {},
+        "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
+      },
+      "1141511": {
+        "Level": 4,
+        "Id": 1141511,
+        "Name": [
+          "Core Passive: Metallic Paws",
+          "Additional Ability: Elegant Predator"
+        ],
+        "Desc": [
+          "When Lycaon completes charging during a <color=#FFFFFF>Basic Attack</color>, or activates a <color=#FFFFFF>Dodge Counter</color> or <color=#FFFFFF>Dash Attack</color>, the Daze inflicted by the skill increases by <color=#2BAD00>60%</color>.\nWhen <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color>, <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color>, or <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> hits an enemy, the target's <color=#98EFF0>Ice RES</color> is reduced by 25%, and it increases the DMG to the target from other attributes by <color=#FFFFFF>30%</color> for 30s.\nUpon entering the battlefield, Lycaon gains one <color=#FFFFFF>Encircle Prey</color> activation chance.\nWhen <color=#FFFFFF>Encircle Prey</color> has available activations, hitting an enemy with <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> triggers the <color=#FFFFFF>Quick Assist</color> of the previous character in the squad. During this skill, when other squad members enter via <color=#FFFFFF>Quick Assist</color>, Lycaon enters the <color=#FFFFFF>Encircle Prey</color> state for 8s.\nWhen an elite or boss enemy becomes Stunned, 1<color=#FFFFFF>Encircle Prey</color> activation chance is gained. Up to 1 <color=#FFFFFF>Encircle Prey</color> activation can be stored.\nWhen the <color=#FFFFFF>Encircle Prey</color> state ends, Lycaon automatically activates <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>. If the <color=#FFFFFF>Encircle Prey</color> state ends early, for every 1s of remaining duration, the Daze dealt by the next <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> increases by <color=#FFFFFF>6%</color>.\nWhen the currently active character stops attacking or uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Lycaon will end the <color=#FFFFFF>Encircle Prey</color> state early.\nWhen Lycaon manually uses <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>, the <color=#FFFFFF>Encircle Prey</color> state also ends early, but <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> will not be automatically triggered.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, Lycaon will activate <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> based on the skills used by the currently active character.\nWhen the currently active character uses a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>EX Special Attack</color>, Lycaon will simultaneously perform the 1st through 3rd hits of his <color=#FFFFFF>Basic Attack</color>.\nWhen the active character performs a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>, Lycaon will simultaneously perform a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>. After performing a <color=#FFFFFF>Dodge Counter</color> while in the <color=#FFFFFF>Encircle Prey</color> state, Lycaon can immediately follow up with the 3rd hit of his <color=#FFFFFF>Basic Attack</color>.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, when Lycaon is not the currently active Agent, his attacks only deal DMG and Daze. While Lycaon is the currently active character, the <color=#FFFFFF>Encircle Prey</color> duration does not decrease.",
+          "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+        ],
+        "ExtraProperty": {},
+        "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
+      },
+      "1141512": {
+        "Level": 5,
+        "Id": 1141512,
+        "Name": [
+          "Core Passive: Metallic Paws",
+          "Additional Ability: Elegant Predator"
+        ],
+        "Desc": [
+          "When Lycaon completes charging during a <color=#FFFFFF>Basic Attack</color>, or activates a <color=#FFFFFF>Dodge Counter</color> or <color=#FFFFFF>Dash Attack</color>, the Daze inflicted by the skill increases by <color=#2BAD00>66.6%</color>.\nWhen <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color>, <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color>, or <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> hits an enemy, the target's <color=#98EFF0>Ice RES</color> is reduced by 25%, and it increases the DMG to the target from other attributes by <color=#FFFFFF>30%</color> for 30s.\nUpon entering the battlefield, Lycaon gains one <color=#FFFFFF>Encircle Prey</color> activation chance.\nWhen <color=#FFFFFF>Encircle Prey</color> has available activations, hitting an enemy with <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> triggers the <color=#FFFFFF>Quick Assist</color> of the previous character in the squad. During this skill, when other squad members enter via <color=#FFFFFF>Quick Assist</color>, Lycaon enters the <color=#FFFFFF>Encircle Prey</color> state for 8s.\nWhen an elite or boss enemy becomes Stunned, 1<color=#FFFFFF>Encircle Prey</color> activation chance is gained. Up to 1 <color=#FFFFFF>Encircle Prey</color> activation can be stored.\nWhen the <color=#FFFFFF>Encircle Prey</color> state ends, Lycaon automatically activates <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>. If the <color=#FFFFFF>Encircle Prey</color> state ends early, for every 1s of remaining duration, the Daze dealt by the next <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> increases by <color=#FFFFFF>6%</color>.\nWhen the currently active character stops attacking or uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Lycaon will end the <color=#FFFFFF>Encircle Prey</color> state early.\nWhen Lycaon manually uses <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>, the <color=#FFFFFF>Encircle Prey</color> state also ends early, but <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> will not be automatically triggered.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, Lycaon will activate <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> based on the skills used by the currently active character.\nWhen the currently active character uses a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>EX Special Attack</color>, Lycaon will simultaneously perform the 1st through 3rd hits of his <color=#FFFFFF>Basic Attack</color>.\nWhen the active character performs a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>, Lycaon will simultaneously perform a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>. After performing a <color=#FFFFFF>Dodge Counter</color> while in the <color=#FFFFFF>Encircle Prey</color> state, Lycaon can immediately follow up with the 3rd hit of his <color=#FFFFFF>Basic Attack</color>.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, when Lycaon is not the currently active Agent, his attacks only deal DMG and Daze. While Lycaon is the currently active character, the <color=#FFFFFF>Encircle Prey</color> duration does not decrease.",
+          "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+        ],
+        "ExtraProperty": {},
+        "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
+      },
+      "1141513": {
+        "Level": 6,
+        "Id": 1141513,
+        "Name": [
+          "Core Passive: Metallic Paws",
+          "Additional Ability: Elegant Predator"
+        ],
+        "Desc": [
+          "When Lycaon completes charging during a <color=#FFFFFF>Basic Attack</color>, or activates a <color=#FFFFFF>Dodge Counter</color> or <color=#FFFFFF>Dash Attack</color>, the Daze inflicted by the skill increases by <color=#2BAD00>73.3%</color>.\nWhen <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color>, <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color>, or <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> hits an enemy, the target's <color=#98EFF0>Ice RES</color> is reduced by 25%, and it increases the DMG to the target from other attributes by <color=#FFFFFF>30%</color> for 30s.\nUpon entering the battlefield, Lycaon gains one <color=#FFFFFF>Encircle Prey</color> activation chance.\nWhen <color=#FFFFFF>Encircle Prey</color> has available activations, hitting an enemy with <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> triggers the <color=#FFFFFF>Quick Assist</color> of the previous character in the squad. During this skill, when other squad members enter via <color=#FFFFFF>Quick Assist</color>, Lycaon enters the <color=#FFFFFF>Encircle Prey</color> state for 8s.\nWhen an elite or boss enemy becomes Stunned, 1<color=#FFFFFF>Encircle Prey</color> activation chance is gained. Up to 1 <color=#FFFFFF>Encircle Prey</color> activation can be stored.\nWhen the <color=#FFFFFF>Encircle Prey</color> state ends, Lycaon automatically activates <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>. If the <color=#FFFFFF>Encircle Prey</color> state ends early, for every 1s of remaining duration, the Daze dealt by the next <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> increases by <color=#FFFFFF>6%</color>.\nWhen the currently active character stops attacking or uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Lycaon will end the <color=#FFFFFF>Encircle Prey</color> state early.\nWhen Lycaon manually uses <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>, the <color=#FFFFFF>Encircle Prey</color> state also ends early, but <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> will not be automatically triggered.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, Lycaon will activate <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> based on the skills used by the currently active character.\nWhen the currently active character uses a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>EX Special Attack</color>, Lycaon will simultaneously perform the 1st through 3rd hits of his <color=#FFFFFF>Basic Attack</color>.\nWhen the active character performs a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>, Lycaon will simultaneously perform a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>. After performing a <color=#FFFFFF>Dodge Counter</color> while in the <color=#FFFFFF>Encircle Prey</color> state, Lycaon can immediately follow up with the 3rd hit of his <color=#FFFFFF>Basic Attack</color>.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, when Lycaon is not the currently active Agent, his attacks only deal DMG and Daze. While Lycaon is the currently active character, the <color=#FFFFFF>Encircle Prey</color> duration does not decrease.",
+          "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+        ],
+        "ExtraProperty": {},
+        "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
+      },
+      "1141514": {
+        "Level": 7,
+        "Id": 1141514,
+        "Name": [
+          "Core Passive: Metallic Paws",
+          "Additional Ability: Elegant Predator"
+        ],
+        "Desc": [
+          "When Lycaon completes charging during a <color=#FFFFFF>Basic Attack</color>, or activates a <color=#FFFFFF>Dodge Counter</color> or <color=#FFFFFF>Dash Attack</color>, the Daze inflicted by the skill increases by <color=#2BAD00>80%</color>.\nWhen <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color>, <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color>, or <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> hits an enemy, the target's <color=#98EFF0>Ice RES</color> is reduced by 25%, and it increases the DMG to the target from other attributes by <color=#FFFFFF>30%</color> for 30s.\nUpon entering the battlefield, Lycaon gains one <color=#FFFFFF>Encircle Prey</color> activation chance.\nWhen <color=#FFFFFF>Encircle Prey</color> has available activations, hitting an enemy with <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> triggers the <color=#FFFFFF>Quick Assist</color> of the previous character in the squad. During this skill, when other squad members enter via <color=#FFFFFF>Quick Assist</color>, Lycaon enters the <color=#FFFFFF>Encircle Prey</color> state for 8s.\nWhen an elite or boss enemy becomes Stunned, 1<color=#FFFFFF>Encircle Prey</color> activation chance is gained. Up to 1 <color=#FFFFFF>Encircle Prey</color> activation can be stored.\nWhen the <color=#FFFFFF>Encircle Prey</color> state ends, Lycaon automatically activates <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>. If the <color=#FFFFFF>Encircle Prey</color> state ends early, for every 1s of remaining duration, the Daze dealt by the next <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> increases by <color=#FFFFFF>6%</color>.\nWhen the currently active character stops attacking or uses a <color=#FFFFFF>Chain Attack</color> or <color=#FFFFFF>Ultimate</color>, Lycaon will end the <color=#FFFFFF>Encircle Prey</color> state early.\nWhen Lycaon manually uses <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color>, the <color=#FFFFFF>Encircle Prey</color> state also ends early, but <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack - Glacial Waltz</color> will not be automatically triggered.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, Lycaon will activate <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Dash Attack</color>, and <color=#FFFFFF>Dodge Counter</color> based on the skills used by the currently active character.\nWhen the currently active character uses a <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>EX Special Attack</color>, Lycaon will simultaneously perform the 1st through 3rd hits of his <color=#FFFFFF>Basic Attack</color>.\nWhen the active character performs a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>, Lycaon will simultaneously perform a <color=#FFFFFF>Dodge</color> or <color=#FFFFFF>Dodge Counter</color>. After performing a <color=#FFFFFF>Dodge Counter</color> while in the <color=#FFFFFF>Encircle Prey</color> state, Lycaon can immediately follow up with the 3rd hit of his <color=#FFFFFF>Basic Attack</color>.\nWhile the <color=#FFFFFF>Encircle Prey</color> state is active, when Lycaon is not the currently active Agent, his attacks only deal DMG and Daze. While Lycaon is the currently active character, the <color=#FFFFFF>Encircle Prey</color> duration does not decrease.",
+          "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
+        ],
+        "ExtraProperty": {},
+        "Potential": [114100, 114101, 114102, 114103, 114104, 114105]
       }
     },
     "Materials": {
@@ -2037,6 +2210,67 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
-  "Potential": [],
-  "PotentialDetail": {}
+  "Potential": [114100, 114101, 114102, 114103, 114104, 114105],
+  "PotentialDetail": {
+    "114100": {
+      "Id": 114100,
+      "Name": "",
+      "Desc": "",
+      "Image": "Lycaon",
+      "LevelShowName": "Hunter's Grace I",
+      "Level": 1,
+      "AbilityList": [11141401, 11141601],
+      "PotentialMaterials": [{ "ItemId": 20114, "Number": 1 }]
+    },
+    "114101": {
+      "Id": 114101,
+      "Name": "Potential Awakening: Glacial Rush",
+      "Desc": "While <color=#FFFFFF>Encircle Prey</color> is active, when Lycaon performs a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, or <color=#FFFFFF>Dodge Counter</color> as a non-active Agent, his Impact is increased by <color=#2BAD00>5%</color>.",
+      "Image": "Lycaon",
+      "LevelShowName": "Hunter's Grace II",
+      "Level": 2,
+      "AbilityList": [11141401, 11141501, 11141601],
+      "PotentialMaterials": [{ "ItemId": 20114, "Number": 1 }]
+    },
+    "114102": {
+      "Id": 114102,
+      "Name": "Potential Awakening: Glacial Rush",
+      "Desc": "While <color=#FFFFFF>Encircle Prey</color> is active, when Lycaon performs a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, or <color=#FFFFFF>Dodge Counter</color> as a non-active Agent, his Impact is increased by <color=#2BAD00>7.5%</color>.",
+      "Image": "Lycaon",
+      "LevelShowName": "Hunter's Grace III",
+      "Level": 3,
+      "AbilityList": [11141401, 11141502, 11141601],
+      "PotentialMaterials": [{ "ItemId": 20114, "Number": 1 }]
+    },
+    "114103": {
+      "Id": 114103,
+      "Name": "Potential Awakening: Glacial Rush",
+      "Desc": "While <color=#FFFFFF>Encircle Prey</color> is active, when Lycaon performs a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, or <color=#FFFFFF>Dodge Counter</color> as a non-active Agent, his Impact is increased by <color=#2BAD00>10%</color>.",
+      "Image": "Lycaon",
+      "LevelShowName": "Hunter's Grace IV",
+      "Level": 4,
+      "AbilityList": [11141401, 11141503, 11141601],
+      "PotentialMaterials": [{ "ItemId": 20114, "Number": 1 }]
+    },
+    "114104": {
+      "Id": 114104,
+      "Name": "Potential Awakening: Glacial Rush",
+      "Desc": "While <color=#FFFFFF>Encircle Prey</color> is active, when Lycaon performs a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, or <color=#FFFFFF>Dodge Counter</color> as a non-active Agent, his Impact is increased by <color=#2BAD00>12.5%</color>.",
+      "Image": "Lycaon",
+      "LevelShowName": "Hunter's Grace V",
+      "Level": 5,
+      "AbilityList": [11141401, 11141504, 11141601],
+      "PotentialMaterials": [{ "ItemId": 20114, "Number": 1 }]
+    },
+    "114105": {
+      "Id": 114105,
+      "Name": "Potential Awakening: Glacial Rush",
+      "Desc": "While <color=#FFFFFF>Encircle Prey</color> is active, when Lycaon performs a <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, or <color=#FFFFFF>Dodge Counter</color> as a non-active Agent, his Impact is increased by <color=#2BAD00>15%</color>.",
+      "Image": "Lycaon",
+      "LevelShowName": "Hunter's Grace VI",
+      "Level": 6,
+      "AbilityList": [11141401, 11141505, 11141601],
+      "PotentialMaterials": [{ "ItemId": 20114, "Number": 1 }]
+    }
+  }
 }

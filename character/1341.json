@@ -1661,8 +1661,8 @@
   },
   "FairyRecommend": {
     "Slot4": 31600,
-    "Slot2": 31900,
-    "SlotSub": 33100,
+    "Slot2": 33100,
+    "SlotSub": 32800,
     "Part4": {
       "Prop": 11102,
       "Name": "HP",
@@ -1689,5 +1689,6 @@
     }
   },
   "Potential": [],
-  "PotentialDetail": {}
+  "PotentialDetail": {},
+  "Live2D": "UISpinezhao"
 }

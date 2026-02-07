@@ -1,0 +1,1715 @@
+{
+  "Id": 1491,
+  "Icon": "IconRole58",
+  "Name": "Sunna",
+  "CodeName": "Sunna",
+  "Rarity": 4,
+  "WeaponType": { "4": "Support" },
+  "ElementType": { "200": "Physical" },
+  "SpecialElementType": {},
+  "HitType": { "102": "Strike" },
+  "Camp": { "13": "Angels of Delusion" },
+  "Gender": 2,
+  "PartnerInfo": {
+    "Birthday": "JUL 18",
+    "FullName": "Sunna",
+    "Gender": "Female",
+    "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle58.png",
+    "ImpressionF": "Sometimes Sunna reminds me of some kind of rare creature in a game — she only spawns under very specific conditions!\nLast time, I had to bug her for a whole week just to get her to go clothes shopping with me!",
+    "ImpressionM": "Yeah, I've had my fair share of Belle's nonstop badgering... I bet Sunna couldn't handle it either.",
+    "Name": "",
+    "OutlookDesc": "",
+    "ProfileDesc": "Sunna is a member of the Angels of Delusion idol group and the composer behind all of the group's music. Maintaining top-tier songwriting while keeping pace with rehearsals and stage performances is anything but easy for her. When the pressure piles up, she occasionally employs the tactic of \"retreat is the best option\" to dodge Captain Nangong Yu's brutal scheduling.\nNote: Reliable intelligence suggests that this tactic works largely because Nangong Yu intentionally lets it slide.\n\nSunna and Nangong Yu, another member of the Angels of Delusion, have known each other since they were young and grew up together. While they appear to always squabble, the two are in fact deeply dependent on one another. When it comes to music, Sunna shares a strong connection with their final member, Aria. As Aria puts it, the two frequently spend whole days in the studio discussing melodies for new songs, only to drift off to sleep without even realizing it, heads resting against each other.\n\nSunna is fairly introverted and prefers spending time alone over group activities. That said, her two teammates know her weaknesses all too well — she finds it hard to say no and can't handle praise — and are helping her gradually overcome her social anxiety through desensitization training (progress: about 25%).\n\nWhile most fans see Sunna's \"hopeless\" side as endearing, she herself seems eager to tear off that label and become a confident, \"proper idol.\" As the creative force behind the music, she often wants to flee the stage — yet in truth, she's not as indifferent to performing as she claims to be.\nEvidence: A sticky note by Sunna's bedside that reads \"I can't disappoint the fans. I need to give them my very best on stage!\"",
+    "Race": "Angels of Delusion",
+    "RoleIcon": "IconRole/UnPacker/IconRole58",
+    "Stature": "154",
+    "UnlockCondition": [
+      "Obtain Agent",
+      "Unlocked after completing Main Commission Season 2 Interlude: \"Encore for an Old Dream\"",
+      "Complete the \"Anby's Problem\" commission"
+    ],
+    "TrustLv": {
+      "1": "Sunna is a member of the Angels of Delusion idol group and the composer behind all of the group's music. Maintaining top-tier songwriting while keeping pace with rehearsals and stage performances is anything but easy for her. When the pressure piles up, she occasionally employs the tactic of \"retreat is the best option\" to dodge Captain Nangong Yu's brutal scheduling.\nNote: Reliable intelligence suggests that this tactic works largely because Nangong Yu intentionally lets it slide.\n\nSunna and Nangong Yu, another member of the Angels of Delusion, have known each other since they were young and grew up together. While they appear to always squabble, the two are in fact deeply dependent on one another. When it comes to music, Sunna shares a strong connection with their final member, Aria. As Aria puts it, the two frequently spend whole days in the studio discussing melodies for new songs, only to drift off to sleep without even realizing it, heads resting against each other.\n\nSunna is fairly introverted and prefers spending time alone over group activities. That said, her two teammates know her weaknesses all too well — she finds it hard to say no and can't handle praise — and are helping her gradually overcome her social anxiety through desensitization training (progress: about 25%).\n\nWhile most fans see Sunna's \"hopeless\" side as endearing, she herself seems eager to tear off that label and become a confident, \"proper idol.\" As the creative force behind the music, she often wants to flee the stage — yet in truth, she's not as indifferent to performing as she claims to be.\nEvidence: A sticky note by Sunna's bedside that reads \"I can't disappoint the fans. I need to give them my very best on stage!\"",
+      "2": "",
+      "3": "Sunna has a weakness for sweets that look cute, which often leads her to buy treats that are all looks and far too sugary — something Nangong never misses a chance to tease her about. Even so, when Nangong and Aria pick out gifts for Sunna, they always settle on cupcakes with colorful, eye-catching designs.\nSunna also loves things with gentle, fragrant scents and often makes scented candles herself, as they help her focus her thoughts and spark inspiration. Once she enters her own \"musical kingdom,\" she becomes so absorbed that she can barely hear anything from the outside world.\nNote: According to Aria, Sunna once burned Nangong's limited-edition teapot dry while writing a song. To make it up to her, Sunna spent more than two weeks serving tea and running errands for Nangong as an apology.",
+      "4": ""
+    }
+  },
+  "Skin": {
+    "3114910": {
+      "Name": "Sunna: Dreams on Loop",
+      "Desc": "Put on the outfit she finds cutest, and she can break free from the crowd, slipping into the lingering echoes of delusion.",
+      "Image": "IconRole58"
+    },
+    "3114911": {
+      "Name": "Sunna: Afternoon Tea Break",
+      "Desc": "Freshly baked cake, rich aromatic coffee, and the warm afternoon sun...\nWrapped in moments of softness, it's time to begin today's tea break",
+      "Image": "IconRole58_01"
+    }
+  },
+  "Stats": {
+    "Armor": 0,
+    "ArmorGrowth": 0,
+    "Attack": 108,
+    "AttackGrowth": 63517,
+    "AvatarPieceId": 5491,
+    "BreakStun": 98,
+    "Crit": 500,
+    "CritDamage": 5000,
+    "CritDmgRes": 0,
+    "CritRes": 0,
+    "Defence": 48,
+    "DefenceGrowth": 65524,
+    "ElementAbnormalPower": 96,
+    "ElementMystery": 95,
+    "Endurance": 0,
+    "HpGrowth": 924944,
+    "HpMax": 681,
+    "PenDelta": 0,
+    "PenRate": 0,
+    "Rbl": 1,
+    "RblCorrectionFactor": 10000,
+    "RblProbability": 0,
+    "Shield": 0,
+    "ShieldGrowth": 0,
+    "SpBarPoint": 120,
+    "SpRecover": 100,
+    "Stun": 0,
+    "Tags": [
+      "Summer",
+      "Punch",
+      "Physics",
+      "Female",
+      "Camp13",
+      "Size1",
+      "AidTypeParry",
+      "Summer",
+      "EtherEyesSize1"
+    ],
+    "RpMax": 0,
+    "RpRecover": 0
+  },
+  "Level": {
+    "1": {
+      "HpMax": 0,
+      "Attack": 0,
+      "Defence": 0,
+      "LevelMax": 10,
+      "LevelMin": 0,
+      "Materials": { "10": 24000, "100214": 4 }
+    },
+    "2": {
+      "HpMax": 468,
+      "Attack": 39,
+      "Defence": 33,
+      "LevelMax": 20,
+      "LevelMin": 10,
+      "Materials": { "10": 56000, "100224": 12 }
+    },
+    "3": {
+      "HpMax": 936,
+      "Attack": 77,
+      "Defence": 66,
+      "LevelMax": 30,
+      "LevelMin": 20,
+      "Materials": { "10": 120000, "100224": 20 }
+    },
+    "4": {
+      "HpMax": 1403,
+      "Attack": 116,
+      "Defence": 99,
+      "LevelMax": 40,
+      "LevelMin": 30,
+      "Materials": { "10": 200000, "100234": 10 }
+    },
+    "5": {
+      "HpMax": 1871,
+      "Attack": 154,
+      "Defence": 133,
+      "LevelMax": 50,
+      "LevelMin": 40,
+      "Materials": { "10": 400000, "100234": 20 }
+    },
+    "6": {
+      "HpMax": 2339,
+      "Attack": 193,
+      "Defence": 166,
+      "LevelMax": 60,
+      "LevelMin": 50,
+      "Materials": {}
+    }
+  },
+  "ExtraLevel": {
+    "1": {
+      "MaxLevel": 15,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 0
+        },
+        "12102": {
+          "Prop": 12102,
+          "Name": "ATK",
+          "Format": "{0:0.#%}",
+          "Value": 700
+        }
+      }
+    },
+    "2": {
+      "MaxLevel": 25,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 25
+        },
+        "12102": {
+          "Prop": 12102,
+          "Name": "ATK",
+          "Format": "{0:0.#%}",
+          "Value": 700
+        }
+      }
+    },
+    "3": {
+      "MaxLevel": 35,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 25
+        },
+        "12102": {
+          "Prop": 12102,
+          "Name": "ATK",
+          "Format": "{0:0.#%}",
+          "Value": 1400
+        }
+      }
+    },
+    "4": {
+      "MaxLevel": 45,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 50
+        },
+        "12102": {
+          "Prop": 12102,
+          "Name": "ATK",
+          "Format": "{0:0.#%}",
+          "Value": 1400
+        }
+      }
+    },
+    "5": {
+      "MaxLevel": 55,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 50
+        },
+        "12102": {
+          "Prop": 12102,
+          "Name": "ATK",
+          "Format": "{0:0.#%}",
+          "Value": 2100
+        }
+      }
+    },
+    "6": {
+      "MaxLevel": 60,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 75
+        },
+        "12102": {
+          "Prop": 12102,
+          "Name": "ATK",
+          "Format": "{0:0.#%}",
+          "Value": 2100
+        }
+      }
+    }
+  },
+  "LevelEXP": [
+    50, 150, 250, 400, 600, 800, 1000, 1250, 1500, 1800, 1935, 2065, 2200, 2335,
+    2465, 2600, 2735, 2865, 3000, 4680, 4975, 5265, 5560, 5855, 6145, 6440,
+    6735, 7025, 7320, 10800, 11400, 12000, 12600, 13200, 13800, 14400, 15000,
+    15600, 16200, 17100, 18300, 19500, 20700, 21900, 23100, 24300, 25500, 26700,
+    27900, 34200, 36600, 39000, 41400, 43800, 46200, 48600, 51000, 53400, 55800,
+    0
+  ],
+  "Skill": {
+    "Basic": {
+      "Description": [
+        {
+          "Name": "Basic Attack: Mischief Meteor Hammer",
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to four attacks ahead, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
+        },
+        {
+          "Name": "Basic Attack: Naughty Cat Spotted",
+          "Desc": "During combat, when Sunna is off-field and there are no enemies with <color=#FFFFFF>Cat's Gaze</color>, Bubblegum consumes 1 Claw Sharpener to automatically launch an attack, dealing <color=#F0D12B>Physical DMG</color>.\nWhen any squad member activates <color=#FFFFFF>Ether Veil</color>, Sunna gains 2 <color=#FFFFFF>Claw Sharpeners</color>.\nWhen any squad member applies an Attribute Anomaly to an enemy, Sunna gains 1 <color=#FFFFFF>Claw Sharpener</color>. This effect can trigger at most once every 10s.\nBubblegum inherits Sunna's initial ATK. Sunna can hold up to 6 <color=#FFFFFF>Claw Sharpeners</color>.",
+          "Potential": []
+        },
+        {
+          "Name": "Basic Attack: Mischief Meteor Hammer",
+          "Param": [
+            {
+              "Name": "1st-Hit DMG Multiplier",
+              "Desc": "{Skill:1491001, Prop:1001}",
+              "Param": {
+                "1491001": {
+                  "Main": 4340,
+                  "Growth": 400,
+                  "Format": "%",
+                  "DamagePercentage": 4340,
+                  "DamagePercentageGrowth": 400,
+                  "StunRatio": 2480,
+                  "StunRatioGrowth": 120,
+                  "SpRecovery": 4510,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 69025,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 1250,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2501
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2nd-Hit DMG Multiplier",
+              "Desc": "{Skill:1491002, Prop:1001}",
+              "Param": {
+                "1491002": {
+                  "Main": 17590,
+                  "Growth": 1600,
+                  "Format": "%",
+                  "DamagePercentage": 17590,
+                  "DamagePercentageGrowth": 1600,
+                  "StunRatio": 10910,
+                  "StunRatioGrowth": 500,
+                  "SpRecovery": 18960,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 289850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5265,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 10531
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3rd-Hit DMG Multiplier",
+              "Desc": "{Skill:1491003, Prop:1001}",
+              "Param": {
+                "1491003": {
+                  "Main": 18120,
+                  "Growth": 1650,
+                  "Format": "%",
+                  "DamagePercentage": 18120,
+                  "DamagePercentageGrowth": 1650,
+                  "StunRatio": 12360,
+                  "StunRatioGrowth": 570,
+                  "SpRecovery": 20430,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 312125,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5674,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11350
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4th-Hit DMG Multiplier",
+              "Desc": "{Skill:1491004, Prop:1001}",
+              "Param": {
+                "1491004": {
+                  "Main": 40530,
+                  "Growth": 3690,
+                  "Format": "%",
+                  "DamagePercentage": 40530,
+                  "DamagePercentageGrowth": 3690,
+                  "StunRatio": 25170,
+                  "StunRatioGrowth": 1150,
+                  "SpRecovery": 41920,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 640475,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 11643,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 23287
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "1st-Hit Daze Multiplier",
+              "Desc": "{Skill:1491001, Prop:1002}",
+              "Param": {
+                "1491001": {
+                  "Main": 2480,
+                  "Growth": 120,
+                  "Format": "%",
+                  "DamagePercentage": 4340,
+                  "DamagePercentageGrowth": 400,
+                  "StunRatio": 2480,
+                  "StunRatioGrowth": 120,
+                  "SpRecovery": 4510,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 69025,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 1250,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2501
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2nd-Hit Daze Multiplier",
+              "Desc": "{Skill:1491002, Prop:1002}",
+              "Param": {
+                "1491002": {
+                  "Main": 10910,
+                  "Growth": 500,
+                  "Format": "%",
+                  "DamagePercentage": 17590,
+                  "DamagePercentageGrowth": 1600,
+                  "StunRatio": 10910,
+                  "StunRatioGrowth": 500,
+                  "SpRecovery": 18960,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 289850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5265,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 10531
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3rd-Hit Daze Multiplier",
+              "Desc": "{Skill:1491003, Prop:1002}",
+              "Param": {
+                "1491003": {
+                  "Main": 12360,
+                  "Growth": 570,
+                  "Format": "%",
+                  "DamagePercentage": 18120,
+                  "DamagePercentageGrowth": 1650,
+                  "StunRatio": 12360,
+                  "StunRatioGrowth": 570,
+                  "SpRecovery": 20430,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 312125,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5674,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11350
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4th-Hit Daze Multiplier",
+              "Desc": "{Skill:1491004, Prop:1002}",
+              "Param": {
+                "1491004": {
+                  "Main": 25170,
+                  "Growth": 1150,
+                  "Format": "%",
+                  "DamagePercentage": 40530,
+                  "DamagePercentageGrowth": 3690,
+                  "StunRatio": 25170,
+                  "StunRatioGrowth": 1150,
+                  "SpRecovery": 41920,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 640475,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 11643,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 23287
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Basic Attack: Naughty Cat Spotted",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1491005, Prop:1001}",
+              "Param": {
+                "1491005": {
+                  "Main": 20800,
+                  "Growth": 1900,
+                  "Format": "%",
+                  "DamagePercentage": 20800,
+                  "DamagePercentageGrowth": 1900,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": { "10": 2000, "100110": 2 },
+        "2": { "10": 3000, "100110": 3 },
+        "3": { "10": 6000, "100120": 2 },
+        "4": { "10": 9000, "100120": 3 },
+        "5": { "10": 12000, "100120": 4 },
+        "6": { "10": 18000, "100120": 6 },
+        "7": { "10": 45000, "100130": 5 },
+        "8": { "10": 67500, "100130": 8 },
+        "9": { "10": 90000, "100130": 10 },
+        "10": { "10": 112500, "100130": 12 },
+        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "12": {}
+      }
+    },
+    "Dodge": {
+      "Description": [
+        {
+          "Name": "Dodge: Can't Hit Me",
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Dash Attack: Skyward Hammer",
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nLaunches enemies in front into the air, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
+        },
+        {
+          "Name": "Dodge Counter: Delusion Strikeout",
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nStrikes enemies in front with a series of hammer blows, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Dash Attack: Skyward Hammer",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1491009, Prop:1001}",
+              "Param": {
+                "1491009": {
+                  "Main": 9970,
+                  "Growth": 910,
+                  "Format": "%",
+                  "DamagePercentage": 9970,
+                  "DamagePercentageGrowth": 910,
+                  "StunRatio": 4990,
+                  "StunRatioGrowth": 230,
+                  "SpRecovery": 13810,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 105600,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 1916,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3834
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1491009, Prop:1002}",
+              "Param": {
+                "1491009": {
+                  "Main": 4990,
+                  "Growth": 230,
+                  "Format": "%",
+                  "DamagePercentage": 9970,
+                  "DamagePercentageGrowth": 910,
+                  "StunRatio": 4990,
+                  "StunRatioGrowth": 230,
+                  "SpRecovery": 13810,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 105600,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 1916,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3834
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Dodge Counter: Delusion Strikeout",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1491010, Prop:1001}",
+              "Param": {
+                "1491010": {
+                  "Main": 31880,
+                  "Growth": 2900,
+                  "Format": "%",
+                  "DamagePercentage": 31880,
+                  "DamagePercentageGrowth": 2900,
+                  "StunRatio": 27530,
+                  "StunRatioGrowth": 1260,
+                  "SpRecovery": 40220,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 307175,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5584,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26170
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1491010, Prop:1002}",
+              "Param": {
+                "1491010": {
+                  "Main": 27530,
+                  "Growth": 1260,
+                  "Format": "%",
+                  "DamagePercentage": 31880,
+                  "DamagePercentageGrowth": 2900,
+                  "StunRatio": 27530,
+                  "StunRatioGrowth": 1260,
+                  "SpRecovery": 40220,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 307175,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5584,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 26170
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": { "10": 2000, "100110": 2 },
+        "2": { "10": 3000, "100110": 3 },
+        "3": { "10": 6000, "100120": 2 },
+        "4": { "10": 9000, "100120": 3 },
+        "5": { "10": 12000, "100120": 4 },
+        "6": { "10": 18000, "100120": 6 },
+        "7": { "10": 45000, "100130": 5 },
+        "8": { "10": 67500, "100130": 8 },
+        "9": { "10": 90000, "100130": 10 },
+        "10": { "10": 112500, "100130": 12 },
+        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "12": {}
+      }
+    },
+    "Special": {
+      "Description": [
+        {
+          "Name": "Special Attack: Star Shooter",
+          "Desc": "Press <IconMap:Icon_Special> to activate:\nShoots Bubblegum to attack enemies in front using an air gun, dealing <color=#F0D12B>Physical DMG</color>. After activation, Bubblegum enters combat.",
+          "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: Bubblegum Barrage",
+          "Desc": "With enough energy, press <IconMap:Icon_SpecialReady> to activate:\nHurls Bubblegum at the target, dealing <color=#F0D12B>Physical DMG</color>. After activation, Bubblegum enters combat.\nUpon activating this skill, all Agents in the squad gain Angelic Chord-ination for 40s.\nLanding a heavy attack with this skill triggers a <color=#FFFFFF>Quick Assist</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: Special Photography Technique",
+          "Desc": "While in the Angelic Chord-ination state, press <IconMap:Icon_SpecialReady> to activate, or during <color=#FFFFFF>EX Special Attack: Bubblegum Barrage</color>, keep holding <IconMap:Icon_SpecialReady> to quickly activate:\nAttacks the target enemy in coordination with Bubblegum, dealing <color=#F0D12B>Physical DMG</color>. After activation, Bubblegum enters combat.\nBefore the heavy attack is executed, activates <color=#FFFFFF>Ether Veil: Delusion Reprise</color>. While <color=#FFFFFF>Ether Veil: Delusion Reprise</color> is active, all squad members gain an additional 50 ATK for 40s. Re-activating <color=#FFFFFF>Ether Veil: Delusion Reprise</color> will cancel the existing instance of <color=#FFFFFF>Ether Veil: Delusion Reprise</color>.\nLanding a heavy attack with this skill triggers a <color=#FFFFFF>Quick Assist</color>.\nCharacter is invulnerable while using this skill. <color=#FFFFFF>EX Special Attack: Special Photography Technique</color> can be used once each time Sunna enters the Angelic Chord-ination state.",
+          "Potential": []
+        },
+        {
+          "Name": "Special Attack: Star Shooter",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1491006, Prop:1001}",
+              "Param": {
+                "1491006": {
+                  "Main": 5640,
+                  "Growth": 520,
+                  "Format": "%",
+                  "DamagePercentage": 5640,
+                  "DamagePercentageGrowth": 520,
+                  "StunRatio": 5640,
+                  "StunRatioGrowth": 260,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 119350,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2167,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4336
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1491006, Prop:1002}",
+              "Param": {
+                "1491006": {
+                  "Main": 5640,
+                  "Growth": 260,
+                  "Format": "%",
+                  "DamagePercentage": 5640,
+                  "DamagePercentageGrowth": 520,
+                  "StunRatio": 5640,
+                  "StunRatioGrowth": 260,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 119350,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2167,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4336
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: Bubblegum Barrage",
+          "Param": [
+            {
+              "Name": "Bubblegum Barrage DMG Multiplier",
+              "Desc": "{{Skill:1491007, Prop:1001} + {Skill:1491018, Prop:1001}}",
+              "Param": {
+                "1491007": {
+                  "Main": 79410,
+                  "Growth": 7220,
+                  "Format": "%",
+                  "DamagePercentage": 79410,
+                  "DamagePercentageGrowth": 7220,
+                  "StunRatio": 49460,
+                  "StunRatioGrowth": 2250,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 880275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 17102,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7334
+                },
+                "1491018": {
+                  "Main": 11920,
+                  "Growth": 1090,
+                  "Format": "%",
+                  "DamagePercentage": 11920,
+                  "DamagePercentageGrowth": 1090,
+                  "StunRatio": 11920,
+                  "StunRatioGrowth": 550,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 252175,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4581,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9164
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Bubblegum Barrage Daze Multiplier",
+              "Desc": "{{Skill:1491007, Prop:1002} + {Skill:1491018, Prop:1002}}",
+              "Param": {
+                "1491007": {
+                  "Main": 49460,
+                  "Growth": 2250,
+                  "Format": "%",
+                  "DamagePercentage": 79410,
+                  "DamagePercentageGrowth": 7220,
+                  "StunRatio": 49460,
+                  "StunRatioGrowth": 2250,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 880275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 17102,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7334
+                },
+                "1491018": {
+                  "Main": 11920,
+                  "Growth": 550,
+                  "Format": "%",
+                  "DamagePercentage": 11920,
+                  "DamagePercentageGrowth": 1090,
+                  "StunRatio": 11920,
+                  "StunRatioGrowth": 550,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 252175,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4581,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 9164
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Bubblegum Barrage DMG Multiplier when quickly chaining into Special Photography Technique",
+              "Desc": "{Skill:1491007, Prop:1001}",
+              "Param": {
+                "1491007": {
+                  "Main": 79410,
+                  "Growth": 7220,
+                  "Format": "%",
+                  "DamagePercentage": 79410,
+                  "DamagePercentageGrowth": 7220,
+                  "StunRatio": 49460,
+                  "StunRatioGrowth": 2250,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 880275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 17102,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7334
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Bubblegum Barrage Daze Multiplier when quickly chaining into Special Photography Technique",
+              "Desc": "{Skill:1491007, Prop:1002}",
+              "Param": {
+                "1491007": {
+                  "Main": 49460,
+                  "Growth": 2250,
+                  "Format": "%",
+                  "DamagePercentage": 79410,
+                  "DamagePercentageGrowth": 7220,
+                  "StunRatio": 49460,
+                  "StunRatioGrowth": 2250,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 880275,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 17102,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7334
+                }
+              },
+              "Potential": []
+            },
+            { "Name": "Energy Cost", "Desc": "70", "Potential": [] }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: Special Photography Technique",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1491008, Prop:1001}",
+              "Param": {
+                "1491008": {
+                  "Main": 82810,
+                  "Growth": 7530,
+                  "Format": "%",
+                  "DamagePercentage": 82810,
+                  "DamagePercentageGrowth": 7530,
+                  "StunRatio": 60230,
+                  "StunRatioGrowth": 2740,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1003475,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 21716,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 23171
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1491008, Prop:1002}",
+              "Param": {
+                "1491008": {
+                  "Main": 60230,
+                  "Growth": 2740,
+                  "Format": "%",
+                  "DamagePercentage": 82810,
+                  "DamagePercentageGrowth": 7530,
+                  "StunRatio": 60230,
+                  "StunRatioGrowth": 2740,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1003475,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 21716,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 23171
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "DMG Multiplier (Coordinated)",
+              "Desc": "{{Skill:1491008, Prop:1001} + {Skill:1491019, Prop:1001}}",
+              "Param": {
+                "1491008": {
+                  "Main": 82810,
+                  "Growth": 7530,
+                  "Format": "%",
+                  "DamagePercentage": 82810,
+                  "DamagePercentageGrowth": 7530,
+                  "StunRatio": 60230,
+                  "StunRatioGrowth": 2740,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1003475,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 21716,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 23171
+                },
+                "1491019": {
+                  "Main": 12430,
+                  "Growth": 1130,
+                  "Format": "%",
+                  "DamagePercentage": 12430,
+                  "DamagePercentageGrowth": 1130,
+                  "StunRatio": 9040,
+                  "StunRatioGrowth": 420,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier (Coordinated)",
+              "Desc": "{{Skill:1491008, Prop:1002} + {Skill:1491019, Prop:1002}}",
+              "Param": {
+                "1491008": {
+                  "Main": 60230,
+                  "Growth": 2740,
+                  "Format": "%",
+                  "DamagePercentage": 82810,
+                  "DamagePercentageGrowth": 7530,
+                  "StunRatio": 60230,
+                  "StunRatioGrowth": 2740,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1003475,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 21716,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 23171
+                },
+                "1491019": {
+                  "Main": 9040,
+                  "Growth": 420,
+                  "Format": "%",
+                  "DamagePercentage": 12430,
+                  "DamagePercentageGrowth": 1130,
+                  "StunRatio": 9040,
+                  "StunRatioGrowth": 420,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": { "10": 2000, "100110": 2 },
+        "2": { "10": 3000, "100110": 3 },
+        "3": { "10": 6000, "100120": 2 },
+        "4": { "10": 9000, "100120": 3 },
+        "5": { "10": 12000, "100120": 4 },
+        "6": { "10": 18000, "100120": 6 },
+        "7": { "10": 45000, "100130": 5 },
+        "8": { "10": 67500, "100130": 8 },
+        "9": { "10": 90000, "100130": 10 },
+        "10": { "10": 112500, "100130": 12 },
+        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "12": {}
+      }
+    },
+    "Chain": {
+      "Description": [
+        {
+          "Name": "Chain Attack: Don't Mess With the Cat",
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nCharges forward on Bubblegum, dealing massive <color=#F0D12B>Physical DMG</color>.\nLanding a heavy attack with this skill triggers a <color=#FFFFFF>Quick Assist</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Ultimate: Smash It All!",
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nAfter a series of hammer attacks, launches Bubblegum to cause an explosion, dealing massive <color=#F0D12B>Physical DMG</color> to enemies in an area.\nOn activating the heavy attack, gains 6 <color=#FFFFFF>Claw Sharpeners</color>.\nUpon landing the downward attack from above on an enemy, triggers a <color=#FFFFFF>Quick Assist</color> and restores <color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color> HP to all squad members.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Chain Attack: Don't Mess With the Cat",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1491011, Prop:1001}",
+              "Param": {
+                "1491011": {
+                  "Main": 81130,
+                  "Growth": 7380,
+                  "Format": "%",
+                  "DamagePercentage": 81130,
+                  "DamagePercentageGrowth": 7380,
+                  "StunRatio": 29260,
+                  "StunRatioGrowth": 1330,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2447775,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 21226,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 22504
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1491011, Prop:1002}",
+              "Param": {
+                "1491011": {
+                  "Main": 29260,
+                  "Growth": 1330,
+                  "Format": "%",
+                  "DamagePercentage": 81130,
+                  "DamagePercentageGrowth": 7380,
+                  "StunRatio": 29260,
+                  "StunRatioGrowth": 1330,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2447775,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 21226,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 22504
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Ultimate: Smash It All!",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1491012, Prop:1001}",
+              "Param": {
+                "1491012": {
+                  "Main": 209090,
+                  "Growth": 19010,
+                  "Format": "%",
+                  "DamagePercentage": 209090,
+                  "DamagePercentageGrowth": 19010,
+                  "StunRatio": 37280,
+                  "StunRatioGrowth": 1700,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 14335,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 78671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1491012, Prop:1002}",
+              "Param": {
+                "1491012": {
+                  "Main": 37280,
+                  "Growth": 1700,
+                  "Format": "%",
+                  "DamagePercentage": 209090,
+                  "DamagePercentageGrowth": 19010,
+                  "StunRatio": 37280,
+                  "StunRatioGrowth": 1700,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 14335,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 78671
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "HP Recovery",
+              "Desc": "{CAL:-50+AvatarSkillLevel(3)*250,1,2}",
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": { "10": 2000, "100110": 2 },
+        "2": { "10": 3000, "100110": 3 },
+        "3": { "10": 6000, "100120": 2 },
+        "4": { "10": 9000, "100120": 3 },
+        "5": { "10": 12000, "100120": 4 },
+        "6": { "10": 18000, "100120": 6 },
+        "7": { "10": 45000, "100130": 5 },
+        "8": { "10": 67500, "100130": 8 },
+        "9": { "10": 90000, "100130": 10 },
+        "10": { "10": 112500, "100130": 12 },
+        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "12": {}
+      }
+    },
+    "Assist": {
+      "Description": [
+        {
+          "Name": "Quick Assist: Sonic Beatdown",
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nUnleashes a series of hammer attacks against enemies in front, dealing <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Defensive Assist: Stage Fright",
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Assist Follow-Up: Jump Training",
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nContinuously jumps forward on the inflatable hammer, dealing massive <color=#F0D12B>Physical DMG</color> to enemies in front.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Quick Assist: Sonic Beatdown",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1491013, Prop:1001}",
+              "Param": {
+                "1491013": {
+                  "Main": 7270,
+                  "Growth": 670,
+                  "Format": "%",
+                  "DamagePercentage": 7270,
+                  "DamagePercentageGrowth": 670,
+                  "StunRatio": 7270,
+                  "StunRatioGrowth": 340,
+                  "SpRecovery": 20110,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 153725,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2792,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5585
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1491013, Prop:1002}",
+              "Param": {
+                "1491013": {
+                  "Main": 7270,
+                  "Growth": 340,
+                  "Format": "%",
+                  "DamagePercentage": 7270,
+                  "DamagePercentageGrowth": 670,
+                  "StunRatio": 7270,
+                  "StunRatioGrowth": 340,
+                  "SpRecovery": 20110,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 153725,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2792,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5585
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Defensive Assist: Stage Fright",
+          "Param": [
+            {
+              "Name": "Light Defensive Daze Multiplier",
+              "Desc": "{Skill:1491014, Prop:1002}",
+              "Param": {
+                "1491014": {
+                  "Main": 32070,
+                  "Growth": 1460,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 32070,
+                  "StunRatioGrowth": 1460,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 36664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Heavy Defensive Daze Multiplier",
+              "Desc": "{Skill:1491015, Prop:1002}",
+              "Param": {
+                "1491015": {
+                  "Main": 40520,
+                  "Growth": 1850,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 40520,
+                  "StunRatioGrowth": 1850,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 41664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Chain Defensive Daze Multiplier",
+              "Desc": "{Skill:1491016, Prop:1002}",
+              "Param": {
+                "1491016": {
+                  "Main": 19720,
+                  "Growth": 900,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 19720,
+                  "StunRatioGrowth": 900,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11664
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Assist Follow-Up: Jump Training",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1491017, Prop:1001}",
+              "Param": {
+                "1491017": {
+                  "Main": 53570,
+                  "Growth": 4870,
+                  "Format": "%",
+                  "DamagePercentage": 53570,
+                  "DamagePercentageGrowth": 4870,
+                  "StunRatio": 47170,
+                  "StunRatioGrowth": 2150,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1268850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 19371,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 21497
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1491017, Prop:1002}",
+              "Param": {
+                "1491017": {
+                  "Main": 47170,
+                  "Growth": 2150,
+                  "Format": "%",
+                  "DamagePercentage": 53570,
+                  "DamagePercentageGrowth": 4870,
+                  "StunRatio": 47170,
+                  "StunRatioGrowth": 2150,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1268850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 19371,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 21497
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": { "10": 2000, "100110": 2 },
+        "2": { "10": 3000, "100110": 3 },
+        "3": { "10": 6000, "100120": 2 },
+        "4": { "10": 9000, "100120": 3 },
+        "5": { "10": 12000, "100120": 4 },
+        "6": { "10": 18000, "100120": 6 },
+        "7": { "10": 45000, "100130": 5 },
+        "8": { "10": 67500, "100130": 8 },
+        "9": { "10": 90000, "100130": 10 },
+        "10": { "10": 112500, "100130": 12 },
+        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "12": {}
+      }
+    }
+  },
+  "SkillList": {
+    "1491001": {
+      "Name": "Basic Attack: Mischief Meteor Hammer",
+      "Desc": "<IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1491002": {
+      "Name": "Special Attack: Star Shooter",
+      "Desc": "<IconMap:Icon_Special>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1491003": {
+      "Name": "EX Special Attack: Bubblegum Barrage",
+      "Desc": "<IconMap:Icon_SpecialReady>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1491004": {
+      "Name": "EX Special Attack: Special Photography Technique",
+      "Desc": "<IconMap:Icon_SpecialReady> (Angelic Chord-ination)",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1491005": {
+      "Name": "EX Special Attack: Special Photography Technique (Quick Chain)",
+      "Desc": "<IconMap:Icon_SpecialReady> (Keep holding when activating EX Special Attack: Bubblegum Barrage)",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1491006": {
+      "Name": "Dash Attack: Skyward Hammer",
+      "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1491007": {
+      "Name": "Dodge Counter: Delusion Strikeout",
+      "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1491008": {
+      "Name": "Chain Attack: Don't Mess With the Cat",
+      "Desc": "<IconMap:Icon_QTE>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1491009": {
+      "Name": "Ultimate: Smash It All!",
+      "Desc": "<IconMap:Icon_UltimateReady>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1491010": {
+      "Name": "Quick Assist: Sonic Beatdown",
+      "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1491011": {
+      "Name": "Defensive Assist: Stage Fright",
+      "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
+      "ElementType": 0,
+      "HitType": 0,
+      "Potential": []
+    },
+    "1491012": {
+      "Name": "Assist Follow-Up: Jump Training",
+      "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    }
+  },
+  "Passive": {
+    "Level": {
+      "1491049": {
+        "Level": 1,
+        "Id": 1491049,
+        "Name": [
+          "Core Passive: Cuteness Is Justice",
+          "Additional Ability: Daydreamer's Counterpoint"
+        ],
+        "Desc": [
+          "Characters in the <color=#FFFFFF>Angelic Chord-ination</color> state gain increased ATK, equal to <color=#FFFFFF>30%</color> of Sunna's initial ATK, up to a maximum of <color=#2BAD00>525</color> ATK. When Sunna's initial ATK reaches 1,750, the ATK bonus granted to all squad members reaches its maximum.\nWhen attacks from Basic Attack: Naughty Cat Spotted, EX Special Attack: Bubblegum Barrage, EX Special Attack: Special Photography Technique, Chain Attack: Don't Mess With the Cat, or Ultimate: Smash It All! hit an enemy, apply <color=#FFFFFF>Cat's Gaze</color> to the target for 12s. While Sunna is the currently active character, the duration of <color=#FFFFFF>Cat's Gaze</color> is continuously refreshed. Some normal enemies affected by <color=#FFFFFF>Cat's Gaze</color> show reduced aggression toward Sunna.\nWhen <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> characters in the squad continuously land attacks on enemies affected by <color=#FFFFFF>Cat's Gaze</color>, <color=#FFFFFF>Cat's Gaze</color> is triggered and removed:\nWhen triggered by an <color=#FFFFFF>Attack</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>150%</color> of ATK to enemies in an area.\nWhen triggered by an <color=#FFFFFF>Anomaly</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>240%</color> of ATK to enemies in an area. This DMG is guaranteed to CRIT, and the CRIT DMG is increased by <color=#2BAD00>80%</color>.\nDMG dealt by <color=#FFFFFF>Cat's Gaze</color> is treated as DMG dealt by the triggering Agent.\nWhen multiple enemies on the field have <color=#FFFFFF>Cat's Gaze</color>, only the primary attack target's <color=#FFFFFF>Cat's Gaze</color> is triggered. Upon triggering, <color=#FFFFFF>Cat's Gaze</color> is removed from all enemies on the field.\nWhen an enemy is Stunned, the number of attacks required to trigger <color=#FFFFFF>Cat's Gaze</color> is significantly reduced.",
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen characters inside <color=#FFFFFF>Ether Veil: Delusion Reprise</color> land attacks on enemies, the target's Stun DMG Multiplier increases by 30% for 40s.\nWhen Sunna enters the battlefield, she gains 15 Energy. In Investigation Zone mode, the effect can trigger once every 180s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1491050": {
+        "Level": 2,
+        "Id": 1491050,
+        "Name": [
+          "Core Passive: Cuteness Is Justice",
+          "Additional Ability: Daydreamer's Counterpoint"
+        ],
+        "Desc": [
+          "Characters in the <color=#FFFFFF>Angelic Chord-ination</color> state gain increased ATK, equal to <color=#FFFFFF>30%</color> of Sunna's initial ATK, up to a maximum of <color=#2BAD00>615</color> ATK. When Sunna's initial ATK reaches 2,050, the ATK bonus granted to all squad members reaches its maximum.\nWhen attacks from Basic Attack: Naughty Cat Spotted, EX Special Attack: Bubblegum Barrage, EX Special Attack: Special Photography Technique, Chain Attack: Don't Mess With the Cat, or Ultimate: Smash It All! hit an enemy, apply <color=#FFFFFF>Cat's Gaze</color> to the target for 12s. While Sunna is the currently active character, the duration of <color=#FFFFFF>Cat's Gaze</color> is continuously refreshed. Some normal enemies affected by <color=#FFFFFF>Cat's Gaze</color> show reduced aggression toward Sunna.\nWhen <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> characters in the squad continuously land attacks on enemies affected by <color=#FFFFFF>Cat's Gaze</color>, <color=#FFFFFF>Cat's Gaze</color> is triggered and removed:\nWhen triggered by an <color=#FFFFFF>Attack</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>175%</color> of ATK to enemies in an area.\nWhen triggered by an <color=#FFFFFF>Anomaly</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>280%</color> of ATK to enemies in an area. This DMG is guaranteed to CRIT, and the CRIT DMG is increased by <color=#2BAD00>90%</color>.\nDMG dealt by <color=#FFFFFF>Cat's Gaze</color> is treated as DMG dealt by the triggering Agent.\nWhen multiple enemies on the field have <color=#FFFFFF>Cat's Gaze</color>, only the primary attack target's <color=#FFFFFF>Cat's Gaze</color> is triggered. Upon triggering, <color=#FFFFFF>Cat's Gaze</color> is removed from all enemies on the field.\nWhen an enemy is Stunned, the number of attacks required to trigger <color=#FFFFFF>Cat's Gaze</color> is significantly reduced.",
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen characters inside <color=#FFFFFF>Ether Veil: Delusion Reprise</color> land attacks on enemies, the target's Stun DMG Multiplier increases by 30% for 40s.\nWhen Sunna enters the battlefield, she gains 15 Energy. In Investigation Zone mode, the effect can trigger once every 180s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1491051": {
+        "Level": 3,
+        "Id": 1491051,
+        "Name": [
+          "Core Passive: Cuteness Is Justice",
+          "Additional Ability: Daydreamer's Counterpoint"
+        ],
+        "Desc": [
+          "Characters in the <color=#FFFFFF>Angelic Chord-ination</color> state gain increased ATK, equal to <color=#FFFFFF>30%</color> of Sunna's initial ATK, up to a maximum of <color=#2BAD00>705</color> ATK. When Sunna's initial ATK reaches 2,350, the ATK bonus granted to all squad members reaches its maximum.\nWhen attacks from Basic Attack: Naughty Cat Spotted, EX Special Attack: Bubblegum Barrage, EX Special Attack: Special Photography Technique, Chain Attack: Don't Mess With the Cat, or Ultimate: Smash It All! hit an enemy, apply <color=#FFFFFF>Cat's Gaze</color> to the target for 12s. While Sunna is the currently active character, the duration of <color=#FFFFFF>Cat's Gaze</color> is continuously refreshed. Some normal enemies affected by <color=#FFFFFF>Cat's Gaze</color> show reduced aggression toward Sunna.\nWhen <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> characters in the squad continuously land attacks on enemies affected by <color=#FFFFFF>Cat's Gaze</color>, <color=#FFFFFF>Cat's Gaze</color> is triggered and removed:\nWhen triggered by an <color=#FFFFFF>Attack</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>200%</color> of ATK to enemies in an area.\nWhen triggered by an <color=#FFFFFF>Anomaly</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>320%</color> of ATK to enemies in an area. This DMG is guaranteed to CRIT, and the CRIT DMG is increased by <color=#2BAD00>100%</color>.\nDMG dealt by <color=#FFFFFF>Cat's Gaze</color> is treated as DMG dealt by the triggering Agent.\nWhen multiple enemies on the field have <color=#FFFFFF>Cat's Gaze</color>, only the primary attack target's <color=#FFFFFF>Cat's Gaze</color> is triggered. Upon triggering, <color=#FFFFFF>Cat's Gaze</color> is removed from all enemies on the field.\nWhen an enemy is Stunned, the number of attacks required to trigger <color=#FFFFFF>Cat's Gaze</color> is significantly reduced.",
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen characters inside <color=#FFFFFF>Ether Veil: Delusion Reprise</color> land attacks on enemies, the target's Stun DMG Multiplier increases by 30% for 40s.\nWhen Sunna enters the battlefield, she gains 15 Energy. In Investigation Zone mode, the effect can trigger once every 180s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1491052": {
+        "Level": 4,
+        "Id": 1491052,
+        "Name": [
+          "Core Passive: Cuteness Is Justice",
+          "Additional Ability: Daydreamer's Counterpoint"
+        ],
+        "Desc": [
+          "Characters in the <color=#FFFFFF>Angelic Chord-ination</color> state gain increased ATK, equal to <color=#FFFFFF>30%</color> of Sunna's initial ATK, up to a maximum of <color=#2BAD00>795</color> ATK. When Sunna's initial ATK reaches 2,650, the ATK bonus granted to all squad members reaches its maximum.\nWhen attacks from Basic Attack: Naughty Cat Spotted, EX Special Attack: Bubblegum Barrage, EX Special Attack: Special Photography Technique, Chain Attack: Don't Mess With the Cat, or Ultimate: Smash It All! hit an enemy, apply <color=#FFFFFF>Cat's Gaze</color> to the target for 12s. While Sunna is the currently active character, the duration of <color=#FFFFFF>Cat's Gaze</color> is continuously refreshed. Some normal enemies affected by <color=#FFFFFF>Cat's Gaze</color> show reduced aggression toward Sunna.\nWhen <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> characters in the squad continuously land attacks on enemies affected by <color=#FFFFFF>Cat's Gaze</color>, <color=#FFFFFF>Cat's Gaze</color> is triggered and removed:\nWhen triggered by an <color=#FFFFFF>Attack</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>225%</color> of ATK to enemies in an area.\nWhen triggered by an <color=#FFFFFF>Anomaly</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>360%</color> of ATK to enemies in an area. This DMG is guaranteed to CRIT, and the CRIT DMG is increased by <color=#2BAD00>120%</color>.\nDMG dealt by <color=#FFFFFF>Cat's Gaze</color> is treated as DMG dealt by the triggering Agent.\nWhen multiple enemies on the field have <color=#FFFFFF>Cat's Gaze</color>, only the primary attack target's <color=#FFFFFF>Cat's Gaze</color> is triggered. Upon triggering, <color=#FFFFFF>Cat's Gaze</color> is removed from all enemies on the field.\nWhen an enemy is Stunned, the number of attacks required to trigger <color=#FFFFFF>Cat's Gaze</color> is significantly reduced.",
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen characters inside <color=#FFFFFF>Ether Veil: Delusion Reprise</color> land attacks on enemies, the target's Stun DMG Multiplier increases by 30% for 40s.\nWhen Sunna enters the battlefield, she gains 15 Energy. In Investigation Zone mode, the effect can trigger once every 180s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1491053": {
+        "Level": 5,
+        "Id": 1491053,
+        "Name": [
+          "Core Passive: Cuteness Is Justice",
+          "Additional Ability: Daydreamer's Counterpoint"
+        ],
+        "Desc": [
+          "Characters in the <color=#FFFFFF>Angelic Chord-ination</color> state gain increased ATK, equal to <color=#FFFFFF>30%</color> of Sunna's initial ATK, up to a maximum of <color=#2BAD00>885</color> ATK. When Sunna's initial ATK reaches 2,950, the ATK bonus granted to all squad members reaches its maximum.\nWhen attacks from Basic Attack: Naughty Cat Spotted, EX Special Attack: Bubblegum Barrage, EX Special Attack: Special Photography Technique, Chain Attack: Don't Mess With the Cat, or Ultimate: Smash It All! hit an enemy, apply <color=#FFFFFF>Cat's Gaze</color> to the target for 12s. While Sunna is the currently active character, the duration of <color=#FFFFFF>Cat's Gaze</color> is continuously refreshed. Some normal enemies affected by <color=#FFFFFF>Cat's Gaze</color> show reduced aggression toward Sunna.\nWhen <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> characters in the squad continuously land attacks on enemies affected by <color=#FFFFFF>Cat's Gaze</color>, <color=#FFFFFF>Cat's Gaze</color> is triggered and removed:\nWhen triggered by an <color=#FFFFFF>Attack</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>250%</color> of ATK to enemies in an area.\nWhen triggered by an <color=#FFFFFF>Anomaly</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>400%</color> of ATK to enemies in an area. This DMG is guaranteed to CRIT, and the CRIT DMG is increased by <color=#2BAD00>130%</color>.\nDMG dealt by <color=#FFFFFF>Cat's Gaze</color> is treated as DMG dealt by the triggering Agent.\nWhen multiple enemies on the field have <color=#FFFFFF>Cat's Gaze</color>, only the primary attack target's <color=#FFFFFF>Cat's Gaze</color> is triggered. Upon triggering, <color=#FFFFFF>Cat's Gaze</color> is removed from all enemies on the field.\nWhen an enemy is Stunned, the number of attacks required to trigger <color=#FFFFFF>Cat's Gaze</color> is significantly reduced.",
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen characters inside <color=#FFFFFF>Ether Veil: Delusion Reprise</color> land attacks on enemies, the target's Stun DMG Multiplier increases by 30% for 40s.\nWhen Sunna enters the battlefield, she gains 15 Energy. In Investigation Zone mode, the effect can trigger once every 180s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1491054": {
+        "Level": 6,
+        "Id": 1491054,
+        "Name": [
+          "Core Passive: Cuteness Is Justice",
+          "Additional Ability: Daydreamer's Counterpoint"
+        ],
+        "Desc": [
+          "Characters in the <color=#FFFFFF>Angelic Chord-ination</color> state gain increased ATK, equal to <color=#FFFFFF>30%</color> of Sunna's initial ATK, up to a maximum of <color=#2BAD00>975</color> ATK. When Sunna's initial ATK reaches 3,250, the ATK bonus granted to all squad members reaches its maximum.\nWhen attacks from Basic Attack: Naughty Cat Spotted, EX Special Attack: Bubblegum Barrage, EX Special Attack: Special Photography Technique, Chain Attack: Don't Mess With the Cat, or Ultimate: Smash It All! hit an enemy, apply <color=#FFFFFF>Cat's Gaze</color> to the target for 12s. While Sunna is the currently active character, the duration of <color=#FFFFFF>Cat's Gaze</color> is continuously refreshed. Some normal enemies affected by <color=#FFFFFF>Cat's Gaze</color> show reduced aggression toward Sunna.\nWhen <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> characters in the squad continuously land attacks on enemies affected by <color=#FFFFFF>Cat's Gaze</color>, <color=#FFFFFF>Cat's Gaze</color> is triggered and removed:\nWhen triggered by an <color=#FFFFFF>Attack</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>275%</color> of ATK to enemies in an area.\nWhen triggered by an <color=#FFFFFF>Anomaly</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>440%</color> of ATK to enemies in an area. This DMG is guaranteed to CRIT, and the CRIT DMG is increased by <color=#2BAD00>140%</color>.\nDMG dealt by <color=#FFFFFF>Cat's Gaze</color> is treated as DMG dealt by the triggering Agent.\nWhen multiple enemies on the field have <color=#FFFFFF>Cat's Gaze</color>, only the primary attack target's <color=#FFFFFF>Cat's Gaze</color> is triggered. Upon triggering, <color=#FFFFFF>Cat's Gaze</color> is removed from all enemies on the field.\nWhen an enemy is Stunned, the number of attacks required to trigger <color=#FFFFFF>Cat's Gaze</color> is significantly reduced.",
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen characters inside <color=#FFFFFF>Ether Veil: Delusion Reprise</color> land attacks on enemies, the target's Stun DMG Multiplier increases by 30% for 40s.\nWhen Sunna enters the battlefield, she gains 15 Energy. In Investigation Zone mode, the effect can trigger once every 180s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1491055": {
+        "Level": 7,
+        "Id": 1491055,
+        "Name": [
+          "Core Passive: Cuteness Is Justice",
+          "Additional Ability: Daydreamer's Counterpoint"
+        ],
+        "Desc": [
+          "Characters in the <color=#FFFFFF>Angelic Chord-ination</color> state gain increased ATK, equal to <color=#FFFFFF>30%</color> of Sunna's initial ATK, up to a maximum of <color=#2BAD00>1,050</color> ATK. When Sunna's initial ATK reaches 3,500, the ATK bonus granted to all squad members reaches its maximum.\nWhen attacks from Basic Attack: Naughty Cat Spotted, EX Special Attack: Bubblegum Barrage, EX Special Attack: Special Photography Technique, Chain Attack: Don't Mess With the Cat, or Ultimate: Smash It All! hit an enemy, apply <color=#FFFFFF>Cat's Gaze</color> to the target for 12s. While Sunna is the currently active character, the duration of <color=#FFFFFF>Cat's Gaze</color> is continuously refreshed. Some normal enemies affected by <color=#FFFFFF>Cat's Gaze</color> show reduced aggression toward Sunna.\nWhen <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> characters in the squad continuously land attacks on enemies affected by <color=#FFFFFF>Cat's Gaze</color>, <color=#FFFFFF>Cat's Gaze</color> is triggered and removed:\nWhen triggered by an <color=#FFFFFF>Attack</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>300%</color> of ATK to enemies in an area.\nWhen triggered by an <color=#FFFFFF>Anomaly</color> character, deals the Agent's Attribute DMG equal to <color=#2BAD00>480%</color> of ATK to enemies in an area. This DMG is guaranteed to CRIT, and the CRIT DMG is increased by <color=#2BAD00>150%</color>.\nDMG dealt by <color=#FFFFFF>Cat's Gaze</color> is treated as DMG dealt by the triggering Agent.\nWhen multiple enemies on the field have <color=#FFFFFF>Cat's Gaze</color>, only the primary attack target's <color=#FFFFFF>Cat's Gaze</color> is triggered. Upon triggering, <color=#FFFFFF>Cat's Gaze</color> is removed from all enemies on the field.\nWhen an enemy is Stunned, the number of attacks required to trigger <color=#FFFFFF>Cat's Gaze</color> is significantly reduced.",
+          "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen characters inside <color=#FFFFFF>Ether Veil: Delusion Reprise</color> land attacks on enemies, the target's Stun DMG Multiplier increases by 30% for 40s.\nWhen Sunna enters the battlefield, she gains 15 Energy. In Investigation Zone mode, the effect can trigger once every 180s."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      }
+    },
+    "Materials": {
+      "1": { "10": 5000 },
+      "2": { "10": 12000, "110514": 2 },
+      "3": { "10": 28000, "110514": 4 },
+      "4": { "10": 60000, "110008": 2, "110514": 9 },
+      "5": { "10": 100000, "110008": 3, "110514": 15 },
+      "6": { "10": 200000, "110008": 4, "110514": 30 }
+    }
+  },
+  "Talent": {
+    "1": {
+      "Level": 1,
+      "Name": "\"Loneliness Corruption Symptoms\"",
+      "Desc": "When Sunna enters the battlefield, she gains 15 Energy. In Investigation Zone Mode, this effect can trigger once every 180s. When <color=#FFFFFF>Cat's Gaze</color> triggers and damages an enemy, the target's DEF is reduced by 7% for 40s, stacking up to 3 times. The duration of each stack is calculated separately.",
+      "Desc2": "It didn't matter if no one understood her. As long as she had music, that was enough. It didn't matter if no one ever talked to her first, either. She'd never expected them to anyway...\nBeing surrounded by people made her so nervous that she fled the world, using delusions to fill the empty space it left behind. She was the master of her own tiny realm, setting up \"keep out\" warnings at the edges, then painting everything bright with music.\n\"I'm not like them. I—I'm a lonely genius!\"\nShe puffed out her cheeks and quietly wiped away the lonely tear that slipped from the corner of her eye."
+    },
+    "2": {
+      "Level": 2,
+      "Name": "\"Feline Go-With-the-Flow\"",
+      "Desc": "While Sunna is within any <color=#FFFFFF>Ether Veil</color>, all squad members gain 10% ATK and she obtains 1 <color=#FFFFFF>Claw Sharpener</color> every 10s. The number of attacks required to trigger <color=#FFFFFF>Cat's Gaze</color> is reduced, and the DMG Multiplier on trigger is increased:\nWhen triggered by an <color=#FFFFFF>Attack</color> character, the DMG Multiplier is increased by 200%.\nWhen triggered by an <color=#FFFFFF>Anomaly</color> character, the DMG Multiplier is increased by 300%.",
+      "Desc2": "\"That kid's an odd one, always humming strange songs alone in the corner...\"\nHaving heard such remarks all her life, she stopped hoping for any other kind of judgment.\nThen, one warm and gentle afternoon, a dark-haired girl stretched her hand out like an angel.\nAh... so she had always been seeking this sense of being understood. Always... waiting for someone she could call a friend.\nEven having grown accustomed to loneliness from endless practice, humans are still, in the end, social animals. That person lifted her out of damp, clinging solitude, and from then on, she had a shelter made of feathers."
+    },
+    "3": {
+      "Level": 3,
+      "Name": "\"Transformation Apple\"",
+      "Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+      "Desc2": "She has never before received praise from so many strangers.\n\"Those gentle songs gave me strength.\"\n\"Finding music I could resonate with at my saddest moment was so moving...\"\n\"This style of music is so cute!!\"\nThe girl stares nervously at the screen. The small red dot marking new messages quivers along with her heartbeat, as she opens the same window over and over again—\nJust a little more... just a few more people seeing my music... a few more people seeing me, someone who's good for nothing but writing music...\nAll I want is for a few more people to take power from this."
+    },
+    "4": {
+      "Level": 4,
+      "Name": "\"Delusion Investigation Team\"",
+      "Desc": "When Sunna uses her <color=#FFFFFF>Ultimate</color>, all squad members deal <color=#FFFFFF>18%</color> increased DMG for 60s.",
+      "Desc2": "From being dragged out the door by Nangong to signing her name on that contract... to the girl, the entire day passed as swiftly as a flash of summer lightning cutting through a rainy night.\nLike a dream, like playing house... in the end, it all belonged to the realm of \"delusion.\"\nThe moment they walked out, they were no longer three separate individuals, but a group: the Angels of Delusion. And the moment she walked out, she stopped being only Sunna, the songwriter working behind the scenes, and became an idol standing before her fans, expressing herself onstage.\n—This overwhelming delusion descending upon her was the most incredible gift she had ever known."
+    },
+    "5": {
+      "Level": 5,
+      "Name": "\"Galaxy Tramway\"",
+      "Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+      "Desc2": "The stars were strung across the night like gas lamps lit at dusk.\nShe imagined that somewhere in the vast galaxy, someone was driving a clattering electric tram, setting off from pale morning light and heading straight toward infinity.\nThe passengers were all adorable little creatures like cats, dogs, and bunnies, and the conductor was fluent in the languages of deep-sea fish and owls.\nLeaving behind the rush of everyday life, stepping away from mundane routines—\n\"If I could borrow the wings of the Angels of Delusion, maybe I could bring everyone into a world of music like this!\"\nSurrounded by the sugary aroma of a scented candle, she stretched with a soft yawn, then wrote this romantic dream onto the sheet music."
+    },
+    "6": {
+      "Level": 6,
+      "Name": "\"Hollow Big Bang\"",
+      "Desc": "When Sunna uses an <color=#FFFFFF>EX Special Attack</color>, she enters the <color=#FFFFFF>Focused Creation!</color> state for 8s.\nWhile in the <color=#FFFFFF>Focused Creation!</color> state, all attacks Sunna performs are guaranteed to CRIT, and her CRIT DMG increases by 0.03% of her initial ATK, up to a maximum of 105%.\nWhile in the <color=#FFFFFF>Focused Creation!</color> state, Sunna's Anti-Interrupt Level is increased, and DMG taken is reduced by 40%.\nWhile in the <color=#FFFFFF>Focused Creation!</color> state, Sunna can trigger <color=#FFFFFF>Cat's Gaze</color>, its DMG being calculated using <color=#FFFFFF>Attack</color> Agent rules. If <color=#FFFFFF>Cat's Gaze</color> is triggered while Sunna has a <color=#FFFFFF>Claw Sharpener</color>, the <color=#FFFFFF>Claw Sharpener</color> is immediately consumed, and <color=#FFFFFF>Cat's Gaze</color> is reapplied to the enemy.\nWhile in the <color=#FFFFFF>Focused Creation!</color> state, DMG dealt when any squad member triggers <color=#FFFFFF>Cat's Gaze</color> increases by <color=#FFFFFF>50%</color>.",
+      "Desc2": "\"Why did you choose to step onto the stage?\"\nWas it for the fans? For the glory under the spotlight? Or for that version of yourself who stayed in the corner, watching others play, too afraid to step forward?\nMaybe it was all of those. Or maybe it was none of them.\nAll the girl knew was that the moment she gripped the microphone, her heartbeat would slow, and the world around her would fall quiet... until the drums kicked in, and the music rippled across the stage. In that split second, music's gentle light illuminated the time they all shared together.\nIt felt as if they were angels, with wings capable of carrying everyone away from \"the here and now.\""
+    }
+  },
+  "FairyRecommend": {
+    "Slot4": 33400,
+    "Slot2": 32800,
+    "SlotSub": 31600,
+    "Part4": {
+      "Prop": 30502,
+      "Name": "Energy Regen",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "Part5": {
+      "Prop": 12102,
+      "Name": "ATK",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "Part6": {
+      "Prop": 31503,
+      "Name": "Physical DMG Bonus",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png"
+    },
+    "PartSub": {
+      "Prop": 20103,
+      "Name": "CRIT Rate",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    }
+  },
+  "Potential": [],
+  "PotentialDetail": {},
+  "Live2D": "UISpine_Qianxialeimi"
+}

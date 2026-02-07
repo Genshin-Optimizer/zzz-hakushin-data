@@ -67,7 +67,7 @@
     "desc": "Who knows what troubles plague a young Bangboo?",
     "KO": "울보부",
     "CHS": "泪眼布",
-    "JA": "ウル���ンボンプ"
+    "JA": "���ルリンボンプ"
   },
   "53008": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole03.png",
@@ -117,7 +117,7 @@
     "desc": "Understanding the mood of a conversation is key to becoming a Bangboo social expert.",
     "KO": "압력부",
     "CHS": "气压布",
-    "JA": "キアツ��ボンプ"
+    "JA": "キ��ツデボンプ"
   },
   "53013": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole24.png",
@@ -258,6 +258,16 @@
     "KO": "공명부",
     "CHS": "共鸣布",
     "JA": "レゾナンボンプ"
+  },
+  "54010": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole46.png",
+    "rank": 4,
+    "codename": "BiggestFan",
+    "EN": "Biggest Fan",
+    "desc": "An Angels of Delusion superfan for life!",
+    "KO": "팬팬",
+    "CHS": "阿饭",
+    "JA": "コサン"
   },
   "54011": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole26.png",

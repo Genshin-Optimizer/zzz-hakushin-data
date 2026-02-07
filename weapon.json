@@ -146,7 +146,7 @@
     "EN": "[Cinder] Cobalt",
     "desc": "A W-Engine with a built-in heating component. When operating at high speeds, it resembles a blazing blue flame.",
     "KO": "「잿더미」-코발트블루",
-    "CHS": "「灰烬」-钴蓝",
+    "CHS": "「灰烬」-钴��",
     "JA": "「灰燼」-蒼藍"
   },
   "13001": {
@@ -337,7 +337,7 @@
     "desc": "A cost-effective W-Engine that can store energy, with improvements made to its internal space. This model is often used by Nicole.",
     "KO": "보물함",
     "CHS": "聚宝箱",
-    "JA": "ザ���ボールト"
+    "JA": "��・ボールト"
   },
   "13106": {
     "icon": "Weapon_A_1061",
@@ -696,7 +696,7 @@
     "EN": "Flight of Fancy",
     "desc": "A bird landed on the windowsill, scattering starlight from its tail feathers.",
     "KO": "별빛 꿈을 누비는 새",
-    "CHS": "���鸟星梦",
+    "CHS": "飞鸟星梦",
     "JA": "鳥は夢へと羽ばたいて"
   },
   "14134": {
@@ -818,5 +818,25 @@
     "KO": "지난밤의 전화",
     "CHS": "昨夜来电",
     "JA": "昨夜からの着信"
+  },
+  "14149": {
+    "icon": "Weapon_S_1491",
+    "rank": 4,
+    "type": 4,
+    "EN": "Thoughtbop",
+    "desc": "Thoughts follow the veins of fantasy, weaving themselves into song.",
+    "KO": "사유로 빚은 노래",
+    "CHS": "思络成歌",
+    "JA": "想いが織りなす歌"
+  },
+  "14150": {
+    "icon": "Weapon_S_1501",
+    "rank": 4,
+    "type": 3,
+    "EN": "Angel in the Shell",
+    "desc": "There is a soul, even within a shell of steel.",
+    "KO": "껍데기 속 영혼",
+    "CHS": "壳中之灵",
+    "JA": "殻の中の魂"
   }
 }
