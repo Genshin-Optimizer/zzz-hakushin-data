@@ -6,8 +6,6 @@
   "Rarity": 4,
   "Icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole46.png",
   "Stats": {
-    "Stamina": 100,
-    "StaminaUpragde": 10,
     "Endurance": 180,
     "HpMax": 479,
     "Hpupgrade": 570196,

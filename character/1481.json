@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle54.png",
     "ImpressionF": "She might seem to switch back and forth between jokes and sarcasm, but if you have the patience to listen closely, you'll find that deep down, Dialyn is someone with strong principles and real courage!",
     "ImpressionM": "Dialyn may come across as a little harsh sometimes, but she's the type to always speak up against injustice and be honest with her friends. She's even the one who told me about Belle sneaking out to hang out with our Agents without me.",
-    "Name": "",
-    "OutlookDesc": "",
     "ProfileDesc": "Dialyn works as a customer service representative for TOPS' Cross-Department Customer Service Center, though few know her other identity — a Krampus Compliance Authority Judge.\n\nShe calls herself TOPS' top-rated representative, yet she also tops the list for the most complaints in the department. Despite never flaunting her authority as a Judge, she always delivers verdicts that cut closest to the truth.\n\nDialyn was born with the ability to hear the voices of those on the brink of death within the Hollows — a talent that's unmatched. Yet to a young Dialyn, it was a tormenting curse.\n\nBe it gift or curse, she has long turned it into a blade for discerning the truth. Despite the trials and tribulations she's borne, she's come far.",
-    "Race": "Krampus Compliance Authority",
     "RoleIcon": "IconRole/UnPacker/IconRole54",
     "Stature": "145",
     "UnlockCondition": [
@@ -1843,6 +1840,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1481_1",
+    "StrategyGuide_Overview_1481_2",
+    "StrategyGuide_Overview_1481_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpine_Liuyin"

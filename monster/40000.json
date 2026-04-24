@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": -1,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 48789,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 4000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 4000,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 2000,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": 2000,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 5000
       },
       "Curves": {
@@ -139,7 +144,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": -1,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 48789,
@@ -170,6 +176,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 4000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 4000,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -177,16 +184,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 2000,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": 2000,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 5000
       },
       "Curves": {
@@ -249,8 +259,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Vessel.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Primordial Nightmare - \"The Creator\"",
   "Desc": "For humans struggling through the long dark night, life is an endless torture.\nGood and evil, love and hate, hope and despair... these eternally opposing concepts are like shackles wrapped around the soul, forcing humanity to tear at each other in endless cycles, never finding peace.\nYet before all concepts were born, before all oppositions formed, there existed a primordial \"One.\"\nThey are the beginning of all things and the end of all things. They hold no good or evil, for They are good and evil itself. They know no joy or sorrow, for They embody every emotion.\nThey will erase the boundaries between \"you\" and \"me,\" letting all independent consciousness flow back into the great stream of \"Unity.\"\nIn Their world, without individuals, there is no selfish desire. Without conflict, there is no suffering. Without choice, there can be no mistakes. All souls shall break free from their chains, returning to the primordial, absolutely equal, eternal peace.\nThey have no fixed form, for They are the form of all things. They have no fixed voice, for They are the resonance of the universe.\nThey are the storm, and also the calm. The end, and also rebirth.\n\"Abandon your futile struggles, lost children.\"\n\"Your suffering ends here.\"\n\"Return to Their embrace...\"",
   "Rarity": 4,

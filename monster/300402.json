@@ -21,7 +21,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 0,
-        "Physical": -1
+        "Physical": -1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 26877,
@@ -52,6 +53,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 2000,
         "IceBuildupCurve": 30011,
@@ -59,16 +61,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": 2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -149,7 +154,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 0,
-        "Physical": -1
+        "Physical": -1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 26877,
@@ -180,6 +186,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 2000,
         "IceBuildupCurve": 30011,
@@ -187,16 +194,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": 2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -259,8 +269,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaNoranoSlime.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": [],
   "Name": "Miasmic Komano Manato",
   "Desc": "A form reshaped in profound darkness from fallen creation.\nEven among Ionized enemies, which are renowned for their strange and uncanny qualities, \"Ionized Doppelgangers\" are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. From detail to texture, these creatures are experts in mixing the spurious and genuine.\nMore challenging still is their ability to mimic the powerful and fearsome combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable nemeses from their opponent's memories, before attacking in that form.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
   "Rarity": 3,

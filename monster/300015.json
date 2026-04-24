@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 18493,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 30001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30015,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -123,8 +128,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_DeathXIIIBoss.png",
-  "Tag": ["Ether", "Pro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Notorious - Thanatos",
   "Desc": "Hollow exploration can be mentally distressing, and Thanatos, with its unique teleportation ability and unpredictable attack patterns, has become a common psychological challenge among Hollow Raiders.\nA considerable number of individuals who have faced Thanatos alone in the Hollow have lost all courage to continue their ventures and instead chosen to retire prematurely.\nAs a result, these elusive entities have become recurring figures in horror movies.\n\"The slender shadow disappears before your eyes and reappears behind you...\"\n\"What should I do? Now I'm too scared to even go to the restroom alone...\"",
   "Rarity": 3,

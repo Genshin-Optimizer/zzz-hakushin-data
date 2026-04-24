@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle38.png",
     "ImpressionF": "I don't think she's as dangerous as Fairy suggests. She seems pretty approachable. I mean, what harm could a little kitten cause?",
     "ImpressionM": "Just having that thought already makes it dangerous... Oh, she sent me a message saying she got me the limited edition of the game I wanted.",
-    "Name": "",
-    "OutlookDesc": "There is no record of Pulchra's Aptitude for Ether in the New Eridu Citizen Verification Profile.\nNote: Pulchra has excellent aptitude for Ether, but her thick cat Thiren fur is susceptible to influence from the Hollows. Once corruption begins, there is a significant risk of rapid deterioration, requiring special attention.",
     "ProfileDesc": "Pulchra, formerly a mercenary from the Outer Ring, is now a member of the Sons of Calydon. She works as an ordinary employee at the logistics company Leaps and Bounds.\nWarning: Financial transactions have been detected between Pulchra and several biker and criminal gangs from the Outer Ring. These records have reduced since joining the Sons of Calydon, but there has been a large increase in funds transferred from New Eridu. This is likely because Pulchra's new position allows for easier access to New Eridu.\nFurther information indicates Pulchra has indirect involvement in several major events in the Outer Ring, including but not limited to: gang conflicts, leaks of crucial convoy supply intel, mysterious road damage, and price surges of essential goods...\nPulchra does not have deep connections with Lucius, and there is no current risk of her being an insider for any other biker gangs. However, her interpersonal network is highly complicated. Caution is advised when interacting with her, especially in protecting personal privacy.",
-    "Race": "Sons of Calydon",
     "RoleIcon": "IconRole/UnPacker/IconRole38",
     "Stature": "173",
     "UnlockCondition": [
@@ -1454,6 +1451,10 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1351_1",
+    "StrategyGuide_Overview_1351_2"
+  ],
   "Potential": [],
   "PotentialDetail": {}
 }

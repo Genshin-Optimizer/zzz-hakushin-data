@@ -13,7 +13,8 @@
         "Fire": -1,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 32877,
@@ -44,6 +45,7 @@
         "FireDamageRes": 2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30015,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 0,
         "FireBuildupRes": 2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": 2000,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2500
       },
       "Curves": {
@@ -139,7 +144,8 @@
         "Fire": -1,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 32877,
@@ -170,6 +176,7 @@
         "FireDamageRes": 2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -177,16 +184,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30015,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 0,
         "FireBuildupRes": 2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": 2000,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2500
       },
       "Curves": {
@@ -249,8 +259,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Chelonethid.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Miasma Walker - Scorpse",
   "Desc": "In a desolate realm completely devoured by the Hollows, it slumbered... until the arrival of \"that power.\"\n\nThis aggressive and contaminating force, like a skilled yet malicious craftsman, refilled it with purer dark energy, transforming it into the current \"Miasmic Scorpse.\"\n\nGradually, it seemed to grasp the trick of \"existence\" through mimicry. It could split its miasmic energy, creating multiple Mimics indistinguishable from the real thing.\n\nThese Mimics possess nearly identical offensive capabilities as the original, launching dazzling attacks from different angles to conceal the one lethal \"truth.\"\n\nWhen facing its encirclement, remember this well: all you see is illusion. All you feel is a trap.\n\n\"Only by filtering out all distractions and perceiving the one 'truth' can you find a glimmer of hope in this deadly dance of phantoms.\"",
   "Rarity": 3,

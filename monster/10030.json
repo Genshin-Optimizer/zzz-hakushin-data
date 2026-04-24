@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1238,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 10001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 10003,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10015,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1514,
@@ -163,6 +169,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 10001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 10003,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10015,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -242,8 +252,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Fossor.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Fossor",
   "Desc": "Recent studies by the Whitestar Institute reveal that some Ethereals' limbs carry notable features from their environment.\nFossor is a prime example of this — its strange forelimbs bear a striking resemblance to the drilling equipment found in the Old Oil Field region.\nAlthough some suggest this is a camouflage tactic to deceive enemies, others have pointed out that Fossor's combat style is aggressive and direct, making it appear ill-suited for ambushes.\nSome imaginative Hollow Raiders speculate it may have developed this form just to dig for minerals...\n\"When I caught sight of it from a distance, it seemed to be happily digging up the asphalt.\"\n\"When it spotted me, it didn't hesitate to charge straight at me, desperately trying to drive me away...\"\n\"But I was just passing by! I had absolutely no intention of taking any of its junk!\"",
   "Rarity": 1,

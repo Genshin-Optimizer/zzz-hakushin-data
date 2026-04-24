@@ -13,7 +13,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1240,
@@ -44,6 +45,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 10001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 10003,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10005,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": 0,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1615,
@@ -163,6 +169,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 10001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 10003,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10005,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": 0,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -242,8 +252,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugRaiderPro.png",
-  "Tag": ["Ether", "Pro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Looter",
   "Desc": "Among the ranks of Ether thieves, Raiders and Looters serve as the core members, possessing both technical expertise and combat skills.\nTheir Electric Resonance Detection Devices emit powerful currents that are used to detect Ether ore and also function as formidable weapons during armed raids.\nOccasionally mistaken for illegal fishermen, they pay little attention to such misconceptions.\nAfter all, with their extremely lethal electro-shockers, they don't really care whether their targets are fish or humans...\n\"If you encounter individuals armed with electrified harpoons, whether near a river, lake, or Hollow, please report it immediately to Public Security!\"",
   "Rarity": 1,

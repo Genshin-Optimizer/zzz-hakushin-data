@@ -3,8 +3,6 @@
   "MonsterId": 0,
   "MonsterInfo": {},
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_HeavySoldierPro.png",
-  "Tag": ["Ether", "Pro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "OfficialName_",
   "Desc": "Unknown",
   "Rarity": 1,

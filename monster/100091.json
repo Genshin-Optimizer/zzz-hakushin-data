@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1235,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 10001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 10013,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10005,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": 0,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": 0,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": 0,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1510,
@@ -163,6 +169,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 10001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 10013,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10005,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": 0,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": 0,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -242,8 +252,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GrenadierJaegerPro.png",
-  "Tag": ["Ether", "Pro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Demolition Jaeger",
   "Desc": "Grenadier Jaegers and Demolition Jaegers are equipped with a modified version of the Mamba-TG3 Bazooka, featuring special ammunition containing active Ether incendiary agents. This weapon enables them to swiftly destroy enemy mech units and eliminate large Ethereals within the Hollows.\nTo counteract the recoil and ensure accurate aim, they are required to undergo special weapon-grip training. Interestingly, Defense Force statistics indicate recruits excelling in this program often possess prior experience in photography.\n\"Wanna know how to use this thing? It's like using a shoulder-mounted camera.\"\n\"Just lock onto your target, pull the trigger, and say...\"\n\"Hey, idiot!... Say cheese!\"",
   "Rarity": 1,

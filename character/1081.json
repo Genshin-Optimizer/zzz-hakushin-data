@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle10.png",
     "ImpressionF": "Weren't you obsessed with the Starlight Knight series as a kid, Wise?\nThat brings me back. You shouting \"Starlight Mirage!\" with your arms crossed...",
     "ImpressionM": "There was never such a time. Please erase such non-existent memories from your mind.\nIt's been a long time since I was that age, after all, and my name doesn't have \"kid\" in it.",
-    "Name": "",
-    "OutlookDesc": "Hollow Investigation Association Licensing Archive—\nInvestigator: Billy. Possesses excellent Ether adaptability and is approved to carry out basic tasks such as extractions within established Hollows (including Companion Hollows).\nNote: Ether adaptability for androids depends entirely on their constituent materials. We recommend regular Ether tolerance testing and self-monitoring of component health.",
     "ProfileDesc": "Billy Kid, an AI construct that has passed the forbidden fruit test, is essentially a self-aware machine. \nTrue to his name, despite having the appearance of a robot, he is quite childlike.\nHe's a big fan of the visual FX show \"Starlight Knight\" and wishes to be a hero like the main characters of the show. He often refers to himself as a Starlight Knight and imitates the lines in the show.\nSuch behavior appears to be only for comedic effect, however.\n\"Don't make me sound like an idiot! I'm obviously very smart!\" — Billy.",
-    "Race": "Cunning Hares",
     "RoleIcon": "IconRole/UnPacker/IconRole10",
     "Stature": "188",
     "UnlockCondition": [
@@ -1587,6 +1584,10 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1081_1",
+    "StrategyGuide_Overview_1081_2"
+  ],
   "Potential": [],
   "PotentialDetail": {}
 }

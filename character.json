@@ -67,7 +67,7 @@
     },
     "desc": "Database search: Nicole. Returned results:\n\"Boss of the odd-job agency, the Cunning Hares,\" \"Streetwise,\" \"Orphan, parents unknown.\"\nNicole's agency was originally called Gentle House, but due to her reputation of being cunning, it gained the nickname the Cunning Hares.\n\"She's really into money! I don't know what she's doing with it all though, seems like she's doing nothing.\"\n— The above is a quote from a popular post on Inter-Knot: \"Her odd-job agency is outrageous. I've never encountered a boss who knows how to turn everything into profit!\"\nThe individual involved responded, \"This, this is a false accusation! I, Nicole, have never been skilled at making money — mainly because I don't have any money to begin with!\"\nAccording to reliable sources, the Cunning Hares are constantly in debt, and their \"careful budgeting\" seems to have no effect on the organization.",
     "KO": "니콜",
-    "CHS": "妮可",
+    "CHS": "妮���",
     "JA": "ニコ"
   },
   "1041": {
@@ -102,7 +102,6 @@
     "icon": "IconRole52",
     "potential": [],
     "EN": "Yidhari",
-    "live2d": "UISpine_Yidhari",
     "skin": {
       "3110510": {
         "Name": "Yidhari: Stream of Consciousness",
@@ -112,7 +111,7 @@
     },
     "desc": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. As a gifted writer of bizarre tales, Yidhari should be more prone than most to immersing herself in the worlds of her own imagination.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
     "KO": "이드하리",
-    "CHS": "伊德海莉",
+    "CHS": "伊德���莉",
     "JA": "イドリー"
   },
   "1061": {
@@ -147,7 +146,6 @@
     "icon": "IconRole25",
     "potential": [],
     "EN": "Caesar",
-    "live2d": "UISpineCeasar",
     "skin": {
       "3110710": {
         "Name": "Caesar: Inferno Joyride",
@@ -193,7 +191,6 @@
     "potential": [],
     "EN": "Miyabi",
     "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFrost.png",
-    "live2d": "UISpine_Xingjianya",
     "skin": {
       "3110910": {
         "Name": "Hoshimi Miyabi: Frostgleam Dew",
@@ -348,7 +345,6 @@
     "icon": "IconRole26",
     "potential": [],
     "EN": "Lighter",
-    "live2d": "UISpine_Lighter",
     "skin": {
       "3111610": {
         "Name": "Lighter: Everburn Embers",
@@ -371,7 +367,6 @@
     "icon": "IconRole32",
     "potential": [117100, 117101, 117102, 117103, 117104, 117105],
     "EN": "Burnice",
-    "live2d": "UISpine_Burnice",
     "skin": {
       "3111710": {
         "Name": "Burnice: Wildfire Rave",
@@ -416,7 +411,6 @@
     "icon": "IconRole21",
     "potential": [119100, 119101, 119102, 119103, 119104, 119105],
     "EN": "Ellen",
-    "live2d": "UISpineEllen",
     "skin": {
       "3111910": {
         "Name": "Ellen: Ellen Scissorhands",
@@ -444,7 +438,6 @@
     "icon": "IconRole35",
     "potential": [120100, 120101, 120102, 120103, 120104, 120105],
     "EN": "Harumasa",
-    "live2d": "UISpine_Qianyuyouzhen",
     "skin": {
       "3112010": {
         "Name": "Asaba Harumasa: Full-Fledged Strings",
@@ -489,7 +482,6 @@
     "icon": "IconRole31",
     "potential": [],
     "EN": "Yanagi",
-    "live2d": "UISpineYanagi",
     "skin": {
       "3112210": {
         "Name": "Tsukishiro Yanagi: Flowing Moonshade",
@@ -512,7 +504,6 @@
     "icon": "IconRole23",
     "potential": [],
     "EN": "Zhu Yuan",
-    "live2d": "UISpineZhuyuan",
     "skin": {
       "3112410": {
         "Name": "Zhu Yuan: Suppressor of Evil",
@@ -535,7 +526,6 @@
     "icon": "IconRole29",
     "potential": [],
     "EN": "Qingyi",
-    "live2d": "UISpine_Qingyi",
     "skin": {
       "3112510": {
         "Name": "Qingyi: Clarity, Peace, and Joy",
@@ -558,7 +548,6 @@
     "icon": "IconRole24",
     "potential": [],
     "EN": "Jane",
-    "live2d": "UISpine_Jian",
     "skin": {
       "3112610": {
         "Name": "Jane: Hidden Nightfade",
@@ -630,7 +619,6 @@
     "icon": "IconRole42",
     "potential": [],
     "EN": "Hugo",
-    "live2d": "UISpine_Hugo",
     "skin": {
       "3112910": {
         "Name": "Hugo: Crownless Rebellion",
@@ -653,7 +641,6 @@
     "icon": "IconRole49",
     "potential": [],
     "EN": "Orphie & Magus",
-    "live2d": "UISpine_Aofeisi",
     "skin": {
       "3113010": {
         "Name": "Orphie & Magus: Two Banks of the River",
@@ -676,7 +663,6 @@
     "icon": "IconRole36",
     "potential": [],
     "EN": "Astra Yao",
-    "live2d": "UISpineYaoJiayin",
     "skin": {
       "3113110": {
         "Name": "Astra Yao: Scarlet Rock",
@@ -704,7 +690,6 @@
     "icon": "IconRole37",
     "potential": [],
     "EN": "Evelyn",
-    "live2d": "UISpineEvelyn",
     "skin": {
       "3113210": {
         "Name": "Evelyn: A Moth to Light",
@@ -727,7 +712,6 @@
     "icon": "IconRole41",
     "potential": [],
     "EN": "Vivian",
-    "live2d": "UISpine_Vivian",
     "skin": {
       "3113310": {
         "Name": "Vivian: Fluttering Violet",
@@ -755,7 +739,6 @@
     "icon": "IconRole56",
     "potential": [],
     "EN": "Zhao",
-    "live2d": "UISpinezhao",
     "skin": {
       "3113410": {
         "Name": "Zhao: Cuddly Executor",
@@ -800,7 +783,6 @@
     "icon": "IconRole39",
     "potential": [],
     "EN": "Trigger",
-    "live2d": "UIspineTrigger",
     "skin": {
       "3113610": {
         "Name": "Trigger: Gaze Into the Light",
@@ -824,7 +806,6 @@
     "potential": [],
     "EN": "Yixuan",
     "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconAuricInk.png",
-    "live2d": "UISpine_Yixuan",
     "skin": {
       "3113710": {
         "Name": "Yixuan: Summit of Clouds",
@@ -852,7 +833,6 @@
     "icon": "IconRole40",
     "potential": [138100, 138101, 138102, 138103, 138104, 138105],
     "EN": "Soldier 0 - Anby",
-    "live2d": "UISpineSPAnbi",
     "skin": {
       "3113810": {
         "Name": "Soldier 0 - Anby: Silver Soldier",
@@ -875,7 +855,6 @@
     "icon": "IconRole43",
     "potential": [],
     "EN": "Ju Fufu",
-    "live2d": "UISpineJufufu",
     "skin": {
       "3113910": {
         "Name": "Ju Fufu: Summit's Cute Tiger",
@@ -898,7 +877,6 @@
     "icon": "IconRole46",
     "potential": [],
     "EN": "Alice",
-    "live2d": "UISpineAlice",
     "skin": {
       "3114010": {
         "Name": "Alice: Celestian Etiquette",
@@ -926,7 +904,6 @@
     "icon": "IconRole47",
     "potential": [],
     "EN": "Yuzuha",
-    "live2d": "UISpine_Youye",
     "skin": {
       "3114110": {
         "Name": "Yuzuha: Tanuki Under the Shade",
@@ -982,7 +959,6 @@
     "potential": [],
     "EN": "Ye Shunguang",
     "spelement": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconHonedEdge.png",
-    "live2d": "UISpine_Yeshunguang",
     "skin": {
       "3114310": {
         "Name": "Ye Shunguang: Clouddrift Illumination",
@@ -1037,7 +1013,6 @@
     "icon": "IconRole50",
     "potential": [],
     "EN": "Lucia",
-    "live2d": "UISpineLucia",
     "skin": {
       "3114510": {
         "Name": "Lucia: Whispering Dreams",
@@ -1060,7 +1035,6 @@
     "icon": "IconRole48",
     "potential": [],
     "EN": "Seed",
-    "live2d": "UISpine_Seed",
     "skin": {
       "3114610": {
         "Name": "Seed: Flower in Bloom",
@@ -1083,7 +1057,6 @@
     "icon": "IconRole53",
     "potential": [],
     "EN": "Banyue",
-    "live2d": "UISpineBanyue",
     "skin": {
       "3114710": {
         "Name": "Banyue: Blazestone Heart",
@@ -1106,7 +1079,6 @@
     "icon": "IconRole54",
     "potential": [],
     "EN": "Dialyn",
-    "live2d": "UISpine_Liuyin",
     "skin": {
       "3114810": {
         "Name": "Dialyn: Ringing Judgment",
@@ -1129,7 +1101,6 @@
     "icon": "IconRole58",
     "potential": [],
     "EN": "Sunna",
-    "live2d": "UISpine_Qianxialeimi",
     "skin": {
       "3114910": {
         "Name": "Sunna: Dreams on Loop",
@@ -1138,7 +1109,7 @@
       },
       "3114911": {
         "Name": "Sunna: Afternoon Tea Break",
-        "Desc": "Freshly baked cake, rich aromatic coffee, and the warm afternoon sun...\nWrapped in moments of softness, it's time to begin today's tea break",
+        "Desc": "Freshly baked cake, rich aromatic coffee, and the warm afternoon sun...\nWrapped in moments of softness, it's time to begin today's tea break.",
         "Image": "IconRole58_01"
       }
     },
@@ -1157,7 +1128,6 @@
     "icon": "IconRole57",
     "potential": [],
     "EN": "Aria",
-    "live2d": "UISpineAria",
     "skin": {
       "3115010": {
         "Name": "Aria: Energetic Idol",
@@ -1174,5 +1144,54 @@
     "KO": "아리아",
     "CHS": "爱芮",
     "JA": "アリア"
+  },
+  "1511": {
+    "code": "NangongYu",
+    "rank": 4,
+    "type": 2,
+    "element": 205,
+    "hit": 102,
+    "camp": 13,
+    "icon": "IconRole59",
+    "potential": [],
+    "EN": "Nangong Yu",
+    "skin": {
+      "3115110": {
+        "Name": "Nangong Yu: Dreamy Dancer",
+        "Desc": "Dreams are both cheap and expensive, always just out of reach. The people on the ground call them stars.\nSo the angel walks among the stars and lifts a sliver of fantasy from the endless galaxy... the very first rainbow light that shone upon her.",
+        "Image": "IconRole59"
+      },
+      "3115111": {
+        "Name": "Nangong Yu: Rhapsody's Muse",
+        "Desc": "Dancing within disordered rhythms, spinning across a stage of wild fantasia.\nThe boundary between angel and demon tilts with the lights, dissolving within her reflection.",
+        "Image": "IconRole59_01"
+      }
+    },
+    "desc": "Nangong Yu, the captain and choreographer of the idol group the \"Angels of Delusion,\" is a rare prodigy blessed with exceptional Ether aptitude, a sharp business acumen, and outstanding idol talent.\n\nThough she always presents herself with a laid-back air — teasing her teammates and joking around — she consistently receives the fewest negative reviews in the group. Although she often claims that her dream is merely \"borrowed,\" she pours far more effort and emotion into this small stage than anyone would believe.\n\nNangong possesses a rare gift for making the difficult look effortless — whether it's dancing, rapping, making investments, or reading people. That gift once served as the mask that allowed her to easily play the role of \"captain,\" yet it also kept her isolated from her true desires.\n\nYet whether it started as responsibility toward a close friend or later turned into an irreplaceable love for the stage, beneath the stage lights and the audience's gaze she has already forged those borrowed sparks into a light of her own.",
+    "KO": "남궁우",
+    "CHS": "南宫羽",
+    "JA": "南宮羽"
+  },
+  "1521": {
+    "code": "Cissia",
+    "rank": 4,
+    "type": 1,
+    "element": 203,
+    "hit": 101,
+    "camp": 7,
+    "icon": "IconRole60",
+    "potential": [],
+    "EN": "Cissia",
+    "skin": {
+      "3115210": {
+        "Name": "Cissia: Snake & Mouse Game",
+        "Desc": "There are two kinds of people in this world, venomous snakes and mice! As for who is what...\nLady Cissia says: Those stronger than me are snakes, and those weaker than me are mice!",
+        "Image": "IconRole60"
+      }
+    },
+    "desc": "Cissia, a case specialist serving under the New Eridu Public Security Commissioner, is currently campaigning to become the new second-floor roommate at Random Play.\n\nMore than the danger of the mission itself, what she fears most is a call from her superior. The professionalism she shows in her actions is far more dependable than how she looks or the way she talks. Relying only on instinct and her senses, she can still make the right call.\n\nShe may claim to be a selfish, instinct-driven \"bad guy,\" but the choices she makes often carry a faint glimmer of humanity beyond personal gain. She scoffs at order and justice, yet can become the sharpest blade in the hunt for the worst criminals.\n\nBut whether it's the lies she tells to protect herself, the fangs she shows when she bites back, or that wild philosophy of \"survive and profit,\" Cissia has turned them all into a shield to protect the few things she still has. No matter what past or shackles she carries, she has already decided to make her stand here.",
+    "KO": "시시아",
+    "CHS": "希希芙",
+    "JA": "シーシィア"
   }
 }

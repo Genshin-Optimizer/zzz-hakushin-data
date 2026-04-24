@@ -22,10 +22,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle55.png",
     "ImpressionF": "So, uh... can Xiao'Guang visit the video store every day? Eous and I both really miss her!",
     "ImpressionM": "Xiao'Guang is endlessly kind and reliable. Anything you entrust to her gets handled flawlessly...\nHmm... so this is what people mean by \"the perfect child your parents always compare you to,\" huh?",
-    "Name": "",
-    "OutlookDesc": "",
     "ProfileDesc": "Ye Shunguang is the Sword Keeper of Yunkui Summit's treasured Qingming Sword, a disciple of Yixuan, and the younger sister of Ye Shiyuan, as well as a swordswoman blessed with extraordinary talent.\nShe enjoyed a happy childhood until the fall of the old capital, when her parents lost their lives rescuing others, bringing all her happiness to an abrupt end.\nFrom then on, she relied solely on her brother — up until Yixuan took them in, bringing them into Yunkui Summit. Later, she was chosen by the Qingming Sword, taking up the mantle and duty of Sword Keeper.\n\nRumor has it that the Qingming Sword's favor is less a blessing and more a kind of curse. Though it gives its Sword Keeper Void Hunter level power, it extracts a harsh cost — the loss of one's memories and five senses.\nIn order to subdue this side effect, Yixuan Shifu crafted a custom sword case for Ye Shunguang. It appears effective for the moment, but the true nature of the weapon is still shrouded in mystery.",
-    "Race": "Yunkui Summit",
     "RoleIcon": "IconRole/UnPacker/IconRole55",
     "Stature": "162",
     "UnlockCondition": [
@@ -2717,6 +2714,12 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1431_1",
+    "StrategyGuide_Overview_1431_2",
+    "StrategyGuide_Overview_1431_3",
+    "StrategyGuide_Overview_1431_4"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpine_Yeshunguang"

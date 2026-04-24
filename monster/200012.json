@@ -3,8 +3,6 @@
   "MonsterId": 0,
   "MonsterInfo": {},
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Hati.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "OfficialName_",
   "Desc": "The HIA Phase-I Investigation Team has officially documented the existence of this sentient living Ether resembling a four-legged beast, which poses significant danger. \nAccording to rumors, the first sighting took place in Nest Hollow, where individuals exploring the nearby wastes reported hearing ear-splitting roars reminiscent of wild animal growls.\n\"If I throw a stick or a ball, do you think that monster will catch it?\"\n\"You can give it a try, but I won't cover your medical bill.\"",
   "Rarity": 2,

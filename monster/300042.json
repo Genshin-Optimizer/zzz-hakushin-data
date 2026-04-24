@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 1,
-        "Physical": -1
+        "Physical": -1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 21523,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": 2000,
         "IceBuildupCurve": 30011,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30015,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 0,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 2000,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": 2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -123,8 +128,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_GretelOverclocked.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Greta - Overclocked",
   "Desc": "Greta, a long-time employee of Belobog Heavy Industries, experienced significant Ether corruption that liberated her from her mundane routine, where she discovered something profound, more beautiful than motor oil and electricity...\n—Love.\nThe construction video, capturing her initial encounter with the towering Mr. White, remains permanently etched in Greta's core memory.\nMr. White's composed physique and robust design resonated with Greta like a potent electric current, leaving an indelible mark in her core memory.\nIn the first 0.001 seconds of their fateful meeting, Greta was captivated, every circuit board pulsating with overflowing static electricity and every gear emitting uncontrollable vibrations.\nWithout hesitation, she rejected the recall signal from Belobog Heavy Industries and remained steadfast at the construction site, guarding her beloved Mr. White without yielding an inch.\nFrom that moment onward, anyone daring to approach Mr. White, be it Ethereal or Hollow investigator, would be fiercely repelled.\nThis love-struck \"girl\" would go to any length to safeguard her beloved.\nThat includes wielding a 1,400 kg demolition saw powered by Ether-Electric hybrid technology.\nShe firmly believes her passionate love will endure until the collapse of the Hollow, or even the destruction of the universe.\n\"Stay away from Mr. White, you moldy turds!\"",
   "Rarity": 3,

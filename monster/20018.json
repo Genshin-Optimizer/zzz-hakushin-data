@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 14136,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 2000,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 20013,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": 0,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2500
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": 0,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 14540,
@@ -163,6 +169,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 2000,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 20013,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": 0,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2500
       },
       "Curves": {
@@ -251,7 +261,8 @@
         "Fire": 0,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 14540,
@@ -282,6 +293,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 2000,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -289,16 +301,19 @@
         "ElectricBuildupCurve": 20013,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": 0,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2500
       },
       "Curves": {
@@ -361,8 +376,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MiasmaHeavyStriker.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Miasmic - Heavy Striker",
   "Desc": "This autonomous tactical mech, swallowed by the Hollow, has grown even more brutal after corruption, powerful enough to crush Goblins with ease.\nOnce a steadfast shield protecting soldiers against devastating attacks, the Defense Force's most trusted companion has now transformed into a terrifying killing machine.\n\"If you have the courage, then grant our once-reliable friend a final end, freeing it from the sins and shattered honor it now carries.\"",
   "Rarity": 2,

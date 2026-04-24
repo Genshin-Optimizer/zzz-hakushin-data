@@ -13,7 +13,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 10545,
@@ -44,6 +45,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -123,8 +128,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Bellum.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Bellum",
   "Desc": "As an arena champion with an impressive win streak, Bellum once called himself the number-one fighter in the Outer Ring... Until his win streak was ended.\nWhat was even more infuriating... was that arrogant guy didn't even remember his name.\nAngry, Bellum honed his fighting skills, swearing that he would make his name known throughout the Outer Ring once more and make the arrogant jerk who beat him pay.\nTo achieve his goal, Bellum joined The Vanquishers and helped Pompey defeat enemy after dangerous enemy. He could skillfully modify and operate a flamethrower, leading the charge to incinerate enemies in his path. He could also command his squad with seamless precision, organizing them into an unstoppable battle force. Every battle he led ended in victory.\nNow, Bellum no longer needs to make a name for himself.\nThough he's no longer that champion with an impressive win streak, in the Outer Ring, everyone knows the terror of gang wars, and as a member of The Vanquishers' core fighting force, Bellum was war itself.\n\"You don't wanna do menial jobs? Heh, you can complain about that once you defeat boss Bellum!\"\n\"Now go clean the toilet!\"",
   "Rarity": 2,

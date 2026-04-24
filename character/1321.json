@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle37.png",
     "ImpressionF": "Evelyn is so cool! Can't she debut as a celebrity with Astra? I'd love to see them do a photo shoot together!",
     "ImpressionM": "I really envy you. You can say that so easily, but if I said it, I'd probably get hit...",
-    "Name": "",
-    "OutlookDesc": "Hollow Investigative Association Licensing Archive:\nEvelyn Chevalier, possessing a good Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).",
     "ProfileDesc": "Evelyn is the manager and personal bodyguard of Ridu's most iconic singer, Astra Yao. Known for her calm, decisive decision-making and professional, efficient style, she's an irreplaceable pillar behind Astra. \"In terms of commercial value, if Astra Yao represents the 1, then Evelyn is all the 0s that follow,\" a reporter from an entertainment magazine stated.\n\nEvelyn is skilled at planning comprehensive schedules and product endorsements, while also ensuring Astra Yao's safety during any unexpected situations. \"Want to get close to Astra Yao? You'll have to get past Evelyn Chevalier first...\" Though she's always busy with work, Evelyn never seems overwhelmed, and she has an almost obsessive attention to detail, ensuring that every performance and every product endorsement goes through her strict scrutiny. But strangely, such an exceptional manager is not trusted by her parent company, Odeum HAE.\n\nIntel: Evelyn's role seems to go beyond just being a manager and personal bodyguard; there seems to be an \"organization\" behind her.\n\nIt seems a lot of people in Astra Yao's central Astranauts group ship them together.",
-    "Race": "Stars of Lyra",
     "RoleIcon": "IconRole/UnPacker/IconRole37",
     "Stature": "173",
     "UnlockCondition": [
@@ -1840,6 +1837,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1321_1",
+    "StrategyGuide_Overview_1321_2",
+    "StrategyGuide_Overview_1321_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpineEvelyn"

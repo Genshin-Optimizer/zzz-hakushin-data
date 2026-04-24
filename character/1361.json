@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle39.png",
     "ImpressionF": "The last time I was alone at home and running a fever, Trigger unexpectedly showed up at the store. Without even checking my temperature, she knew I had a fever of 38.6 and took care of me the whole afternoon... How did she know?",
     "ImpressionM": "Are you asking how she knew you had a fever, or how she knew the exact temperature? I'm not sure either, but a little while ago when I sprained my ankle in the parking lot, she showed up with an ice pack almost immediately...",
-    "Name": "",
-    "OutlookDesc": "Hollow Investigative Association Licensing Archive:\nDefense Force soldier Trigger has excellent Ether aptitude, and is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: Trigger's eyes have come into direct contact with Ether beams and have suffered significant corruption. It is therefore recommended she does not remove her eye mask or expose her eyes to the air in Hollow environments.",
     "ProfileDesc": "Trigger is a sniper of New Eridu Defense Force, Obsidian Division's Obol Squad. Trigger is the code name she was assigned when enlisting in Eridu, and she's used it ever since.\n\nShe has extremely unique eyes. While she cannot see most things, in Hollow environments, she can distinctly identify the position and changes of any entities that emit Ether fluctuations. Note: Such entities include living beings, native Ether substances, Ether products, and Ethereals.\n\nAs a visually challenged person in the broadest sense, Trigger has honed her other senses to the utmost, allowing her to move and act as if she could see. She can even detect subtle changes in her environment with precision. This makes her highly adept in the tactical position of a sniper, capable of handling a variety of covert tasks such as stealth, surveillance, and assassination.\n\nIn contrast to her precise and deadly combat abilities, her personality makes her seem rather unassuming. Aside from occasionally appearing silently in the video store and giving the Second Assistant a sudden scare, she can generally be considered harmless.",
-    "Race": "Obol Squad",
     "RoleIcon": "IconRole/UnPacker/IconRole39",
     "Stature": "173",
     "UnlockCondition": [
@@ -1764,6 +1761,10 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1361_1",
+    "StrategyGuide_Overview_1361_2"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UIspineTrigger"

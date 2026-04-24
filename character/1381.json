@@ -1900,6 +1900,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1381_1",
+    "StrategyGuide_Overview_1381_2",
+    "StrategyGuide_Overview_1381_3"
+  ],
   "Potential": [138100, 138101, 138102, 138103, 138104, 138105],
   "PotentialDetail": {
     "138100": {

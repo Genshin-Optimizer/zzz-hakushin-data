@@ -21,7 +21,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 960,
@@ -52,6 +53,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 10001,
@@ -59,16 +61,19 @@
         "ElectricBuildupCurve": 10003,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10015,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": 0,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -131,8 +136,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GoldenBomb.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Golden Bangboo",
   "Desc": "The Golden Bangboo <color=#D9A600>has very high Movement Speed and HP</color> but does not attack your Bangboo. Defeat one, and <color=#D9A600>something good might happen</color>.",
   "Rarity": 1,

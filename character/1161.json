@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle26.png",
     "ImpressionF": "Didn't Lighter say that he'd faint at the sight of blood? And that's why he always keeps his shades on?\nCan someone who faints at the sight of blood really be a Champion? And even fight underground boxing matches...?",
     "ImpressionM": "This feels like a poorly crafted excuse...",
-    "Name": "",
-    "OutlookDesc": "New Eridu Citizen Verification Profile:\nLighter, possessing high Ether aptitude, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).\nNote: There is a mental health counselling report among Lighter's records.",
     "ProfileDesc": "Lighter, the Champion of the Sons of Calydon and an ex-mercenary.\nIn the Outer Ring, the Champion of a team refers to the one responsible for dealing with the opponent's strongest fighter in a gang fight, and they often need to participate in one-on-one duels. Their victory is crucial, as it brings glory and morale to the entire team.\n\"The Champion can perish, but cannot lose.\"\n\nA red scarf is what identifies the Champion of the Sons of Calydon.\nEven if the opponent doesn't know Lighter, they'll know who he is just from seeing that red scarf.\n\nFrom what is currently known, Lighter is actually very low profile. He only steals the spotlight on the battlefield when he acts on his obligations as Champion.\nNote: Lighter is the second Red Scarf of the Sons of Calydon. He teasingly refers to the previous Red Scarf as \"Brother\" or \"predecessor.\"",
-    "Race": "Sons of Calydon",
     "RoleIcon": "IconRole/UnPacker/IconRole26",
     "Stature": "185",
     "UnlockCondition": [
@@ -2103,6 +2100,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1161_1",
+    "StrategyGuide_Overview_1161_2",
+    "StrategyGuide_Overview_1161_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpine_Lighter"

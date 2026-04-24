@@ -20,7 +20,8 @@
         "Fire": 0,
         "Electric": -1,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 41404,
@@ -51,6 +52,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 4000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -58,16 +60,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 2000,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 3200
       },
       "Curves": {
@@ -147,7 +152,8 @@
         "Fire": 0,
         "Electric": -1,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 41404,
@@ -178,6 +184,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 4000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -185,16 +192,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 2000,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 3200
       },
       "Curves": {
@@ -257,8 +267,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Awakener.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": [],
   "Name": "Ye Shiyuan the Thrall",
   "Desc": "Tainted miasma and a corrupt will pull the strings. The beast still retains its instinct to roam and prowl, yet the human form upon its back has lost all reason. Only a faint trace of sorrow remains. At times, he slashes through the dark fog with his blade; at others, he commands the beast's gaping jaws to rend the earth itself. His strikes are precise, devoid of the gentle humanity he once held — like a puppet pulled by the tattered remnants of a nightmare.\nOnly when a streak of red ribbon flashes across his senses does his sword arm falter for an instant — as though that lingering sorrow had, for a heartbeat, tightened around his corroded soul.\n\n\"As for the two, who is truly controlling whom... The \"person\" on its back is my real prisoner.\"\n\"Despair should be utilized to its fullest until the very end, shouldn't it?\"",
   "Rarity": 4,

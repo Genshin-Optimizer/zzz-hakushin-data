@@ -146,7 +146,7 @@
     "EN": "[Cinder] Cobalt",
     "desc": "A W-Engine with a built-in heating component. When operating at high speeds, it resembles a blazing blue flame.",
     "KO": "「잿더미」-코발트블루",
-    "CHS": "「灰烬」-钴��",
+    "CHS": "「灰烬」-钴蓝",
     "JA": "「灰燼」-蒼藍"
   },
   "13001": {
@@ -319,6 +319,16 @@
     "CHS": "青漪灵鼎",
     "JA": "蒼き波の霊器"
   },
+  "13020": {
+    "icon": "Weapon_A_Common_20",
+    "rank": 3,
+    "type": 2,
+    "EN": "The Simmering Pot",
+    "desc": "Whoa, that's hot! Seriously hot! But it's so good!",
+    "KO": "들끓는 가마솥",
+    "CHS": "炎炙沸釜",
+    "JA": "炎々沸々鍋一丁"
+  },
   "13101": {
     "icon": "Weapon_A_1011",
     "rank": 3,
@@ -337,7 +347,7 @@
     "desc": "A cost-effective W-Engine that can store energy, with improvements made to its internal space. This model is often used by Nicole.",
     "KO": "보물함",
     "CHS": "聚宝箱",
-    "JA": "��・ボールト"
+    "JA": "ザ・ボールト"
   },
   "13106": {
     "icon": "Weapon_A_1061",
@@ -838,5 +848,25 @@
     "KO": "껍데기 속 영혼",
     "CHS": "壳中之灵",
     "JA": "殻の中の魂"
+  },
+  "14151": {
+    "icon": "Weapon_S_1511",
+    "rank": 4,
+    "type": 2,
+    "EN": "Neon Fantasies",
+    "desc": "A risky and unpredictable delusion that's impossible to refuse.",
+    "KO": "네온사인 망상",
+    "CHS": "霓虹妄想",
+    "JA": "妄想ディスコテック"
+  },
+  "14152": {
+    "icon": "Weapon_S_1521",
+    "rank": 4,
+    "type": 1,
+    "EN": "Serpentine Seeker",
+    "desc": "Digital venom flows beneath those alloy scales.",
+    "KO": "추적하는 송곳니",
+    "CHS": "鳞齿寻踪",
+    "JA": "影を追う白き牙"
   }
 }

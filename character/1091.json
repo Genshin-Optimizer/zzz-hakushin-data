@@ -22,10 +22,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle13.png",
     "ImpressionF": "Fairy! Find that \"precious visual recording\"! My brother wants to see it!",
     "ImpressionM": "There's no need to trouble yourself, Fairy. If Belle wants to see it, she'll ask Miss Miyabi herself...",
-    "Name": "",
-    "OutlookDesc": "The information shows:\nExecutive Officer Hoshimi Miyabi, Ether aptitude confidential, is allowed to perform basic tasks like investigating and extracting resources in known Hollows within the city (including Companion Hollows).",
     "ProfileDesc": "Hoshimi Miyabi, the Chief of Hollow Special Operations Section 6.\nMiyabi goes on a lot of field missions and still doesn't know which floor the regular monthly meeting is on.\nEven if you see Miyabi in the office, it's unlikely she's dealing with paperwork, and more likely polishing her sword.\n\nBeing conferred the title of Void Hunter due to her outstanding contributions, she's an elite amongst elites in Section 6.\nShe has great prestige amongst the citizens.\nOnce, Miyabi accidentally wandered into a \"Miyabi Fan Club\" hosted offline event.\nMiyabi was thought to be a fan with godlike impersonation skills, and that event resulted in a precious visual recording.\n\nHoshimi Miyabi is honest and pragmatic. She is not simply a martial artist obsessed with her art and without care for the world around her.\nAnyone who knows her will realize she's always pursued justice in her heart... even if it may eventually cause a revolution.",
-    "Race": "Hollow Special Operations Section 6",
     "RoleIcon": "IconRole/UnPacker/IconRole13",
     "Stature": "170 (Ears Included)",
     "UnlockCondition": [
@@ -1848,6 +1845,12 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1091_1",
+    "StrategyGuide_Overview_1091_2",
+    "StrategyGuide_Overview_1091_3",
+    "StrategyGuide_Overview_1091_4"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpine_Xingjianya"

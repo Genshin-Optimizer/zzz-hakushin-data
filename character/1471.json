@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle53.png",
     "ImpressionF": "Banyue Shifu may look calm and composed, but he's actually got a timid side! Last time he visited Suibian Temple, a mouse happened to scurry in, and though he did his best to hide it, it was clear he was unsettled...",
     "ImpressionM": "Come to think of it, one time, a kid dropped a marble, and he kept looking at it... I guess Banyue Shifu isn't always the composed martial arts master he seems to be.",
-    "Name": "",
-    "OutlookDesc": "",
     "ProfileDesc": "Banyue is an Intelligent Construct who runs a martial arts school in Waifei, known to many as \"Banyue Shifu.\" He has lived for a long time, his stone-lion-like presence commanding respect. A martial arts expert of great skill, he shares a long-standing friendship with Yunkui Summit's current High Preceptor, Yixuan.\n\nAs a martial master, Banyue is quiet but dependable. His methods and beliefs are rooted in tradition, and he disciplines his students with strict yet thoughtful guidance, teaching them not just how to fight, but how to learn. Known as a true master of the martial arts, in battle, he can assume a special form known as the Visage of Wrath to vanquish all evil.\n\nA long inhabitant of Waifei, Banyue is quiet and even-tempered. He doesn't express emotions easily and has the manner of someone from another era. Knowing he's out of touch with modern trends, he's been secretly trying to learn the latest internet slang... yet his half-baked grasp of it tends to end in funny little misunderstandings.\n\nBanyue also appears to have a strange liking for round things — stone balls, spherical bollards, and the like. If the conversation ever goes silent while you're alone with him, bringing up something spherical usually does the trick.",
-    "Race": "Krampus Compliance Authority",
     "RoleIcon": "IconRole/UnPacker/IconRole53",
     "Stature": "200",
     "UnlockCondition": [
@@ -2339,6 +2336,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1471_1",
+    "StrategyGuide_Overview_1471_2",
+    "StrategyGuide_Overview_1471_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpineBanyue"

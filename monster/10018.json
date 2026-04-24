@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1123,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 10001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 10003,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10005,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1373,
@@ -163,6 +169,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 10001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 10003,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10005,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -242,8 +252,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ThugPoacher.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Poacher",
   "Desc": "Most of the thugs who spend their time in the Hollows exhibit serious mental problems or peculiar quirks. Fortunately, the Poachers and the Rustlers within the gang have managed to maintain their sanity while embracing the filthy methods of traditional villains.\nCowardly and cunning, they excel in the art of concealing themselves within the shadows and launching surprise attacks on their targets. They would never choose to attack head-on if they could ambush.\nTheir composite hand crossbows, though limited in power, produce minimal noise when fired. Seasoned Poachers often seize the perfect moment and immobilize their unsuspecting prey with a single well-aimed shot.\n\"I used to be a Public Security officer, then I took an arrow in the knee while on a Hollow operation...\"",
   "Rarity": 1,

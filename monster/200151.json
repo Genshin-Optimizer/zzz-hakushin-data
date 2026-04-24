@@ -13,7 +13,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 6324,
@@ -44,6 +45,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 6517,
@@ -163,6 +169,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -251,11 +261,12 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 6324,
-        "Attack": 1000,
+        "Attack": 76,
         "Defence": 50,
         "Crit": 0,
         "CritDamage": 5000,
@@ -282,6 +293,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -289,16 +301,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -361,8 +376,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ThugBulkyAbuserPro.png",
-  "Tag": ["Ether", "Pro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Wanted Intimidator",
   "Desc": "In contrast to fully equipped Hollow investigators, Bulky Intimidators and Wanted Intimidators possess minimalistic gear.\nNevertheless, these notorious thugs can easily instill fear in their victims with their makeshift equipment.\nA spiked metal bat and a modified double-barreled shotgun are all they need to establish themselves as the most feared brutes in the Hollow.\nAccording to investigators who have encountered them in the Hollows, these brutes enter an extreme state of euphoria during battle. Their \"demeanor\" could hardly be called combat suitable, and more closely resembles bullying.\n\"Fighting them brought back the fear I felt when facing the school bullies alone...\"",
   "Rarity": 2,

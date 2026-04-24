@@ -8,7 +8,7 @@
   "ElementType": { "205": "Ether" },
   "SpecialElementType": {},
   "HitType": { "103": "Pierce" },
-  "Camp": { "7": "Criminal Investigation Special Response Team" },
+  "Camp": { "7": "New Eridu Public Security" },
   "Gender": 2,
   "PartnerInfo": {
     "Birthday": "SEP 1",
@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle23.png",
     "ImpressionF": "An exemplary human. We've been dealing with such an opponent for so long. Aren't we amazing?",
     "ImpressionM": "That's because it's me + you + Fairy. I wouldn't wanna know the outcome if it was one on one...",
-    "Name": "",
-    "OutlookDesc": "Hollow Investigation Association Licensing Archive—\nPublic Security Officer: Zhu Yuan. Ether aptitude confidential. Licensed for investigation, exploration, and other basic work in known Hollows (including Companion Hollows) in the city.\nNote: Zhu Yuan's file belongs to the New Eridu Public Security Janus Quarter Metropolitan Order Division Criminal Investigation Special Response Team. The relevant information can be obtained within the Public Security system, requiring special access permissions.\nFurther Note: Zhu Yuan has excellent Ether aptitude.",
     "ProfileDesc": "Zhu Yuan, an exceptional officer at Public Security, is a highly skilled individual expected to become the next commissioner. She currently leads the Criminal Investigation Special Response Team at the Janus Precinct within the Metropolitan Order Division. Her team members include Qingyi, Seth, and [redacted].\nNote: For documents with higher security levels within the Public Security system, further investigation is required; scheduling priority - low.\n\nZhu Yuan possesses excellent skills in criminal investigation, combat, and self-management (including working overtime). She has no unresolved cases on record.\nSuggestion: Approaching Zhu Yuan is an ill-advised decision that may compromise your cover. Always remember your true identity as a Proxy. Remember your true identity as a Proxy. Remember your true identity as a Proxy.",
-    "Race": "Sixth Street",
     "RoleIcon": "IconRole/UnPacker/IconRole23",
     "Stature": "175",
     "UnlockCondition": [
@@ -1825,6 +1822,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1241_1",
+    "StrategyGuide_Overview_1241_2",
+    "StrategyGuide_Overview_1241_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpineZhuyuan"

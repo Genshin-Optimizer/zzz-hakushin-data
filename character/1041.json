@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
     "ImpressionF": "Cats, super spicy noodles, going on missions, and everyone in Obol Squad... These are what make up Soldier 11's current life... I hope we one day hold a place in her heart as well~",
     "ImpressionM": "I'm sure we will! But really, I just hope Soldier 11 remembers our name someday...",
-    "Name": "",
-    "OutlookDesc": "Details currently unavailable",
     "ProfileDesc": "Soldier 11 is a member of the New Eridu Defense Force.\nShe currently serves as a direct attacker in Obol squad, Obsidian Division. Soldier 11 is a code name — she gave up her real name long ago.\n\nSoldier 11 is a fan of spicy food and likes the super-spicy noodles served at Waterfall Soup.\nIt's worth noting she currently calls us by a different name every time she greets us.",
-    "Race": "Obol Squad",
     "RoleIcon": "IconRole/UnPacker/IconRole05",
     "Stature": "160",
     "UnlockCondition": [
@@ -1928,6 +1925,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1041_1",
+    "StrategyGuide_Overview_1041_2",
+    "StrategyGuide_Overview_1041_3"
+  ],
   "Potential": [104100, 104101, 104102, 104103, 104104, 104105],
   "PotentialDetail": {
     "104100": {

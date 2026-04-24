@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1123,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 10001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 10003,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10015,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1373,
@@ -163,6 +169,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 10001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 10003,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10015,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -242,8 +252,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Golemgrey.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["All"],
   "Name": "Hoplitai",
   "Desc": "While categorized by the Hollow Investigative Association as a \"low threat\" Ethereal, Hoplitai prove to be a formidable opponent for novice Hollow Raiders and investigators.\nIts forelimbs are covered in a thick inert Ether matter, serving as both a tough shield and an intimidating weapon.\nThe only drawback is its top-heavy appearance, making it not look very clever.\n\"Alright, guys... Check out this sorry excuse... This is Hoplitai.\"\n\"When Ethereals gather together to play rock-paper-scissors, this idiot always plays paper!\"",
   "Rarity": 1,

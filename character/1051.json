@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle52.png",
     "ImpressionF": "Yidhari always seems like she couldn't care less, but she's actually really thoughtful and knows how to take care of others!\nOnce, while I was carrying some videotapes, I got a small cut on my hand without even noticing, and she came right over with a bandage and put it on for me!",
     "ImpressionM": "I know the feeling... When we hung out together before, I was in such a rush, I skipped lunch, and she noticed right away. She said my lips looked pale, so I must have come without eating, even though I couldn't tell myself...",
-    "Name": "",
-    "OutlookDesc": "",
     "ProfileDesc": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. As a gifted writer of bizarre tales, Yidhari should be more prone than most to immersing herself in the worlds of her own imagination.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
-    "Race": "Spook Shack",
     "RoleIcon": "IconRole/UnPacker/IconRole52",
     "Stature": "171",
     "UnlockCondition": [
@@ -1974,6 +1971,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1051_1",
+    "StrategyGuide_Overview_1051_2",
+    "StrategyGuide_Overview_1051_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpine_Yidhari"

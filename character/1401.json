@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle46.png",
     "ImpressionF": "It's rare to find someone who's just as bad with horror movies as my brother~ But even so, Alice still can't help but let her curiosity get the better of her, watching the latest horror flicks I recommend, and screaming while clinging to me. Unlike my brother, who always finds excuses to bail...",
     "ImpressionM": "Sorry for my lack of courage... But Alice really is obsessed with the paranormal. Does she really enjoy getting scared out of her wits over and over again?",
-    "Name": "",
-    "OutlookDesc": "",
     "ProfileDesc": "Alice Thymefield, a new member of Spook Shack, is a young lady from the prestigious Thymefield family of New Eridu.\n\nAlice has studied fencing and Ether science since childhood, showing exceptional talent in both fields. She currently attends Celestia School for Girls, a subsidiary of High Ambitions Academy, where she's a model student excelling in both academics and conduct. It is predicted that she will one day inherit the family business and become a next-generation Ether scholar of New Eridu.\n\nShe places extreme importance on order and patterns, showing an almost obsessive pursuit of symmetry in particular. This even affects her aesthetic judgment, making symmetry the primary criterion in determining whether something is beautiful or ugly.\n\nFurthermore, she's easily frightened, with practically zero resistance to ghost stories and supernatural tales. Despite this, she seems to show considerable interest in encountering such phenomena. Suggestion: Master can use ghost stories as a topic of conversation with her. No matter how much she initially refuses, it is likely that she will eventually come closer to investigate.",
-    "Race": "Spook Shack",
     "RoleIcon": "IconRole/UnPacker/IconRole46",
     "Stature": "163 (Ears Included)",
     "UnlockCondition": [
@@ -1766,6 +1763,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1401_1",
+    "StrategyGuide_Overview_1401_2",
+    "StrategyGuide_Overview_1401_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpineAlice"

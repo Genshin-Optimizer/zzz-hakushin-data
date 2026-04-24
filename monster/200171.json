@@ -13,7 +13,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 8414,
@@ -44,6 +45,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 8655,
@@ -163,6 +169,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -242,8 +252,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_ThugBulkyEnforcerPro.png",
-  "Tag": ["Ether", "Pro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Wanted Enforcer",
   "Desc": "There is a consensus within the New Eridu underworld that the most formidable fighters are not the champions of the ring, but rather the Bulky Enforcers and Wanted Enforcers lurking in the depths of the Hollow. These professional thugs are hired by Ether thieves at high prices to protect their illegally excavated Ether resources.\nBeing ardent boxing enthusiasts, Bulky Enforcers have modified high-voltage stun guns into boxing gloves, augmenting the destructive power of their punches.\nTo them, Ethereals, Hollow Raiders, Hollow investigators, and even scattered members of Public Security... are not seen as opponents but merely as \"training sandbags\" for their personal amusement.\n\"Wait a minute! I think I've seen this guy's fighting stance in the arcade on Fourth Street!\"",
   "Rarity": 2,

@@ -13,7 +13,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 31849,
@@ -44,6 +45,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -139,7 +144,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 31849,
@@ -170,6 +176,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -177,16 +184,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -249,8 +259,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_CovenantGuardian.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": [],
   "Name": "Sacrifice - Covenant Guardian",
   "Desc": "\"All who hear the sound shall behold the form of truth.\" —Even if that truth is nothing more than an illusion dredged from delirious murmurs.\nPerhaps it once had a name, a history, a self. For reasons unknown, it willingly stepped into a dark chamber one day, offering its ears, its eyes, even its mind to become a vessel existing solely to transmit a certain sound. It mistook the whispers of something within a Hollow for divine revelation, seeing itself as the voice through which \"It\" spoke directly to the mortal world. When its prey grows careless, that voice, eerily familiar, undeniably their own, rings within their mind, impossible to resist.\nYet in those brief pauses between its divine utterances, when the mind resists the murmurs and shatters the delusion, does it, in turn, feel a faint sting of human emotion?\nTo the very end, it pulsed with the remnants of an unspoken \"truth.\" No rage, no terror — just a solemn, almost sacred determination, until the last note faded into silence along with its lifeless shell.\n\n\"The 'Covenant Guardian'? It clings to that disgusting voice as if upholding divine law. Like some idiot convinced they'd found their way home, only to become a tombstone carved from sound.\" \"But really... what's the use in despising the vessel? If there's blame to be had, it belongs to whatever makes the sound.\"",
   "Rarity": 3,

@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 20548,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 30001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30015,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 1000
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 20548,
@@ -163,6 +169,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 30001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30015,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 1000
       },
       "Curves": {
@@ -242,8 +252,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Hecate.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Palicus",
   "Desc": "Ethereals that are always seen in pairs, distinguished by their peculiar physical traits. A profound bond exists between the two.\n \n\"Whoa, that was close! Don't just deal with one. You gotta watch out for the ladies' sneak attacks!\"\n\"Hold on, 'ladies'? Has being in the Hollow for so long made you see even the Ethereals as attractive?\"\n\"Dude, I know Ethereals and I know ladies. I swear, Palicus are definitely 'ladies'.\"\n\"No way!\"\n\"That long hair? Those legs? They're like total 'factory-made babes' — my sister taught me that term.\"\n\"How's your sister doing lately?\"\n\"She's actually getting better. But next month's medical bills? Gotta hustle that cash from these Ethereal hotties.\"\n\"Ain't easy being an older brother, eh? Here's the deal: I'll keep Palicus busy, and you give me your sister's number.\"\n\"Hah. Like I'm actually gonna give you her number!\"",
   "Rarity": 3,

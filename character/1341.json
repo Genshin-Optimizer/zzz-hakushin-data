@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle56.png",
     "ImpressionF": "I feel especially safe when I'm out investigating with Xiao'Zhao. Like... she's the kind of person who never loses out when dealing with others.",
     "ImpressionM": "Whenever the group decides on something and Xiao'Zhao raises no objections, you can bet she's judged the pros and cons and found it worth attempting.",
-    "Name": "",
-    "OutlookDesc": "",
     "ProfileDesc": "Zhao, a Krampus Compliance Authority Judge, was one of the elite members who joined in the early days.\n\nThough she looks innocent and cute on the outside, she's actually sharp-minded, meticulous, and principled. She puts great importance on \"value\" and \"equivalent exchange\" — not in the sense of pricing things with money, but in analyzing someone's ability and potential, giving an objective and long-term assessment of the impact they can make.\n\nIt's said this mindset didn't come from Zhao's work at Krampus, but had already taken root during her childhood. She evaluates not only others, but herself as well. \"Only those with value deserve to be seen.\"\n\nThough she rarely shows it openly, Zhao remains cautious toward kindness that comes without reason. It conflicts with her belief in \"equivalent exchange,\" and she tends to assume the other person must have a deeper motive for offering help.\nAs such, when dealing with Zhao, it's best to focus on mutual benefit first. If you want to break through her defenses with sheer sincerity and goodwill, you'll be fighting an uphill battle.\n\nThere's also one piece of intel that can't be fully confirmed: Zhao loves vegetables and dislikes meat, but she seems to be pretending she enjoys meat as well.",
-    "Race": "Krampus Compliance Authority",
     "RoleIcon": "IconRole/UnPacker/IconRole56",
     "Stature": "118",
     "UnlockCondition": [
@@ -1688,6 +1685,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1341_1",
+    "StrategyGuide_Overview_1341_2",
+    "StrategyGuide_Overview_1341_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpinezhao"

@@ -20,7 +20,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 13047,
@@ -51,6 +52,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20011,
@@ -58,16 +60,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -146,7 +151,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 13541,
@@ -177,6 +183,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20011,
@@ -184,16 +191,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -256,8 +266,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_IonizedPugnus.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": [],
   "Name": "Ionized - Pugnus",
   "Desc": "Not all Ionized beings within the Hollows prefer to hide, and Pugnus wears its menace on every sharpened spike. Clad in armor, its back and tail bristle with razor spines, while its massive pincers serve not only as weapons but as war drums that pound the earth to mark its territory. Pugnus tends to build power from within the shadows, yet can suddenly spring forth — bringing its full weight down with both crushing claws upon its prey. Its shockwaves are powerful enough to throw inexperienced fighters off balance, and the flying debris that follows often seals off any escape routes. Its attack rhythm suggests it relies on ground vibrations to track its prey before lunging in a sudden, explosive strike to finish the fight. Interestingly, some Hollow Raiders who've spent years dealing with Pugnus have developed a unique \"Lightfoot Hollow Step\" technique: \"I used to get knocked off balance by its tremors, but then I learned to step on my toes and move quickly... Now I'm somehow winning stilts racing competitions at festivals.\"",
   "Rarity": 2,

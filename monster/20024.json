@@ -13,7 +13,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 9904,
@@ -44,6 +45,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -123,8 +128,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Pulchra.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Pulchra",
   "Desc": "No one knows where Pulchra came from, but she was once one of the top mercenaries of the Outer Ring, a \"chameleon\" who was adept at adapting depending on the situation.\nNot long after the previous Tour de Inferno ended with Pompey's consecutive victory, a few factions conspired in the shadows to launch a surprise attack on The Vanquishers. This scheme was easily dealt with by The Vanquishers, as if all their plans were within The Vanquishers' grasp.\nThe losers were chased out of the Old Oil Field, yet Pulchra, who had allied with them, was completely untouched. Naturally, many believed that this victory relied on a betrayal.\nThough many made offers, hoping she'd join them, Pulchra never officially joined any gang.\nPerhaps, to her, all these conspiracies and conflicts within the Outer Ring were just a game she could quit at any time. Even if her employer was loathsome, she wouldn't care, so long as they had the money and the job was interesting.\nEspecially if the job involved luring an enemy into an exquisitely prepared trap, allowing her to watch them slowly descend into the abyss of death...\nLuring, deceiving into complete destruction... The more beautiful, the more deadly, that has always been her code of survival.\n\"What, you wanna work under big sis Pulchra?\"\n\"Heh, another poor sucker...\"",
   "Rarity": 2,

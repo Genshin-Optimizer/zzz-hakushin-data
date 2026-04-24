@@ -22,10 +22,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle44.png",
     "ImpressionF": "Shifu always seems quite laid-back, as if she doesn't have any strong attachments or opinions. Perhaps, through her travels and divinations, she's seen too many people's joys, sorrows, and struggles, and fate has taken its toll on her.",
     "ImpressionM": "Since Shifu can do divinations and tell fortunes, many things must no longer surprise her. Every change can be predicted with precision. Perhaps that's why she remains so calm and indifferent, with no desires or demands.",
-    "Name": "",
-    "OutlookDesc": "",
     "ProfileDesc": "Yixuan is the 13th High Preceptor of Yunkui Summit and a Void Hunter-level investigator, officially recognized by Mayor Mayflower.\n\nShe was once an orphan, wandering the world with her sister from a young age. Later, the then-High Preceptor of Yunkui Summit took them in, and they became disciples, learning the craft of Yunkui Summit. During this time, Yixuan demonstrated exceptional talent. No matter the technique, she would quickly master it, not only understanding it thoroughly but also creating her own unique techniques. The Qingming Bird was one of the special techniques she and her sister developed together, which helped her eliminate enemies and banish evil spirits in various difficult and dangerous situations. After becoming the sect's High Preceptor, she accepted an invitation from Mayor Mayflower and joined the Hollow Investigative Association as a partnered special investigator.\n\nAfter becoming High Preceptor, Yixuan took in many talented disciples to continue Yunkui Summit's lineage. However, her approach is rather casual, and often, even when teaching by example, her disciples can only guess her intentions... Yet, Yixuan isn't troubled by this, as she believes there's no standard answer to the so-called \"right path.\" What matters to her is that her disciples find their own \"right path.\" Of course, if they can understand and learn on their own, that's even better. As their Shifu, she simply lets things unfold naturally.",
-    "Race": "Yunkui Summit",
     "RoleIcon": "IconRole/UnPacker/IconRole44",
     "Stature": "172",
     "UnlockCondition": [
@@ -2060,6 +2057,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconDungeonBuffEther.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1371_1",
+    "StrategyGuide_Overview_1371_2",
+    "StrategyGuide_Overview_1371_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpine_Yixuan"

@@ -13,7 +13,8 @@
         "Fire": 1,
         "Electric": -1,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 10980,
@@ -44,6 +45,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": 2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 0,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 2000,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": -2000,
         "ElectricStunRes": 2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": 1,
         "Electric": -1,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 11295,
@@ -163,6 +169,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": 2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 0,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 2000,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": -2000,
         "ElectricStunRes": 2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -242,8 +252,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_FlameCantor.png",
-  "Tag": [],
-  "Tag2": [],
   "Name": "Flame Cantor",
   "Desc": "A high-ranking priest of the Exaltists who holds the position of \"Flame Cantor,\" and who has the power to manipulate Miasma. This defiling force drains life, while the flames light the path ahead.\n\nWhile all Exaltist fanatics tend to either shout or chant vague slogans like \"Refinement\" and \"Creator\" when attacking you, few can make known the experience of true \"Refinement\" using Miasmic fire like this one does.\n\n\"They just charge at you, screaming things like 'Refinement,' 'Creator,' 'Purification' and whatnot!\"",
   "Rarity": 2,

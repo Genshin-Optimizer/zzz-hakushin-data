@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle50.png",
     "ImpressionF": "Lucia enjoys traveling the Hollows alone and tracking down Ethereals. She also often shows up with snacks, tapping on the window before slipping into the video store to watch a movie...\nShe's always popping up in different places with a bright smile — just like a little sprite flitting through the night!",
     "ImpressionM": "Ever since getting hooked on Lucia's Bangboo ghost stories, Eous has stopped going to bed on time...\nNow it just camps out at the front desk, ears pricked for the sound of tapping on the window... What a headache.",
-    "Name": "",
-    "OutlookDesc": "",
     "ProfileDesc": "Lucia, a member of Spook Shack, goes by the online name \"Night Emissary.\" She's a backpacker, an Ethereal story enthusiast, and a connoisseur of late-night food stalls.\n\nRecords show that Lucia hails from a tribe living on the outskirts of the city. Legend has it their ancestors once encountered an Ethereal called the \"Night Horror\" (absent from the Hollow Investigative Association archives), which left them with a strange gift: Ethereals tend not to notice them. The cost, though, is that they dream of the Night Horror at night, and under its influence, they sleepwalk into Hollows, where corruption awaits.\nBecause of this, the tribe took on the role of Nightwatchers. They rest during the day and hunt deep in the night, avoiding the Night Horror's pull. And if anyone must sleep at night, their family will keep vigil at their side until dawn.\n\nLucia grew up surrounded by her kin, and even after arriving in New Eridu, she has kept to the Nightwatcher tradition of staying awake through the night and watching over her cherished friends, shielding them from the Night Horror's reach.\nMaster, if you hear a knock at your window late at night, don't be alarmed. It may just be a sleepless night guardian stopping by to say hello.\n\nAdditional note: Lucia's pet is \"Chestnut,\" a small, friendly Hati. It once lived in the Hollow's outskirts, but has since moved deeper inside. Even I can no longer detect its exact whereabouts.",
-    "Race": "Spook Shack",
     "RoleIcon": "IconRole/UnPacker/IconRole50",
     "Stature": "160",
     "UnlockCondition": [
@@ -1888,6 +1885,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1451_1",
+    "StrategyGuide_Overview_1451_2",
+    "StrategyGuide_Overview_1451_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpineLucia"

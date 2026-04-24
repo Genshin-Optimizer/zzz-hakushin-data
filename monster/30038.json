@@ -20,7 +20,8 @@
         "Fire": 0,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 32638,
@@ -51,6 +52,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 4000,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -58,16 +60,19 @@
         "ElectricBuildupCurve": 30013,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": 0,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 3200
       },
       "Curves": {
@@ -147,7 +152,8 @@
         "Fire": 0,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 32638,
@@ -178,6 +184,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 4000,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -185,16 +192,19 @@
         "ElectricBuildupCurve": 30013,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": 0,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 3200
       },
       "Curves": {
@@ -275,7 +285,8 @@
         "Fire": 0,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 32638,
@@ -306,6 +317,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 4000,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -313,16 +325,19 @@
         "ElectricBuildupCurve": 30013,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": 0,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 3200
       },
       "Curves": {
@@ -385,8 +400,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_IsoldetheDefiler.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": [],
   "Name": "The Defiler",
   "Desc": "The vengeful flames from beyond the river of the dead can never illuminate the path of those seeking revenge. The obsessed zealots who carved curses into sacred shrines now reaps the bitter fruit of their blasphemy.\n\nMiasma gathers beneath the towering spire as lost souls awaken from the Ether. In this ominous power steeped in filth and shadow, hatred takes form, coalescing into something tangible. Unbound by faith, untouched by justice, this profane force forges nothing but instruments of war, forged by vengeance and madness\n\nThe soil reeks with blood and sin, spreading ever onward... and finally reaches the end of this long, harrowing tale.\n\n\"If the ending cannot be perfect, then at least let it be written by my own hand.\"",
   "Rarity": 4,

@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle12.png",
     "ImpressionF": "Turns out Nicole is more famous in the biz than I thought huh!",
     "ImpressionM": "Instead of these astute comments, I'm more interested in seeing a comprehensive list of everything Nicole owes us.",
-    "Name": "Nicole",
-    "OutlookDesc": "HIA License Archive Information:\nHollow Investigator - Nicole. High aptitude for Ether. Permitted to conduct investigations, basic mining, etc. in known Hollows within the city (including companion Hollows).\nAlert: Data shows Nicole's Hollow investigator license has not been renewed for a long time and is about to expire.\nFailure to undergo the relevant tests at one's own expense after the expiry date may result in the license being revoked.",
     "ProfileDesc": "Database search: Nicole. Returned results:\n\"Boss of the odd-job agency, the Cunning Hares,\" \"Streetwise,\" \"Orphan, parents unknown.\"\nNicole's agency was originally called Gentle House, but due to her reputation of being cunning, it gained the nickname the Cunning Hares.\n\"She's really into money! I don't know what she's doing with it all though, seems like she's doing nothing.\"\n— The above is a quote from a popular post on Inter-Knot: \"Her odd-job agency is outrageous. I've never encountered a boss who knows how to turn everything into profit!\"\nThe individual involved responded, \"This, this is a false accusation! I, Nicole, have never been skilled at making money — mainly because I don't have any money to begin with!\"\nAccording to reliable sources, the Cunning Hares are constantly in debt, and their \"careful budgeting\" seems to have no effect on the organization.",
-    "Race": "Cunning Hares",
     "RoleIcon": "IconRole/UnPacker/IconRole12",
     "Stature": "165",
     "UnlockCondition": [
@@ -2362,6 +2359,10 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1031_1",
+    "StrategyGuide_Overview_1031_2"
+  ],
   "Potential": [],
   "PotentialDetail": {}
 }

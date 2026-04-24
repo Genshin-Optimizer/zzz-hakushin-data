@@ -20,7 +20,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": -1
+        "Physical": -1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 40267,
@@ -51,6 +52,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 4000,
         "IceBuildupCurve": 30011,
@@ -58,16 +60,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": 2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 3800
       },
       "Curves": {
@@ -147,7 +152,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": -1
+        "Physical": -1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 40267,
@@ -178,6 +184,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 4000,
         "IceBuildupCurve": 30011,
@@ -185,16 +192,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": 2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 3800
       },
       "Curves": {
@@ -257,8 +267,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_WanderingHunter.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": [],
   "Name": "Wandering Hunter",
   "Desc": "A Corrupted with rich combat experience, equally skilled in offense and defense, moving with agility. It excels at lurking in hidden spots, launching the most efficient attacks targeting weak points.\n\nI should have recorded more - its behavioral patterns, the haunting song that follows it like a shadow, things like that... But let's leave it at that, just like the half-finished portrait in Lucia's book.\n\n\"One little star, up high. Two little stars, float by. Three little stars, it's time to go and hide.\"",
   "Rarity": 4,

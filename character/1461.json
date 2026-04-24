@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle48.png",
     "ImpressionF": "Seed's a total gaming pro, likes the same kind of music I do, and isn't into exercising at all. Her cockpit's basically her bedroom... She's just like me for real. Oh, and one more thing we have in common — we both know we're cute~",
     "ImpressionM": "Most of the time, I can just about keep up with her... \"unusual\" way of thinking, but you can never let your guard down. Last time, she said her scooter was broken, so I offered to fix it — only for her to ask if she could ride around on my back all day! Good thing I can outrun her...",
-    "Name": "",
-    "OutlookDesc": "Partner_OutlookDesc_1461",
     "ProfileDesc": "Seed, heavy weapons specialist of New Eridu Defense Force, Obsidian Division, Obol Squad. Her real name is Flora. The codename \"Seed\" was passed down from her guardian, the combat-grade Intelligent Construct formerly known by the same name, who now goes by \"Seed Sr.\"\n\nAccording to multiple sources, Seed is an unidentified orphan Seed Sr. rescued from Hollow Zero during the fall of the old capital. Seed Sr. adopted her and raised her alone in the Defense Force dormitories.\nA few years ago, Seed Sr. successfully applied to join Obol Squad, but not long after, he passed away due to irreversible damage to his logic core. As a result, Seed took his place in the squad. Any voice lines heard from Seed Sr. today are system-preloaded audio files.\n\nSeed possesses an extraordinary gift for mechanical engineering and research, capable of designing and building inventions far beyond the imagination of most. She also has an exceptional adaptability for Ether, able to push Seed Sr.'s combat capabilities to the limit by piloting him, through remote control, and by using custom combat modules.\n\nAnd so, despite her extraordinarily substandard physical capabilities and entirely mysterious origins, the military still gave tacit approval for her to serve as an elite soldier.\n\nSeed behaves quite differently from most people in everyday situations. She uses Seed Sr.'s cockpit as her bed, prefers confined spaces, and strongly dislikes talking to or interacting with anyone outside her immediate circle. Her logic jumps wildly, making meaningful conversation difficult.\n\nThe good news? For some reason, she's taken a special liking to you, Master, and the second assistant. You've been spared the long ordeal of earning her trust — and you don't have to worry about her occasional bouts of destructive behavior turning your way. Congratulations.\n\nSuggestion: Focus on topics like flowers and robots — her favorite things — when engaging in conversation. Stay calm when parts of her logic or meaning don't make sense; treating such moments as normal can help strengthen your bond with her.",
-    "Race": "Obol Squad",
     "RoleIcon": "IconRole/UnPacker/IconRole48",
     "Stature": "153/240 (Mech)",
     "UnlockCondition": [
@@ -1689,6 +1686,10 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1461_1",
+    "StrategyGuide_Overview_1461_2"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpine_Seed"

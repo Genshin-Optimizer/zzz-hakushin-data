@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 20134,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 2000,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 30001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 30013,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": 0,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 1000
       },
       "Curves": {
@@ -123,8 +128,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Harvester.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Lumberjack",
   "Desc": "There are quite a few self-proclaimed \"master inventors\" among Hollow Raiders. Their most proficient skill is taking proper second-hand industrial materials and transforming the abandoned combat machines left by Public Security in the Hollow into not-so-proper personal creations.\nHigh-speed chainsaws, toothed circular saws, hydraulic industrial arms... After simple assembly and rough welding, these common materials are stacked together to form a rare and dangerous piece of machinery.\nTo make it run smoothly, the creator has \"thoughtfully\" removed the safety restrictions of the machine and, based on its rugged appearance, named it the Lumberjack.\nNo one knows how long the Lumberjack can run stably.\nPerhaps, at any moment, it could suddenly go berserk, swinging its high-speed rotating chainsaw and spikes with unmatched horsepower, launching an unstoppable logging fest that no one dares to stop.\nBut... this near-mad combat mode might just be the best modification outcome the creator had in mind.\n\"Why call it a 'Lumberjack'? There's no wood to chop in the Hollow, right?\"\n\"Yeah, that's why it's so angry. When it starts up, it's reckless...\"",
   "Rarity": 3,

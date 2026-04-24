@@ -22,7 +22,8 @@
         "Fire": 1,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1628,
@@ -53,6 +54,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 10001,
@@ -60,16 +62,19 @@
         "ElectricBuildupCurve": 10013,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10005,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": 0,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": -2000,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -141,7 +146,8 @@
         "Fire": 1,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1628,
@@ -172,6 +178,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 10001,
@@ -179,16 +186,19 @@
         "ElectricBuildupCurve": 10013,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10005,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": 0,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": -2000,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -260,7 +270,8 @@
         "Fire": 1,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 1991,
@@ -291,6 +302,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 10001,
@@ -298,16 +310,19 @@
         "ElectricBuildupCurve": 10013,
         "PhysicalBuildupCurve": 10004,
         "EtherBuildupCurve": 10005,
+        "WindBuildupCurve": 10006,
         "IceBuildupRes": 0,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": -2000,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -370,8 +385,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_MiasmaWalkerGrenadierJaeger.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": [],
   "Name": "Miasmic Trooper - Cannoneer",
   "Desc": "The Ethereal soldiers, formed from Miasma, wear tattered old uniforms and linger in the smoke of battle like ghosts from another era.\nHollow observation data shows that the Canonneers can strike nearby targets with impressive precision using their bazookas — a level of accuracy suggesting rigorous training, which has sparked much speculation.\n\"Could these newly discovered, highly organized Ethereal units be linked to the Defense Force?\"\n\"Sorry. No comment until the matter is fully investigated and confirmed.\"",
   "Rarity": 1,

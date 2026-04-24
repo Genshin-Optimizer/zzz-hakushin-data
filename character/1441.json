@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle51.png",
     "ImpressionF": "It's amazing how Manato can remember every neighbor's name and little habits whenever they stop to greet him!",
     "ImpressionM": "Being with Manato really lessens the fright of ghost stories...",
-    "Name": "",
-    "OutlookDesc": "",
     "ProfileDesc": "Komano Manato, a member of Spook Shack and an exceptionally reliable person. Having lost his family in the fall of the old capital, he grew up alone in Waifei Peninsula until the day he happened to adopt two street children, A-Cing and A-Yuet. Since then, the three have lived as a family, depending on one another. It may be a young household, but to Manato, nothing matters more than looking after them.\nManato is currently enrolled at a company affiliated school in the city, where rumors paint him as the terrifying \"school delinquent.\" The label likely comes from his intimidating appearance, though in reality, he's far more soft-hearted and generous than he seems.\nAt first, Manato really did want to do something to clear up the misunderstanding about being a delinquent, but for various reasons, his efforts didn't make much of an impact. Still, his optimism soon led him to realize that the title wasn't all bad. It let him dodge unnecessary social events, live without being bothered by strangers, and even leverage the \"delinquent\" image to sniff out stories of school ghost tales, all while standing up for classmates suffering from actual bullying.\nBut when it comes to grades, he really does live up to the \"school delinquent\" label of a company affiliated school student.",
-    "Race": "Spook Shack",
     "RoleIcon": "IconRole/UnPacker/IconRole51",
     "Stature": "198",
     "UnlockCondition": [
@@ -2138,6 +2135,10 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1441_1",
+    "StrategyGuide_Overview_1441_2"
+  ],
   "Potential": [],
   "PotentialDetail": {}
 }

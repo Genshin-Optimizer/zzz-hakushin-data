@@ -13,7 +13,8 @@
         "Fire": 1,
         "Electric": 0,
         "Ether": 0,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 9904,
@@ -44,6 +45,7 @@
         "FireDamageRes": -2000,
         "IceDamageRes": 2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 20001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 20003,
         "PhysicalBuildupCurve": 20004,
         "EtherBuildupCurve": 20005,
+        "WindBuildupCurve": 20006,
         "IceBuildupRes": 2000,
         "FireBuildupRes": -2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 2000,
         "FireStunRes": -2000,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 0
       },
       "Curves": {
@@ -123,8 +128,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Mors.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Mors",
   "Desc": "Mors was once the most feared bounty hunter in the Outer Ring. He possessed an almost obsessive desire to hunt, often tracking his targets relentlessly day in and day out. Once he had a target in his sights, he would obsessively pursue the kill until his prey was dead.\n\n\"Lone Wolf Mors\" never fails — this is the belief held by all major factions in the Outer Ring.\n\nHowever, during one \"hunt,\" Mors pursued his target day and night for three days... Yet, even after exhausting his strength, he still failed to kill the target.\nSurprisingly, the man named Pompey didn't take it personally and instead offered an invitation to the defeated Mors — asking him to join his own organization.\n\nFrom that point on, the infamous \"hunter\" Mors was nowhere to be found. However, within The Vanquishers, a new figure emerged — a silent, solitary captain.\nEven now, Mors remains elusive, often disappearing for long periods. He only resurfaces when faced with a foe who genuinely intrigues him, not out of duty as a captain, but simply to indulge in the thrill of combat and the sheer joy of the hunt.\n\"You want to challenge Captain Mors to a duel? Heh, do you really think you're up for it?\"\n\"Go sign up over there first, then come back next month to try your luck in the draw.\"",
   "Rarity": 2,

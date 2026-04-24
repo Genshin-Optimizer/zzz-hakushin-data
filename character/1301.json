@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle49.png",
     "ImpressionF": "Orphie has a great personality — being around her really puts you at ease!\nBut her obliviousness has caused Magus a fair share of grief, and she seems totally unaware of it...",
     "ImpressionM": "The way those two interact is pretty entertaining.\nIf someone made a movie starring that girl and her gun, it'd probably do pretty well at the box office.",
-    "Name": "",
-    "OutlookDesc": "Partner_OutlookDesc_1301",
     "ProfileDesc": "Orphie Magnusson serves in the New Eridu Defense Force's Obsidian Division, Obol Squad. She is the wielder of Magus, an Intelligent Construct in gun form.\n\nMagus is the captain of Obol Squad. She was gravely injured during the fall of the old capital and on the brink of death. After taking part in a military research project, her consciousness was transferred into a weapon, allowing her to survive as an Intelligent Construct. Since the squad's formation, she has remained its heart and soul — hot-tempered and impulsive at times, yet deeply respected and trusted by her comrades.\nOrphie shares an extraordinary bond with Magus — one that goes far beyond that of just \"partners.\" The two have known each other for years, and Magus often acts like a mother, offering guidance and care. In return, Orphie does everything she can to meet Magus' expectations, aspiring to become a strong, independent soldier like her captain.\n\nStrictly speaking, Orphie enjoys many things Magus disapproves of: fancy desserts, cute animals, and overly decorative toys. Her captain sees them as signs of softness, unfit for a soldier. Still, while Magus enforces discipline in public and imposes the expectations of a perfect soldier, she pretends to be in \"sleep mode\" just to turn a blind eye to Orphie's less-than-perfect behavior. According to this supposedly \"strict and impartial\" captain, she's simply following the parenting advice laid out in an online series titled \"Raising a Child Prodigy.\"",
-    "Race": "Obol Squad",
     "RoleIcon": "IconRole/UnPacker/IconRole49",
     "Stature": "158",
     "UnlockCondition": [
@@ -1822,6 +1819,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1301_1",
+    "StrategyGuide_Overview_1301_2",
+    "StrategyGuide_Overview_1301_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpine_Aofeisi"

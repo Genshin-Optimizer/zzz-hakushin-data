@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle36.png",
     "ImpressionF": "Astra just sent me another message on Knock Knock! It's a swimsuit photoshoot for \"Jealous\"! Wow, she's got a great body~",
     "ImpressionM": "What?! Why don't I... Ahem, I think my phone is broken. Belle, can I borrow yours for a moment?",
-    "Name": "",
-    "OutlookDesc": "There's no record of Astra Yao's aptitude for Ether in her New Eridu Citizen Verification Profile.\nNote: She has an outstanding aptitude for Ether.",
     "ProfileDesc": "Astra Yao is widely regarded as Ridu's most iconic singer. With her extraordinary voice, stage presence, and songwriting talent, she has led the musical trends of an entire era. \"If music is the resonance of the soul, then Astra Yao is the spark that ignites it all,\" said one famous music critic.\n\nAs brilliant as she is, Astra remains remarkably sincere and pure. On stage, her voice resonates deeply with the audience, which has allowed her to amass a large and loyal fanbase known as her \"Astranauts.\" Of course, Astra's brilliance wouldn't be possible without the careful protection of her manager, Evelyn. Offstage, she appears to be just a cute, hapless girl who depends on Evelyn in her daily life, and on Wise and Belle in the Hollows.\n\n\"If I tickled Eous, would it make you laugh?\" Astra asked curiously while lifting the Proxy, who was linked via the HDD system.\n\nShe seems to have a particular fondness for Eous.\nContemplation: Human emotions are indeed an interesting subject. It's still hard to determine whether Astra likes Eous because of the owner, or whether she likes the owner because of Eous.",
-    "Race": "Stars of Lyra",
     "RoleIcon": "IconRole/UnPacker/IconRole36",
     "Stature": "176",
     "UnlockCondition": [
@@ -1817,6 +1814,10 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1311_1",
+    "StrategyGuide_Overview_1311_2"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpineYaoJiayin"

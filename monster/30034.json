@@ -20,7 +20,8 @@
         "Fire": -1,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 30307,
@@ -51,6 +52,7 @@
         "FireDamageRes": 4000,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -58,16 +60,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30015,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 0,
         "FireBuildupRes": 2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": 2000,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -147,7 +152,8 @@
         "Fire": -1,
         "Electric": 0,
         "Ether": 1,
-        "Physical": 1
+        "Physical": 1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 30307,
@@ -178,6 +184,7 @@
         "FireDamageRes": 4000,
         "IceDamageRes": 0,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": -2000,
         "IceBuildupCurve": 30011,
@@ -185,16 +192,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30015,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 0,
         "FireBuildupRes": 2000,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": -2000,
         "EtherBuildupRes": -2000,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": 2000,
         "ElectricStunRes": 0,
         "EtherStunRes": -2000,
         "PhysicalStunRes": -2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -257,8 +267,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_NamelessOne.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": [],
   "Name": "Miasmic Fiend - Unfathomable",
   "Desc": "A monster forged from Miasma and the memories of a mystic — every painful, haunting moment now sealed within this chaotic form.\nIt's nothing but an imitation in the end, never brave enough to rise up, never decisive enough to disappear without a trace. Yet for its creator, this was sufficient — as a mere pawn, those memories steeped in agony served as potent fuel, enough to turn the Hollow upside down and expose all secrets to the world.\nThus, driven by memories not its own, the Miasma that birthed it made it restless, the approaching Ethereals filled it with rage, and even while prowling its own territory, it remained forever uneasy.\nOnly once, when it chased a human to the edge of the Hollow and saw the fear on their face, was its hunting instinct unexpectedly overridden by a strange impulse. It came to an involuntary stop. And when that unlucky figure vanished from view, it felt something new: an emotion startlingly close to satisfaction.\nBut that sense of satisfaction didn't last. A group of humans in black armor began intruding into its territory again and again, unfazed by any threat. Agitation and exhaustion slowly wore it down — until all it wanted was for everything that moved to disappear. Disappear! DISAPPEAR!!!\n...\n\"...Let's... settle... this...\nStrange, what was that voice?\n\"It's deeply connected... The one who tied the knot must be the one to untie it!\"\nMemories long smothered by madness stirred back to life. Yes... yes! That was the sound — the one that had echoed endlessly in its mind. Though instinct screamed for it to attack, its body hesitated. Its gaze followed the glint of silver hair, so much like its own, desperate to see if the voice belonged to the figure that kept resurfacing in its memory.\nDistracted, it took a direct hit to its core from behind, the excruciating pain nearly breaking it. Yet it still heard that faint whisper:\n\"I'm sorry, I must do this...\"\nThough the words made no sense to it, that near-satisfying emotion returned. It became aware that something genuinely frightening now had it in its grip. It might die because of it... but it had no intention of fleeing.\nIn the end, its strength was completely spent. But in that final moment, it could finally see her clearly. She wasn't quite the same as in its memories, and that fleeting realization brought a trace of loneliness. But even so, it liked her current self more than the heart-shattering screams of the past.\n\n\"The 'Miasmic Fiend'... Hmm, though Ferox's subordinates named it first, this creature's ghostly and vicious nature certainly lives up to the name. We plan to register it as such — what does you think, Yixuan Shifu?\"\n\"Have you heard the ancient saying? 'A name makes the truth no less unfathomable.' A name is just a name — whatever rolls off the tongue will do.\"",
   "Rarity": 4,

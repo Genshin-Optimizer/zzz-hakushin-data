@@ -8,7 +8,7 @@
   "ElementType": { "200": "Physical" },
   "SpecialElementType": {},
   "HitType": { "101": "Slash" },
-  "Camp": { "7": "Criminal Investigation Special Response Team" },
+  "Camp": { "7": "New Eridu Public Security" },
   "Gender": 2,
   "PartnerInfo": {
     "Birthday": "FEB 16",
@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle24.png",
     "ImpressionF": "Fairy, you don't have to reiterate anything. We've all come to terms with Jane's name being Jane.",
     "ImpressionM": "I mean, it's far from the worst name we've seen...",
-    "Name": "",
-    "OutlookDesc": "Hollow Investigation Association Licensing Archive—\nPublic Security Officer: Zhu Yuan. Ether aptitude confidential. Licensed for investigation, exploration, and other basic work in known Hollows (including Companion Hollows) in the city.\nNote: Zhu Yuan's file belongs to the New Eridu Public Security Janus Quarter Metropolitan Order Division Criminal Investigation Special Response Team. The relevant information can be obtained within the Public Security system, requiring special access permissions.\nFurther Note: Zhu Yuan has excellent Ether aptitude.",
     "ProfileDesc": "Jane, a criminal behavior specialist, has had a \"colorful\" career as a consultant with Public Security over the years.\nShe is an expert in disguise, infiltration, and other investigative work.\nShe has a bad habit of trolling others and sometimes plays harmless pranks.\nShe's a skilled mimic, able to change her appearance and demeanor at will, making people wonder what the \"real\" Jane is like.\n\nJane has a wealth of life experience and can seamlessly blend into any environment, as though she has dabbled in everything there is to do.\nHowever, if you ask her for any further details, she'll give you a different story every time.\nWho knows which, if any, are true.\n\nNote 1: Jane does not know our true identity. Do not reveal this to her under any circumstances.\nNote 2: Despite \"Jane Doe\" being an obvious alias, we haven't found any information about her real or former name.\nThis is not my problem. My guess is that her true identity has been completely erased due to her special status.\nLet me reiterate: This is not my problem.",
-    "Race": "Victoria Housekeeping Co.",
     "RoleIcon": "IconRole/UnPacker/IconRole24",
     "Stature": "170",
     "UnlockCondition": [
@@ -1934,6 +1931,10 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1261_1",
+    "StrategyGuide_Overview_1261_2"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpine_Jian"

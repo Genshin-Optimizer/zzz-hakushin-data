@@ -13,7 +13,8 @@
         "Fire": -1,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 23630,
@@ -44,6 +45,7 @@
         "FireDamageRes": 2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 30001,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 30013,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 0,
         "FireBuildupRes": 2000,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": 2000,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 1000
       },
       "Curves": {
@@ -132,7 +137,8 @@
         "Fire": -1,
         "Electric": 1,
         "Ether": 0,
-        "Physical": 0
+        "Physical": 0,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 23630,
@@ -163,6 +169,7 @@
         "FireDamageRes": 2000,
         "IceDamageRes": 0,
         "ElectricDamageRes": -2000,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 30001,
@@ -170,16 +177,19 @@
         "ElectricBuildupCurve": 30013,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": 0,
         "FireBuildupRes": 2000,
         "ElectricBuildupRes": -2000,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": 0,
         "FireStunRes": 2000,
         "ElectricStunRes": -2000,
         "EtherStunRes": 0,
         "PhysicalStunRes": 0,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 1000
       },
       "Curves": {
@@ -242,8 +252,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_TyphonDestroyer.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": ["Metro", "SkyScraper"],
   "Name": "Autonomous Assault Unit - Typhon Destroyer",
   "Desc": "As a heavy mech, the Typhon Destroyer is devoid of any added long-range firepower. Instead, its focus is on its Ether-Kinetic Armor.\nImpact attacks, heavy blows, crushing... The Typhon Destroyer employs simple yet efficient tactical maneuvers to maximize the destructive power afforded to it by its Ether-Kinetic Armor. The shockwave effects from its strikes can even intimidate larger Ethereals...\nEven the most seasoned Hollow Raiders can only let out a sigh of helplessness when confronted with the impenetrable Typhon Destroyer.\n\"The tall and robust physique, powerful and sturdy arms... It's my ideal type... I mean, ideal model.\"",
   "Rarity": 3,

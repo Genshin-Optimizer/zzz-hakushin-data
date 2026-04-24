@@ -17,10 +17,7 @@
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle57.png",
     "ImpressionF": "An idol performing on stage with a virtual avatar... Does that count as being a virtual idol?",
     "ImpressionM": "Uh... That doesn't feel quite right, Belle... but I honestly don't know how to refute it...",
-    "Name": "",
-    "OutlookDesc": "",
     "ProfileDesc": "Aria is the lead vocalist and center of the Angels of Delusion. Bright and full of energy, she always shines on stage, bringing warmth and strength to all Delulus.\nShe has a near-perfect voice, even though she was never professionally trained. At first, Aria only sang because she loved her idol, the retired songstress Cersea, copying her performances and singing along, until she realized she had a gift for song of her own.\nThough Aria's vocal skills are undeniably professional, she lacks a solid foundation in dance. Even with dedicated practice, she can still get flustered when faced with more complex moves. Still, fans deeply appreciate her attitude of \"even if I can't dance well, I'll still give it everything I've got.\"\n\"Pushing herself to the limit, wrestling with her own limbs to try and keep up with the rhythm... that's our Angels of Delusion lead vocalist!\" —One Delulu sobbing after a show.",
-    "Race": "Angels of Delusion",
     "RoleIcon": "IconRole/UnPacker/IconRole57",
     "Stature": "150",
     "UnlockCondition": [
@@ -897,7 +894,7 @@
         },
         {
           "Name": "Dash Attack: Silky-Smooth Combo",
-          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nFlies forward with a swift slashing attack, dealing <color=#FE437E>Ether DMG</color>.\nIf activated during a <color=#FFFFFF>Basic Attack: Sweet Melody</color> chain, this action does not reset the Basic Attack count.",
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nLaunches a swift slashing attack forward, dealing <color=#FE437E>Ether DMG</color>.\nIf activated during a <color=#FFFFFF>Basic Attack: Sweet Melody</color> chain, this action does not reset the Basic Attack count.",
           "Potential": []
         },
         {
@@ -1318,7 +1315,7 @@
         },
         {
           "Name": "Ultimate: 100% Energy",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nReleases all her power, entering <color=#FFFFFF>Moment of Delusion</color>, and fires multiple powerful shots at the target, dealing massive <color=#FE437E>Ether DMG</color>.\nUpon entering <color=#FFFFFF>Moment of Delusion</color>, Aria gains 3 stacks of <color=#FFFFFF>All-Out Cheering</color> and activates <color=#FFFFFF>Ether Veil: Delusion Reprise</color>. While <color=#FFFFFF>Ether Veil: Delusion Reprise</color> is active, all squad members gain an additional 50 ATK for 30s. Re-activating <color=#FFFFFF>Ether Veil: Delusion Reprise</color> will first cancel any existing instance of <color=#FFFFFF>Ether Veil: Delusion Reprise</color>.\nWhile Aria is charging, if she has <color=#FFFFFF>All-Out Cheering</color>, stacks of <color=#FFFFFF>All-Out Cheering</color> are consumed first to charge. Each stack of <color=#FFFFFF>All-Out Cheering</color> consumed increases the charge level by 2.\nUpon entering <color=#FFFFFF>Moment of Delusion</color>, if Aria already has <color=#FFFFFF>All-Out Cheering</color>, all remaining stacks of <color=#FFFFFF>All-Out Cheering</color> are first converted into <color=#FFFFFF>Fandom Power</color> and generated on the field. Each stack of <color=#FFFFFF>All-Out Cheering</color> is converted into 2 <color=#FFFFFF>Fandom Power</color>.\n<color=#FFFFFF>Moment of Delusion</color> lasts for up to 15s. During <color=#FFFFFF>Moment of Delusion</color>, Aria's <color=#FFFFFF>Basic Attack: Perfect Pitch</color> 3rd hit is upgraded to an enhanced version.\nWhen exiting <color=#FFFFFF>Moment of Delusion</color>, if Aria has <color=#FFFFFF>All-Out Cheering</color>, all remaining stacks of <color=#FFFFFF>All-Out Cheering</color> are converted into <color=#FFFFFF>Fandom Power</color> and generated on the field. Each stack of <color=#FFFFFF>All-Out Cheering</color> is converted into 2 <color=#FFFFFF>Fandom Power</color>.\nCharacter is invulnerable while using this skill.",
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nReleases all her power, entering <color=#FFFFFF>Moment of Delusion</color>, and fires multiple powerful shots at the target, dealing massive <color=#FE437E>Ether DMG</color>.\nUpon entering <color=#FFFFFF>Moment of Delusion</color>, Aria gains 3 stacks of <color=#FFFFFF>All-Out Cheering</color> and activates <color=#FFFFFF>Ether Veil: Delusion Reprise</color>. While <color=#FFFFFF>Ether Veil: Delusion Reprise</color> is active, all squad members gain an additional 50 ATK for 30s. Re-activating <color=#FFFFFF>Ether Veil: Delusion Reprise</color> will first cancel any existing instance of <color=#FFFFFF>Ether Veil: Delusion Reprise</color>.\nWhile Aria is charging, if she has <color=#FFFFFF>All-Out Cheering</color>, stacks of <color=#FFFFFF>All-Out Cheering</color> are consumed first to charge. Each stack of <color=#FFFFFF>All-Out Cheering</color> consumed increases the charge level by 2.\nUpon entering <color=#FFFFFF>Moment of Delusion</color>, if Aria already has <color=#FFFFFF>All-Out Cheering</color>, all remaining stacks of <color=#FFFFFF>All-Out Cheering</color> are first converted into <color=#FFFFFF>Fandom Power</color> and generated on the field. Each stack of <color=#FFFFFF>All-Out Cheering</color> is converted into 2 <color=#FFFFFF>Fandom Power</color>.\n<color=#FFFFFF>Moment of Delusion</color> lasts for up to 15s. During <color=#FFFFFF>Moment of Delusion</color>, Aria's <color=#FFFFFF>Basic Attack: Perfect Pitch</color> 3rd attack is upgraded to an enhanced version.\nWhen exiting <color=#FFFFFF>Moment of Delusion</color>, if Aria has <color=#FFFFFF>All-Out Cheering</color>, all remaining stacks of <color=#FFFFFF>All-Out Cheering</color> are converted into <color=#FFFFFF>Fandom Power</color> and generated on the field. Each stack of <color=#FFFFFF>All-Out Cheering</color> is converted into 2 <color=#FFFFFF>Fandom Power</color>.\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
@@ -1950,6 +1947,11 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
     }
   },
+  "Strategy": [
+    "StrategyGuide_Overview_1501_1",
+    "StrategyGuide_Overview_1501_2",
+    "StrategyGuide_Overview_1501_3"
+  ],
   "Potential": [],
   "PotentialDetail": {},
   "Live2D": "UISpineAria"

@@ -13,7 +13,8 @@
         "Fire": 0,
         "Electric": 0,
         "Ether": 0,
-        "Physical": -1
+        "Physical": -1,
+        "Wind": 0
       },
       "Stats": {
         "Hp": 26877,
@@ -44,6 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": -2000,
         "ElectricDamageRes": 0,
+        "WindDamageRes": 0,
         "EtherDamageRes": 0,
         "PhysicalDamageRes": 2000,
         "IceBuildupCurve": 30011,
@@ -51,16 +53,19 @@
         "ElectricBuildupCurve": 30003,
         "PhysicalBuildupCurve": 30004,
         "EtherBuildupCurve": 30005,
+        "WindBuildupCurve": 30006,
         "IceBuildupRes": -2000,
         "FireBuildupRes": 0,
         "ElectricBuildupRes": 0,
         "PhysicalBuildupRes": 2000,
         "EtherBuildupRes": 0,
+        "WindBuildupRes": 0,
         "IceStunRes": -2000,
         "FireStunRes": 0,
         "ElectricStunRes": 0,
         "EtherStunRes": 0,
         "PhysicalStunRes": 2000,
+        "WindStunRes": 0,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -123,8 +128,6 @@
     }
   },
   "ImagePath": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Norano.png",
-  "Tag": ["Ether", "NotPro"],
-  "Tag2": [],
   "Name": "Drowned Ideal - Komano Manato",
   "Desc": "A phantom enemy that shouldn't exist and may never be encountered again, yet the pressure of its power feels all too real. While records of it will ultimately become part of the Association's simulation data, the young men and women who first ventured into the dream realm as its discoverers have a different understanding of its behavioral patterns.\n\n\"Is it just me, or does it look skinnier than Manato?\"",
   "Rarity": 3,
