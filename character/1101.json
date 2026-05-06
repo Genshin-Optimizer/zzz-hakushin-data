@@ -1833,8 +1833,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1101_1",
-    "StrategyGuide_Overview_1101_2"
+    "07",
+    "<IconMap:Icon_GeneralBuff_Fire>Fire, Stun support",
+    "Rapidly builds up Daze on enemies",
+    "Unleashes Coordinated Attacks with Ben and boosts skill DMG"
   ],
   "Potential": [],
   "PotentialDetail": {}

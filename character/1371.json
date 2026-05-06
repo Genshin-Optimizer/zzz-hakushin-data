@@ -2058,9 +2058,11 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1371_1",
-    "StrategyGuide_Overview_1371_2",
-    "StrategyGuide_Overview_1371_3"
+    "02",
+    "Dual Ultimate mechanic brings burst DMG",
+    "<IconMap:Icon_GeneralBuff_AuricInk>Auric Ink, on-field DMG dealer",
+    "Ignores defense and deals massive Sheer DMG",
+    "EX Special Attack combines blocking and attacking"
   ],
   "Potential": [],
   "PotentialDetail": {},

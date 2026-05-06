@@ -1819,8 +1819,9 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1151_1",
-    "StrategyGuide_Overview_1151_2"
+    "04",
+    "<IconMap:Icon_GeneralBuff_Fire>Fire, versatile support",
+    "Summon Guard Boars to fight alongside you"
   ],
   "Potential": [],
   "PotentialDetail": {}

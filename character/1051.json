@@ -1972,9 +1972,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1051_1",
-    "StrategyGuide_Overview_1051_2",
-    "StrategyGuide_Overview_1051_3"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Ice>Ice, HP-consuming on-field DMG dealer",
+    "Consumes HP to boost DMG dealt",
+    "Boosts skill DMG through skill collisions"
   ],
   "Potential": [],
   "PotentialDetail": {},

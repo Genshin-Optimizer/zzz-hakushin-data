@@ -1815,8 +1815,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1311_1",
-    "StrategyGuide_Overview_1311_2"
+    "04",
+    "<IconMap:Icon_GeneralBuff_DungeonBuffEther>Ether, off-field support",
+    "Increases the ATK of on-field Agents",
+    "Upgrades Quick Assist to Chain Attack"
   ],
   "Potential": [],
   "PotentialDetail": {},

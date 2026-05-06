@@ -1527,9 +1527,9 @@
     }
   },
   "FairyRecommend": {
-    "Slot4": 31900,
-    "Slot2": 31600,
-    "SlotSub": 31300,
+    "Slot4": 33700,
+    "Slot2": 31900,
+    "SlotSub": 31600,
     "Part4": {
       "Prop": 30502,
       "Name": "Energy Regen",
@@ -1556,8 +1556,9 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1271_1",
-    "StrategyGuide_Overview_1271_2"
+    "05",
+    "<IconMap:Icon_GeneralBuff_Thunder>Electric, Anomaly-based support",
+    "Grants shields and Anomaly Proficiency to the whole squad"
   ],
   "Potential": [],
   "PotentialDetail": {}

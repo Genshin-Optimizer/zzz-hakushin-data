@@ -1,9 +1,9 @@
 {
   "Id": 53021,
-  "CodeName": "Bangboo_Name_en_53021",
-  "Name": "Bangboo_Name_53021",
-  "Desc": "Bangboo_Desc_53021",
-  "Rarity": 4,
+  "CodeName": "Booltergeist",
+  "Name": "Booltergeist",
+  "Desc": "Trick or play!",
+  "Rarity": 3,
   "Icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole45.png",
   "Stats": {
     "Endurance": 180,
@@ -157,69 +157,165 @@
     "A": {
       "Level": {
         "1": {
-          "Name": "Bangboo_QTE_Title_53021",
-          "Desc": "Bangboo_QTE_Des_53021",
+          "Name": "Cursed Spotlight",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nBooltergeist floats in the air and continuously fires lasers at enemies, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5302101, Prop:1001}|{Skill:5302101, Prop:1002}|24s"
+        },
+        "2": {
+          "Name": "Cursed Spotlight",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nBooltergeist floats in the air and continuously fires lasers at enemies, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5302101, Prop:1001}|{Skill:5302101, Prop:1002}|24s"
+        },
+        "3": {
+          "Name": "Cursed Spotlight",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nBooltergeist floats in the air and continuously fires lasers at enemies, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5302101, Prop:1001}|{Skill:5302101, Prop:1002}|24s"
+        },
+        "4": {
+          "Name": "Cursed Spotlight",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nBooltergeist floats in the air and continuously fires lasers at enemies, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5302101, Prop:1001}|{Skill:5302101, Prop:1002}|24s"
+        },
+        "5": {
+          "Name": "Cursed Spotlight",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nBooltergeist floats in the air and continuously fires lasers at enemies, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5302101, Prop:1001}|{Skill:5302101, Prop:1002}|24s"
+        },
+        "6": {
+          "Name": "Cursed Spotlight",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nBooltergeist floats in the air and continuously fires lasers at enemies, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5302101, Prop:1001}|{Skill:5302101, Prop:1002}|24s"
+        },
+        "7": {
+          "Name": "Cursed Spotlight",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nBooltergeist floats in the air and continuously fires lasers at enemies, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5302101, Prop:1001}|{Skill:5302101, Prop:1002}|24s"
+        },
+        "8": {
+          "Name": "Cursed Spotlight",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nBooltergeist floats in the air and continuously fires lasers at enemies, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5302101, Prop:1001}|{Skill:5302101, Prop:1002}|24s"
+        },
+        "9": {
+          "Name": "Cursed Spotlight",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nBooltergeist floats in the air and continuously fires lasers at enemies, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5302101, Prop:1001}|{Skill:5302101, Prop:1002}|24s"
+        },
+        "10": {
+          "Name": "Cursed Spotlight",
+          "Desc": "<color=#FFFFFF>Active Skill</color>\nBooltergeist floats in the air and continuously fires lasers at enemies, dealing massive <color=#FE437E>Ether DMG</color>.",
+          "Property": ["DMG Multiplier", "Daze Multiplier", "Cooldown"],
+          "Param": "{Skill:5302101, Prop:1001}|{Skill:5302101, Prop:1002}|24s"
+        }
+      }
+    },
+    "B": {
+      "Level": {
+        "1": {
+          "Name": "Specialty Scare Actor",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: When an <color=#FFFFFF>Active Skill</color> is used, there is a 60% chance for that instance to deal 40% increased DMG.",
+          "Property": ["DMG Increase"],
+          "Param": "40%"
+        },
+        "2": {
+          "Name": "Specialty Scare Actor",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: When an <color=#FFFFFF>Active Skill</color> is used, there is a 60% chance for that instance to deal 50% increased DMG.",
+          "Property": ["DMG Increase"],
+          "Param": "50%"
+        },
+        "3": {
+          "Name": "Specialty Scare Actor",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: When an <color=#FFFFFF>Active Skill</color> is used, there is a 60% chance for that instance to deal 60% increased DMG.",
+          "Property": ["DMG Increase"],
+          "Param": "60%"
+        },
+        "4": {
+          "Name": "Specialty Scare Actor",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: When an <color=#FFFFFF>Active Skill</color> is used, there is a 60% chance for that instance to deal 70% increased DMG.",
+          "Property": ["DMG Increase"],
+          "Param": "70%"
+        },
+        "5": {
+          "Name": "Specialty Scare Actor",
+          "Desc": "<color=#FFFFFF>Additional Ability</color>\nWhen there's at least 1 <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character in your squad: When an <color=#FFFFFF>Active Skill</color> is used, there is a 60% chance for that instance to deal 80% increased DMG.",
+          "Property": ["DMG Increase"],
+          "Param": "80%"
+        }
+      }
+    },
+    "C": {
+      "Level": {
+        "1": {
+          "Name": "Mischief Maker on the Loose",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nDives from the air toward enemies, exploding on impact and dealing massive <color=#FE437E>Ether DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5302102, Prop:1001}|{Skill:5302102, Prop:1002}"
         },
         "2": {
-          "Name": "Bangboo_QTE_Title_53021",
-          "Desc": "Bangboo_QTE_Des_53021",
+          "Name": "Mischief Maker on the Loose",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nDives from the air toward enemies, exploding on impact and dealing massive <color=#FE437E>Ether DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5302102, Prop:1001}|{Skill:5302102, Prop:1002}"
         },
         "3": {
-          "Name": "Bangboo_QTE_Title_53021",
-          "Desc": "Bangboo_QTE_Des_53021",
+          "Name": "Mischief Maker on the Loose",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nDives from the air toward enemies, exploding on impact and dealing massive <color=#FE437E>Ether DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5302102, Prop:1001}|{Skill:5302102, Prop:1002}"
         },
         "4": {
-          "Name": "Bangboo_QTE_Title_53021",
-          "Desc": "Bangboo_QTE_Des_53021",
+          "Name": "Mischief Maker on the Loose",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nDives from the air toward enemies, exploding on impact and dealing massive <color=#FE437E>Ether DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5302102, Prop:1001}|{Skill:5302102, Prop:1002}"
         },
         "5": {
-          "Name": "Bangboo_QTE_Title_53021",
-          "Desc": "Bangboo_QTE_Des_53021",
+          "Name": "Mischief Maker on the Loose",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nDives from the air toward enemies, exploding on impact and dealing massive <color=#FE437E>Ether DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5302102, Prop:1001}|{Skill:5302102, Prop:1002}"
         },
         "6": {
-          "Name": "Bangboo_QTE_Title_53021",
-          "Desc": "Bangboo_QTE_Des_53021",
+          "Name": "Mischief Maker on the Loose",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nDives from the air toward enemies, exploding on impact and dealing massive <color=#FE437E>Ether DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5302102, Prop:1001}|{Skill:5302102, Prop:1002}"
         },
         "7": {
-          "Name": "Bangboo_QTE_Title_53021",
-          "Desc": "Bangboo_QTE_Des_53021",
+          "Name": "Mischief Maker on the Loose",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nDives from the air toward enemies, exploding on impact and dealing massive <color=#FE437E>Ether DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5302102, Prop:1001}|{Skill:5302102, Prop:1002}"
         },
         "8": {
-          "Name": "Bangboo_QTE_Title_53021",
-          "Desc": "Bangboo_QTE_Des_53021",
+          "Name": "Mischief Maker on the Loose",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nDives from the air toward enemies, exploding on impact and dealing massive <color=#FE437E>Ether DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5302102, Prop:1001}|{Skill:5302102, Prop:1002}"
         },
         "9": {
-          "Name": "Bangboo_QTE_Title_53021",
-          "Desc": "Bangboo_QTE_Des_53021",
+          "Name": "Mischief Maker on the Loose",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nDives from the air toward enemies, exploding on impact and dealing massive <color=#FE437E>Ether DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5302102, Prop:1001}|{Skill:5302102, Prop:1002}"
         },
         "10": {
-          "Name": "Bangboo_QTE_Title_53021",
-          "Desc": "Bangboo_QTE_Des_53021",
+          "Name": "Mischief Maker on the Loose",
+          "Desc": "<color=#FFFFFF>Bangboo Chain Attack</color>\nDives from the air toward enemies, exploding on impact and dealing massive <color=#FE437E>Ether DMG</color>.",
           "Property": ["DMG Multiplier", "Daze Multiplier"],
           "Param": "{Skill:5302102, Prop:1001}|{Skill:5302102, Prop:1002}"
         }
       }
-    },
-    "B": { "Level": {} },
-    "C": { "Level": {} }
+    }
   },
   "SkillProp": {
     "5302101": {
@@ -228,9 +324,9 @@
       "ElementAccumulationValue": 36000
     },
     "5302102": {
-      "1001": { "Main": 130100, "Growth": 13010, "Format": "%" },
-      "1002": { "Main": 18600, "Growth": 1860, "Format": "%" },
-      "ElementAccumulationValue": 55800
+      "1001": { "Main": 83400, "Growth": 8340, "Format": "%" },
+      "1002": { "Main": 11900, "Growth": 1190, "Format": "%" },
+      "ElementAccumulationValue": 35800
     }
   }
 }

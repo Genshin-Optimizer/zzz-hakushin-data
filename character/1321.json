@@ -1838,9 +1838,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1321_1",
-    "StrategyGuide_Overview_1321_2",
-    "StrategyGuide_Overview_1321_3"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Fire>Fire, on-field DMG dealer",
+    "Packs both speed and explosive power",
+    "Can trigger Chain Attack without inflicting Daze"
   ],
   "Potential": [],
   "PotentialDetail": {},

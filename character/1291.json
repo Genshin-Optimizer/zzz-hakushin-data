@@ -1948,8 +1948,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1291_1",
-    "StrategyGuide_Overview_1291_2"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Ice>Ice, quick-swap DMG dealer",
+    "Triggering Totalize deals bonus DMG to Stunned enemies",
+    "High-Frequency Stun burst"
   ],
   "Potential": [],
   "PotentialDetail": {},

@@ -1504,8 +1504,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1021_1",
-    "StrategyGuide_Overview_1021_2"
+    "03",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, on-field DMG dealer",
+    "Boosts DMG dealt with Dodge Counter",
+    "Nimble with high mobility"
   ],
   "Potential": [],
   "PotentialDetail": {}

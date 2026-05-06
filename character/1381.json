@@ -1901,9 +1901,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1381_1",
-    "StrategyGuide_Overview_1381_2",
-    "StrategyGuide_Overview_1381_3"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Thunder>Electric, on-field DMG dealer",
+    "Triggers Aftershock to deal bonus DMG",
+    "Packs both burst DMG and sustained DMG"
   ],
   "Potential": [138100, 138101, 138102, 138103, 138104, 138105],
   "PotentialDetail": {

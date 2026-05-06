@@ -1749,8 +1749,9 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1061_1",
-    "StrategyGuide_Overview_1061_2"
+    "03",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, DMG dealer against Stunned enemies",
+    "Increases DMG dealt when hitting Stunned enemies"
   ],
   "Potential": [],
   "PotentialDetail": {}

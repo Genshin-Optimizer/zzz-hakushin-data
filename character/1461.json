@@ -1687,8 +1687,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1461_1",
-    "StrategyGuide_Overview_1461_2"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Thunder>Electric, on-field DMG dealer",
+    "Attack squadmates can help restore her core resources",
+    "Grants various buffs to an Attack squadmate"
   ],
   "Potential": [],
   "PotentialDetail": {},

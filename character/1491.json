@@ -1707,9 +1707,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1491_1",
-    "StrategyGuide_Overview_1491_2",
-    "StrategyGuide_Overview_1491_3"
+    "04",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, quick-swap support",
+    "Activating Ether Veil increases Stun DMG Multiplier",
+    "Provides bonus DMG Multiplier for Attack and Anomaly Agents"
   ],
   "Potential": [],
   "PotentialDetail": {},

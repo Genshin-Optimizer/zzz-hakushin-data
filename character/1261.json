@@ -254,7 +254,7 @@
         {
           "Name": "Basic Attack: Dancing Blades",
           "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 6 attacks in front, dealing <color=#F0D12B>Physical DMG</color>.",
-          "Potential": []
+          "Potential": [0]
         },
         {
           "Name": "Passion",
@@ -264,7 +264,7 @@
         {
           "Name": "Basic Attack: Salchow Jump",
           "Desc": "Entering the <color=#FFFFFF>Passion</color> state grants Jane one use of <color=#FFFFFF>Basic Attack: Salchow Jump</color>.\nWhen available, hold <IconMap:Icon_Normal> to activate:\nLaunch rapid consecutive attacks forward, followed by a Finishing Move, dealing <color=#F0D12B>Physical DMG</color>.\nHold the button during the consecutive attacks to extend the skill duration. Release <IconMap:Icon_Normal> to trigger the Finishing Move early.\nAnti-Interrupt level is increased during the consecutive attacks, and Jane takes 40% reduced DMG. Jane is invulnerable during the Finishing Move.\nUsing and damaging an enemy with <color=#FFFFFF>Basic Attack: Salchow Jump</color> while in the <color=#FFFFFF>Passion</color> state generates <color=#FFFFFF>Passion Stream</color>.",
-          "Potential": []
+          "Potential": [0]
         },
         {
           "Name": "Basic Attack: Dancing Blades",
@@ -1099,7 +1099,7 @@
         {
           "Name": "EX Special Attack: Aerial Sweep - Clearout",
           "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLeaps into the air to launch multiple consecutive kicks forward, then sweeps across, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
-          "Potential": []
+          "Potential": [0]
         },
         {
           "Name": "Special Attack: Aerial Sweep",
@@ -1932,8 +1932,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1261_1",
-    "StrategyGuide_Overview_1261_2"
+    "03",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, on-field DMG dealer",
+    "Increases Physical Anomaly Buildup Rate",
+    "Assault DMG has a chance to CRIT"
   ],
   "Potential": [],
   "PotentialDetail": {},

@@ -716,7 +716,7 @@
         },
         {
           "Name": "Pulse",
-          "Desc": "Activating an <color=#FFFFFF>Ultimate</color> grants 25 stacks of <color=#FFFFFF>Pulse</color> (max 25 stacks). When gaining <color=#FFFFFF>Zap</color>, consumes 1 stack of <color=#FFFFFF>Pulse</color>.\nAfter consuming <color=#FFFFFF>Pulse</color> to obtain 8 stacks of <color=#FFFFFF>Zap</color>, the next grenade throw includes an additional Pulse Grenade. If it hits an enemy suffering <color=#FE437E>Ether</color>, <color=#2EB6FF>Electric</color>, <color=#FF5521>Fire</color>, <color=#F0D12B>Physical</color>, or <color=#98EFF0>Ice</color> Anomaly, it triggers <color=#FFFFFF>Abloom</color>: deals an additional instance of DMG equal to <color=#FE437E>560%</color>/<color=#2EB6FF>280%</color>/<color=#FF5521>700%</color>/<color=#F0D12B>50%</color>/<color=#98EFF0>70%</color> of the original Anomaly's DMG.\nWhile in the Pulse state, <color=#FFFFFF>Special Attack: Obstruction Removal - Cycle</color> is unlocked.",
+          "Desc": "Activating an <color=#FFFFFF>Ultimate</color> grants 25 stacks of <color=#FFFFFF>Pulse</color> (max 25 stacks). When gaining <color=#FFFFFF>Zap</color>, consumes 1 stack of <color=#FFFFFF>Pulse</color>.\nAfter consuming <color=#FFFFFF>Pulse</color> to obtain 8 stacks of <color=#FFFFFF>Zap</color>, the next grenade throw includes an additional Pulse Grenade. If it hits an enemy suffering <color=#FE437E>Ether</color>, <color=#2EB6FF>Electric</color>, <color=#FF5521>Fire</color>, <color=#F0D12B>Physical</color>, <color=#98EFF0>Ice</color>, or <color=#A6C5FD>Wind</color> Anomaly, it triggers <color=#FFFFFF>Abloom</color>: deals an additional instance of DMG equal to <color=#FE437E>560%</color>/<color=#2EB6FF>280%</color>/<color=#FF5521>700%</color>/<color=#F0D12B>50%</color>/<color=#98EFF0>70%</color>/<color=#A6C5FD>28%</color> of the original Anomaly's DMG.\nWhile in the Pulse state, <color=#FFFFFF>Special Attack: Obstruction Removal - Cycle</color> is unlocked.",
           "Potential": [118100, 118101, 118102, 118103, 118104, 118105]
         },
         {
@@ -1361,7 +1361,7 @@
         ],
         "Desc": [
           "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>65%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
+          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target has increased <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
         "Potential": [0]
@@ -1375,7 +1375,7 @@
         ],
         "Desc": [
           "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>75.8%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
+          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target has increased <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
         "Potential": [0]
@@ -1389,7 +1389,7 @@
         ],
         "Desc": [
           "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>86.6%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
+          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target has increased <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
         "Potential": [0]
@@ -1403,7 +1403,7 @@
         ],
         "Desc": [
           "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>97.5%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
+          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target has increased <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
         "Potential": [0]
@@ -1417,7 +1417,7 @@
         ],
         "Desc": [
           "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>108.3%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
+          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target has increased <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
         "Potential": [0]
@@ -1431,7 +1431,7 @@
         ],
         "Desc": [
           "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>119.1%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
+          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target has increased <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
         "Potential": [0]
@@ -1445,7 +1445,7 @@
         ],
         "Desc": [
           "When Grace's <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy and deals <color=#F0D12B>Physical DMG</color>, she gains 1 stack of <color=#FFFFFF>Zap</color> (up to 8 stacks). Upon reaching maximum stacks, using a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color> will consume all stacks of <color=#FFFFFF>Zap</color>, increasing the accumulated <color=#2EB6FF>Electric Anomaly Buildup</color> by <color=#2BAD00>130%</color>.",
-          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target increases <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
+          "When another character in your squad shares the same Attribute or Faction:\nUpon hitting an enemy with an <color=#FFFFFF>EX Special Attack</color>, the next <color=#2EB6FF>Shock</color> effect inflicted on the target has increased <color=#2EB6FF>Shock</color> DMG by 18%. This effect can stack up to 2 times, and each enemy can trigger it once per skill use. Resets when the <color=#2EB6FF>Shock</color> effect ends."
         ],
         "ExtraProperty": {},
         "Potential": [0]
@@ -1626,10 +1626,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1181_1",
-    "StrategyGuide_Overview_1181_2",
-    "StrategyGuide_Overview_1181_3",
-    "StrategyGuide_Overview_1181_4"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Thunder>Electric, Anomaly DMG dealer",
+    "Triggers Abloom DMG efficiently after Ultimate",
+    "Pulls enemies together within a certain range"
   ],
   "Potential": [118100, 118101, 118102, 118103, 118104, 118105],
   "PotentialDetail": {

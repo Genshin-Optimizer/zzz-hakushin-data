@@ -2715,10 +2715,11 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1431_1",
-    "StrategyGuide_Overview_1431_2",
-    "StrategyGuide_Overview_1431_3",
-    "StrategyGuide_Overview_1431_4"
+    "01",
+    "Dual-form combat with strategic, skill-based gameplay",
+    "<IconMap:Icon_GeneralBuff_HonedEdge>Honed Edge, on-field DMG dealer",
+    "Builds up Qingming Sword Force to become enhanced",
+    "Gains exclusive Vulnerability effects under Ether Veil"
   ],
   "Potential": [],
   "PotentialDetail": {},

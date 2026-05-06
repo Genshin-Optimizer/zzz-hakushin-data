@@ -1905,9 +1905,9 @@
     }
   },
   "FairyRecommend": {
-    "Slot4": 31900,
-    "Slot2": 31200,
-    "SlotSub": 31600,
+    "Slot4": 33700,
+    "Slot2": 31900,
+    "SlotSub": 31200,
     "Part4": {
       "Prop": 12202,
       "Name": "Impact",
@@ -1934,8 +1934,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1071_1",
-    "StrategyGuide_Overview_1071_2"
+    "05",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, off-field support",
+    "Grants shields and Anti-Interrupt to all squad members",
+    "Provides attack boosts to on-field squadmates"
   ],
   "Potential": [],
   "PotentialDetail": {},

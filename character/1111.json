@@ -1787,8 +1787,9 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1111_1",
-    "StrategyGuide_Overview_1111_2"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Thunder>Electric, on-field DMG dealer",
+    "Attacking Shocked enemies triggers additional effects"
   ],
   "Potential": [],
   "PotentialDetail": {}

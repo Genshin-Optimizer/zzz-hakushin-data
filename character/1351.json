@@ -1452,8 +1452,9 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1351_1",
-    "StrategyGuide_Overview_1351_2"
+    "07",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, off-field DMG support",
+    "Entering Hunter's Gait boosts Daze efficiency"
   ],
   "Potential": [],
   "PotentialDetail": {}

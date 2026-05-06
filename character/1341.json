@@ -1657,9 +1657,9 @@
     }
   },
   "FairyRecommend": {
-    "Slot4": 31600,
-    "Slot2": 33100,
-    "SlotSub": 32800,
+    "Slot4": 33700,
+    "Slot2": 31600,
+    "SlotSub": 33100,
     "Part4": {
       "Prop": 11102,
       "Name": "HP",
@@ -1686,9 +1686,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1341_1",
-    "StrategyGuide_Overview_1341_2",
-    "StrategyGuide_Overview_1341_3"
+    "05",
+    "<IconMap:Icon_GeneralBuff_Ice>Ice, versatile quick-swap support",
+    "Can reliably activate Ether Veil",
+    "Boosts all squad members' ATK"
   ],
   "Potential": [],
   "PotentialDetail": {},

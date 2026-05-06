@@ -1585,8 +1585,9 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1081_1",
-    "StrategyGuide_Overview_1081_2"
+    "03",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, on-field DMG dealer",
+    "Balances single-target and AoE DMG"
   ],
   "Potential": [],
   "PotentialDetail": {}

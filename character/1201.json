@@ -2071,9 +2071,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1201_1",
-    "StrategyGuide_Overview_1201_2",
-    "StrategyGuide_Overview_1201_3"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Thunder>Electric, quick-swap DMG dealer",
+    "Switches between ranged/melee forms",
+    "Rapid dashes and slashes"
   ],
   "Potential": [120100, 120101, 120102, 120103, 120104, 120105],
   "PotentialDetail": {

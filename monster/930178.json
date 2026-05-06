@@ -14,7 +14,7 @@
         "Electric": -1,
         "Ether": 1,
         "Physical": 0,
-        "Wind": 0
+        "Wind": 1
       },
       "Stats": {
         "Hp": 29194,
@@ -45,7 +45,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": 2000,
-        "WindDamageRes": 0,
+        "WindDamageRes": -2000,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 30001,
@@ -59,13 +59,13 @@
         "ElectricBuildupRes": 2000,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": -2000,
-        "WindBuildupRes": 0,
+        "WindBuildupRes": -2000,
         "IceStunRes": 0,
         "FireStunRes": 0,
         "ElectricStunRes": 2000,
         "EtherStunRes": -2000,
         "PhysicalStunRes": 0,
-        "WindStunRes": 0,
+        "WindStunRes": -2000,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -145,7 +145,7 @@
         "Electric": -1,
         "Ether": 1,
         "Physical": 0,
-        "Wind": 0
+        "Wind": 1
       },
       "Stats": {
         "Hp": 29194,
@@ -176,7 +176,7 @@
         "FireDamageRes": 0,
         "IceDamageRes": 0,
         "ElectricDamageRes": 2000,
-        "WindDamageRes": 0,
+        "WindDamageRes": -2000,
         "EtherDamageRes": -2000,
         "PhysicalDamageRes": 0,
         "IceBuildupCurve": 30001,
@@ -190,13 +190,13 @@
         "ElectricBuildupRes": 2000,
         "PhysicalBuildupRes": 0,
         "EtherBuildupRes": -2000,
-        "WindBuildupRes": 0,
+        "WindBuildupRes": -2000,
         "IceStunRes": 0,
         "FireStunRes": 0,
         "ElectricStunRes": 2000,
         "EtherStunRes": -2000,
         "PhysicalStunRes": 0,
-        "WindStunRes": 0,
+        "WindStunRes": -2000,
         "BaseBuildupRatio": 2000
       },
       "Curves": {
@@ -273,6 +273,7 @@
     "10003": 600,
     "10004": 720,
     "10005": 600,
+    "10006": 300,
     "10011": 600,
     "10012": 600,
     "10013": 600,
@@ -282,6 +283,7 @@
     "20003": 2250,
     "20004": 2700,
     "20005": 2250,
+    "20006": 1150,
     "20011": 2250,
     "20012": 2250,
     "20013": 2250,
@@ -291,6 +293,7 @@
     "30003": 3000,
     "30004": 3600,
     "30005": 3000,
+    "30006": 1500,
     "30011": 3000,
     "30012": 3000,
     "30013": 3000,

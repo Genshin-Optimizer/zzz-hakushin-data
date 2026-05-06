@@ -1926,9 +1926,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1041_1",
-    "StrategyGuide_Overview_1041_2",
-    "StrategyGuide_Overview_1041_3"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Fire>Fire, on-field DMG dealer",
+    "Burst DMG during Stun",
+    "Charged Block Counter"
   ],
   "Potential": [104100, 104101, 104102, 104103, 104104, 104105],
   "PotentialDetail": {

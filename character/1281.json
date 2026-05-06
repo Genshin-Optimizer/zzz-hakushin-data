@@ -1662,8 +1662,9 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1281_1",
-    "StrategyGuide_Overview_1281_2"
+    "03",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, on-field DMG dealer",
+    "Rapidly inflicts Physical Anomaly Buildup"
   ],
   "Potential": [],
   "PotentialDetail": {}

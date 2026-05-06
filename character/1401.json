@@ -1764,9 +1764,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1401_1",
-    "StrategyGuide_Overview_1401_2",
-    "StrategyGuide_Overview_1401_3"
+    "03",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, on-field DMG dealer",
+    "Ignores Anomaly Buildup and triggers Assault directly",
+    "Can trigger Disorder frequently to deal damage"
   ],
   "Potential": [],
   "PotentialDetail": {},

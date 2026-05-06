@@ -1916,8 +1916,9 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1131_1",
-    "StrategyGuide_Overview_1131_2"
+    "04",
+    "<IconMap:Icon_GeneralBuff_Ice>Ice, versatile quick-swap support",
+    "Provides attack boosts to all squad members"
   ],
   "Potential": [],
   "PotentialDetail": {}

@@ -2101,9 +2101,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1161_1",
-    "StrategyGuide_Overview_1161_2",
-    "StrategyGuide_Overview_1161_3"
+    "07",
+    "<IconMap:Icon_GeneralBuff_Fire>Fire, quick-swap Stun support",
+    "Additionally extends Stun duration on targets",
+    "Boosts all squad members' Ice and Fire DMG and lowers targets' Ice and Fire RES"
   ],
   "Potential": [],
   "PotentialDetail": {},

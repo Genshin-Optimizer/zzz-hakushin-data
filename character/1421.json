@@ -1563,7 +1563,7 @@
     }
   },
   "FairyRecommend": {
-    "Slot4": 32800,
+    "Slot4": 33700,
     "Slot2": 31600,
     "SlotSub": 31400,
     "Part4": {
@@ -1592,8 +1592,9 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1421_1",
-    "StrategyGuide_Overview_1421_2"
+    "05",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, Rupture-based support",
+    "Provides Sheer Force to squadmates"
   ],
   "Potential": [],
   "PotentialDetail": {}

@@ -1,0 +1,1750 @@
+{
+  "Id": 1531,
+  "Icon": "IconRole62",
+  "Name": "Starlight - Billy",
+  "CodeName": "Starlight - Billy",
+  "Rarity": 4,
+  "WeaponType": { "6": "Rupture" },
+  "ElementType": { "200": "Physical" },
+  "SpecialElementType": {},
+  "HitType": { "101": "Slash" },
+  "Camp": { "1": "Cunning Hares" },
+  "Gender": 1,
+  "PartnerInfo": {},
+  "Skin": {
+    "3115310": {
+      "Name": "Starlight - Billy: Starlight Armaments",
+      "Desc": "Those who always believe in hope will, in the end, become someone else's hope.",
+      "Image": "IconRole62"
+    }
+  },
+  "Stats": {
+    "Armor": 0,
+    "ArmorGrowth": 0,
+    "Attack": 124,
+    "AttackGrowth": 74561,
+    "AvatarPieceId": 5531,
+    "BreakStun": 95,
+    "Crit": 500,
+    "CritDamage": 5000,
+    "CritDmgRes": 0,
+    "CritRes": 0,
+    "Defence": 36,
+    "DefenceGrowth": 48644,
+    "ElementAbnormalPower": 90,
+    "ElementMystery": 89,
+    "Endurance": 0,
+    "HpGrowth": 927143,
+    "HpMax": 683,
+    "PenDelta": 0,
+    "PenRate": 0,
+    "Rbl": 1,
+    "RblCorrectionFactor": 10000,
+    "RblProbability": 0,
+    "Shield": 0,
+    "ShieldGrowth": 0,
+    "SpBarPoint": 0,
+    "SpRecover": 0,
+    "Stun": 0,
+    "Tags": [
+      "SPBilly",
+      "Cut",
+      "Physics",
+      "Male",
+      "Camp1",
+      "Size3",
+      "AidTypeParry",
+      "SPBilly",
+      "EtherEyesSize2"
+    ],
+    "RpMax": 120,
+    "RpRecover": 200
+  },
+  "Level": {
+    "1": {
+      "HpMax": 0,
+      "Attack": 0,
+      "Defence": 0,
+      "LevelMax": 10,
+      "LevelMin": 0,
+      "Materials": { "10": 24000, "100216": 4 }
+    },
+    "2": {
+      "HpMax": 469,
+      "Attack": 44,
+      "Defence": 25,
+      "LevelMax": 20,
+      "LevelMin": 10,
+      "Materials": { "10": 56000, "100226": 12 }
+    },
+    "3": {
+      "HpMax": 938,
+      "Attack": 88,
+      "Defence": 49,
+      "LevelMax": 30,
+      "LevelMin": 20,
+      "Materials": { "10": 120000, "100226": 20 }
+    },
+    "4": {
+      "HpMax": 1407,
+      "Attack": 132,
+      "Defence": 74,
+      "LevelMax": 40,
+      "LevelMin": 30,
+      "Materials": { "10": 200000, "100236": 10 }
+    },
+    "5": {
+      "HpMax": 1875,
+      "Attack": 177,
+      "Defence": 98,
+      "LevelMax": 50,
+      "LevelMin": 40,
+      "Materials": { "10": 400000, "100236": 20 }
+    },
+    "6": {
+      "HpMax": 2344,
+      "Attack": 221,
+      "Defence": 123,
+      "LevelMax": 60,
+      "LevelMin": 50,
+      "Materials": {}
+    }
+  },
+  "ExtraLevel": {
+    "1": {
+      "MaxLevel": 15,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 0
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 480
+        }
+      }
+    },
+    "2": {
+      "MaxLevel": 25,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 25
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 480
+        }
+      }
+    },
+    "3": {
+      "MaxLevel": 35,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 25
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 960
+        }
+      }
+    },
+    "4": {
+      "MaxLevel": 45,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 50
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 960
+        }
+      }
+    },
+    "5": {
+      "MaxLevel": 55,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 50
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 1440
+        }
+      }
+    },
+    "6": {
+      "MaxLevel": 60,
+      "Extra": {
+        "12101": {
+          "Prop": 12101,
+          "Name": "Base ATK",
+          "Format": "{0:0.#}",
+          "Value": 75
+        },
+        "20101": {
+          "Prop": 20101,
+          "Name": "CRIT Rate",
+          "Format": "{0:0.#%}",
+          "Value": 1440
+        }
+      }
+    }
+  },
+  "LevelEXP": [
+    50, 150, 250, 400, 600, 800, 1000, 1250, 1500, 1800, 1935, 2065, 2200, 2335,
+    2465, 2600, 2735, 2865, 3000, 4680, 4975, 5265, 5560, 5855, 6145, 6440,
+    6735, 7025, 7320, 10800, 11400, 12000, 12600, 13200, 13800, 14400, 15000,
+    15600, 16200, 17100, 18300, 19500, 20700, 21900, 23100, 24300, 25500, 26700,
+    27900, 34200, 36600, 39000, 41400, 43800, 46200, 48600, 51000, 53400, 55800,
+    0
+  ],
+  "Skill": {
+    "Basic": {
+      "Description": [
+        {
+          "Name": "Basic Attack: Knight's Technique",
+          "Desc": "Press <IconMap:Icon_Normal> to activate:\nPerforms up to four attacks forward, dealing <color=#F0D12B>Physical DMG</color>.\nDuring the 4th hit, press <IconMap:Icon_Special> to use <color=#FFFFFF>Special Attack: Drive Suppression</color>, reducing HP consumption by 50%.\nRestores a small amount of HP on hit.",
+          "Potential": []
+        },
+        {
+          "Name": "Basic Attack: Full-Throttle Starlight",
+          "Desc": "With enough <color=#FFFFFF>Determination</color>, hold <IconMap:Icon_Normal> to activate:\nCharges forward on the motorcycle, then fires a laser beam, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Basic Attack: Knight's Technique",
+          "Param": [
+            {
+              "Name": "1st-Hit DMG Multiplier",
+              "Desc": "{Skill:1531001, Prop:1001}",
+              "Param": {
+                "1531001": {
+                  "Main": 5030,
+                  "Growth": 460,
+                  "Format": "%",
+                  "DamagePercentage": 5030,
+                  "DamagePercentageGrowth": 460,
+                  "StunRatio": 3990,
+                  "StunRatioGrowth": 190,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 99825,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3622,
+                  "SpConsume": 0,
+                  "AttackData": [19320, 203],
+                  "RpRecovery": 7250,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3623
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2nd-Hit DMG Multiplier",
+              "Desc": "{Skill:1531002, Prop:1001}",
+              "Param": {
+                "1531002": {
+                  "Main": 6800,
+                  "Growth": 620,
+                  "Format": "%",
+                  "DamagePercentage": 6800,
+                  "DamagePercentageGrowth": 620,
+                  "StunRatio": 5680,
+                  "StunRatioGrowth": 260,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 141900,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5157,
+                  "SpConsume": 0,
+                  "AttackData": [22000, 231],
+                  "RpRecovery": 10320,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5158
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3rd-Hit DMG Multiplier",
+              "Desc": "{Skill:1531003, Prop:1001}",
+              "Param": {
+                "1531003": {
+                  "Main": 5450,
+                  "Growth": 500,
+                  "Format": "%",
+                  "DamagePercentage": 5450,
+                  "DamagePercentageGrowth": 500,
+                  "StunRatio": 4800,
+                  "StunRatioGrowth": 220,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 119900,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4357,
+                  "SpConsume": 0,
+                  "AttackData": [14000, 147],
+                  "RpRecovery": 8720,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4358
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4th-Hit DMG Multiplier",
+              "Desc": "{Skill:1531004, Prop:1001}",
+              "Param": {
+                "1531004": {
+                  "Main": 20600,
+                  "Growth": 1880,
+                  "Format": "%",
+                  "DamagePercentage": 20600,
+                  "DamagePercentageGrowth": 1880,
+                  "StunRatio": 16350,
+                  "StunRatioGrowth": 750,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 408925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 14861,
+                  "SpConsume": 0,
+                  "AttackData": [56680, 596],
+                  "RpRecovery": 29730,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14862
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "1st-Hit Daze Multiplier",
+              "Desc": "{Skill:1531001, Prop:1002}",
+              "Param": {
+                "1531001": {
+                  "Main": 3990,
+                  "Growth": 190,
+                  "Format": "%",
+                  "DamagePercentage": 5030,
+                  "DamagePercentageGrowth": 460,
+                  "StunRatio": 3990,
+                  "StunRatioGrowth": 190,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 99825,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 3622,
+                  "SpConsume": 0,
+                  "AttackData": [19320, 203],
+                  "RpRecovery": 7250,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 3623
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "2nd-Hit Daze Multiplier",
+              "Desc": "{Skill:1531002, Prop:1002}",
+              "Param": {
+                "1531002": {
+                  "Main": 5680,
+                  "Growth": 260,
+                  "Format": "%",
+                  "DamagePercentage": 6800,
+                  "DamagePercentageGrowth": 620,
+                  "StunRatio": 5680,
+                  "StunRatioGrowth": 260,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 141900,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5157,
+                  "SpConsume": 0,
+                  "AttackData": [22000, 231],
+                  "RpRecovery": 10320,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5158
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "3rd-Hit Daze Multiplier",
+              "Desc": "{Skill:1531003, Prop:1002}",
+              "Param": {
+                "1531003": {
+                  "Main": 4800,
+                  "Growth": 220,
+                  "Format": "%",
+                  "DamagePercentage": 5450,
+                  "DamagePercentageGrowth": 500,
+                  "StunRatio": 4800,
+                  "StunRatioGrowth": 220,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 119900,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4357,
+                  "SpConsume": 0,
+                  "AttackData": [14000, 147],
+                  "RpRecovery": 8720,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4358
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "4th-Hit Daze Multiplier",
+              "Desc": "{Skill:1531004, Prop:1002}",
+              "Param": {
+                "1531004": {
+                  "Main": 16350,
+                  "Growth": 750,
+                  "Format": "%",
+                  "DamagePercentage": 20600,
+                  "DamagePercentageGrowth": 1880,
+                  "StunRatio": 16350,
+                  "StunRatioGrowth": 750,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 408925,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 14861,
+                  "SpConsume": 0,
+                  "AttackData": [56680, 596],
+                  "RpRecovery": 29730,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 14862
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Basic Attack: Full-Throttle Starlight",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531010, Prop:1001}",
+              "Param": {
+                "1531010": {
+                  "Main": 104320,
+                  "Growth": 9490,
+                  "Format": "%",
+                  "DamagePercentage": 104320,
+                  "DamagePercentageGrowth": 9490,
+                  "StunRatio": 34110,
+                  "StunRatioGrowth": 1560,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 852775,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 31003,
+                  "SpConsume": 0,
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 31004
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531010, Prop:1002}",
+              "Param": {
+                "1531010": {
+                  "Main": 34110,
+                  "Growth": 1560,
+                  "Format": "%",
+                  "DamagePercentage": 104320,
+                  "DamagePercentageGrowth": 9490,
+                  "StunRatio": 34110,
+                  "StunRatioGrowth": 1560,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 852775,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 31003,
+                  "SpConsume": 0,
+                  "AttackData": [0],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 31004
+                }
+              },
+              "Potential": []
+            },
+            { "Name": "Determination Cost", "Desc": "100", "Potential": [] }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": { "10": 2000, "100110": 2 },
+        "2": { "10": 3000, "100110": 3 },
+        "3": { "10": 6000, "100120": 2 },
+        "4": { "10": 9000, "100120": 3 },
+        "5": { "10": 12000, "100120": 4 },
+        "6": { "10": 18000, "100120": 6 },
+        "7": { "10": 45000, "100130": 5 },
+        "8": { "10": 67500, "100130": 8 },
+        "9": { "10": 90000, "100130": 10 },
+        "10": { "10": 112500, "100130": 12 },
+        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "12": {}
+      }
+    },
+    "Dodge": {
+      "Description": [
+        {
+          "Name": "Dodge: Close Call!",
+          "Desc": "Press <IconMap:Icon_Evade> to activate:\nA quick dash dodge.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Dodge: Through the Galaxy",
+          "Desc": "During <color=#FFFFFF>Special Attack: Drive Suppression</color>, drag the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} or hold <IconMap:Icon_Evade> to activate:\nDrifts with the motorcycle, enabling <color=#FFFFFF>Perfect Dodges</color> for a brief duration.\nIf a <color=#FFFFFF>Perfect Dodge</color> is successfully triggered, it immediately chains into <color=#FFFFFF>Dodge Counter: Afterfire Spin</color>.\nDuring this skill, continue dragging the {LAYOUT_CONSOLECONTROLLER#stick}{LAYOUT_FALLBACK#joystick} or holding <IconMap:Icon_Evade> to continue drifting.\nDuring this skill, the duration of <color=#FFFFFF>Special Attack: Drive Suppression</color> will continue, and upon reaching the maximum duration, it automatically chains into <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>.\nIf the skill ends early, it automatically chains into <color=#FFFFFF>Special Attack: Run Wild</color>.\nCharacter is briefly invulnerable and Anti-Interrupt Level increases during this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Dash Attack: Starlight Retribution",
+          "Desc": "Press <IconMap:Icon_Normal> during a dodge to activate:\nPerforms a quick forward slash, dealing <color=#F0D12B>Physical DMG</color>.",
+          "Potential": []
+        },
+        {
+          "Name": "Dodge Counter: Duel King",
+          "Desc": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nFires a blast from his arm cannon, dealing <color=#F0D12B>Physical DMG</color>.\nIf this skill is triggered via a <color=#FFFFFF>Perfect Dodge</color>, hitting an enemy restores 10% of Max HP, and it can be chained into the 4th hit of <color=#FFFFFF>Basic Attack: Knight's Technique</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Dodge Counter: Afterfire Spin",
+          "Desc": "During <color=#FFFFFF>Dodge: Through the Galaxy</color>, trigger a <color=#FFFFFF>Perfect Dodge</color> to activate:\nSpins with the bike to deal <color=#F0D12B>Physical DMG</color> to surrounding enemies.\nAfter using this skill, it automatically chains into <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Dash Attack: Starlight Retribution",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531012, Prop:1001}",
+              "Param": {
+                "1531012": {
+                  "Main": 4510,
+                  "Growth": 410,
+                  "Format": "%",
+                  "DamagePercentage": 4510,
+                  "DamagePercentageGrowth": 410,
+                  "StunRatio": 2390,
+                  "StunRatioGrowth": 110,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 59675,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2164,
+                  "SpConsume": 0,
+                  "AttackData": [8660],
+                  "RpRecovery": 4330,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2165
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531012, Prop:1002}",
+              "Param": {
+                "1531012": {
+                  "Main": 2390,
+                  "Growth": 110,
+                  "Format": "%",
+                  "DamagePercentage": 4510,
+                  "DamagePercentageGrowth": 410,
+                  "StunRatio": 2390,
+                  "StunRatioGrowth": 110,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 59675,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 2164,
+                  "SpConsume": 0,
+                  "AttackData": [8660],
+                  "RpRecovery": 4330,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2165
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Dodge Counter: Duel King",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531013, Prop:1001}",
+              "Param": {
+                "1531013": {
+                  "Main": 11950,
+                  "Growth": 1090,
+                  "Format": "%",
+                  "DamagePercentage": 11950,
+                  "DamagePercentageGrowth": 1090,
+                  "StunRatio": 9730,
+                  "StunRatioGrowth": 450,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 243100,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 8836,
+                  "SpConsume": 0,
+                  "AttackData": [35347],
+                  "RpRecovery": 17680,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 8837
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531013, Prop:1002}",
+              "Param": {
+                "1531013": {
+                  "Main": 9730,
+                  "Growth": 450,
+                  "Format": "%",
+                  "DamagePercentage": 11950,
+                  "DamagePercentageGrowth": 1090,
+                  "StunRatio": 9730,
+                  "StunRatioGrowth": 450,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 243100,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 8836,
+                  "SpConsume": 0,
+                  "AttackData": [35347],
+                  "RpRecovery": 17680,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 8837
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Dodge Counter: Afterfire Spin",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531014, Prop:1001}",
+              "Param": {
+                "1531014": {
+                  "Main": 19870,
+                  "Growth": 1810,
+                  "Format": "%",
+                  "DamagePercentage": 19870,
+                  "DamagePercentageGrowth": 1810,
+                  "StunRatio": 18700,
+                  "StunRatioGrowth": 850,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 192500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6999,
+                  "SpConsume": 0,
+                  "AttackData": [28000],
+                  "RpRecovery": 14000,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 22000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531014, Prop:1002}",
+              "Param": {
+                "1531014": {
+                  "Main": 18700,
+                  "Growth": 850,
+                  "Format": "%",
+                  "DamagePercentage": 19870,
+                  "DamagePercentageGrowth": 1810,
+                  "StunRatio": 18700,
+                  "StunRatioGrowth": 850,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 192500,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 6999,
+                  "SpConsume": 0,
+                  "AttackData": [28000],
+                  "RpRecovery": 14000,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 22000
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": { "10": 2000, "100110": 2 },
+        "2": { "10": 3000, "100110": 3 },
+        "3": { "10": 6000, "100120": 2 },
+        "4": { "10": 9000, "100120": 3 },
+        "5": { "10": 12000, "100120": 4 },
+        "6": { "10": 18000, "100120": 6 },
+        "7": { "10": 45000, "100130": 5 },
+        "8": { "10": 67500, "100130": 8 },
+        "9": { "10": 90000, "100130": 10 },
+        "10": { "10": 112500, "100130": 12 },
+        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "12": {}
+      }
+    },
+    "Special": {
+      "Description": [
+        {
+          "Name": "Special Attack: Drive Suppression",
+          "Desc": "When HP is above 25%, press <IconMap:Icon_Special> to activate:\nConsumes HP equal to 16% of Max HP to summon a motorcycle and swiftly crash into enemies, continuously dealing <color=#F0D12B>Physical DMG</color>.\nIf attacked by an enemy as the active character shortly upon activating this skill, triggers a block, negating the attack and restoring 5 <color=#FFFFFF>Determination</color>.\nAfter triggering a block, immediately chains into <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>.\nAfter the skill continues for a while, it automatically chains into <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Special Attack: Run Wild",
+          "Desc": "Triggers automatically when <color=#FFFFFF>Dodge: Through the Galaxy</color> is interrupted:\nKicks his motorcycle at enemies, dealing <color=#F0D12B>Physical DMG</color>.\nAfter using this skill, it can be chained into <color=#FFFFFF>Dodge Counter: Duel King</color>.\nAnti-Interrupt level is increased while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: Cool Wheelie",
+          "Desc": "Triggers automatically when <color=#FFFFFF>Special Attack: Drive Suppression</color> reaches its maximum duration or a block is triggered:\nLifts the motorcycle to attack enemies, dealing <color=#F0D12B>Physical DMG</color>.\nOn hit, restores an additional 8 <color=#FFFFFF>Determination</color>.\nAfter using this skill, with enough Adrenaline, press or hold <IconMap:Icon_SpecialReady_Rp> to chain into <color=#FFFFFF>EX Special Attack: Rocking Footwork</color>.\nAfter the skill animation ends, automatically chains into <color=#FFFFFF>Special Attack: Run Wild</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: High-Traction Wheels",
+          "Desc": "With enough Adrenaline, hold <IconMap:Icon_SpecialReady_Rp> to activate:\nSlams down with the motorcycle, dealing <color=#F0D12B>Physical DMG</color>.\nRestores 30% of Max HP upon activating this skill.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: Rocking Footwork",
+          "Desc": "After activating <color=#FFFFFF>EX Special Attack: Cool Wheelie</color> and with enough Adrenaline, press or hold <IconMap:Icon_SpecialReady_Rp> to activate:\nUses the motorcycle and hand cannon for a combined attack, dealing <color=#F0D12B>Physical DMG</color>.\nUpon activating this skill, restore 15% of Max HP.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Special Attack: Drive Suppression",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531006, Prop:1001}",
+              "Param": {
+                "1531006": {
+                  "Main": 5200,
+                  "Growth": 480,
+                  "Format": "%",
+                  "DamagePercentage": 5200,
+                  "DamagePercentageGrowth": 480,
+                  "StunRatio": 11000,
+                  "StunRatioGrowth": 500,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 110000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4000,
+                  "SpConsume": 0,
+                  "AttackData": [40000],
+                  "RpRecovery": 8000,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2000
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531006, Prop:1002}",
+              "Param": {
+                "1531006": {
+                  "Main": 11000,
+                  "Growth": 500,
+                  "Format": "%",
+                  "DamagePercentage": 5200,
+                  "DamagePercentageGrowth": 480,
+                  "StunRatio": 11000,
+                  "StunRatioGrowth": 500,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 110000,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4000,
+                  "SpConsume": 0,
+                  "AttackData": [40000],
+                  "RpRecovery": 8000,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 2000
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Special Attack: Run Wild",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531007, Prop:1001}",
+              "Param": {
+                "1531007": {
+                  "Main": 7210,
+                  "Growth": 660,
+                  "Format": "%",
+                  "DamagePercentage": 7210,
+                  "DamagePercentageGrowth": 660,
+                  "StunRatio": 5870,
+                  "StunRatioGrowth": 270,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 146850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5330,
+                  "SpConsume": 0,
+                  "AttackData": [21321],
+                  "RpRecovery": 10670,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5331
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531007, Prop:1002}",
+              "Param": {
+                "1531007": {
+                  "Main": 5870,
+                  "Growth": 270,
+                  "Format": "%",
+                  "DamagePercentage": 7210,
+                  "DamagePercentageGrowth": 660,
+                  "StunRatio": 5870,
+                  "StunRatioGrowth": 270,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 146850,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 5330,
+                  "SpConsume": 0,
+                  "AttackData": [21321],
+                  "RpRecovery": 10670,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 5331
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: Cool Wheelie",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531008, Prop:1001}",
+              "Param": {
+                "1531008": {
+                  "Main": 38970,
+                  "Growth": 3550,
+                  "Format": "%",
+                  "DamagePercentage": 38970,
+                  "DamagePercentageGrowth": 3550,
+                  "StunRatio": 13930,
+                  "StunRatioGrowth": 640,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 513425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 18663,
+                  "SpConsume": 0,
+                  "AttackData": [20654],
+                  "RpRecovery": 37330,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 15664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531008, Prop:1002}",
+              "Param": {
+                "1531008": {
+                  "Main": 13930,
+                  "Growth": 640,
+                  "Format": "%",
+                  "DamagePercentage": 38970,
+                  "DamagePercentageGrowth": 3550,
+                  "StunRatio": 13930,
+                  "StunRatioGrowth": 640,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 513425,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 18663,
+                  "SpConsume": 0,
+                  "AttackData": [20654],
+                  "RpRecovery": 37330,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 15664
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: High-Traction Wheels",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531009, Prop:1001}",
+              "Param": {
+                "1531009": {
+                  "Main": 92990,
+                  "Growth": 8460,
+                  "Format": "%",
+                  "DamagePercentage": 92990,
+                  "DamagePercentageGrowth": 8460,
+                  "StunRatio": 79540,
+                  "StunRatioGrowth": 3620,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2929025,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 80854,
+                  "SpConsume": 0,
+                  "AttackData": [84014],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 21004
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531009, Prop:1002}",
+              "Param": {
+                "1531009": {
+                  "Main": 79540,
+                  "Growth": 3620,
+                  "Format": "%",
+                  "DamagePercentage": 92990,
+                  "DamagePercentageGrowth": 8460,
+                  "StunRatio": 79540,
+                  "StunRatioGrowth": 3620,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2929025,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 80854,
+                  "SpConsume": 0,
+                  "AttackData": [84014],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 21004
+                }
+              },
+              "Potential": []
+            },
+            { "Name": "Adrenaline Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "EX Special Attack: Rocking Footwork",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531011, Prop:1001}",
+              "Param": {
+                "1531011": {
+                  "Main": 95900,
+                  "Growth": 8720,
+                  "Format": "%",
+                  "DamagePercentage": 95900,
+                  "DamagePercentageGrowth": 8720,
+                  "StunRatio": 82400,
+                  "StunRatioGrowth": 3750,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 3011525,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 83554,
+                  "SpConsume": 0,
+                  "AttackData": [92014],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 23004
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531011, Prop:1002}",
+              "Param": {
+                "1531011": {
+                  "Main": 82400,
+                  "Growth": 3750,
+                  "Format": "%",
+                  "DamagePercentage": 95900,
+                  "DamagePercentageGrowth": 8720,
+                  "StunRatio": 82400,
+                  "StunRatioGrowth": 3750,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 3011525,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 83554,
+                  "SpConsume": 0,
+                  "AttackData": [92014],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 23004
+                }
+              },
+              "Potential": []
+            },
+            { "Name": "Adrenaline Cost", "Desc": "60", "Potential": [] }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": { "10": 2000, "100110": 2 },
+        "2": { "10": 3000, "100110": 3 },
+        "3": { "10": 6000, "100120": 2 },
+        "4": { "10": 9000, "100120": 3 },
+        "5": { "10": 12000, "100120": 4 },
+        "6": { "10": 18000, "100120": 6 },
+        "7": { "10": 45000, "100130": 5 },
+        "8": { "10": 67500, "100130": 8 },
+        "9": { "10": 90000, "100130": 10 },
+        "10": { "10": 112500, "100130": 12 },
+        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "12": {}
+      }
+    },
+    "Chain": {
+      "Description": [
+        {
+          "Name": "Chain Attack: Knight's Swagger",
+          "Desc": "When a <color=#FFFFFF>Chain Attack</color> is triggered, select the character to activate:\nLaunches a series of attacks forward, dealing massive <color=#F0D12B>Physical DMG</color>.\nUpon activating this skill, gains 15 <color=#FFFFFF>Determination</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Ultimate: Starlight Knight Flying Kick",
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nLeaps into the air and delivers a flying kick at the target, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Chain Attack: Knight's Swagger",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531015, Prop:1001}",
+              "Param": {
+                "1531015": {
+                  "Main": 66290,
+                  "Growth": 6030,
+                  "Format": "%",
+                  "DamagePercentage": 66290,
+                  "DamagePercentageGrowth": 6030,
+                  "StunRatio": 26220,
+                  "StunRatioGrowth": 1200,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2484350,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 43783,
+                  "SpConsume": 0,
+                  "AttackData": [45334],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 23834
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531015, Prop:1002}",
+              "Param": {
+                "1531015": {
+                  "Main": 26220,
+                  "Growth": 1200,
+                  "Format": "%",
+                  "DamagePercentage": 66290,
+                  "DamagePercentageGrowth": 6030,
+                  "StunRatio": 26220,
+                  "StunRatioGrowth": 1200,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 2484350,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 43783,
+                  "SpConsume": 0,
+                  "AttackData": [45334],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 23834
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Ultimate: Starlight Knight Flying Kick",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531016, Prop:1001}",
+              "Param": {
+                "1531016": {
+                  "Main": 159210,
+                  "Growth": 14480,
+                  "Format": "%",
+                  "DamagePercentage": 159210,
+                  "DamagePercentageGrowth": 14480,
+                  "StunRatio": 44920,
+                  "StunRatioGrowth": 2050,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 40829,
+                  "SpConsume": 0,
+                  "AttackData": [63320],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 90830
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531016, Prop:1002}",
+              "Param": {
+                "1531016": {
+                  "Main": 44920,
+                  "Growth": 2050,
+                  "Format": "%",
+                  "DamagePercentage": 159210,
+                  "DamagePercentageGrowth": 14480,
+                  "StunRatio": 44920,
+                  "StunRatioGrowth": 2050,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 40829,
+                  "SpConsume": 0,
+                  "AttackData": [63320],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 90830
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": { "10": 2000, "100110": 2 },
+        "2": { "10": 3000, "100110": 3 },
+        "3": { "10": 6000, "100120": 2 },
+        "4": { "10": 9000, "100120": 3 },
+        "5": { "10": 12000, "100120": 4 },
+        "6": { "10": 18000, "100120": 6 },
+        "7": { "10": 45000, "100130": 5 },
+        "8": { "10": 67500, "100130": 8 },
+        "9": { "10": 90000, "100130": 10 },
+        "10": { "10": 112500, "100130": 12 },
+        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "12": {}
+      }
+    },
+    "Assist": {
+      "Description": [
+        {
+          "Name": "Quick Assist: Starlight - Power of Bonds",
+          "Desc": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nFires a blast from his arm cannon ahead, dealing <color=#F0D12B>Physical DMG</color>. When HP is above 25%, this skill is replaced with <color=#FFFFFF>Special Attack: Drive Suppression</color>. This effect can trigger once every 5s.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Defensive Assist: Hero's Entrance",
+          "Desc": "When the on-field character is about to be attacked, press <IconMap:Icon_Switch> to activate:\nParries the enemy's attack, dealing massive Daze.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Assist Follow-Up: Villain's Exit",
+          "Desc": "Press <IconMap:Icon_Normal> after a <color=#FFFFFF>Defensive Assist</color> to activate:\nKicks the motorcycle at the target, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Potential": []
+        },
+        {
+          "Name": "Quick Assist: Starlight - Power of Bonds",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531017, Prop:1001}",
+              "Param": {
+                "1531017": {
+                  "Main": 9200,
+                  "Growth": 840,
+                  "Format": "%",
+                  "DamagePercentage": 9200,
+                  "DamagePercentageGrowth": 840,
+                  "StunRatio": 4870,
+                  "StunRatioGrowth": 230,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 121550,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4418,
+                  "SpConsume": 0,
+                  "AttackData": [17674],
+                  "RpRecovery": 8840,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4419
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531017, Prop:1002}",
+              "Param": {
+                "1531017": {
+                  "Main": 4870,
+                  "Growth": 230,
+                  "Format": "%",
+                  "DamagePercentage": 9200,
+                  "DamagePercentageGrowth": 840,
+                  "StunRatio": 4870,
+                  "StunRatioGrowth": 230,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 121550,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 4418,
+                  "SpConsume": 0,
+                  "AttackData": [17674],
+                  "RpRecovery": 8840,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 4419
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Defensive Assist: Hero's Entrance",
+          "Param": [
+            {
+              "Name": "Light Defensive Daze Multiplier",
+              "Desc": "{Skill:1531018, Prop:1002}",
+              "Param": {
+                "1531018": {
+                  "Main": 27130,
+                  "Growth": 1240,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 27130,
+                  "StunRatioGrowth": 1240,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [26654],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 36664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Heavy Defensive Daze Multiplier",
+              "Desc": "{Skill:1531019, Prop:1002}",
+              "Param": {
+                "1531019": {
+                  "Main": 34280,
+                  "Growth": 1560,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 34280,
+                  "StunRatioGrowth": 1560,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [46654],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 41664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Chain Defensive Daze Multiplier",
+              "Desc": "{Skill:1531020, Prop:1002}",
+              "Param": {
+                "1531020": {
+                  "Main": 16680,
+                  "Growth": 760,
+                  "Format": "%",
+                  "DamagePercentage": 0,
+                  "DamagePercentageGrowth": 0,
+                  "StunRatio": 16680,
+                  "StunRatioGrowth": 760,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [46654],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 11664
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        },
+        {
+          "Name": "Assist Follow-Up: Villain's Exit",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1531021, Prop:1001}",
+              "Param": {
+                "1531021": {
+                  "Main": 22960,
+                  "Growth": 2090,
+                  "Format": "%",
+                  "DamagePercentage": 22960,
+                  "DamagePercentageGrowth": 2090,
+                  "StunRatio": 20370,
+                  "StunRatioGrowth": 930,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 705100,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 20292,
+                  "SpConsume": 0,
+                  "AttackData": [31321],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7831
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1531021, Prop:1002}",
+              "Param": {
+                "1531021": {
+                  "Main": 20370,
+                  "Growth": 930,
+                  "Format": "%",
+                  "DamagePercentage": 22960,
+                  "DamagePercentageGrowth": 2090,
+                  "StunRatio": 20370,
+                  "StunRatioGrowth": 930,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 705100,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 20292,
+                  "SpConsume": 0,
+                  "AttackData": [31321],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 7831
+                }
+              },
+              "Potential": []
+            }
+          ],
+          "Potential": []
+        }
+      ],
+      "Material": {
+        "1": { "10": 2000, "100110": 2 },
+        "2": { "10": 3000, "100110": 3 },
+        "3": { "10": 6000, "100120": 2 },
+        "4": { "10": 9000, "100120": 3 },
+        "5": { "10": 12000, "100120": 4 },
+        "6": { "10": 18000, "100120": 6 },
+        "7": { "10": 45000, "100130": 5 },
+        "8": { "10": 67500, "100130": 8 },
+        "9": { "10": 90000, "100130": 10 },
+        "10": { "10": 112500, "100130": 12 },
+        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "12": {}
+      }
+    }
+  },
+  "SkillList": {
+    "1531001": {
+      "Name": "Basic Attack: Knight's Technique",
+      "Desc": "<IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1531002": {
+      "Name": "Basic Attack: Full-Throttle Starlight",
+      "Desc": "<IconMap:Icon_Normal> (Hold, with enough Determination)",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1531003": {
+      "Name": "Special Attack: Drive Suppression",
+      "Desc": "<IconMap:Icon_Special>",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1531004": {
+      "Name": "Special Attack: Run Wild",
+      "Desc": "(Automatically triggers after EX Special Attack: Cool Wheelie ends)",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1531005": {
+      "Name": "EX Special Attack: High-Traction Wheels",
+      "Desc": "<IconMap:Icon_SpecialReady_Rp> (Hold)",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1531006": {
+      "Name": "EX Special Attack: Rocking Footwork",
+      "Desc": "<IconMap:Icon_SpecialReady_Rp> (Press or hold) (After EX Special Attack: Cool Wheelie)",
+      "ElementType": 200,
+      "HitType": 103,
+      "Potential": []
+    },
+    "1531007": {
+      "Name": "EX Special Attack: Cool Wheelie",
+      "Desc": "(When achieving a successful block during Special Attack: Drive Suppression) or (Automatically activates after Special Attack: Drive Suppression continues for a while)",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1531008": {
+      "Name": "Dash Attack: Starlight Retribution",
+      "Desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 101,
+      "Potential": []
+    },
+    "1531009": {
+      "Name": "Dodge Counter: Duel King",
+      "Desc": "<IconMap:Icon_Evade> (Perfect) ; <IconMap:Icon_Normal>",
+      "ElementType": 200,
+      "HitType": 103,
+      "Potential": []
+    },
+    "1531010": {
+      "Name": "Dodge Counter: Afterfire Spin",
+      "Desc": "<IconMap:Icon_Evade> (During Special Attack: Drive Suppression) (Automatically activates upon a Perfect Dodge)",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1531011": {
+      "Name": "Chain Attack: Knight's Swagger",
+      "Desc": "<IconMap:Icon_QTE>",
+      "ElementType": 200,
+      "HitType": 103,
+      "Potential": []
+    },
+    "1531012": {
+      "Name": "Ultimate: Starlight Knight Flying Kick",
+      "Desc": "<IconMap:Icon_UltimateReady>",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    },
+    "1531013": {
+      "Name": "Quick Assist: Starlight - Power of Bonds",
+      "Desc": "<IconMap:Icon_Switch> (When Triggering Quick Assist)",
+      "ElementType": 200,
+      "HitType": 103,
+      "Potential": []
+    },
+    "1531014": {
+      "Name": "Defensive Assist: Hero's Entrance",
+      "Desc": "<IconMap:Icon_Switch> (When Triggering Defensive Assist)",
+      "ElementType": 0,
+      "HitType": 0,
+      "Potential": []
+    },
+    "1531015": {
+      "Name": "Assist Follow-Up: Villain's Exit",
+      "Desc": "<IconMap:Icon_Normal> (After Defensive Assist)",
+      "ElementType": 200,
+      "HitType": 102,
+      "Potential": []
+    }
+  },
+  "Passive": {
+    "Level": {
+      "1531049": {
+        "Level": 1,
+        "Id": 1531049,
+        "Name": [
+          "Core Passive: Knight's Resolve",
+          "Additional Ability: Blazing Starlight"
+        ],
+        "Desc": [
+          "Starlight - Billy gains extra Sheer Force based on his Max HP, with every 1 point of Max HP increasing Sheer Force by 0.1. All <color=#F0D12B>Physical DMG</color> Starlight - Billy deals is Sheer DMG, ignoring enemy DEF and using his Sheer Force stat as the DMG Multiplier.\nStarlight - Billy restores 60 Adrenaline upon entering the battlefield. In Investigation Zone Mode, this effect can trigger once every 180s.\nWhen his HP is greater than 25%, press <IconMap:Icon_Special> to consume HP and activate <color=#FFFFFF>Special Attack: Drive Suppression</color>. While in combat, each use of this skill increases his CRIT DMG by <color=#2BAD00>45%</color> for 45s. Repeated triggers refresh the duration. When HP is at or below 25%, the DMG he takes is reduced by 50%.\nStarlight - Billy gains <color=#FFFFFF>Determination</color> when his attacks hit enemies, with the amount depending on the skill used. <color=#FFFFFF>Determination</color> regenerates slowly while in combat, and is capped at 120. Hitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, activating <color=#FFFFFF>Chain Attack: Knight's Swagger</color>, or triggering a block restores additional <color=#FFFFFF>Determination</color>. Triggering a <color=#FFFFFF>Perfect Dodge</color> by any means restores 3 <color=#FFFFFF>Determination</color>. This effect can trigger once every 0.5s.\nWhen <color=#FFFFFF>Determination</color> is greater than or equal to 100, hold <IconMap:Icon_Normal> to consume 100 <color=#FFFFFF>Determination</color> and activate <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>.\nHitting an enemy with <color=#FFFFFF>Basic Attack: Knight's Technique</color> restores a small amount of HP. Hitting an enemy with <color=#FFFFFF>Dodge Counter: Duel King</color> activated through a <color=#FFFFFF>Perfect Dodge</color> restores HP. Using <color=#FFFFFF>EX Special Attack: High-Traction Wheels</color> or <color=#FFFFFF>EX Special Attack: Rocking Footwork</color> restores HP.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color>, <color=#FFFFFF>Defense</color>, or <color=#FFFFFF>Support</color> character:\nHitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, the 4th hit of <color=#FFFFFF>Basic Attack: Knight's Technique</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> grants 1 stack of <color=#FFFFFF>Starlight</color> for 45s, up to a maximum of 2 stacks, Only one stack can be obtained per use of a skill. Each stack increases the DMG of <color=#FFFFFF>Chain Attacks</color>, <color=#FFFFFF>Ultimates</color>, <color=#FFFFFF>EX Special Attacks</color>, and <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color> by 20%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1531050": {
+        "Level": 2,
+        "Id": 1531050,
+        "Name": [
+          "Core Passive: Knight's Resolve",
+          "Additional Ability: Blazing Starlight"
+        ],
+        "Desc": [
+          "Starlight - Billy gains extra Sheer Force based on his Max HP, with every 1 point of Max HP increasing Sheer Force by 0.1. All <color=#F0D12B>Physical DMG</color> Starlight - Billy deals is Sheer DMG, ignoring enemy DEF and using his Sheer Force stat as the DMG Multiplier.\nStarlight - Billy restores 60 Adrenaline upon entering the battlefield. In Investigation Zone Mode, this effect can trigger once every 180s.\nWhen his HP is greater than 25%, press <IconMap:Icon_Special> to consume HP and activate <color=#FFFFFF>Special Attack: Drive Suppression</color>. While in combat, each use of this skill increases his CRIT DMG by <color=#2BAD00>53%</color> for 45s. Repeated triggers refresh the duration. When HP is at or below 25%, the DMG he takes is reduced by 50%.\nStarlight - Billy gains <color=#FFFFFF>Determination</color> when his attacks hit enemies, with the amount depending on the skill used. <color=#FFFFFF>Determination</color> regenerates slowly while in combat, and is capped at 120. Hitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, activating <color=#FFFFFF>Chain Attack: Knight's Swagger</color>, or triggering a block restores additional <color=#FFFFFF>Determination</color>. Triggering a <color=#FFFFFF>Perfect Dodge</color> by any means restores 3 <color=#FFFFFF>Determination</color>. This effect can trigger once every 0.5s.\nWhen <color=#FFFFFF>Determination</color> is greater than or equal to 100, hold <IconMap:Icon_Normal> to consume 100 <color=#FFFFFF>Determination</color> and activate <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>.\nHitting an enemy with <color=#FFFFFF>Basic Attack: Knight's Technique</color> restores a small amount of HP. Hitting an enemy with <color=#FFFFFF>Dodge Counter: Duel King</color> activated through a <color=#FFFFFF>Perfect Dodge</color> restores HP. Using <color=#FFFFFF>EX Special Attack: High-Traction Wheels</color> or <color=#FFFFFF>EX Special Attack: Rocking Footwork</color> restores HP.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color>, <color=#FFFFFF>Defense</color>, or <color=#FFFFFF>Support</color> character:\nHitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, the 4th hit of <color=#FFFFFF>Basic Attack: Knight's Technique</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> grants 1 stack of <color=#FFFFFF>Starlight</color> for 45s, up to a maximum of 2 stacks, Only one stack can be obtained per use of a skill. Each stack increases the DMG of <color=#FFFFFF>Chain Attacks</color>, <color=#FFFFFF>Ultimates</color>, <color=#FFFFFF>EX Special Attacks</color>, and <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color> by 20%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1531051": {
+        "Level": 3,
+        "Id": 1531051,
+        "Name": [
+          "Core Passive: Knight's Resolve",
+          "Additional Ability: Blazing Starlight"
+        ],
+        "Desc": [
+          "Starlight - Billy gains extra Sheer Force based on his Max HP, with every 1 point of Max HP increasing Sheer Force by 0.1. All <color=#F0D12B>Physical DMG</color> Starlight - Billy deals is Sheer DMG, ignoring enemy DEF and using his Sheer Force stat as the DMG Multiplier.\nStarlight - Billy restores 60 Adrenaline upon entering the battlefield. In Investigation Zone Mode, this effect can trigger once every 180s.\nWhen his HP is greater than 25%, press <IconMap:Icon_Special> to consume HP and activate <color=#FFFFFF>Special Attack: Drive Suppression</color>. While in combat, each use of this skill increases his CRIT DMG by <color=#2BAD00>60%</color> for 45s. Repeated triggers refresh the duration. When HP is at or below 25%, the DMG he takes is reduced by 50%.\nStarlight - Billy gains <color=#FFFFFF>Determination</color> when his attacks hit enemies, with the amount depending on the skill used. <color=#FFFFFF>Determination</color> regenerates slowly while in combat, and is capped at 120. Hitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, activating <color=#FFFFFF>Chain Attack: Knight's Swagger</color>, or triggering a block restores additional <color=#FFFFFF>Determination</color>. Triggering a <color=#FFFFFF>Perfect Dodge</color> by any means restores 3 <color=#FFFFFF>Determination</color>. This effect can trigger once every 0.5s.\nWhen <color=#FFFFFF>Determination</color> is greater than or equal to 100, hold <IconMap:Icon_Normal> to consume 100 <color=#FFFFFF>Determination</color> and activate <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>.\nHitting an enemy with <color=#FFFFFF>Basic Attack: Knight's Technique</color> restores a small amount of HP. Hitting an enemy with <color=#FFFFFF>Dodge Counter: Duel King</color> activated through a <color=#FFFFFF>Perfect Dodge</color> restores HP. Using <color=#FFFFFF>EX Special Attack: High-Traction Wheels</color> or <color=#FFFFFF>EX Special Attack: Rocking Footwork</color> restores HP.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color>, <color=#FFFFFF>Defense</color>, or <color=#FFFFFF>Support</color> character:\nHitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, the 4th hit of <color=#FFFFFF>Basic Attack: Knight's Technique</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> grants 1 stack of <color=#FFFFFF>Starlight</color> for 45s, up to a maximum of 2 stacks, Only one stack can be obtained per use of a skill. Each stack increases the DMG of <color=#FFFFFF>Chain Attacks</color>, <color=#FFFFFF>Ultimates</color>, <color=#FFFFFF>EX Special Attacks</color>, and <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color> by 20%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1531052": {
+        "Level": 4,
+        "Id": 1531052,
+        "Name": [
+          "Core Passive: Knight's Resolve",
+          "Additional Ability: Blazing Starlight"
+        ],
+        "Desc": [
+          "Starlight - Billy gains extra Sheer Force based on his Max HP, with every 1 point of Max HP increasing Sheer Force by 0.1. All <color=#F0D12B>Physical DMG</color> Starlight - Billy deals is Sheer DMG, ignoring enemy DEF and using his Sheer Force stat as the DMG Multiplier.\nStarlight - Billy restores 60 Adrenaline upon entering the battlefield. In Investigation Zone Mode, this effect can trigger once every 180s.\nWhen his HP is greater than 25%, press <IconMap:Icon_Special> to consume HP and activate <color=#FFFFFF>Special Attack: Drive Suppression</color>. While in combat, each use of this skill increases his CRIT DMG by <color=#2BAD00>68%</color> for 45s. Repeated triggers refresh the duration. When HP is at or below 25%, the DMG he takes is reduced by 50%.\nStarlight - Billy gains <color=#FFFFFF>Determination</color> when his attacks hit enemies, with the amount depending on the skill used. <color=#FFFFFF>Determination</color> regenerates slowly while in combat, and is capped at 120. Hitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, activating <color=#FFFFFF>Chain Attack: Knight's Swagger</color>, or triggering a block restores additional <color=#FFFFFF>Determination</color>. Triggering a <color=#FFFFFF>Perfect Dodge</color> by any means restores 3 <color=#FFFFFF>Determination</color>. This effect can trigger once every 0.5s.\nWhen <color=#FFFFFF>Determination</color> is greater than or equal to 100, hold <IconMap:Icon_Normal> to consume 100 <color=#FFFFFF>Determination</color> and activate <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>.\nHitting an enemy with <color=#FFFFFF>Basic Attack: Knight's Technique</color> restores a small amount of HP. Hitting an enemy with <color=#FFFFFF>Dodge Counter: Duel King</color> activated through a <color=#FFFFFF>Perfect Dodge</color> restores HP. Using <color=#FFFFFF>EX Special Attack: High-Traction Wheels</color> or <color=#FFFFFF>EX Special Attack: Rocking Footwork</color> restores HP.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color>, <color=#FFFFFF>Defense</color>, or <color=#FFFFFF>Support</color> character:\nHitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, the 4th hit of <color=#FFFFFF>Basic Attack: Knight's Technique</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> grants 1 stack of <color=#FFFFFF>Starlight</color> for 45s, up to a maximum of 2 stacks, Only one stack can be obtained per use of a skill. Each stack increases the DMG of <color=#FFFFFF>Chain Attacks</color>, <color=#FFFFFF>Ultimates</color>, <color=#FFFFFF>EX Special Attacks</color>, and <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color> by 20%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1531053": {
+        "Level": 5,
+        "Id": 1531053,
+        "Name": [
+          "Core Passive: Knight's Resolve",
+          "Additional Ability: Blazing Starlight"
+        ],
+        "Desc": [
+          "Starlight - Billy gains extra Sheer Force based on his Max HP, with every 1 point of Max HP increasing Sheer Force by 0.1. All <color=#F0D12B>Physical DMG</color> Starlight - Billy deals is Sheer DMG, ignoring enemy DEF and using his Sheer Force stat as the DMG Multiplier.\nStarlight - Billy restores 60 Adrenaline upon entering the battlefield. In Investigation Zone Mode, this effect can trigger once every 180s.\nWhen his HP is greater than 25%, press <IconMap:Icon_Special> to consume HP and activate <color=#FFFFFF>Special Attack: Drive Suppression</color>. While in combat, each use of this skill increases his CRIT DMG by <color=#2BAD00>75%</color> for 45s. Repeated triggers refresh the duration. When HP is at or below 25%, the DMG he takes is reduced by 50%.\nStarlight - Billy gains <color=#FFFFFF>Determination</color> when his attacks hit enemies, with the amount depending on the skill used. <color=#FFFFFF>Determination</color> regenerates slowly while in combat, and is capped at 120. Hitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, activating <color=#FFFFFF>Chain Attack: Knight's Swagger</color>, or triggering a block restores additional <color=#FFFFFF>Determination</color>. Triggering a <color=#FFFFFF>Perfect Dodge</color> by any means restores 3 <color=#FFFFFF>Determination</color>. This effect can trigger once every 0.5s.\nWhen <color=#FFFFFF>Determination</color> is greater than or equal to 100, hold <IconMap:Icon_Normal> to consume 100 <color=#FFFFFF>Determination</color> and activate <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>.\nHitting an enemy with <color=#FFFFFF>Basic Attack: Knight's Technique</color> restores a small amount of HP. Hitting an enemy with <color=#FFFFFF>Dodge Counter: Duel King</color> activated through a <color=#FFFFFF>Perfect Dodge</color> restores HP. Using <color=#FFFFFF>EX Special Attack: High-Traction Wheels</color> or <color=#FFFFFF>EX Special Attack: Rocking Footwork</color> restores HP.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color>, <color=#FFFFFF>Defense</color>, or <color=#FFFFFF>Support</color> character:\nHitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, the 4th hit of <color=#FFFFFF>Basic Attack: Knight's Technique</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> grants 1 stack of <color=#FFFFFF>Starlight</color> for 45s, up to a maximum of 2 stacks, Only one stack can be obtained per use of a skill. Each stack increases the DMG of <color=#FFFFFF>Chain Attacks</color>, <color=#FFFFFF>Ultimates</color>, <color=#FFFFFF>EX Special Attacks</color>, and <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color> by 20%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1531054": {
+        "Level": 6,
+        "Id": 1531054,
+        "Name": [
+          "Core Passive: Knight's Resolve",
+          "Additional Ability: Blazing Starlight"
+        ],
+        "Desc": [
+          "Starlight - Billy gains extra Sheer Force based on his Max HP, with every 1 point of Max HP increasing Sheer Force by 0.1. All <color=#F0D12B>Physical DMG</color> Starlight - Billy deals is Sheer DMG, ignoring enemy DEF and using his Sheer Force stat as the DMG Multiplier.\nStarlight - Billy restores 60 Adrenaline upon entering the battlefield. In Investigation Zone Mode, this effect can trigger once every 180s.\nWhen his HP is greater than 25%, press <IconMap:Icon_Special> to consume HP and activate <color=#FFFFFF>Special Attack: Drive Suppression</color>. While in combat, each use of this skill increases his CRIT DMG by <color=#2BAD00>83%</color> for 45s. Repeated triggers refresh the duration. When HP is at or below 25%, the DMG he takes is reduced by 50%.\nStarlight - Billy gains <color=#FFFFFF>Determination</color> when his attacks hit enemies, with the amount depending on the skill used. <color=#FFFFFF>Determination</color> regenerates slowly while in combat, and is capped at 120. Hitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, activating <color=#FFFFFF>Chain Attack: Knight's Swagger</color>, or triggering a block restores additional <color=#FFFFFF>Determination</color>. Triggering a <color=#FFFFFF>Perfect Dodge</color> by any means restores 3 <color=#FFFFFF>Determination</color>. This effect can trigger once every 0.5s.\nWhen <color=#FFFFFF>Determination</color> is greater than or equal to 100, hold <IconMap:Icon_Normal> to consume 100 <color=#FFFFFF>Determination</color> and activate <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>.\nHitting an enemy with <color=#FFFFFF>Basic Attack: Knight's Technique</color> restores a small amount of HP. Hitting an enemy with <color=#FFFFFF>Dodge Counter: Duel King</color> activated through a <color=#FFFFFF>Perfect Dodge</color> restores HP. Using <color=#FFFFFF>EX Special Attack: High-Traction Wheels</color> or <color=#FFFFFF>EX Special Attack: Rocking Footwork</color> restores HP.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color>, <color=#FFFFFF>Defense</color>, or <color=#FFFFFF>Support</color> character:\nHitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, the 4th hit of <color=#FFFFFF>Basic Attack: Knight's Technique</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> grants 1 stack of <color=#FFFFFF>Starlight</color> for 45s, up to a maximum of 2 stacks, Only one stack can be obtained per use of a skill. Each stack increases the DMG of <color=#FFFFFF>Chain Attacks</color>, <color=#FFFFFF>Ultimates</color>, <color=#FFFFFF>EX Special Attacks</color>, and <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color> by 20%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      },
+      "1531055": {
+        "Level": 7,
+        "Id": 1531055,
+        "Name": [
+          "Core Passive: Knight's Resolve",
+          "Additional Ability: Blazing Starlight"
+        ],
+        "Desc": [
+          "Starlight - Billy gains extra Sheer Force based on his Max HP, with every 1 point of Max HP increasing Sheer Force by 0.1. All <color=#F0D12B>Physical DMG</color> Starlight - Billy deals is Sheer DMG, ignoring enemy DEF and using his Sheer Force stat as the DMG Multiplier.\nStarlight - Billy restores 60 Adrenaline upon entering the battlefield. In Investigation Zone Mode, this effect can trigger once every 180s.\nWhen his HP is greater than 25%, press <IconMap:Icon_Special> to consume HP and activate <color=#FFFFFF>Special Attack: Drive Suppression</color>. While in combat, each use of this skill increases his CRIT DMG by <color=#2BAD00>90%</color> for 45s. Repeated triggers refresh the duration. When HP is at or below 25%, the DMG he takes is reduced by 50%.\nStarlight - Billy gains <color=#FFFFFF>Determination</color> when his attacks hit enemies, with the amount depending on the skill used. <color=#FFFFFF>Determination</color> regenerates slowly while in combat, and is capped at 120. Hitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, activating <color=#FFFFFF>Chain Attack: Knight's Swagger</color>, or triggering a block restores additional <color=#FFFFFF>Determination</color>. Triggering a <color=#FFFFFF>Perfect Dodge</color> by any means restores 3 <color=#FFFFFF>Determination</color>. This effect can trigger once every 0.5s.\nWhen <color=#FFFFFF>Determination</color> is greater than or equal to 100, hold <IconMap:Icon_Normal> to consume 100 <color=#FFFFFF>Determination</color> and activate <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>.\nHitting an enemy with <color=#FFFFFF>Basic Attack: Knight's Technique</color> restores a small amount of HP. Hitting an enemy with <color=#FFFFFF>Dodge Counter: Duel King</color> activated through a <color=#FFFFFF>Perfect Dodge</color> restores HP. Using <color=#FFFFFF>EX Special Attack: High-Traction Wheels</color> or <color=#FFFFFF>EX Special Attack: Rocking Footwork</color> restores HP.",
+          "When another character in your squad is a <color=#FFFFFF>Stun</color>, <color=#FFFFFF>Defense</color>, or <color=#FFFFFF>Support</color> character:\nHitting an enemy with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, the 4th hit of <color=#FFFFFF>Basic Attack: Knight's Technique</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color> grants 1 stack of <color=#FFFFFF>Starlight</color> for 45s, up to a maximum of 2 stacks, Only one stack can be obtained per use of a skill. Each stack increases the DMG of <color=#FFFFFF>Chain Attacks</color>, <color=#FFFFFF>Ultimates</color>, <color=#FFFFFF>EX Special Attacks</color>, and <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color> by 20%."
+        ],
+        "ExtraProperty": {},
+        "Potential": []
+      }
+    },
+    "Materials": {
+      "1": { "10": 5000 },
+      "2": { "10": 12000, "110514": 2 },
+      "3": { "10": 28000, "110514": 4 },
+      "4": { "10": 60000, "110008": 2, "110514": 9 },
+      "5": { "10": 100000, "110008": 3, "110514": 15 },
+      "6": { "10": 200000, "110008": 4, "110514": 30 }
+    }
+  },
+  "Talent": {
+    "1": {
+      "Level": 1,
+      "Name": "Heroic Entrance",
+      "Desc": "<color=#FFFFFF>Core Passive: Knight's Resolve</color> restores an additional 60 Adrenaline upon entering the battlefield. Hitting an enemy with an <color=#FFFFFF>EX Special Attack</color> causes Starlight - Billy's DMG to ignore 18% <color=#F0D12B>Physical RES</color> for 45s. Repeated triggers refresh the duration.",
+      "Desc2": "There are just as many bad guys in New Eridu as in a visual FX show, but there aren't many real heroes.\n\"I might be good at shouting heroic lines, but I can't really call myself a hero yet...\"\n\"But I'll follow their example and stand up front to protect everyone!\""
+    },
+    "2": {
+      "Level": 2,
+      "Name": "Wasteland Automaton",
+      "Desc": "Increases the DMG dealt by <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>, <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, and <color=#FFFFFF>Ultimate: Starlight Knight Flying Kick</color> by 50%. Activating <color=#FFFFFF>EX Special Attack: Rocking Footwork</color>, <color=#FFFFFF>EX Special Attack: High-Traction Wheels</color>, or hitting a Stunned enemy with <color=#FFFFFF>Special Attack: Drive Suppression</color> grants the <color=#FFFFFF>Turbocharged</color> effect: <color=#FFFFFF>Special Attack: Drive Suppression</color> consumes this effect to immediately follow up with <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, and increases that instance's CRIT DMG by 50%. Only 1 stack of <color=#FFFFFF>Turbocharged</color> can be held.",
+      "Desc2": "There's no shortage of sharpshooters in the Outer Ring, but keeping perfect aim on a speeding bike is what defines a real ace.\n\"Ballistic calculations and mechanical fingers? Of course they help...\"\n\"But the real reason I'm dead-on every time is because... the Starlight chose me!\""
+    },
+    "3": {
+      "Level": 3,
+      "Name": "Knight's Chivalry",
+      "Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+      "Desc2": "What does it really mean to be a Starlight Knight? Never backing down and standing up for the weak? Sacrifice, justice, compassion, honor?\n\"Do what is right...\"\n\"And don't compromise on what's not cool!\"\n\"That's why I'll never abandon my companions!\""
+    },
+    "4": {
+      "Level": 4,
+      "Name": "Flames of Justice",
+      "Desc": "While in combat, each use of <color=#FFFFFF>Special Attack: Drive Suppression</color> increases Starlight - Billy's CRIT DMG by 8%, stacking up to 2 times and lasting 45s. Repeated triggers reset the duration. If HP is below 35% and Starlight - Billy is not the active character, he continuously recovers HP, up to 35%.",
+      "Desc2": "Ideals are born to uphold justice, yet they're destined to be abandoned.\n\"You're saying those shows are just for kids...?\"\n\"The most courageous dreams are the ones only kids dare to believe in, right?\"\n\"Then I, Starlight - Billy, will protect those ridiculed dreams!\""
+    },
+    "5": {
+      "Level": 5,
+      "Name": "Radiant Armaments",
+      "Desc": "<color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, and <color=#FFFFFF>Chain Attack</color> Lv. +2",
+      "Desc2": "You need a dazzling outfit to look like a real hero... it makes the whole thing pretty inconvenient.\n\"I'm not strong because of larger-caliber weapons or higher-power components!\"\n\"My true weapon... is the endless starlight!\""
+    },
+    "6": {
+      "Level": 6,
+      "Name": "Starlight Knight",
+      "Desc": "<color=#FFFFFF>Ultimate: Starlight Knight Flying Kick</color> and <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>'s Sheer DMG increases by 18%. Landing the 4th hit of <color=#FFFFFF>Basic Attack: Knight's Technique</color>, <color=#FFFFFF>EX Special Attack: Cool Wheelie</color>, or <color=#FFFFFF>Chain Attack: Knight's Swagger</color> grants 1 stack of <color=#FFFFFF>Brilliant Starlight</color>, stacking up to 6 times, and gaining at most 1 stack per skill use. When using <color=#FFFFFF>Ultimate: Starlight Knight Flying Kick</color> or <color=#FFFFFF>Basic Attack: Full-Throttle Starlight</color>, consumes up to 2 stacks of <color=#FFFFFF>Brilliant Starlight</color>, with each stack consumed causing that skill's final hit to deal 100% Sheer Force as additional <color=#F0D12B>Physical DMG</color>.",
+      "Desc2": "Those who always believe in hope will, in the end, become someone else's hope.\nThis is the story of the Starlight Knights, the story of Billy Kid.\n\"Starlight Knight — Transformation!\""
+    }
+  },
+  "FairyRecommend": {
+    "Slot4": 33100,
+    "Slot2": 32700,
+    "SlotSub": 31000,
+    "Part4": {
+      "Prop": 20103,
+      "Name": "CRIT Rate",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "Part5": {
+      "Prop": 21103,
+      "Name": "CRIT DMG",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "Part6": {
+      "Prop": 11102,
+      "Name": "HP",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    },
+    "PartSub": {
+      "Prop": 11102,
+      "Name": "HP",
+      "Format": "{0:0.#%}",
+      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    }
+  },
+  "Strategy": [
+    "03",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, on-field DMG dealer",
+    "Bike mode continuously consumes HP to gain bonus DMG",
+    "Packs various ways to restore HP"
+  ],
+  "Potential": [],
+  "PotentialDetail": {},
+  "Live2D": "UIspineSPBilly"
+}

@@ -1781,8 +1781,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1251_1",
-    "StrategyGuide_Overview_1251_2"
+    "07",
+    "<IconMap:Icon_GeneralBuff_Thunder>Electric, versatile Stun",
+    "Grants Stun DMG buffs",
+    "Converts Impact into ATK"
   ],
   "Potential": [],
   "PotentialDetail": {},

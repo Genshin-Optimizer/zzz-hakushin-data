@@ -2136,8 +2136,9 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1441_1",
-    "StrategyGuide_Overview_1441_2"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Fire>Fire, HP-consuming on-field DMG dealer",
+    "Consumes HP to deal Fire DMG"
   ],
   "Potential": [],
   "PotentialDetail": {}

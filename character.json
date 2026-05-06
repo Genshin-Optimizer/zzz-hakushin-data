@@ -67,7 +67,7 @@
     },
     "desc": "Database search: Nicole. Returned results:\n\"Boss of the odd-job agency, the Cunning Hares,\" \"Streetwise,\" \"Orphan, parents unknown.\"\nNicole's agency was originally called Gentle House, but due to her reputation of being cunning, it gained the nickname the Cunning Hares.\n\"She's really into money! I don't know what she's doing with it all though, seems like she's doing nothing.\"\n— The above is a quote from a popular post on Inter-Knot: \"Her odd-job agency is outrageous. I've never encountered a boss who knows how to turn everything into profit!\"\nThe individual involved responded, \"This, this is a false accusation! I, Nicole, have never been skilled at making money — mainly because I don't have any money to begin with!\"\nAccording to reliable sources, the Cunning Hares are constantly in debt, and their \"careful budgeting\" seems to have no effect on the organization.",
     "KO": "니콜",
-    "CHS": "妮���",
+    "CHS": "妮可",
     "JA": "ニコ"
   },
   "1041": {
@@ -111,7 +111,7 @@
     },
     "desc": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. As a gifted writer of bizarre tales, Yidhari should be more prone than most to immersing herself in the worlds of her own imagination.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
     "KO": "이드하리",
-    "CHS": "伊德���莉",
+    "CHS": "伊德海莉",
     "JA": "イドリー"
   },
   "1061": {
@@ -196,6 +196,11 @@
         "Name": "Hoshimi Miyabi: Frostgleam Dew",
         "Desc": "A blade that fells the Hollows, a lighthouse that pierces the fog. People hope for a fighter who hones the world and a helmsman who steers the course; for flags that never fall and honor that lives on. Yet power is finite. Only training remains constant.",
         "Image": "IconRole13"
+      },
+      "3110911": {
+        "Name": "Hoshimi Miyabi: Dignified Blossom",
+        "Desc": "As blooms first grace the banquet hall and frost dusts the silver courtyard, the young lady would retreat to a quiet corner whenever guests gathered — eyes downcast, book in hand, softly reciting verses from days long past.\nGuests would shower them with praise: the Hoshimi Family still upheld tradition, dignified and cultured as ever.\nOnly Souichirou stood nearby, his eye twitching slightly — he knew better than anyone that his daughter probably didn't grasp half the poem's true meaning.",
+        "Image": "IconRole13_01"
       }
     },
     "desc": "Hoshimi Miyabi, the Chief of Hollow Special Operations Section 6.\nMiyabi goes on a lot of field missions and still doesn't know which floor the regular monthly meeting is on.\nEven if you see Miyabi in the office, it's unlikely she's dealing with paperwork, and more likely polishing her sword.\n\nBeing conferred the title of Void Hunter due to her outstanding contributions, she's an elite amongst elites in Section 6.\nShe has great prestige amongst the citizens.\nOnce, Miyabi accidentally wandered into a \"Miyabi Fan Club\" hosted offline event.\nMiyabi was thought to be a fan with godlike impersonation skills, and that event resulted in a precious visual recording.\n\nHoshimi Miyabi is honest and pragmatic. She is not simply a martial artist obsessed with her art and without care for the world around her.\nAnyone who knows her will realize she's always pursued justice in her heart... even if it may eventually cause a revolution.",
@@ -651,7 +656,7 @@
     "desc": "Orphie Magnusson serves in the New Eridu Defense Force's Obsidian Division, Obol Squad. She is the wielder of Magus, an Intelligent Construct in gun form.\n\nMagus is the captain of Obol Squad. She was gravely injured during the fall of the old capital and on the brink of death. After taking part in a military research project, her consciousness was transferred into a weapon, allowing her to survive as an Intelligent Construct. Since the squad's formation, she has remained its heart and soul — hot-tempered and impulsive at times, yet deeply respected and trusted by her comrades.\nOrphie shares an extraordinary bond with Magus — one that goes far beyond that of just \"partners.\" The two have known each other for years, and Magus often acts like a mother, offering guidance and care. In return, Orphie does everything she can to meet Magus' expectations, aspiring to become a strong, independent soldier like her captain.\n\nStrictly speaking, Orphie enjoys many things Magus disapproves of: fancy desserts, cute animals, and overly decorative toys. Her captain sees them as signs of softness, unfit for a soldier. Still, while Magus enforces discipline in public and imposes the expectations of a perfect soldier, she pretends to be in \"sleep mode\" just to turn a blind eye to Orphie's less-than-perfect behavior. According to this supposedly \"strict and impartial\" captain, she's simply following the parenting advice laid out in an online series titled \"Raising a Child Prodigy.\"",
     "KO": "오피&「도깨비불」",
     "CHS": "奥菲丝&「鬼火」",
-    "JA": "オルペウス＆「鬼火」"
+    "JA": "オルペウス&「鬼火」"
   },
   "1311": {
     "code": "Astra",
@@ -1193,5 +1198,49 @@
     "KO": "시시아",
     "CHS": "希希芙",
     "JA": "シーシィア"
+  },
+  "1531": {
+    "code": "Starlight - Billy",
+    "rank": 4,
+    "type": 6,
+    "element": 200,
+    "hit": 101,
+    "camp": 1,
+    "icon": "IconRole62",
+    "potential": [],
+    "EN": "Starlight - Billy",
+    "skin": {
+      "3115310": {
+        "Name": "Starlight - Billy: Starlight Armaments",
+        "Desc": "Those who always believe in hope will, in the end, become someone else's hope.",
+        "Image": "IconRole62"
+      }
+    },
+    "desc": "",
+    "KO": "스타라이트·빌리",
+    "CHS": "星徽·比利",
+    "JA": "スターライト･ビリー"
+  },
+  "1541": {
+    "code": "Promeia",
+    "rank": 4,
+    "type": 3,
+    "element": 202,
+    "hit": 101,
+    "camp": 12,
+    "icon": "IconRole61",
+    "potential": [],
+    "EN": "Promeia",
+    "skin": {
+      "3115410": {
+        "Name": "Promeia: Shrouded in Frost",
+        "Desc": "Darkness is a weapon that fits perfectly in my hand. As an executioner, I'm already at home in the night, but carrying heavy shackles, it's easy to lose my way.",
+        "Image": "IconRole61"
+      }
+    },
+    "desc": "Promeia, a Judge of the Krampus Compliance Authority, is primarily responsible for carrying out \"executions.\"\n\nUnlike the other Judges in Krampus, each with their own strong personalities, Promeia feels more like an iceberg lurking beneath the surface. Quiet and reserved, she seems to have no personal interests or hobbies.\n\nFor the majority within the TOPS Alliance, avoiding any involvement with her is a given. If their misdeeds are exposed and they end up under Krampus scrutiny, the first thing those anxious rulebreakers pray for is that Promeia won't be handling their case.\n\nThere's a rumor that circulates quietly within the company, but no one dares talk about it openly. Before joining the Krampus Compliance Authority, Promeia came from the infamous Sweepers, an Outer Ring group that served Calydon and specialized in eliminating \"unstable elements.\"",
+    "KO": "프로미아",
+    "CHS": "普罗米娅",
+    "JA": "プロメイア"
   }
 }

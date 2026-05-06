@@ -2368,9 +2368,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1191_1",
-    "StrategyGuide_Overview_1191_2",
-    "StrategyGuide_Overview_1191_3"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Ice>Ice, on-field DMG dealer",
+    "Stacks Flash Freeze Charges to deal burst DMG",
+    "Moves around the battlefield flexibly"
   ],
   "Potential": [119100, 119101, 119102, 119103, 119104, 119105],
   "PotentialDetail": {

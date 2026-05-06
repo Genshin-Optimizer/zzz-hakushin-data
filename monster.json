@@ -260,7 +260,7 @@
     "EN": "Raven UAV",
     "desc": "Unknown",
     "KO": "레이븐 드론",
-    "CHS": "渡鸦无人机",
+    "CHS": "渡鸦无��机",
     "JA": "レイヴンドローン"
   },
   "10023": {
@@ -487,7 +487,7 @@
     "group": 204,
     "EN": "Autonomous Support Unit - Sweeper",
     "desc": "An automatic combat mech utilized by Public Security. It possesses various combat modes tailored to various Ethereals types. Its weapons include circular chainsaws and fusion heat rays.\nSweepers can swiftly identify target Ethereals and adapt to the most effective combat strategy.\nHowever, their reliability diminishes to some extent when faced with Hollow Raiders who possess greater versatility than Ethereals.\n\"Stirring, chopping, heating... I wonder who came up with this? Maybe some undercover agent from a kitchenware company trying to boost sales?\"",
-    "KO": "자율 보조 유닛·「스위퍼」",
+    "KO": "���율 보조 유닛·「스위퍼」",
     "CHS": "自律辅助单位·「清扫者」",
     "JA": "自律補助ユニット・「スイーパー」"
   },
@@ -1326,10 +1326,22 @@
     "rarity": 3,
     "group": 203,
     "EN": "Miasmic - Rampant Brute",
-    "desc": "A fallen creation, reshaped in the depths of impure darkness.\nThe \"Rampant Brute,\" once a symbol of absolute violence, has become a prisoner to the Miasma. Its mechanical armor has nearly fused with flesh, consciousness completely shattered, leaving only raw destructive instinct to lash out and crush everything it encounters within the Hollows.\nThanks to the street workout culture it once worshipped in life, fragments of muscle memory still carry out warped \"training routines,\" but every application of force tears apart its own structure, destroying any trace of strength’s beauty.\n\"Boss? What're you doing?! Boss!\"\n\"The fighting moves you taught, the workout techniques — this ain't it... You're not my boss. I won't accept this!\"",
+    "desc": "A fallen creation, reshaped in the depths of impure darkness.\nThe \"Rampant Brute,\" once a symbol of absolute violence, has become a prisoner to the Miasma. Its mechanical armor has nearly fused with flesh, consciousness completely shattered, leaving only raw destructive instinct to lash out and crush everything it encounters within the Hollows.\nThanks to the street workout culture it once worshipped in life, fragments of muscle memory still carry out warped \"training routines,\" but every application of force tears apart its own structure, destroying any trace of strength's beauty.\n\"Boss? What're you doing?! Boss!\"\n\"The fighting moves you taught, the workout techniques — this ain't it... You're not my boss. I won't accept this!\"",
     "KO": "미아즈믹·횡포자",
     "CHS": "秽蚀·蛮横力士",
     "JA": "ミアズミック・剛力横暴者"
+  },
+  "30046": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_PorcelumeTerrorBird.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 3,
+    "group": 290,
+    "EN": "The Decider - Terror Raptor",
+    "desc": "Modified from the military Autonomous Support Unit \"Terror Raptor,\" the \"anti-Void Hunter mech\" is a highly classified weapon painstakingly developed by Rusty Cliff Corp.\nIts original military identifier has long been erased, as if it were never meant to leave behind any tracks to retrace from the very beginning.\nClaimed to be capable of countering Void Hunter-Rank fighters, the mech is still in its prototype phase, and its actual combat capabilities fall far short of its terrifying name. However, both its ammunition power and armor specs break through conventional military thresholds. Without a doubt, this steel behemoth possesses unparalleled killing efficiency, a testament to the \"relentless efforts\" TOPS has made to breach the city administration's long-standing military control.\n\"The 'anti-Void Hunter mech'... A rarely worthy opponent indeed. But sorry! As always, the passing-by knight has once again saved New Eridu.\"\n\"Billy, hurry up! We're leaving!\"\n\"So soon?! Wait a sec! I still have a few more lines... Ugh, never mind, wait for me!\"",
+    "KO": "명 받은 자·「테러 랩터」",
+    "CHS": "遴命者·「骇鸟」",
+    "JA": "テラー・ラプトル・「エグゼキューター」"
   },
   "35001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Nineveh.png",
@@ -1374,7 +1386,7 @@
     "rarity": 4,
     "group": 290,
     "EN": "Discordant Solo - Vesper",
-    "desc": "New Eridu never hesitates to spotlight rising stars, nor does it stop consuming legends born and burnt out in a flash. In TOPS Entertainment's dazzling blueprint, the perfect \"new star\" is always described this way: a songstress who is flawlessly precise, absolutely controllable, and capable of carrying any artistic vision, defining the idol standard of a new era.\nAnd Vesper, model \"V-DTX,\" stands among their most closely cultivated test cases.\nShe was given the most advanced vocal module, the most sophisticated emotion simulation system, and... a crystal-clear Core inscribed with \"love for the stage.\" With every curtain call and in every pause between her lyrics, she could feel it again and again — her own heart, pure as crystal.\nAnd yet she slipped into an obsession: no matter how much of herself she gave, she and her voice were nothing but instruments on a stage, just numbers in a producer’s ledger.\nEven the most perfect performances and the hottest applause were only footnotes for someone else’s story, never the fire that truly burned inside her.\nHer voice began to pick up faint distortions, and her \"heart\" was no longer pure, collapsing into a shattered, pitiful void. The stage she once cherished above all else became a beautiful, merciless cage.\n\"The stage really is beautiful, isn't it? Even though you only want to hear the echoes you designed...\"\n\"But that's okay. I'll sing for you.\"\n\"In my own way, I'll bring this false performance to its final rest.\"",
+    "desc": "New Eridu never hesitates to spotlight rising stars, nor does it stop consuming legends born and burnt out in a flash. In TOPS Entertainment's dazzling blueprint, the perfect \"new star\" is always described this way: a songstress who is flawlessly precise, absolutely controllable, and capable of carrying any artistic vision, defining the idol standard of a new era.\nAnd Vesper, model \"V-DTX,\" stands among their most closely cultivated test cases.\nShe was given the most advanced vocal module, the most sophisticated emotion simulation system, and... a crystal-clear Core inscribed with \"love for the stage.\" With every curtain call and in every pause between her lyrics, she could feel it again and again — her own heart, pure as crystal.\nAnd yet she slipped into an obsession: no matter how much of herself she gave, she and her voice were nothing but instruments on a stage, just numbers in a producer's ledger.\nEven the most perfect performances and the hottest applause were only footnotes for someone else's story, never the fire that truly burned inside her.\nHer voice began to pick up faint distortions, and her \"heart\" was no longer pure, collapsing into a shattered, pitiful void. The stage she once cherished above all else became a beautiful, merciless cage.\n\"The stage really is beautiful, isn't it? Even though you only want to hear the echoes you designed...\"\n\"But that's okay. I'll sing for you.\"\n\"In my own way, I'll bring this false performance to its final rest.\"",
     "KO": "고독한 불협의 노래·베스퍼",
     "CHS": "叛律孤歌·薇斯珀",
     "JA": "プリマ・イコノクラスト・ヴェスポ"
@@ -1386,10 +1398,46 @@
     "rarity": 4,
     "group": 202,
     "EN": "Sanguine Sweeper",
-    "desc": "Psychological evaluation: abnormal, irreparable—no matter how low he bowed his head, no matter how many tears he shed, nothing could change the outcome written in his death sentence.\nThen the Old Capital fell. Hollows consumed the city, trampling order underfoot. Rules fell silent, good and evil reversed, and in the chaos, he broke out, abandoning both name and identity. Standing at the heart of that blood-red dawn, he shouted loud and clear—\"Praise the Hollows!\"\nHollows don't just create monsters—they also unleash certain terrors, no longer bound, no longer forced to hide. He thought he'd gotten away clean, but New Eridu had no love for nameless butchers either.\nHe drifted to the Outer Ring, hired out as a sweeper by gangs across the board, reveling in his notoriety. He savored the rush of holding lives in his hands, drunk on the split-second agony of flesh and blood. So he took the dirtiest gigs he could find, even threw himself into gang warfare, sipping the rust-sweet taste of blood.\nSadistic cravings know no limit. Being a sweeper could never fill that void.\nSo he jumped at TOPS' contract without a second thought—granted the privilege to \"clean up\" humans. Never records names, never keeps memories. For him, only bloodstains are real. Everything else? Irrelevant.\n\"Guy's dead silent when he takes a job, but always comes back smiling when it's time to collect.\" \"That ain't no job-well-done smile, that's a still-hungry smile.\"",
+    "desc": "Psychological evaluation: abnormal, irreparable—no matter how low he bowed his head, no matter how many tears he shed, nothing could change the outcome written in his death sentence.\nThen came the Hollow disaster that swallowed the prison. He broke out, abandoning both name and identity. Standing at the heart of that blood-red dawn, he shouted loud and clear—\"Praise the Hollows!\"\nHollows don't just create monsters—they also unleash certain terrors, no longer bound, no longer forced to hide. He thought he'd gotten away clean, but New Eridu had no love for nameless butchers either.\nHe drifted to the Outer Ring, hired out as a sweeper by gangs across the board, reveling in his notoriety. He savored the rush of holding lives in his hands, drunk on the split-second agony of flesh and blood. So he took the dirtiest gigs he could find, even threw himself into gang warfare, sipping the rust-sweet taste of blood.\nSadistic cravings know no limit. Being a sweeper could never fill that void.\nSo he jumped at TOPS' contract without a second thought—granted the privilege to \"clean up\" humans. Never records names, never keeps memories. For him, only bloodstains are real. Everything else? Irrelevant.\n\"Guy's dead silent when he takes a job, but always comes back smiling when it's time to collect.\" \"That ain't no job-well-done smile, that's a still-hungry smile.\"",
     "KO": "피의 청소부",
     "CHS": "猎血清道夫",
     "JA": "血狩りの掃除屋"
+  },
+  "40003": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_ClonedBlackWolf.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 4,
+    "group": 202,
+    "EN": "Rewritten - Sanguine Sweeper",
+    "desc": "A combat machine produced by Rusty Cliff Corp., modeled after Romeul's appearance and training data.\nEven as a mass-produced model, its individual combat capabilities are in no way inferior to the original. When fighting in groups, their ferocious attack style resembles a wolf pack encircling prey, leaving opponents completely overwhelmed.\nAfter they were hastily deployed to the Outer Ring by TOPS, Youkai briefly seized control of them, attempting to use this steel wolf pack to stop the group from seeking Ramiel.\n\n\"Tch, useless junk. Let me see where I shall find my next toy...\"",
+    "KO": "레플리카·피의 청소부",
+    "CHS": "复写体·猎血清道夫",
+    "JA": "レプリカ・血狩りの掃除屋"
+  },
+  "40004": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Pure.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 4,
+    "group": 290,
+    "EN": "Phaethon of the Scorched Horizon",
+    "desc": "Light descends before the agony.\nUncontrollable Ether erupts like a solar corona. The silhouette of what was once \"human\" is burned, disintegrated, and reshaped into an aberration resembling an Ethereal. Crystalline lenses tremble deep within their vision, spilling excess radiance — too bright, too close, as if someone had embedded the blazing sun into their eye sockets.\nConsciousness wears thin amidst the burning.\nThe swing ends — like a reflex, like a habit, lacking even the concept of a target. There is only a suffocatingly familiar blankness, as if long ago, they had also lost their voice and weight like this, watching everything plummet amidst the light and heat. Those buried fragments surge upward along the residual flames: the cold glare of the lab table, the sudden uncontrollable force, the faces drained of life... The memories are sickeningly vivid, leaving indelible scorch marks on the mind.\n...Who is calling out?\nThat voice pierces the roar of blood rushing in the ears, briefly striking a faded name and granting their consciousness a momentary respite. Before their sanity is completely incinerated, a choice must be made — don't bring about another disaster. Go away. Leave... leave...\n...Where to? With whom? To do what?\n......\n...Ah, I think we did make a deal like that...\n...\"We shall catch the 'sun'.\"\n\n\"To think your original sin would lead me to new heights over a decade later... How ironic, you legacy of 'Helios'.\"",
+    "KO": "태양의 잔불·파에톤",
+    "CHS": "焚昼余火·法厄同",
+    "JA": "焦天残火・パエトーン"
+  },
+  "40005": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Mutant.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 4,
+    "group": 290,
+    "EN": "Phaethon of the Scorched Horizon",
+    "desc": "Light descends before the agony.\nUncontrollable Ether erupts like a solar corona. The silhouette of what was once \"human\" is burned, disintegrated, and reshaped into an aberration resembling an Ethereal. Crystalline lenses tremble deep within their vision, spilling excess radiance — too bright, too close, as if someone had embedded the blazing sun into their eye sockets.\nConsciousness wears thin amidst the burning.\nThe swing ends — like a reflex, like a habit, lacking even the concept of a target. There is only a suffocatingly familiar blankness, as if long ago, they had also lost their voice and weight like this, watching everything plummet amidst the light and heat. Those buried fragments surge upward along the residual flames: the cold glare of the lab table, the sudden uncontrollable force, the faces drained of life... The memories are sickeningly vivid, leaving indelible scorch marks on the mind.\n...Who is calling out?\nThat voice pierces the roar of blood rushing in the ears, briefly striking a faded name and granting their consciousness a momentary respite. Before their sanity is completely incinerated, a choice must be made — don't bring about another disaster. Go away. Leave... leave...\n...Where to? With whom? To do what?\n......\n...Ah, I think we did make a deal like that...\n...\"We shall catch the 'sun'.\"\n\n\"To think your original sin would lead me to new heights over a decade later... How ironic, you legacy of 'Helios'.\"",
+    "KO": "태양의 잔불·파에톤",
+    "CHS": "焚昼余火·法厄同",
+    "JA": "焦天残火・パエトーン"
   },
   "100001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGreyPro.png",
@@ -1400,7 +1448,7 @@
     "EN": "Tyrfing - Energized",
     "desc": "The Hollow Investigative Association has been studying Tyrfing's behavioral patterns, and research results show that its seemingly unbalanced stance of swaying and skewing is, in fact, a highly efficient stance for launching successive slashing attacks.\nDue to its frequent appearances and aggressive behavior, Tyrfing has been identified as one of the most deadly Ethereals in the Hollow, particularly for certain Hollow personnel.\nWhen faced with a shielded enemy, it relentlessly launches attacks until either its enemy or itself is destroyed.\n\"Perhaps... they don't actually hate us, but just think of us as punching bags for practice?\"",
     "KO": "티르빙·에너지형",
-    "CHS": "提尔锋·蓄���型",
+    "CHS": "提尔锋·蓄能型",
     "JA": "ティルヴィング・蓄エネ型"
   },
   "100002": {
@@ -1832,7 +1880,7 @@
     "EN": "Greedy Ranger",
     "desc": "This humanoid intelligent being is a result of potent Ether matter corruption in the Hollow, exhibiting both humanoid traits and remnants of its former clothing and combat style. It is likely that it was once a gang member or raider living in the Hollow.\nThe creature's physical characteristics indicate its past as a long-range weapon specialist. Despite losing its free will and life due to Etherealization, it retains its instincts and habits for long-range combat. Its corrupted form enables it to launch projectiles, attacking enemies from a distance. The Ether corruption has enhanced its shooting abilities and projectile firepower. (For example, these creatures may fire sharp Ether Crystals or mixed explosives.)\n\"I told him not to touch that crystal, but he wouldn't listen! That reckless idiot never listens! By the time we were about to leave the Hollow, he... he changed...\"",
     "KO": "탐욕스러운 총잡이",
-    "CHS": "���婪射手",
+    "CHS": "贪婪射手",
     "JA": "強欲射手"
   },
   "100291": {
@@ -1869,7 +1917,7 @@
     "desc": "The Hollows of the Outer Ring are home to a variety of bizarre Ethereals, and Sordidus is a prime example.\nThey possess a unique body structure, with highly flexible limbs that seem to be the result of an unknown reaction between crude oil and active Ether.\nOnce they lock onto a target, they use their limbs like expert acrobats, launching aggressive and brutal attacks.\n\"Damn it... That thing actually whipped me!\"\n\"Does it see itself as a tamer, treating us like wild beasts?\"",
     "KO": "소르디두스·에너지형",
     "CHS": "索迪代斯·蓄能型",
-    "JA": "ソルデドゥス・蓄エ���型"
+    "JA": "ソルデドゥス・蓄エネ型"
   },
   "200001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GiantGreyPro.png",
@@ -2661,7 +2709,7 @@
     "desc": "A fallen creation, reforged in the depths of filth and gloom.\nEven among Ionized enemies known for their strange and uncanny qualities, Ionized Doppelgangers stand out as particularly exceptional.\nThese creatures cloak themselves in a special layer of active Ether ions, allowing them to precisely mimic the appearance of their targets — sometimes so accurately it's nearly impossible to tell the difference. From details to texture, they're masters at blurring the line between real and false.\nWhat makes them even more dangerous is their ability to replicate their targets' powerful combat techniques.\nNo one knows how they acquire such detailed intel of their targets. Some say they can read minds, pulling the perfect nightmare from their opponent's memory and taking that shape before launching their attack.\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
     "KO": "도플갱어·「변절자」",
     "CHS": "多佩冈亚·「变节者」",
-    "JA": "ドッペルゲンガー・「��信者」"
+    "JA": "ドッペルゲンガー・「背信者」"
   },
   "300372": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_MiasmaIsoldeSlime.png",

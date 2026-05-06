@@ -57,7 +57,7 @@
     "desc": "There's a dark past hidden under that bag...",
     "KO": "봉투부",
     "CHS": "纸袋布",
-    "JA": "フクロノボンプ"
+    "JA": "フクロノ��ンプ"
   },
   "53007": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole02.png",
@@ -177,7 +177,17 @@
     "desc": "Don't step on the blocks barefoot.",
     "KO": "블록부",
     "CHS": "乐玩布",
-    "JA": "ブロックボンプ"
+    "JA": "���ロックボンプ"
+  },
+  "53021": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole45.png",
+    "rank": 3,
+    "codename": "Booltergeist",
+    "EN": "Booltergeist",
+    "desc": "Trick or play!",
+    "KO": "유령부",
+    "CHS": "幽浮布",
+    "JA": "ユウレイボンプ"
   },
   "54001": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole07.png",
@@ -336,7 +346,7 @@
     "EN": "Belion",
     "desc": "The true essence of martial arts is the lightness and purity of heart.",
     "KO": "사야",
-    "CHS": "狮耶",
+    "CHS": "狮��",
     "JA": "オシシ"
   },
   "54018": {

@@ -1820,9 +1820,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1301_1",
-    "StrategyGuide_Overview_1301_2",
-    "StrategyGuide_Overview_1301_3"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Fire>Fire, off-field follow-up attack triggerer",
+    "Fully automated off-field DMG output",
+    "Provides ATK boost for all squad members"
   ],
   "Potential": [],
   "PotentialDetail": {},

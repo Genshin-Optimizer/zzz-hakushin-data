@@ -1762,8 +1762,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1361_1",
-    "StrategyGuide_Overview_1361_2"
+    "07",
+    "<IconMap:Icon_GeneralBuff_Thunder>Electric, off-field Stun triggerer",
+    "Increases Stun DMG Multiplier",
+    "High-Frequency synergy-based follow-up attacks"
   ],
   "Potential": [],
   "PotentialDetail": {},

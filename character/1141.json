@@ -2208,9 +2208,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1141_1",
-    "StrategyGuide_Overview_1141_2",
-    "StrategyGuide_Overview_1141_3"
+    "07",
+    "<IconMap:Icon_GeneralBuff_Ice>Ice, Stun support",
+    "Rapidly builds up Daze on enemies",
+    "Reduces enemy Ice RES"
   ],
   "Potential": [114100, 114101, 114102, 114103, 114104, 114105],
   "PotentialDetail": {

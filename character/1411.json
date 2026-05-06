@@ -1876,9 +1876,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1411_1",
-    "StrategyGuide_Overview_1411_2",
-    "StrategyGuide_Overview_1411_3"
+    "04",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>Physical, off-field support",
+    "All-around boosts to Anomaly team rotation and DMG",
+    "Increases squadmates' Anomaly Buildup Rate"
   ],
   "Potential": [],
   "PotentialDetail": {},

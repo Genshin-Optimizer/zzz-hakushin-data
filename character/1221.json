@@ -1784,9 +1784,10 @@
     }
   },
   "Strategy": [
-    "StrategyGuide_Overview_1221_1",
-    "StrategyGuide_Overview_1221_2",
-    "StrategyGuide_Overview_1221_3"
+    "03",
+    "<IconMap:Icon_GeneralBuff_Thunder>Electric, on-field Anomaly DMG dealer",
+    "Switches Stances to gain combat buffs",
+    "Triggers Polarity Disorder to deal bonus DMG"
   ],
   "Potential": [],
   "PotentialDetail": {},
