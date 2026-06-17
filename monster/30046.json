@@ -6,7 +6,7 @@
       "Id": 31471,
       "CodeName": "Monster_PorcelumeTerrorBird",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_PorcelumeTerrorBird.png",
-      "Tag": ["Mech", "Large", "Boss", "Porcelume"],
+      "Tag": ["Mech", "Large", "Boss", "Porcelume", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,10 +130,10 @@
       "Id": 31472,
       "CodeName": "Monster_PorcelumeTerrorBird",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_PorcelumeTerrorBird.png",
-      "Tag": ["Mech", "Large", "Boss", "Porcelume"],
+      "Tag": ["Mech", "Large", "Boss", "Porcelume", ""],
       "Type": "Monster",
       "Element": {
-        "Ice": 0,
+        "Ice": 1,
         "Fire": 0,
         "Electric": 0,
         "Ether": 0,

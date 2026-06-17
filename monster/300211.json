@@ -11,7 +11,8 @@
         "MainStoryBoss",
         "Middle",
         "UniqueDeathEff",
-        "DeathEffMiddle"
+        "DeathEffMiddle",
+        ""
       ],
       "Type": "Monster",
       "Element": {

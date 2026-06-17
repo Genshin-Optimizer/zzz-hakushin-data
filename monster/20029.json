@@ -6,7 +6,7 @@
       "Id": 31251,
       "CodeName": "Monster_SecurityUnitPatroller",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Small", "SecurityUnit"],
+      "Tag": ["Mech", "Demote", "Small", "SecurityUnit", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 31252,
       "CodeName": "Monster_SecurityUnitPatroller",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Small", "SecurityUnit"],
+      "Tag": ["Mech", "Promote", "Small", "SecurityUnit", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

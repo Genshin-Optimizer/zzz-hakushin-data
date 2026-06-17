@@ -6,7 +6,7 @@
       "Id": 11157,
       "CodeName": "Monster_DurahanRed",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Red"],
+      "Tag": ["Ether", "Demote", "Middle", "Red", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11158,
       "CodeName": "Monster_DurahanRed",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Red"],
+      "Tag": ["Ether", "Promote", "Middle", "Red", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

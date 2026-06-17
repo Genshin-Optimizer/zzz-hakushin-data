@@ -6,7 +6,7 @@
       "Id": 11521,
       "CodeName": "Monster_RuthlessFiend",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Large"],
+      "Tag": ["Ether", "Demote", "Large", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11522,
       "CodeName": "Monster_RuthlessFiend",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Large"],
+      "Tag": ["Ether", "Promote", "Large", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

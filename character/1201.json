@@ -2042,9 +2042,9 @@
     }
   },
   "FairyRecommend": {
-    "Slot4": 32900,
-    "Slot2": 31400,
-    "SlotSub": 31000,
+    "Slot4": 32400,
+    "Slot2": 31000,
+    "SlotSub": 32900,
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

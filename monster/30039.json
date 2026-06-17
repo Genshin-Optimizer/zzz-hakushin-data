@@ -6,7 +6,7 @@
       "Id": 31191,
       "CodeName": "Monster_Hayyot",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Hayyot.png",
-      "Tag": ["Ether", "Middle", "Boss", "EtherBarrierBoss", "Miasma"],
+      "Tag": ["Ether", "Middle", "Boss", "EtherBarrierBoss", "Miasma", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -136,7 +136,8 @@
         "Boss",
         "EtherBarrierBoss",
         "HighEtherBarrier",
-        "Miasma"
+        "Miasma",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -270,7 +271,8 @@
         "DisableAI",
         "HayyotSummon",
         "NotCounting",
-        "Summon"
+        "Summon",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -402,7 +404,8 @@
         "EtherBarrierBoss",
         "HighEtherBarrier",
         "Miasma",
-        "Coop"
+        "Coop",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -535,7 +538,8 @@
         "HighEtherBarrier",
         "Miasma",
         "Coop",
-        "HardMode"
+        "HardMode",
+        ""
       ],
       "Type": "Monster",
       "Element": {

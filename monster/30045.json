@@ -6,7 +6,15 @@
       "Id": 31421,
       "CodeName": "Monster_MiasmaDubiousHero",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_MiasmaDubiousHero.png",
-      "Tag": ["Bios", "Middle", "Boss", "Miasma", "EtherBarrierBoss", "Demote"],
+      "Tag": [
+        "Bios",
+        "Middle",
+        "Boss",
+        "Miasma",
+        "EtherBarrierBoss",
+        "Demote",
+        ""
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -137,7 +145,8 @@
         "Miasma",
         "EtherBarrierBoss",
         "Promote",
-        "HighEtherBarrier"
+        "HighEtherBarrier",
+        ""
       ],
       "Type": "Monster",
       "Element": {

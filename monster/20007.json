@@ -6,7 +6,7 @@
       "Id": 11454,
       "CodeName": "Monster_HeavyStrikerCam",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Middle", "Cam"],
+      "Tag": ["Mech", "Demote", "Middle", "Cam", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11455,
       "CodeName": "Monster_HeavyStrikerCam",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Middle", "Cam"],
+      "Tag": ["Mech", "Promote", "Middle", "Cam", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

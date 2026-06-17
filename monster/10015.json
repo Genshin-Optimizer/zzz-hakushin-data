@@ -6,7 +6,7 @@
       "Id": 11343,
       "CodeName": "Monster_ThugRaiderVest",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Vest"],
+      "Tag": ["Bios", "Demote", "Small", "Vest", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11344,
       "CodeName": "Monster_ThugRaiderVest",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Vest"],
+      "Tag": ["Bios", "Promote", "Small", "Vest", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

@@ -6,7 +6,15 @@
       "Id": 21219,
       "CodeName": "Monster_SecurityUnitSoldier_MeleeSoldier_MusicActivity",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Melee", "Soldier", "SecurityUnit"],
+      "Tag": [
+        "Bios",
+        "Demote",
+        "Small",
+        "Melee",
+        "Soldier",
+        "SecurityUnit",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +138,15 @@
       "Id": 31221,
       "CodeName": "Monster_SecurityUnitSoldier_MeleeSoldier",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Melee", "Soldier", "SecurityUnit"],
+      "Tag": [
+        "Bios",
+        "Demote",
+        "Small",
+        "Melee",
+        "Soldier",
+        "SecurityUnit",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +270,15 @@
       "Id": 31222,
       "CodeName": "Monster_SecurityUnitSoldier_MeleeSoldier",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Melee", "Soldier", "SecurityUnit"],
+      "Tag": [
+        "Bios",
+        "Promote",
+        "Small",
+        "Melee",
+        "Soldier",
+        "SecurityUnit",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -378,7 +402,15 @@
       "Id": 31231,
       "CodeName": "Monster_SecurityUnitSoldier_HeavySoldier",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Heavy", "Soldier", "SecurityUnit"],
+      "Tag": [
+        "Bios",
+        "Demote",
+        "Small",
+        "Heavy",
+        "Soldier",
+        "SecurityUnit",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -502,7 +534,15 @@
       "Id": 31232,
       "CodeName": "Monster_SecurityUnitSoldier_HeavySoldier",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Heavy", "Soldier", "SecurityUnit"],
+      "Tag": [
+        "Bios",
+        "Promote",
+        "Small",
+        "Heavy",
+        "Soldier",
+        "SecurityUnit",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -12,7 +12,8 @@
         "Large",
         "Grey",
         "UniqueDeathEff",
-        "DeathEffMiddle"
+        "DeathEffMiddle",
+        ""
       ],
       "Type": "Monster",
       "Element": {

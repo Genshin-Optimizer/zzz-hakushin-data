@@ -6,7 +6,14 @@
       "Id": 31091,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type1", "Miasma"],
+      "Tag": [
+        "Bios",
+        "Demote",
+        "Small",
+        "HymnistWar_Type1",
+        "Miasma",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +137,14 @@
       "Id": 31092,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type2", "Miasma"],
+      "Tag": [
+        "Bios",
+        "Demote",
+        "Small",
+        "HymnistWar_Type2",
+        "Miasma",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +268,14 @@
       "Id": 31093,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type3", "Miasma"],
+      "Tag": [
+        "Bios",
+        "Demote",
+        "Small",
+        "HymnistWar_Type3",
+        "Miasma",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -378,7 +399,14 @@
       "Id": 31094,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "HymnistWar_Type4", "Miasma"],
+      "Tag": [
+        "Bios",
+        "Demote",
+        "Small",
+        "HymnistWar_Type4",
+        "Miasma",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -502,7 +530,14 @@
       "Id": 31095,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type1", "Miasma"],
+      "Tag": [
+        "Bios",
+        "Promote",
+        "Small",
+        "HymnistWar_Type1",
+        "Miasma",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -626,7 +661,14 @@
       "Id": 31096,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type2", "Miasma"],
+      "Tag": [
+        "Bios",
+        "Promote",
+        "Small",
+        "HymnistWar_Type2",
+        "Miasma",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -750,7 +792,14 @@
       "Id": 31097,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type3", "Miasma"],
+      "Tag": [
+        "Bios",
+        "Promote",
+        "Small",
+        "HymnistWar_Type3",
+        "Miasma",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -874,7 +923,14 @@
       "Id": 31098,
       "CodeName": "Monster_HymnistWar",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "HymnistWar_Type4", "Miasma"],
+      "Tag": [
+        "Bios",
+        "Promote",
+        "Small",
+        "HymnistWar_Type4",
+        "Miasma",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -6,7 +6,7 @@
       "Id": 11161,
       "CodeName": "Monster_StrikeJaeger",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Black"],
+      "Tag": ["Bios", "Demote", "Small", "Black", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11162,
       "CodeName": "Monster_StrikeJaeger",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Black"],
+      "Tag": ["Bios", "Promote", "Small", "Black", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

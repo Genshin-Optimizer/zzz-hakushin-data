@@ -6,7 +6,7 @@
       "Id": 11058,
       "CodeName": "Monster_GuardianCam",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Large", "Cam"],
+      "Tag": ["Mech", "Demote", "Large", "Cam", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11059,
       "CodeName": "Monster_GuardianCam",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Large", "Cam"],
+      "Tag": ["Mech", "Promote", "Large", "Cam", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

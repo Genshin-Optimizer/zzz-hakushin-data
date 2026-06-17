@@ -6,7 +6,7 @@
       "Id": 11441,
       "CodeName": "Monster_LightfootRover",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Middle"],
+      "Tag": ["Mech", "Demote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11442,
       "CodeName": "Monster_LightfootRover",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Middle"],
+      "Tag": ["Mech", "Promote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

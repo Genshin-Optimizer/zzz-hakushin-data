@@ -6,7 +6,7 @@
       "Id": 11351,
       "CodeName": "Monster_ThugBulkyEnforcer",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Middle"],
+      "Tag": ["Bios", "Demote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -130,7 +130,7 @@
       "Id": 11352,
       "CodeName": "Monster_ThugBulkyEnforcer",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Middle"],
+      "Tag": ["Bios", "Promote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

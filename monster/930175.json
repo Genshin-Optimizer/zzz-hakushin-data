@@ -13,7 +13,8 @@
         "Slime",
         "EtherBarrierBoss",
         "NoRBLBuff",
-        "Miasma"
+        "Miasma",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -146,7 +147,8 @@
         "EtherBarrierBoss",
         "NoRBLBuff",
         "HighEtherBarrier",
-        "Miasma"
+        "Miasma",
+        ""
       ],
       "Type": "Monster",
       "Element": {

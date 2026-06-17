@@ -6,7 +6,7 @@
       "Id": 11781,
       "CodeName": "Monster_Nassellaria",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small"],
+      "Tag": ["Ether", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11782,
       "CodeName": "Monster_Nassellaria",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small"],
+      "Tag": ["Ether", "Promote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -260,7 +260,8 @@
         "MainStoryBoss",
         "EtherBarrierBoss",
         "Miasma",
-        "Chasing"
+        "Chasing",
+        ""
       ],
       "Type": "Monster",
       "Element": {

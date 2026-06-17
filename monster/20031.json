@@ -6,7 +6,7 @@
       "Id": 31321,
       "CodeName": "Monster_MiasmaWickedWrath",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Miasma"],
+      "Tag": ["Ether", "Demote", "Middle", "Miasma", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 31322,
       "CodeName": "Monster_MiasmaWickedWrath",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Miasma"],
+      "Tag": ["Ether", "Promote", "Middle", "Miasma", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

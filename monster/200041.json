@@ -6,7 +6,7 @@
       "Id": 11723,
       "CodeName": "Monster_GoblinMetroRed",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "GoblinMetro", "Middle", "Red"],
+      "Tag": ["Ether", "Demote", "GoblinMetro", "Middle", "Red", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11724,
       "CodeName": "Monster_GoblinMetroRed",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "GoblinMetro", "Middle", "Red"],
+      "Tag": ["Ether", "Promote", "GoblinMetro", "Middle", "Red", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

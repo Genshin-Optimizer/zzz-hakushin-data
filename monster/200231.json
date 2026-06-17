@@ -6,7 +6,7 @@
       "Id": 11602,
       "CodeName": "Monster_MorsSlime",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Slime", "NoRBLBuff"],
+      "Tag": ["Ether", "Demote", "Small", "Slime", "NoRBLBuff", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -130,7 +130,7 @@
       "Id": 11603,
       "CodeName": "Monster_MorsSlime",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Slime", "NoRBLBuff"],
+      "Tag": ["Ether", "Promote", "Small", "Slime", "NoRBLBuff", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

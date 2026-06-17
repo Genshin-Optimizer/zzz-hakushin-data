@@ -6,7 +6,7 @@
       "Id": 11045,
       "CodeName": "Monster_RagingGuy",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Middle", "Thug"],
+      "Tag": ["Mech", "Promote", "Middle", "Thug", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11046,
       "CodeName": "Monster_RagingGuy",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Middle", "Thug"],
+      "Tag": ["Mech", "Demote", "Middle", "Thug", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

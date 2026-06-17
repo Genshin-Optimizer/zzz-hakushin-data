@@ -6,7 +6,7 @@
       "Id": 11103,
       "CodeName": "Monster_CyclopsGrey",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Grey"],
+      "Tag": ["Ether", "Demote", "Small", "Grey", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11104,
       "CodeName": "Monster_CyclopsGrey",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Grey"],
+      "Tag": ["Ether", "Promote", "Small", "Grey", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

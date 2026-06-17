@@ -1711,8 +1711,8 @@
   },
   "FairyRecommend": {
     "Slot4": 33100,
-    "Slot2": 32700,
-    "SlotSub": 31000,
+    "Slot2": 31000,
+    "SlotSub": 32700,
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",
@@ -1726,10 +1726,10 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
     },
     "Part6": {
-      "Prop": 11102,
-      "Name": "HP",
+      "Prop": 31503,
+      "Name": "Physical DMG Bonus",
       "Format": "{0:0.#%}",
-      "Icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+      "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconPhysDmg.png"
     },
     "PartSub": {
       "Prop": 11102,

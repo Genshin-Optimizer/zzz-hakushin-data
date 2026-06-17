@@ -6,7 +6,7 @@
       "Id": 31101,
       "CodeName": "Monster_MiasmaThracian",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_MiasmaThracian.png",
-      "Tag": ["Ether", "Middle", "Boss", "EtherBarrierBoss", "Miasma"],
+      "Tag": ["Ether", "Middle", "Boss", "EtherBarrierBoss", "Miasma", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -136,7 +136,8 @@
         "Boss",
         "EtherBarrierBoss",
         "HighEtherBarrier",
-        "Miasma"
+        "Miasma",
+        ""
       ],
       "Type": "Monster",
       "Element": {

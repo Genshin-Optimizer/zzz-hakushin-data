@@ -6,7 +6,14 @@
       "Id": 11295,
       "CodeName": "Monster_MandrakeRed",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Mandrake_DEF", "Red"],
+      "Tag": [
+        "Ether",
+        "Demote",
+        "Middle",
+        "Mandrake_DEF",
+        "Red",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +137,14 @@
       "Id": 11296,
       "CodeName": "Monster_MandrakeRed",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Mandrake_ATK", "Red"],
+      "Tag": [
+        "Ether",
+        "Demote",
+        "Middle",
+        "Mandrake_ATK",
+        "Red",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +268,14 @@
       "Id": 11297,
       "CodeName": "Monster_MandrakeRed",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Mandrake_DEF", "Red"],
+      "Tag": [
+        "Ether",
+        "Promote",
+        "Middle",
+        "Mandrake_DEF",
+        "Red",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -378,7 +399,14 @@
       "Id": 11298,
       "CodeName": "Monster_MandrakeRed",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Mandrake_ATK", "Red"],
+      "Tag": [
+        "Ether",
+        "Promote",
+        "Middle",
+        "Mandrake_ATK",
+        "Red",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

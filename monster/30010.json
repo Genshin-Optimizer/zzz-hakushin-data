@@ -6,7 +6,7 @@
       "Id": 11421,
       "CodeName": "Monster_LampasBlackVeil",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_LampasBlackVeil.png",
-      "Tag": ["Ether", "Middle", "MainStoryBoss"],
+      "Tag": ["Ether", "Middle", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 21227,
       "CodeName": "Monster_LampasBlackVeil_MusicActivity",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_LampasBlackVeil.png",
-      "Tag": ["Ether", "Middle", "MainStoryBoss", "Boss"],
+      "Tag": ["Ether", "Middle", "MainStoryBoss", "Boss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

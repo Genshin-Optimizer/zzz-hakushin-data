@@ -6,7 +6,7 @@
       "Id": 11801,
       "CodeName": "Monster_GraymaneCenturion",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_GraymaneCenturion.png",
-      "Tag": ["Bios", "Middle", "MainStoryBoss"],
+      "Tag": ["Bios", "Middle", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11802,
       "CodeName": "Monster_GraymaneCenturion",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_GraymaneCenturion.png",
-      "Tag": ["Bios", "Middle", "MainStoryBoss", "HighCorruptiveBarrier"],
+      "Tag": ["Bios", "Middle", "MainStoryBoss", "HighCorruptiveBarrier", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

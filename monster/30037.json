@@ -12,7 +12,8 @@
         "Boss",
         "NoRBLBuff",
         "EtherBarrierBoss",
-        "Miasma"
+        "Miasma",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -144,7 +145,8 @@
         "NoRBLBuff",
         "EtherBarrierBoss",
         "Miasma",
-        "IsoldeAlliedNPC"
+        "IsoldeAlliedNPC",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -275,7 +277,8 @@
         "Boss",
         "NoRBLBuff",
         "EtherBarrierBoss",
-        "Miasma"
+        "Miasma",
+        ""
       ],
       "Type": "Monster",
       "Element": {

@@ -6,7 +6,7 @@
       "Id": 11971,
       "CodeName": "Monster_TacticalAssaultGunner",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_TacticalAssaultGunner.png",
-      "Tag": ["Bios", "Middle", "Boss"],
+      "Tag": ["Bios", "Middle", "Boss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11972,
       "CodeName": "Monster_TacticalAssaultGunner",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_TacticalAssaultGunner.png",
-      "Tag": ["Bios", "Middle", "Boss", "Coop"],
+      "Tag": ["Bios", "Middle", "Boss", "Coop", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 11973,
       "CodeName": "Monster_TacticalAssaultGunner",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_TacticalAssaultGunner.png",
-      "Tag": ["Bios", "Middle", "Boss", "Coop", "HardMode"],
+      "Tag": ["Bios", "Middle", "Boss", "Coop", "HardMode", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

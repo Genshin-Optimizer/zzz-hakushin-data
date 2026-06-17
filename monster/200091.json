@@ -6,7 +6,7 @@
       "Id": 11261,
       "CodeName": "Monster_HeavyFirePower",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Middle", "Black"],
+      "Tag": ["Bios", "Demote", "Middle", "Black", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11262,
       "CodeName": "Monster_HeavyFirePower",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Middle", "Black"],
+      "Tag": ["Bios", "Promote", "Middle", "Black", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

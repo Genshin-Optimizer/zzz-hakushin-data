@@ -6,7 +6,7 @@
       "Id": 11361,
       "CodeName": "Monster_ThugBulkyAbuser",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Middle"],
+      "Tag": ["Bios", "Demote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -130,7 +130,7 @@
       "Id": 11362,
       "CodeName": "Monster_ThugBulkyAbuser",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Middle"],
+      "Tag": ["Bios", "Promote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -254,7 +254,7 @@
       "Id": 21226,
       "CodeName": "Monster_ThugBulkyAbuser_MusicActivity",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Middle"],
+      "Tag": ["Bios", "Demote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

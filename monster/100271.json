@@ -6,7 +6,7 @@
       "Id": 11481,
       "CodeName": "Monster_ViciousStriker",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small"],
+      "Tag": ["Ether", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11482,
       "CodeName": "Monster_ViciousStriker",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small"],
+      "Tag": ["Ether", "Promote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 21206,
       "CodeName": "Monster_ViciousStriker_MusicActivity",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small"],
+      "Tag": ["Ether", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -6,7 +6,7 @@
       "Id": 11571,
       "CodeName": "Monster_MazingerGoldenBomb",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_MazingerGoldenBomb.png",
-      "Tag": ["Mech", "Large", "Boss", "Gold"],
+      "Tag": ["Mech", "Large", "Boss", "Gold", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 21213,
       "CodeName": "Monster_Coop_FireBall",
       "Icon": "",
-      "Tag": ["Coop", "FireBall", "Summon"],
+      "Tag": ["Coop", "FireBall", "Summon", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -254,7 +254,7 @@
       "Id": 21216,
       "CodeName": "Monster_Coop_FireBall_Boss",
       "Icon": "",
-      "Tag": ["Coop", "FireBallBoss", "Summon"],
+      "Tag": ["Coop", "FireBallBoss", "Summon", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -378,7 +378,7 @@
       "Id": 21220,
       "CodeName": "Monster_Coop_FireBall_Tutorial",
       "Icon": "",
-      "Tag": ["Coop", "FireBallBoss", "Summon"],
+      "Tag": ["Coop", "FireBallBoss", "Summon", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -502,7 +502,7 @@
       "Id": 31362,
       "CodeName": "Monster_ZeroMazingerGoldenBomb",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_MazingerGoldenBomb.png",
-      "Tag": ["Mech", "Large", "Boss", "Gold", "Zero"],
+      "Tag": ["Mech", "Large", "Boss", "Gold", "Zero", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

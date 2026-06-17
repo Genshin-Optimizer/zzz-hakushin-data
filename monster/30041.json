@@ -12,7 +12,8 @@
         "MainStoryBoss",
         "EtherBarrierBoss",
         "Miasma",
-        "SummerBuffForceFollowHead"
+        "SummerBuffForceFollowHead",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -144,7 +145,8 @@
         "EtherBarrierBoss",
         "HighEtherBarrier",
         "Miasma",
-        "SummerBuffForceFollowHead"
+        "SummerBuffForceFollowHead",
+        ""
       ],
       "Type": "Monster",
       "Element": {

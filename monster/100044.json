@@ -6,7 +6,7 @@
       "Id": 11814,
       "CodeName": "Monster_Shatterbug",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Orange"],
+      "Tag": ["Ether", "Demote", "Small", "Orange", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11815,
       "CodeName": "Monster_Shatterbug",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Orange"],
+      "Tag": ["Ether", "Demote", "Small", "Orange", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -254,7 +254,7 @@
       "Id": 11816,
       "CodeName": "Monster_Shatterbug",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Orange"],
+      "Tag": ["Ether", "Demote", "Small", "Orange", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

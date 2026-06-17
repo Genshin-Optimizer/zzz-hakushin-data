@@ -6,7 +6,7 @@
       "Id": 11711,
       "CodeName": "Monster_Thracian",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Thracian.png",
-      "Tag": ["Ether", "Middle", "Boss"],
+      "Tag": ["Ether", "Middle", "Boss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11712,
       "CodeName": "Monster_Thracian",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Thracian.png",
-      "Tag": ["Ether", "Middle", "Boss", "Coop"],
+      "Tag": ["Ether", "Middle", "Boss", "Coop", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -254,7 +254,7 @@
       "Id": 11713,
       "CodeName": "Monster_Thracian",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Thracian.png",
-      "Tag": ["Ether", "Middle", "Boss", "Coop", "HardMode"],
+      "Tag": ["Ether", "Middle", "Boss", "Coop", "HardMode", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

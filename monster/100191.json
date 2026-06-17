@@ -6,7 +6,7 @@
       "Id": 11311,
       "CodeName": "Monster_ThugAssaulter",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small"],
+      "Tag": ["Bios", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11312,
       "CodeName": "Monster_ThugAssaulter",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small"],
+      "Tag": ["Bios", "Promote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 11315,
       "CodeName": "Monster_ThugAssaulter",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Coop"],
+      "Tag": ["Bios", "Promote", "Small", "Coop", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

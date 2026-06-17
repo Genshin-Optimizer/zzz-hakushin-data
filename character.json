@@ -78,7 +78,14 @@
     "hit": 101,
     "camp": 5,
     "icon": "IconRole05",
-    "potential": [104100, 104101, 104102, 104103, 104104, 104105],
+    "potential": [
+      104100,
+      104101,
+      104102,
+      104103,
+      104104,
+      104105
+    ],
     "EN": "Soldier 11",
     "skin": {
       "3110410": {
@@ -304,7 +311,14 @@
     "hit": 102,
     "camp": 2,
     "icon": "IconRole18",
-    "potential": [114100, 114101, 114102, 114103, 114104, 114105],
+    "potential": [
+      114100,
+      114101,
+      114102,
+      114103,
+      114104,
+      114105
+    ],
     "EN": "Lycaon",
     "skin": {
       "3111410": {
@@ -370,7 +384,14 @@
     "hit": 103,
     "camp": 4,
     "icon": "IconRole32",
-    "potential": [117100, 117101, 117102, 117103, 117104, 117105],
+    "potential": [
+      117100,
+      117101,
+      117102,
+      117103,
+      117104,
+      117105
+    ],
     "EN": "Burnice",
     "skin": {
       "3111710": {
@@ -392,7 +413,14 @@
     "hit": 103,
     "camp": 3,
     "icon": "IconRole20",
-    "potential": [118100, 118101, 118102, 118103, 118104, 118105],
+    "potential": [
+      118100,
+      118101,
+      118102,
+      118103,
+      118104,
+      118105
+    ],
     "EN": "Grace",
     "skin": {
       "3111810": {
@@ -414,7 +442,14 @@
     "hit": 101,
     "camp": 2,
     "icon": "IconRole21",
-    "potential": [119100, 119101, 119102, 119103, 119104, 119105],
+    "potential": [
+      119100,
+      119101,
+      119102,
+      119103,
+      119104,
+      119105
+    ],
     "EN": "Ellen",
     "skin": {
       "3111910": {
@@ -441,7 +476,14 @@
     "hit": 103,
     "camp": 6,
     "icon": "IconRole35",
-    "potential": [120100, 120101, 120102, 120103, 120104, 120105],
+    "potential": [
+      120100,
+      120101,
+      120102,
+      120103,
+      120104,
+      120105
+    ],
     "EN": "Harumasa",
     "skin": {
       "3112010": {
@@ -836,7 +878,14 @@
     "hit": 101,
     "camp": 5,
     "icon": "IconRole40",
-    "potential": [138100, 138101, 138102, 138103, 138104, 138105],
+    "potential": [
+      138100,
+      138101,
+      138102,
+      138103,
+      138104,
+      138105
+    ],
     "EN": "Soldier 0 - Anby",
     "skin": {
       "3113810": {
@@ -1242,5 +1291,76 @@
     "KO": "프로미아",
     "CHS": "普罗米娅",
     "JA": "プロメイア"
+  },
+  "1551": {
+    "code": "Pyrois",
+    "rank": 4,
+    "type": 1,
+    "element": 205,
+    "hit": 101,
+    "camp": 15,
+    "icon": "IconRole63",
+    "potential": [],
+    "EN": "Pyrois",
+    "skin": {
+      "3115510": {
+        "Name": "Pyrois: Dawn's Guardian",
+        "Desc": "The dying heat haze extinguished within the valley will one day be reborn from the sea. The beast that trampled fate beneath its feet will become the chariot that clears the path ahead.",
+        "Image": "IconRole63"
+      }
+    },
+    "desc": "",
+    "KO": "피로이스",
+    "CHS": "佩洛伊斯",
+    "JA": "ピュロイス"
+  },
+  "1561": {
+    "code": "Velina",
+    "rank": 4,
+    "type": 3,
+    "element": 204,
+    "hit": 101,
+    "camp": 16,
+    "icon": "IconRole64",
+    "potential": [],
+    "EN": "Velina",
+    "skin": {
+      "3115610": {
+        "Name": "Velina: Elegant Silver Cascade",
+        "Desc": "Some busybodies claim the Administrative Director rejected the External Strategy Department's official uniform to show off her prestigious upbringing, but Velina has always had little interest in lavish fashion. Rather than the elaborate glamour of ceremonial wear, she favors simple clothing: sharp, proper, and suited to dealing with never-ending administrative work.",
+        "Image": "IconRole64"
+      },
+      "3115611": {
+        "Name": "Velina: Shade of Leisure",
+        "Desc": "Outside of work, Velina occasionally invites close friends to afternoon tea parties. During such moments, she changes into relatively casual attire to enjoy her free time... though to the Bangboo, it's merely the Grim Reaper in a different terrifying disguise.",
+        "Image": "IconRole64_01"
+      }
+    },
+    "desc": "Velina, the Administrative Director of the External Strategy Department, oversees cooperation and diplomacy between Roscaelifer and New Eridu.\n\nAs a descendant of the prestigious Airgid family, Velina inherited a strict and meticulous upbringing. Renowned for her nearly flawless efficiency and exceptional ability to keep any situation under control, she is the dependable adult whom Chief Technician Norma describes as someone capable of \"handling meetings, paperwork, and troublesome people.\"\n\nShe is sharp and efficient in her work, meticulous, and always gentle and composed when dealing with others. Beneath her elegant, effortless smile lies an intensity that is impossible to ignore. No matter how troublesome the diplomatic affair or absurd the disaster may be, Velina can resolve it with ease. However, the price of seeking her help is not always one the requester can afford.\n\nVelina has a particular fondness for all kinds of black tea and often invites friends to tea parties during her spare time.\n\nPlease note: Any tea party invitation sent by Velina in her capacity as Administrative Director should never be taken lightly. They are rarely mere leisure. More often, they serve as the perfect setting for her to negotiate situations and quietly steer events toward her desired outcome.",
+    "KO": "벨리나",
+    "CHS": "维琳娜",
+    "JA": "ヴェリナ"
+  },
+  "1571": {
+    "code": "Norma",
+    "rank": 4,
+    "type": 2,
+    "element": 201,
+    "hit": 102,
+    "camp": 16,
+    "icon": "IconRole65",
+    "potential": [],
+    "EN": "Norma",
+    "skin": {
+      "3115710": {
+        "Name": "Norma: Immunity to Fools",
+        "Desc": "Rule #1 of Norma's Lab Safety Guidelines: Avoid criticism and advice from idiots and incompetents.",
+        "Image": "IconRole65"
+      }
+    },
+    "desc": "Norma, Chief Technician of the External Strategy Department and a central figure within Marcel Group's technological center. No matter how long or complicated her titles may sound, the young Miss Norma is without question a titan in the field of Bangboo technology. Even Lady Sunbringer herself may not understand every gear and chip inside a Bangboo body better than Norma does.\n\nShe fits every stereotype people have about genius scientists: her engineering skills are exceptional, while her people skills are inversely proportional. She takes Velina's \"Etiquette Manual\" seriously, and is equally serious about never following it.\n\nA firm believer in performance above all, she was once feared by Bangboo due to her radical Bangboo modification techniques and somewhat less-than-Bangboo-centered approach, earning a reputation as a terrifying scientist who would stop at nothing for her research. ...The safety engineers at the External Strategy Department lab may share a similar view.\n\nIt's less that the title of \"Chief Technician\" crowned Norma in the field of Bangboo technology, and more that Norma herself represents the pinnacle of the Marcel Group's technological achievements.",
+    "KO": "노르마",
+    "CHS": "诺姆",
+    "JA": "ノルムー"
   }
 }

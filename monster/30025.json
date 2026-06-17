@@ -6,7 +6,7 @@
       "Id": 11851,
       "CodeName": "Monster_Hitchspiker",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "NotCounting"],
+      "Tag": ["Ether", "Demote", "Small", "NotCounting", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11852,
       "CodeName": "Monster_Hitchspiker",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "NotCounting"],
+      "Tag": ["Ether", "Promote", "Small", "NotCounting", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

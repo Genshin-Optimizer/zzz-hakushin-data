@@ -12,7 +12,8 @@
         "MainStoryBoss",
         "EtherBarrierBoss",
         "Miasma",
-        "Entity_NoGPParryLimit"
+        "Entity_NoGPParryLimit",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -144,7 +145,8 @@
         "EtherBarrierBoss",
         "HighEtherBarrier",
         "Miasma",
-        "Entity_NoGPParryLimit"
+        "Entity_NoGPParryLimit",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -275,7 +277,8 @@
         "MainStoryBoss",
         "DisableAI",
         "PureSummon",
-        "NotCounting"
+        "NotCounting",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -406,7 +409,8 @@
         "MainStoryBoss",
         "DisableAI",
         "PureSummon",
-        "NotCounting"
+        "NotCounting",
+        ""
       ],
       "Type": "Monster",
       "Element": {

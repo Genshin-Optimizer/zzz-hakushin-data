@@ -6,7 +6,7 @@
       "Id": 31041,
       "CodeName": "Monster_Arcavor",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Miasma"],
+      "Tag": ["Ether", "Demote", "Small", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 31042,
       "CodeName": "Monster_Arcavor",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Miasma"],
+      "Tag": ["Ether", "Promote", "Small", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,14 @@
       "Id": 31043,
       "CodeName": "Monster_Arcavor",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Miasma", "Arcavor_NoRespawn"],
+      "Tag": [
+        "Ether",
+        "Demote",
+        "Small",
+        "Miasma",
+        "Arcavor_NoRespawn",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -378,7 +385,14 @@
       "Id": 31044,
       "CodeName": "Monster_Arcavor",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Miasma", "Arcavor_NoRespawn"],
+      "Tag": [
+        "Ether",
+        "Promote",
+        "Small",
+        "Miasma",
+        "Arcavor_NoRespawn",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -6,7 +6,7 @@
       "Id": 11771,
       "CodeName": "Monster_Cyrtoidea",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small"],
+      "Tag": ["Ether", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11772,
       "CodeName": "Monster_Cyrtoidea",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small"],
+      "Tag": ["Ether", "Promote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

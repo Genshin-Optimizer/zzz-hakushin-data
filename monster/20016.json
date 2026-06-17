@@ -6,7 +6,7 @@
       "Id": 31271,
       "CodeName": "Monster_MiasmaLightfootRover",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Miasma", "MiasmaDrone"],
+      "Tag": ["Ether", "Demote", "Middle", "Miasma", "MiasmaDrone", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -130,7 +130,7 @@
       "Id": 31272,
       "CodeName": "Monster_MiasmaLightfootRover",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Miasma", "MiasmaDrone"],
+      "Tag": ["Ether", "Promote", "Middle", "Miasma", "MiasmaDrone", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -254,7 +254,15 @@
       "Id": 31273,
       "CodeName": "Monster_MiasmaLightfootRover",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Miasma", "MiasmaDrone", "Twins"],
+      "Tag": [
+        "Ether",
+        "Promote",
+        "Middle",
+        "Miasma",
+        "MiasmaDrone",
+        "Twins",
+        ""
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

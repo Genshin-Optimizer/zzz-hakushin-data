@@ -6,7 +6,7 @@
       "Id": 11411,
       "CodeName": "Monster_ComplexCorrupted",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ComplexCorrupted.png",
-      "Tag": ["Ether", "Gigantic", "MainStoryBoss"],
+      "Tag": ["Ether", "Gigantic", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11412,
       "CodeName": "Monster_ComplexCorrupted",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ComplexCorrupted.png",
-      "Tag": ["Ether", "Gigantic", "MainStoryBoss"],
+      "Tag": ["Ether", "Gigantic", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 11413,
       "CodeName": "Monster_ComplexCorrupted",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ComplexCorrupted.png",
-      "Tag": ["Ether", "Gigantic", "MainStoryBoss"],
+      "Tag": ["Ether", "Gigantic", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -378,7 +378,7 @@
       "Id": 11414,
       "CodeName": "Monster_ComplexCorrupted",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ComplexCorrupted.png",
-      "Tag": ["Ether", "Gigantic", "P1Only", "MainStoryBoss"],
+      "Tag": ["Ether", "Gigantic", "P1Only", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -502,7 +502,7 @@
       "Id": 11415,
       "CodeName": "Monster_ComplexCorrupted",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ComplexCorrupted.png",
-      "Tag": ["Ether", "Gigantic", "MainStoryBoss", "Coop", "P1Only"],
+      "Tag": ["Ether", "Gigantic", "MainStoryBoss", "Coop", "P1Only", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

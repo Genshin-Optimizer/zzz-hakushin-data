@@ -6,7 +6,7 @@
       "Id": 11381,
       "CodeName": "Monster_TarasqueMixer",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle"],
+      "Tag": ["Ether", "Demote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11382,
       "CodeName": "Monster_TarasqueMixer",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle"],
+      "Tag": ["Ether", "Promote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 11383,
       "CodeName": "Monster_TarasqueMixer",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle"],
+      "Tag": ["Ether", "Promote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -12,7 +12,8 @@
         "Boss",
         "MainStoryBoss",
         "EtherBarrierBoss",
-        "Miasma"
+        "Miasma",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -143,7 +144,8 @@
         "Boss",
         "MainStoryBoss",
         "EtherBarrierBoss",
-        "Miasma"
+        "Miasma",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -275,7 +277,8 @@
         "MainStoryBoss",
         "EtherBarrierBoss",
         "HighEtherBarrier",
-        "Miasma"
+        "Miasma",
+        ""
       ],
       "Type": "Monster",
       "Element": {

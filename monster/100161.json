@@ -6,7 +6,7 @@
       "Id": 11331,
       "CodeName": "Monster_ThugPyromaniac",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small"],
+      "Tag": ["Bios", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11332,
       "CodeName": "Monster_ThugPyromaniac",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small"],
+      "Tag": ["Bios", "Promote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 11335,
       "CodeName": "Monster_ThugPyromaniac",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Coop"],
+      "Tag": ["Bios", "Promote", "Small", "Coop", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

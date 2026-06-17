@@ -6,7 +6,7 @@
       "Id": 11612,
       "CodeName": "Monster_BellumSlime",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Slime", "NoRBLBuff"],
+      "Tag": ["Ether", "Demote", "Middle", "Slime", "NoRBLBuff", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -130,7 +130,7 @@
       "Id": 11613,
       "CodeName": "Monster_BellumSlime",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Slime", "NoRBLBuff"],
+      "Tag": ["Ether", "Promote", "Middle", "Slime", "NoRBLBuff", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

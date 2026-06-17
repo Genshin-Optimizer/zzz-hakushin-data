@@ -6,7 +6,7 @@
       "Id": 31081,
       "CodeName": "Monster_FlameCantor",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Middle", "Miasma"],
+      "Tag": ["Bios", "Demote", "Middle", "Miasma", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 31082,
       "CodeName": "Monster_FlameCantor",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Middle", "Miasma"],
+      "Tag": ["Bios", "Promote", "Middle", "Miasma", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

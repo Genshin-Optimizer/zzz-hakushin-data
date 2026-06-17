@@ -6,7 +6,7 @@
       "Id": 11501,
       "CodeName": "Monster_FrenziedManiac",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle"],
+      "Tag": ["Ether", "Demote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11502,
       "CodeName": "Monster_FrenziedManiac",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle"],
+      "Tag": ["Ether", "Promote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

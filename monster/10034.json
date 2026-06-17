@@ -14,7 +14,8 @@
         "LiquidEther_SpecialMaterial",
         "DisableAI",
         "IsoldetheDefiler",
-        "Summon"
+        "Summon",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -139,7 +140,7 @@
       "Id": 31161,
       "CodeName": "Monster_MiasmaWalkerGrenadierJaeger",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_MiasmaWalkerGrenadierJaeger.png",
-      "Tag": ["Ether", "Demote", "Small", "Jaeger", "Miasma"],
+      "Tag": ["Ether", "Demote", "Small", "Jaeger", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -263,7 +264,7 @@
       "Id": 31162,
       "CodeName": "Monster_MiasmaWalkerGrenadierJaeger",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_MiasmaWalkerGrenadierJaeger.png",
-      "Tag": ["Ether", "Promote", "Small", "Jaeger", "Miasma"],
+      "Tag": ["Ether", "Promote", "Small", "Jaeger", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

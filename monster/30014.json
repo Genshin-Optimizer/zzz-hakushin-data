@@ -6,7 +6,7 @@
       "Id": 31441,
       "CodeName": "Monster_ObsoleteAndroid",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_PinkBowTrooper.png",
-      "Tag": ["Bios", "Small", "Boss", "MainStoryBoss"],
+      "Tag": ["Bios", "Small", "Boss", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

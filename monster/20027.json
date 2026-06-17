@@ -6,7 +6,7 @@
       "Id": 21224,
       "CodeName": "Monster_MiasmaTrinox_MusicActivity",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Miasma", "MiasmaParry"],
+      "Tag": ["Ether", "Demote", "Middle", "Miasma", "MiasmaParry", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 31311,
       "CodeName": "Monster_MiasmaTrinox",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Miasma", "MiasmaParry"],
+      "Tag": ["Ether", "Demote", "Middle", "Miasma", "MiasmaParry", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 31312,
       "CodeName": "Monster_MiasmaTrinox",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Miasma", "MiasmaParry"],
+      "Tag": ["Ether", "Promote", "Middle", "Miasma", "MiasmaParry", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -378,7 +378,15 @@
       "Id": 31313,
       "CodeName": "Monster_MiasmaTrinox",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Miasma", "MiasmaParry", "Twins"],
+      "Tag": [
+        "Ether",
+        "Promote",
+        "Middle",
+        "Miasma",
+        "MiasmaParry",
+        "Twins",
+        ""
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

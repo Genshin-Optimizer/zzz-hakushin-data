@@ -6,7 +6,7 @@
       "Id": 11031,
       "CodeName": "Monster_HeavySoldier",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Heavy", "Soldier"],
+      "Tag": ["Bios", "Demote", "Small", "Heavy", "Soldier", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11032,
       "CodeName": "Monster_HeavySoldier",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Heavy", "Soldier"],
+      "Tag": ["Bios", "Promote", "Small", "Heavy", "Soldier", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

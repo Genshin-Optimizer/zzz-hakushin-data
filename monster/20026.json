@@ -6,7 +6,7 @@
       "Id": 21221,
       "CodeName": "Monster_MiasmaFrenziedManiac_MusicActivity",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Miasma", "MiasmaDither"],
+      "Tag": ["Ether", "Demote", "Middle", "Miasma", "MiasmaDither", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 21230,
       "CodeName": "Monster_LampasBlackVeil_MusicActivity_Clone",
       "Icon": "",
-      "Tag": ["Ether", "Middle", "Clone"],
+      "Tag": ["Ether", "Middle", "Clone", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 21231,
       "CodeName": "Monster_MentorMevorakh_MusicActivity_Clone",
       "Icon": "",
-      "Tag": ["Bios", "Middle", "Miasma", "Clone"],
+      "Tag": ["Bios", "Middle", "Miasma", "Clone", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -378,7 +378,7 @@
       "Id": 21232,
       "CodeName": "Monster_SacrificeBringer_MusicActivity_Clone",
       "Icon": "",
-      "Tag": ["Ether", "Large", "SacrificeBringerP2", "Grey", "Clone"],
+      "Tag": ["Ether", "Large", "SacrificeBringerP2", "Grey", "Clone", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -502,7 +502,7 @@
       "Id": 31301,
       "CodeName": "Monster_MiasmaFrenziedManiac",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Miasma", "MiasmaDither"],
+      "Tag": ["Ether", "Demote", "Middle", "Miasma", "MiasmaDither", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -626,7 +626,7 @@
       "Id": 31302,
       "CodeName": "Monster_MiasmaFrenziedManiac",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Miasma", "MiasmaDither"],
+      "Tag": ["Ether", "Promote", "Middle", "Miasma", "MiasmaDither", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -750,7 +750,15 @@
       "Id": 31303,
       "CodeName": "Monster_MiasmaFrenziedManiac",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Miasma", "MiasmaDither", "Twins"],
+      "Tag": [
+        "Ether",
+        "Promote",
+        "Middle",
+        "Miasma",
+        "MiasmaDither",
+        "Twins",
+        ""
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

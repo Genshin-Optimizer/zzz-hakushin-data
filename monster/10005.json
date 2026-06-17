@@ -6,7 +6,7 @@
       "Id": 11163,
       "CodeName": "Monster_StrikeJaegerCam",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Cam"],
+      "Tag": ["Bios", "Demote", "Small", "Cam", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11164,
       "CodeName": "Monster_StrikeJaegerCam",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Cam"],
+      "Tag": ["Bios", "Promote", "Small", "Cam", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

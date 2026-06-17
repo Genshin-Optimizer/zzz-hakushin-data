@@ -1591,9 +1591,9 @@
     }
   },
   "FairyRecommend": {
-    "Slot4": 33600,
-    "Slot2": 33000,
-    "SlotSub": 33200,
+    "Slot4": 33000,
+    "Slot2": 31300,
+    "SlotSub": 33600,
     "Part4": {
       "Prop": 31402,
       "Name": "Anomaly Mastery",

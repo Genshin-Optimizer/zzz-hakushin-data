@@ -6,7 +6,7 @@
       "Id": 11215,
       "CodeName": "Monster_ArlauneRed",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Red"],
+      "Tag": ["Ether", "Demote", "Middle", "Red", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11216,
       "CodeName": "Monster_ArlauneRed",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Red"],
+      "Tag": ["Ether", "Promote", "Middle", "Red", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

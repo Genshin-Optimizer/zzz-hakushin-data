@@ -6,7 +6,7 @@
       "Id": 11125,
       "CodeName": "Monster_HatiRed",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Red", "UnArmored"],
+      "Tag": ["Ether", "Demote", "Middle", "Red", "UnArmored", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11126,
       "CodeName": "Monster_HatiRed",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Red", "UnArmored"],
+      "Tag": ["Ether", "Promote", "Middle", "Red", "UnArmored", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 11128,
       "CodeName": "Monster_HatiRed",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Red", "UnArmored", "Coop"],
+      "Tag": ["Ether", "Promote", "Middle", "Red", "UnArmored", "Coop", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

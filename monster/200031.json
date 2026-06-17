@@ -6,7 +6,7 @@
       "Id": 11196,
       "CodeName": "Monster_HatiArmoredRed",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Red", "Armored"],
+      "Tag": ["Ether", "Demote", "Middle", "Red", "Armored", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11197,
       "CodeName": "Monster_HatiArmoredRed",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Red", "Armored"],
+      "Tag": ["Ether", "Promote", "Middle", "Red", "Armored", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

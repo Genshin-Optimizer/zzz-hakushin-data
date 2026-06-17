@@ -6,7 +6,7 @@
       "Id": 11451,
       "CodeName": "Monster_HeavyStriker",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Middle"],
+      "Tag": ["Mech", "Demote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11452,
       "CodeName": "Monster_HeavyStriker",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Middle"],
+      "Tag": ["Mech", "Promote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 11457,
       "CodeName": "Monster_HeavyStriker",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Middle"],
+      "Tag": ["Mech", "Promote", "Middle", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

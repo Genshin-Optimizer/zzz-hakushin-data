@@ -6,7 +6,7 @@
       "Id": 11831,
       "CodeName": "Monster_TyrfingInfested",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small"],
+      "Tag": ["Ether", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11832,
       "CodeName": "Monster_TyrfingInfested",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small"],
+      "Tag": ["Ether", "Promote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

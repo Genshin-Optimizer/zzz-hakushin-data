@@ -1,0 +1,9 @@
+{
+  "Id": 34000,
+  "Name": "The Sky Ablaze",
+  "Desc2": "<color=#FE437E>Ether DMG</color> +10%.",
+  "Desc4": "When the equipper is an <color=#FE437E>Ether</color> attribute Agent, their CRIT DMG increases by 30%. When the equipper uses an <color=#FFFFFF>EX Special Attack</color> or <color=#FFFFFF>Ultimate</color>, their ATK increases by 10% for 30s. Repeated triggers reset the duration.",
+  "Story": "Composed by an unnamed musician of Roscaelifer who witnessed the spectacle of the sky ablaze within the Hollow. The blazing sun rises through the Ether, and the golden flames that scorch the horizon cascade from the sky — so the composer wrote on the back cover.",
+  "Icon": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitTheSkyAblaze.png",
+  "Icon2": "UI/Sprite/A1DynamicLoad/IconSuit/UnPacker/SuitTheSkyAblaze.png"
+}

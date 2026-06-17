@@ -6,7 +6,7 @@
       "Id": 11763,
       "CodeName": "Monster_GrenadierJaegerCam",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_TyrantPompeyPro.png",
-      "Tag": ["Bios", "Demote", "Small"],
+      "Tag": ["Bios", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11764,
       "CodeName": "Monster_GrenadierJaegerCam",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_TyrantPompeyPro.png",
-      "Tag": ["Bios", "Promote", "Small"],
+      "Tag": ["Bios", "Promote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

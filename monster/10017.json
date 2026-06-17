@@ -6,7 +6,7 @@
       "Id": 31391,
       "CodeName": "Monster_MiasmaSpider",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Miasma"],
+      "Tag": ["Ether", "Demote", "Small", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 31392,
       "CodeName": "Monster_MiasmaSpider",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Miasma"],
+      "Tag": ["Ether", "Promote", "Small", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

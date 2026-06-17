@@ -6,7 +6,7 @@
       "Id": 31292,
       "CodeName": "Monster_NoranoSlime",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_NoranoEgo_Slime.png",
-      "Tag": ["Ether", "Small", "Boss", "NoRBLBuff", "Slime"],
+      "Tag": ["Ether", "Small", "Boss", "NoRBLBuff", "Slime", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

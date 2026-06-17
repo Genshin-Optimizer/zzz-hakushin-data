@@ -6,7 +6,13 @@
       "Id": 11861,
       "CodeName": "Monster_NotoriousMarionette",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_NotoriousMarionette.png",
-      "Tag": ["Ether", "Middle", "MainStoryBoss", "NotoriousMarionette_Boss"],
+      "Tag": [
+        "Ether",
+        "Middle",
+        "MainStoryBoss",
+        "NotoriousMarionette_Boss",
+        ""
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -136,7 +142,8 @@
         "MainStoryBoss",
         "NotoriousMarionette_Summon",
         "NotCounting",
-        "Summoned"
+        "Summoned",
+        ""
       ],
       "Type": "Monster",
       "Element": {

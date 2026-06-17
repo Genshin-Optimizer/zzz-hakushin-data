@@ -6,7 +6,7 @@
       "Id": 11741,
       "CodeName": "Monster_DeathXIIIEnergy",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Energy"],
+      "Tag": ["Ether", "Demote", "Middle", "Energy", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -130,7 +130,7 @@
       "Id": 11742,
       "CodeName": "Monster_DeathXIIIEnergy",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Energy"],
+      "Tag": ["Ether", "Promote", "Middle", "Energy", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

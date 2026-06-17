@@ -6,7 +6,7 @@
       "Id": 11461,
       "CodeName": "Monster_Ahriman",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Black"],
+      "Tag": ["Ether", "Demote", "Small", "Black", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11462,
       "CodeName": "Monster_Ahriman",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Black"],
+      "Tag": ["Ether", "Promote", "Small", "Black", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

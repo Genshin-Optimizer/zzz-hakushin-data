@@ -11,7 +11,8 @@
         "Middle",
         "MainStoryBoss",
         "HighCorruptiveBarrier",
-        "GraymaneCenturion_Cloned"
+        "GraymaneCenturion_Cloned",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -141,7 +142,8 @@
         "Middle",
         "MainStoryBoss",
         "HighCorruptiveBarrier",
-        "GraymaneCenturion_Cloned"
+        "GraymaneCenturion_Cloned",
+        ""
       ],
       "Type": "Monster",
       "Element": {

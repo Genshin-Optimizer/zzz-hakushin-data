@@ -6,7 +6,7 @@
       "Id": 11235,
       "CodeName": "Monster_CottusGrey",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_CottusGrey.png",
-      "Tag": ["Ether", "Large", "CottusP1", "Grey", "MainStoryBoss"],
+      "Tag": ["Ether", "Large", "CottusP1", "Grey", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11236,
       "CodeName": "Monster_CottusGrey",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_CottusGrey.png",
-      "Tag": ["Ether", "Large", "CottusP2", "Grey", "MainStoryBoss"],
+      "Tag": ["Ether", "Large", "CottusP2", "Grey", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -254,7 +254,15 @@
       "Id": 11238,
       "CodeName": "Monster_CottusGrey",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_CottusGrey.png",
-      "Tag": ["Ether", "Large", "CottusP1", "Grey", "P1Only", "MainStoryBoss"],
+      "Tag": [
+        "Ether",
+        "Large",
+        "CottusP1",
+        "Grey",
+        "P1Only",
+        "MainStoryBoss",
+        ""
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

@@ -6,7 +6,7 @@
       "Id": 11263,
       "CodeName": "Monster_HeavyFirePowerCam",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Middle", "Cam"],
+      "Tag": ["Bios", "Demote", "Middle", "Cam", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11264,
       "CodeName": "Monster_HeavyFirePowerCam",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Middle", "Cam"],
+      "Tag": ["Bios", "Promote", "Middle", "Cam", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 11265,
       "CodeName": "Monster_HeavyFirePowerCam",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Middle", "Cam", "Coop"],
+      "Tag": ["Bios", "Promote", "Middle", "Cam", "Coop", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

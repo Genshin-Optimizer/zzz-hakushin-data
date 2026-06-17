@@ -6,7 +6,7 @@
       "Id": 31241,
       "CodeName": "Monster_SecurityUnitLAAndroid",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Middle", "Police", "SecurityUnit"],
+      "Tag": ["Mech", "Demote", "Middle", "Police", "SecurityUnit", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 31242,
       "CodeName": "Monster_SecurityUnitLAAndroid",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Middle", "Police", "SecurityUnit"],
+      "Tag": ["Mech", "Promote", "Middle", "Police", "SecurityUnit", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

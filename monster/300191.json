@@ -6,7 +6,7 @@
       "Id": 11673,
       "CodeName": "Monster_DubiousHero",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_DubiousHero.png",
-      "Tag": ["Bios", "Middle", "Boss"],
+      "Tag": ["Bios", "Middle", "Boss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

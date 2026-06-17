@@ -6,7 +6,7 @@
       "Id": 11041,
       "CodeName": "Monster_LAAndroid",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Middle", "Police"],
+      "Tag": ["Mech", "Demote", "Middle", "Police", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11044,
       "CodeName": "Monster_LAAndroid",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Middle", "Police"],
+      "Tag": ["Mech", "Promote", "Middle", "Police", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 11047,
       "CodeName": "Monster_LAAndroid",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Middle", "Police"],
+      "Tag": ["Mech", "Promote", "Middle", "Police", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

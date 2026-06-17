@@ -6,7 +6,7 @@
       "Id": 11363,
       "CodeName": "Monster_ThugBulkyAbuserVest",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Middle", "Vest"],
+      "Tag": ["Bios", "Demote", "Middle", "Vest", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11364,
       "CodeName": "Monster_ThugBulkyAbuserVest",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Middle", "Vest"],
+      "Tag": ["Bios", "Promote", "Middle", "Vest", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

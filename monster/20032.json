@@ -12,7 +12,8 @@
         "Large",
         "UniqueDeathEff",
         "DeathEffMiddle",
-        "Ionized"
+        "Ionized",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -143,7 +144,8 @@
         "Large",
         "UniqueDeathEff",
         "DeathEffMiddle",
-        "Ionized"
+        "Ionized",
+        ""
       ],
       "Type": "Monster",
       "Element": {

@@ -6,7 +6,7 @@
       "Id": 31331,
       "CodeName": "Monster_CovenantGuardian",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_CovenantGuardian.png",
-      "Tag": ["Ether", "Middle", "Boss", "Miasma", "EtherBarrierBoss"],
+      "Tag": ["Ether", "Middle", "Boss", "Miasma", "EtherBarrierBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -136,7 +136,8 @@
         "Boss",
         "Miasma",
         "EtherBarrierBoss",
-        "HighEtherBarrier"
+        "HighEtherBarrier",
+        ""
       ],
       "Type": "Monster",
       "Element": {

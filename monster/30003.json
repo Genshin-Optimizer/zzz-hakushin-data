@@ -130,7 +130,7 @@
       "Id": 31361,
       "CodeName": "Monster_BlackMazingerGoldenBomb",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_BlackMazingerGoldenBomb.png",
-      "Tag": ["Mech", "Large", "Boss", "Black"],
+      "Tag": ["Mech", "Large", "Boss", "Black", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

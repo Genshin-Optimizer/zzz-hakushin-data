@@ -12,7 +12,8 @@
         "Large",
         "Red",
         "UniqueDeathEff",
-        "DeathEffMiddle"
+        "DeathEffMiddle",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -143,7 +144,8 @@
         "Large",
         "Red",
         "UniqueDeathEff",
-        "DeathEffMiddle"
+        "DeathEffMiddle",
+        ""
       ],
       "Type": "Monster",
       "Element": {

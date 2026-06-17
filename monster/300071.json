@@ -6,7 +6,7 @@
       "Id": 11233,
       "CodeName": "Monster_Cottus",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Cottus.png",
-      "Tag": ["Ether", "Large", "CottusP1", "Black", "MainStoryBoss"],
+      "Tag": ["Ether", "Large", "CottusP1", "Black", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11234,
       "CodeName": "Monster_Cottus",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Cottus.png",
-      "Tag": ["Ether", "Large", "CottusP2", "Black", "MainStoryBoss"],
+      "Tag": ["Ether", "Large", "CottusP2", "Black", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -254,7 +254,15 @@
       "Id": 11237,
       "CodeName": "Monster_Cottus",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Cottus.png",
-      "Tag": ["Ether", "Large", "CottusP1", "Black", "P1Only", "MainStoryBoss"],
+      "Tag": [
+        "Ether",
+        "Large",
+        "CottusP1",
+        "Black",
+        "P1Only",
+        "MainStoryBoss",
+        ""
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -378,7 +386,7 @@
       "Id": 11239,
       "CodeName": "Monster_Cottus",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Cottus.png",
-      "Tag": ["Ether", "Large", "CottusP1", "Black", "MainStoryBoss"],
+      "Tag": ["Ether", "Large", "CottusP1", "Black", "MainStoryBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -502,7 +510,7 @@
       "Id": 29901,
       "CodeName": "Monster_Cottus_PerformTest",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Cottus.png",
-      "Tag": ["Ether", "Large", "CottusP1", "Black", "P1Only"],
+      "Tag": ["Ether", "Large", "CottusP1", "Black", "P1Only", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

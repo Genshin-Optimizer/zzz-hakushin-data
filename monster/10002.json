@@ -6,7 +6,7 @@
       "Id": 11141,
       "CodeName": "Monster_Satyrus",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Black"],
+      "Tag": ["Ether", "Demote", "Small", "Black", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11142,
       "CodeName": "Monster_Satyrus",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Black"],
+      "Tag": ["Ether", "Promote", "Small", "Black", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -254,7 +254,7 @@
       "Id": 21223,
       "CodeName": "Monster_Satyrus_MusicActivity",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Black"],
+      "Tag": ["Ether", "Demote", "Small", "Black", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

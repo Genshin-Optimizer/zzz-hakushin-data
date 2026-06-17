@@ -6,7 +6,14 @@
       "Id": 11811,
       "CodeName": "Monster_SacrificeBringer",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_SacrificeBringer.png",
-      "Tag": ["Ether", "Large", "SacrificeBringerP1", "Grey", "MainStoryBoss"],
+      "Tag": [
+        "Ether",
+        "Large",
+        "SacrificeBringerP1",
+        "Grey",
+        "MainStoryBoss",
+        ""
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +137,14 @@
       "Id": 11812,
       "CodeName": "Monster_SacrificeBringer",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_SacrificeBringer.png",
-      "Tag": ["Ether", "Large", "SacrificeBringerP2", "Grey", "MainStoryBoss"],
+      "Tag": [
+        "Ether",
+        "Large",
+        "SacrificeBringerP2",
+        "Grey",
+        "MainStoryBoss",
+        ""
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -254,7 +268,14 @@
       "Id": 11813,
       "CodeName": "Monster_SacrificeBringerHand",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_SacrificeBringer.png",
-      "Tag": ["Ether", "Demote", "Large", "MainStoryBoss", "Summoned"],
+      "Tag": [
+        "Ether",
+        "Demote",
+        "Large",
+        "MainStoryBoss",
+        "Summoned",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -384,7 +405,8 @@
         "Large",
         "MainStoryBoss",
         "Summoned",
-        "SacrificeBringer_InlevelMonster"
+        "SacrificeBringer_InlevelMonster",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -515,7 +537,8 @@
         "SacrificeBringerP2",
         "Grey",
         "MainStoryBoss",
-        "P2_Only"
+        "P2_Only",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -640,7 +663,14 @@
       "Id": 11819,
       "CodeName": "Monster_SacrificeBringer",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_SacrificeBringer.png",
-      "Tag": ["Ether", "Large", "SacrificeBringerP1", "Grey", "MainStoryBoss"],
+      "Tag": [
+        "Ether",
+        "Large",
+        "SacrificeBringerP1",
+        "Grey",
+        "MainStoryBoss",
+        ""
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -770,7 +800,8 @@
         "SacrificeBringerP2",
         "Grey",
         "MainStoryBoss",
-        "Boss"
+        "Boss",
+        ""
       ],
       "Type": "Monster",
       "Element": {

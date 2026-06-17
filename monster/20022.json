@@ -6,7 +6,7 @@
       "Id": 11561,
       "CodeName": "Monster_NinevehBee",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small"],
+      "Tag": ["Ether", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11562,
       "CodeName": "Monster_NinevehBee",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small"],
+      "Tag": ["Ether", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -260,8 +260,20 @@
     "EN": "Raven UAV",
     "desc": "Unknown",
     "KO": "레이븐 드론",
-    "CHS": "渡鸦无��机",
+    "CHS": "渡鸦无人机",
     "JA": "レイヴンドローン"
+  },
+  "10022": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Hacker.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 1,
+    "group": 203,
+    "EN": "Mutant Formicarrier",
+    "desc": "Originally a standard-issue Supplies Storage Crate, this unit was equipped with a high-spec electronic anti-theft system capable of thwarting thieves even without external power.\nA group of smugglers once managed to intercept a shipment, only to discover they couldn't bypass its security permissions. After exhausting every option, they abandoned the crate in a Hollow. To everyone's surprise, several Formicarriers eventually merged with it, transforming it into a mobile nest and taking up residence inside like Hermit Crabs. Veteran Hollow Raiders know the secret to opening it: don't bother hacking the lock, just beat up the Formicarriers living inside first. The incident serves as yet another confirmation of a famous observation by a certain thinker: destruction comes from being broken from the outside, while renewal comes from being broken from within.\nAt least, that's certainly true for this particular crate.\n\n\"Hold on... you're telling me my cargo, and my Dennies, grew legs and walked off?!\"",
+    "KO": "변이 개미",
+    "CHS": "畸变骸蚁",
+    "JA": "変異ムクロアリ"
   },
   "10023": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_GoldenBomb.png",
@@ -274,6 +286,18 @@
     "KO": "황금 「Bangboo」",
     "CHS": "黄金邦布",
     "JA": "ゴールドボンプ"
+  },
+  "10024": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_BangbooPatrolMecha.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 1,
+    "group": 290,
+    "EN": "Airspace Patrolboo",
+    "desc": "A light Recon Mech of the Airspace Patrol Bangboo Guard Forces. Built for speed, it excels at patrol and scouting missions, while its arm-mounted autocannon provides enough firepower to drive off hostile targets.\nIts lightweight armor keeps it fast, but offers little protection during high-speed maneuvers. As a result, Recon Mech pilots are all skilled racers. \"Only Bangboo without talent need airbags!\"",
+    "KO": "공역 정찰부",
+    "CHS": "空域侦巡布",
+    "JA": "エアスペース・パトローリンナ"
   },
   "10025": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Ahriman.png",
@@ -395,6 +419,66 @@
     "CHS": "秽息残兵·炮手",
     "JA": "ミアズマ・レムナント・キャノニア"
   },
+  "10035": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Sapper.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 1,
+    "group": 290,
+    "EN": "Special Anti-Riotboo",
+    "desc": "A standard frontline unit of the Airspace Patrol Bangboo Guard Forces. Its agile mechanical arms and high-powered chainsaw make it highly effective against Ethereals and allow it to assist with the maintenance and repair of heavy machinery, earning praise from both Airspace Patrol personnel and Energy Hub engineers.\nThat versatility comes at a price. Its open cockpit design and limited combat range leave pilots exposed to greater danger on the battlefield, so only the most courageous Bangboo are trusted to operate it. \"Strong left arm, stronger right arm!\"",
+    "KO": "특수 진압부",
+    "CHS": "特勤镇暴布",
+    "JA": "サプレッション・スクワッタ"
+  },
+  "10036": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_Minion.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 1,
+    "group": 201,
+    "EN": "Kulullu",
+    "desc": "With its grotesque and unsettling appearance, Kulullu has topped Booastrum's \"Factors Affecting Children's Nighttime Security\" list for several years in a row.\nYet despite that nightmarish visage, its attacks are surprisingly simple and slow, almost as if it posed no real threat... or do they?\nThe truth is, a single strike is enough to knock someone out for days. Over time, many investigators have come to refer to it with equal parts fear and respect: \"One-Slap Wonder.\"\nPerhaps Kulullu understands the essence of martial arts better than anyone: concentrate all your power into a single strike, and perfect it.\n\n\"Ever been hit by a slap the size of a sandbag?\"",
+    "KO": "쿠루루",
+    "CHS": "库鲁鲁",
+    "JA": "クルッル"
+  },
+  "10037": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_EyeEngine.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 1,
+    "group": 201,
+    "EN": "Metamorphosed - Beholder Engine",
+    "desc": "One who sheds a shattered shell in darkness, reborn through corruption, having forsaken its fallen form.\n\nAlthough the Beholder Engine is classified in the Hollow Investigative Association's archives as an Ethereal that only poses a certain level of threat at close range, it frequently presents unforeseen dangers to investigators during Hollow expeditions. Even seasoned investigators can experience an overwhelming sense of panic when confronted by the piercing gaze of its eyes in the darkness.\nWithin the Hollows, fear has a tendency to intensify Ether corruption, thereby inviting calamity.\n\n\"The only way to overcome fear... is to stare into it and fight it back.\"",
+    "KO": "탈피·비홀더 엔진",
+    "CHS": "蜕生·眼魔引擎",
+    "JA": "羽化・エンジンビホルダー"
+  },
+  "10038": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_CorruptedPatrolMecha.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 1,
+    "group": 290,
+    "EN": "Metamorphosed - Airspace Patrolboo",
+    "desc": "A rebel that sheds its old shell in the gloom, emerging anew amidst corruption, forsaking the body that once sank into depravity.\nA light Recon Mech of the Airspace Patrol Bangboo Guard Forces. Blue markings on the chassis indicate assignment to Hollow operations. Built for speed, it excels at patrol and scouting missions, while its arm-mounted autocannon provides enough firepower to drive off hostile targets.\nIts lightweight armor keeps it fast, but offers little protection during high-speed maneuvers. As a result, Recon Mech pilots are all skilled racers. \"Only Bangboo without talent need airbags!\"",
+    "KO": "탈피·공역 정찰부",
+    "CHS": "蜕生·空域侦巡布",
+    "JA": "羽化・エアスペース・パトローリンナ"
+  },
+  "10039": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_CorruptedSapper.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 1,
+    "group": 290,
+    "EN": "Metamorphosed - Special Anti-Riotboo",
+    "desc": "A rebel that sheds its old shell in the gloom, emerging anew amidst corruption, forsaking the body that once sank into depravity.\nA standard frontline unit of the Airspace Patrol Bangboo Guard Forces. Blue markings on the chassis indicate assignment to Hollow operations. Its agile mechanical arms and high-powered chainsaw make it highly effective against Ethereals and allow it to assist with the maintenance and repair of heavy machinery, earning praise from both Airspace Patrol personnel and Energy Hub engineers.\nThat versatility comes at a price. Its open cockpit design and limited combat range leave pilots exposed to greater danger on the battlefield, so only the most courageous Bangboo are trusted to operate it. \"Strong left arm, stronger right arm!\"",
+    "KO": "탈피·특수 진압부",
+    "CHS": "蜕生·特勤镇暴布",
+    "JA": "羽化・サプレッション・スクワッタ"
+  },
   "19999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
     "tag": null,
@@ -487,7 +571,7 @@
     "group": 204,
     "EN": "Autonomous Support Unit - Sweeper",
     "desc": "An automatic combat mech utilized by Public Security. It possesses various combat modes tailored to various Ethereals types. Its weapons include circular chainsaws and fusion heat rays.\nSweepers can swiftly identify target Ethereals and adapt to the most effective combat strategy.\nHowever, their reliability diminishes to some extent when faced with Hollow Raiders who possess greater versatility than Ethereals.\n\"Stirring, chopping, heating... I wonder who came up with this? Maybe some undercover agent from a kitchenware company trying to boost sales?\"",
-    "KO": "���율 보조 유닛·「스위퍼」",
+    "KO": "자율 보조 유닛·「스위퍼」",
     "CHS": "自律辅助单位·「清扫者」",
     "JA": "自律補助ユニット・「スイーパー」"
   },
@@ -635,6 +719,18 @@
     "CHS": "秽蚀·「重装侵袭者」",
     "JA": "ミアズミック・「重装ストライカー」"
   },
+  "20019": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_BangbooBattleMecha.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 2,
+    "group": 290,
+    "EN": "City Guardboo",
+    "desc": "An elite combat unit fielded by the Roscaelifer Airspace Patrol. Originally deployed to guard critical infrastructure, it was driven out of control by the effects of a Singularity Leakage and Hollow activity. It now wreaks havoc throughout the lower levels of the floating island and within nearby Hollows.\nCity Guardboo forms the backbone of Roscaelifer's Bangboo Guard Forces, serving in assault, air defense, and facility security roles. To support these missions, it is equipped with heavy air-to-ground weaponry.\nAlthough the exoskeletal mech has been compromised by Ether Corruption, the Bangboo pilot inside remains fully operational, lying dormant while waiting for a chance to break free.\n\n\"Ehn-ne, ehn-ne-ne! (I wanted to become a Guardboo! Commander Norma was so happy she even gave me my favorite Ether batteries!)\"",
+    "KO": "성곽 수호부",
+    "CHS": "城防戍卫布",
+    "JA": "シティー・ガーディアンナ"
+  },
   "20020": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_RagingGuy.png",
     "tag": null,
@@ -778,6 +874,54 @@
     "KO": "플라스마·푸그누스",
     "CHS": "离子体·普格努斯",
     "JA": "電離体・プグヌス"
+  },
+  "20033": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Arbiter.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 2,
+    "group": 201,
+    "EN": "Lahmu",
+    "desc": "According to Airspace Patrol defense reports, Lahmu are among the most common native Ethereals in Roscaelifer. Their razor-sharp claws and exceptional mobility have made them a persistent headache for countless patrol officers.\nThanks to posing just the right amount of threat, Lahmu have become the Airspace Patrol's unofficial benchmark for combat capability. Defeating one is considered proof that an officer can hold their own in the field.\n\n\"Hey, did you hear? They say Commander Sigrid can take down 100 Lahmu single-handedly!\"\n\"Then with both hands, that'd be 200! Commander Sigrid is amazing!\"\n\"You blockhead, that's not how it works! If Commander Sigrid used both hands... she could probably take down 10,000 Lahmu!\"",
+    "KO": "라흐무",
+    "CHS": "拉赫穆",
+    "JA": "ラフム"
+  },
+  "20034": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Predator.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 2,
+    "group": 201,
+    "EN": "Mushussu",
+    "desc": "A formidable Ethereal, the Mushussu is known for its relentless charges and hard-to-avoid projectile attacks, making it a dreaded foe among investigators.\nMore war machine than angry serpent, the Mushussu barrels across the battlefield, crushing anything that stands in its way. Only those who have faced it head-on can truly understand how terrifying it is.\nRumors persist that Mushussu prey on Bangboo civilians. Despite repeated attempts by the Airspace Patrol to debunk the claim, many Bangboo remain unconvinced. Even when equipped with advanced combat armor, some Bangboo officers still tremble at the sight of a Mushussu, significantly reducing their combat effectiveness.\n\n\"So why are Bangboo so afraid of Mushussu?\"\n\"Don't snakes love eating eggs? And don't Bangboo kind of look like eggs with legs? A snake with legs eating an egg with legs sounds perfectly reasonable to me!\" \"How is any of that reasonable?!\"",
+    "KO": "무슈후슈",
+    "CHS": "怒蛇",
+    "JA": "ムシュフシュ"
+  },
+  "20035": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_MoltTarasqueMixer.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 2,
+    "group": 201,
+    "EN": "Metamorphosed - Tarasque Mixer",
+    "desc": "One who sheds a shattered shell in darkness, reborn through corruption, having forsaken its fallen form.\n\nBased on their research, the Hollow Investigative Association speculates the Tarasque Mixer contains various levels of liquefied Ether. When it stirs and mixes its stored Ether, a complex reaction takes place, resulting in the release of destructive and violent energy. The power unleashed is comparable to that of the heavy artillery employed by the Defense Force.\nExperienced investigators understand the importance of maintaining a low profile to avoid direct bombardment from its heavy artillery.\n\n\"When it leaned down towards me, I thought it was some kind of strange welcoming gift. But when its cannon chamber lit up, I realized... it was a farewell gift.\"",
+    "KO": "탈피·타라스크 화물차",
+    "CHS": "蜕生·泰拉斯奎祸车",
+    "JA": "羽化・タラスクミキサー"
+  },
+  "20036": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_CorruptedBattleMecha.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 2,
+    "group": 290,
+    "EN": "Metamorphosed - City Guardboo",
+    "desc": "A rebel that sheds its old shell in the gloom, emerging anew amidst corruption, forsaking the body that once sank into depravity.\nAn elite combat unit fielded by the Roscaelifer Airspace Patrol. Blue markings on the chassis indicate assignment to Hollow operations. Originally deployed to guard critical infrastructure, it was driven out of control by the effects of a Singularity Leakage and Hollow activity. It now wreaks havoc throughout the lower levels of the floating island and within nearby Hollows.\nCity Guardboo forms the backbone of Roscaelifer's Bangboo Guard Forces, serving in assault, air defense, and facility security roles. To support these missions, it is equipped with heavy air-to-ground weaponry.\nAlthough the exoskeletal mech has been compromised by Ether Corruption, the Bangboo pilot inside remains fully operational, lying dormant while waiting for a chance to break free.\n\n\"Ehn-ne, ehn-ne-ne! (I wanted to become a Guardboo! Commander Norma was so happy she even gave me my favorite Ether batteries!)\"",
+    "KO": "탈피·성곽 수호부",
+    "CHS": "蜕生·城防戍卫布",
+    "JA": "羽化・シティー・ガーディアンナ"
   },
   "29999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
@@ -1343,6 +1487,66 @@
     "CHS": "遴命者·「骇鸟」",
     "JA": "テラー・ラプトル・「エグゼキューター」"
   },
+  "30047": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_InnerKnight.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 3,
+    "group": 290,
+    "EN": "Shining Promise - Billy",
+    "desc": "A reliable friend, a seasoned fighter, and the very first mentor on the road to combat.\nLook! The badge of the shining galaxy is resonating!\nListen! A powerful beat is ringing!\nEngines roar, gunfire sparks, and the warm-up is finally over. The Knight hauls in his speaker and joins the battlefield. Are you ready, my friend? It's showtime!\n\"Just as expected of the Manager! Time to get serious!\" \"No way, I'm going up against The Champion? For real?\"",
+    "KO": "빛나는 맹세·빌리",
+    "CHS": "闪耀之誓·比利",
+    "JA": "輝ける誓い・ビリー"
+  },
+  "30048": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Sentinel.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 3,
+    "group": 290,
+    "EN": "Airspace Sentinel",
+    "desc": "A special heavy combat unit fielded by the Roscaelifer Airspace Patrol. The culmination of the Airspace Patrol's military technology, it is stationed in the Energy Module facilities on the lower levels of the floating island.\nDuring patrol duty, it remains in a fixed turret configuration, providing thunderous heavy fire support to ground forces. When its stabilized base transforms into a quadrupedal frame, it becomes a highly mobile heavy combat mech capable of dominating the battlefield.\nIt serves as a reliable defensive line against Ethereal incursions caused by Singularity Leakage. However, if affected by Ether Corruption and driven out of control, it becomes a severe threat to the Energy Hub.\n\n\"If any enemy dares to invade, I will deploy in mech form!\"",
+    "KO": "「공역 수호자」",
+    "CHS": "「空域戒戍者」",
+    "JA": "「エアスペース・センティネル」"
+  },
+  "30049": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_WingedAvarus.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 3,
+    "group": 201,
+    "EN": "Metamorphosed - Avarus",
+    "desc": "One who sheds a shattered shell in darkness, reborn through corruption, having forsaken its fallen form.\n\nAccording to Hollow Investigative Association reports, Avarus is often jokingly called the embodiment of \"the sin of gluttony\" — its pot-bellied shape makes it look like a lazy lump, ready to nap at any moment.\nBut don't be fooled. Observations show that Avarus can curl into a ball and strike its targets with incredible speed.\nAs for how it keeps that round figure despite such intense activity? The Association is still scratching its head.\n\"The way it rolls reminds me of my pet hamster... just, y'know, a little bigger.\"\n\"More than just a little bigger...\"",
+    "KO": "탈피·아바루스",
+    "CHS": "蜕生·阿瓦鲁斯",
+    "JA": "羽化・アヴァルス"
+  },
+  "30050": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_WingedChelonethid.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 3,
+    "group": 201,
+    "EN": "Metamorphosed - Scorpse",
+    "desc": "One who sheds a shattered shell in darkness, reborn through corruption, having forsaken its fallen form.\n\nIn a desolate realm completely devoured by the Hollows, it slumbered until the arrival of \"that power.\"\nThis aggressive and contaminating force, like a skilled yet malicious craftsman, refilled it with purer dark energy, transforming it into the current \"Miasmic Scorpse.\"\nGradually, it seemed to grasp the trick of \"existence\" through mimicry. It could split its Miasma energy, creating multiple Mimics indistinguishable from the real thing.\nThese Mimics possess nearly identical offensive capabilities as the original, launching dazzling attacks from different angles to conceal the one lethal \"truth.\"\nWhen facing its encirclement, remember this well: all you see is illusion. All you feel is a trap.\n\n\"Only by stripping away all distractions and perceiving the one 'truth' can you find a glimmer of hope in this deadly dance of phantoms.\"",
+    "KO": "탈피·스콥스",
+    "CHS": "蜕生·蝎骸",
+    "JA": "羽化・ムクロサソリ"
+  },
+  "30051": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_InnerKnightSlime.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 3,
+    "group": 201,
+    "EN": "Doppelganger - Starlight - Billy",
+    "desc": "Even among Ionized enemies renowned for their strange and uncanny qualities, Ionized Doppelgangers are exceptionally unique.\nThese entities can coat their bodies with a layer of special active Ether ions, enabling them to accurately replicate their target's form, often to a degree that makes it hard to tell the difference. Both in detail and texture, it is almost impossible to tell apart from the original.\nEven more challenging is their ability to mimic the powerful and intimidating combat techniques of their targets.\nNo one knows where they obtain the information about the subjects they mimic. Some rumors suggest they can read minds, picking out the most suitable challengers from their opponent's memories, and then attack in that form.\n\n\"Nonsense! If it could really read my deepest fears, it would turn into a fierce middle-aged woman wielding a clothes hanger! That's right, I'm most afraid of my mom!\"",
+    "KO": "도플갱어·스타라이트·빌리",
+    "CHS": "多佩冈亚·星徽·比利",
+    "JA": "ドッペルゲンガー・スターライト・ビリー"
+  },
   "35001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Nineveh.png",
     "tag": null,
@@ -1389,7 +1593,7 @@
     "desc": "New Eridu never hesitates to spotlight rising stars, nor does it stop consuming legends born and burnt out in a flash. In TOPS Entertainment's dazzling blueprint, the perfect \"new star\" is always described this way: a songstress who is flawlessly precise, absolutely controllable, and capable of carrying any artistic vision, defining the idol standard of a new era.\nAnd Vesper, model \"V-DTX,\" stands among their most closely cultivated test cases.\nShe was given the most advanced vocal module, the most sophisticated emotion simulation system, and... a crystal-clear Core inscribed with \"love for the stage.\" With every curtain call and in every pause between her lyrics, she could feel it again and again — her own heart, pure as crystal.\nAnd yet she slipped into an obsession: no matter how much of herself she gave, she and her voice were nothing but instruments on a stage, just numbers in a producer's ledger.\nEven the most perfect performances and the hottest applause were only footnotes for someone else's story, never the fire that truly burned inside her.\nHer voice began to pick up faint distortions, and her \"heart\" was no longer pure, collapsing into a shattered, pitiful void. The stage she once cherished above all else became a beautiful, merciless cage.\n\"The stage really is beautiful, isn't it? Even though you only want to hear the echoes you designed...\"\n\"But that's okay. I'll sing for you.\"\n\"In my own way, I'll bring this false performance to its final rest.\"",
     "KO": "고독한 불협의 노래·베스퍼",
     "CHS": "叛律孤歌·薇斯珀",
-    "JA": "プリマ・イコノクラスト・ヴェスポ"
+    "JA": "プリマ・イコノクラスト・ヴェ���ポ"
   },
   "40002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_GraymaneCenturion.png",
@@ -1438,6 +1642,30 @@
     "KO": "태양의 잔불·파에톤",
     "CHS": "焚昼余火·法厄同",
     "JA": "焦天残火・パエトーン"
+  },
+  "40006": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Girtablu.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 4,
+    "group": 201,
+    "EN": "Girtablullu",
+    "desc": "A highly dangerous scorpion-like Ethereal that fights with an ash-gray lance. Its powerful lower body and agile upper torso combine to create a combat machine that is both devastating and highly mobile. By burrowing through \"wormholes,\" it traverses the Scamall Hollow in search of its next victim to fall into the nest. Unlike Ethereals transformed from corrupted wildlife or machinery, this creature was spawned by something far more terrifying, carrying an Ether signature unlike any other.\n\n\"There's no Insect Phobia Mode in the settings!\"",
+    "KO": "기르타블리르",
+    "CHS": "基塔布鲁",
+    "JA": "ギルタブルル"
+  },
+  "40007": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Vessel_HC.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 4,
+    "group": 290,
+    "EN": "Integrated - Primordial Nightmare",
+    "desc": "High-risk simulation units based on live combat data. By deeply reconstructing and overfitting the combat logic of their prototypes, certain individuals have exceeded standard performance limits, posing an exceptionally high combat threat.",
+    "KO": "융합·태초의 악몽",
+    "CHS": "异构·太初梦魇",
+    "JA": "異性体・原初の悪夢"
   },
   "100001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGreyPro.png",

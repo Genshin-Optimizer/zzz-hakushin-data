@@ -6,7 +6,7 @@
       "Id": 11123,
       "CodeName": "Monster_HatiGrey",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Middle", "Grey", "UnArmored"],
+      "Tag": ["Ether", "Demote", "Middle", "Grey", "UnArmored", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 11124,
       "CodeName": "Monster_HatiGrey",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Middle", "Grey", "UnArmored"],
+      "Tag": ["Ether", "Promote", "Middle", "Grey", "UnArmored", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -254,7 +254,7 @@
       "Id": 21201,
       "CodeName": "Monster_HatiGrey_Mini",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Grey", "UnArmored", "HatiMini"],
+      "Tag": ["Ether", "Demote", "Small", "Grey", "UnArmored", "HatiMini", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

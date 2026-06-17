@@ -6,7 +6,7 @@
       "Id": 11974,
       "CodeName": "Monster_TacticalAssaultGunner",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_TacticalAssaultGunner.png",
-      "Tag": ["Bios", "Middle", "Boss"],
+      "Tag": ["Bios", "Middle", "Boss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

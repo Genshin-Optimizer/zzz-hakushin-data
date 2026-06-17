@@ -6,7 +6,15 @@
       "Id": 11253,
       "CodeName": "Monster_LightJaegerCam",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Light", "Jaeger", "Cam"],
+      "Tag": [
+        "Bios",
+        "Demote",
+        "Small",
+        "Light",
+        "Jaeger",
+        "Cam",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +138,15 @@
       "Id": 11254,
       "CodeName": "Monster_LightJaegerCam",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Light", "Jaeger", "Cam"],
+      "Tag": [
+        "Bios",
+        "Promote",
+        "Small",
+        "Light",
+        "Jaeger",
+        "Cam",
+        "LittleMonster"
+      ],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -6,7 +6,7 @@
       "Id": 31196,
       "CodeName": "Monster_Hayyot",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Hayyot.png",
-      "Tag": ["Ether", "Middle", "Boss", "EtherBarrierBoss", "Miasma"],
+      "Tag": ["Ether", "Middle", "Boss", "EtherBarrierBoss", "Miasma", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

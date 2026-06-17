@@ -6,7 +6,7 @@
       "Id": 31181,
       "CodeName": "Monster_MiasmaSpawn",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Miasma"],
+      "Tag": ["Ether", "Demote", "Small", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 31182,
       "CodeName": "Monster_MiasmaSpawn",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Miasma"],
+      "Tag": ["Ether", "Promote", "Small", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 31183,
       "CodeName": "Monster_MiasmaSpawn",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Miasma", "Coop"],
+      "Tag": ["Ether", "Promote", "Small", "Miasma", "Coop", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

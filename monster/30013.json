@@ -6,7 +6,7 @@
       "Id": 31201,
       "CodeName": "Monster_Chelonethid",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Chelonethid.png",
-      "Tag": ["Ether", "Boss", "Large", "Miasma", "EtherBarrierBoss"],
+      "Tag": ["Ether", "Boss", "Large", "Miasma", "EtherBarrierBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -136,7 +136,8 @@
         "Large",
         "Miasma",
         "EtherBarrierBoss",
-        "HighEtherBarrier"
+        "HighEtherBarrier",
+        ""
       ],
       "Type": "Monster",
       "Element": {

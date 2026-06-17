@@ -6,7 +6,7 @@
       "Id": 31442,
       "CodeName": "Monster_ObsoleteAndroid",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_ObsoleteAndroid.png",
-      "Tag": ["Bios", "Small", "Boss"],
+      "Tag": ["Bios", "Small", "Boss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 31443,
       "CodeName": "Monster_ObsoleteAndroid",
       "Icon": "",
-      "Tag": ["Bios", "Small"],
+      "Tag": ["Bios", "Small", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 31444,
       "CodeName": "Monster_ObsoleteAndroid",
       "Icon": "",
-      "Tag": ["Bios", "Small"],
+      "Tag": ["Bios", "Small", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

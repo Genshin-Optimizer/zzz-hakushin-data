@@ -57,7 +57,7 @@
     "desc": "There's a dark past hidden under that bag...",
     "KO": "봉투부",
     "CHS": "纸袋布",
-    "JA": "フクロノ��ンプ"
+    "JA": "フクロ��ボンプ"
   },
   "53007": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole02.png",
@@ -177,7 +177,7 @@
     "desc": "Don't step on the blocks barefoot.",
     "KO": "블록부",
     "CHS": "乐玩布",
-    "JA": "���ロックボンプ"
+    "JA": "ブロックボンプ"
   },
   "53021": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole45.png",
@@ -346,7 +346,7 @@
     "EN": "Belion",
     "desc": "The true essence of martial arts is the lightness and purity of heart.",
     "KO": "사야",
-    "CHS": "狮��",
+    "CHS": "��耶",
     "JA": "オシシ"
   },
   "54018": {
@@ -388,5 +388,15 @@
     "KO": "싹싹",
     "CHS": "芽芽",
     "JA": "メメ"
+  },
+  "54022": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole47.png",
+    "rank": 4,
+    "codename": "Ultra Jake",
+    "EN": "Ultra Jake",
+    "desc": "A super-spec En-Nah tech crystal.",
+    "KO": "울트라 제이크",
+    "CHS": "超极杰克",
+    "JA": "ウルトラネイヴ"
   }
 }

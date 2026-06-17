@@ -6,7 +6,7 @@
       "Id": 31432,
       "CodeName": "Monster_Pure",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Pure.png",
-      "Tag": ["Ether", "Middle", "MainStoryBoss", "PureBoss"],
+      "Tag": ["Ether", "Middle", "MainStoryBoss", "PureBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,
@@ -130,7 +130,7 @@
       "Id": 31439,
       "CodeName": "Monster_Pure",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Pure.png",
-      "Tag": ["Ether", "Middle", "MainStoryBoss", "PureBoss"],
+      "Tag": ["Ether", "Middle", "MainStoryBoss", "PureBoss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 1,

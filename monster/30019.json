@@ -6,7 +6,7 @@
       "Id": 11671,
       "CodeName": "Monster_DubiousHero",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_DubiousHero.png",
-      "Tag": ["Bios", "Middle", "Boss"],
+      "Tag": ["Bios", "Middle", "Boss", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,
@@ -130,7 +130,7 @@
       "Id": 11672,
       "CodeName": "Monster_Coop_DubiousHero",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_DubiousHero.png",
-      "Tag": ["Bios", "Middle", "Boss", "Coop"],
+      "Tag": ["Bios", "Middle", "Boss", "Coop", ""],
       "Type": "Monster",
       "Element": {
         "Ice": -1,

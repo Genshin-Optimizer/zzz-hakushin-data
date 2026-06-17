@@ -11,7 +11,8 @@
         "MainStoryBoss",
         "Middle",
         "UniqueDeathEff",
-        "DeathEffMiddle"
+        "DeathEffMiddle",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -141,7 +142,8 @@
         "MainStoryBoss",
         "Middle",
         "UniqueDeathEff",
-        "DeathEffMiddle"
+        "DeathEffMiddle",
+        ""
       ],
       "Type": "Monster",
       "Element": {
@@ -272,7 +274,8 @@
         "Middle",
         "UniqueDeathEff",
         "DeathEffMiddle",
-        "OnlyP2"
+        "OnlyP2",
+        ""
       ],
       "Type": "Monster",
       "Element": {

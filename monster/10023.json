@@ -6,7 +6,7 @@
       "Id": 11241,
       "CodeName": "Monster_GoldenBomb",
       "Icon": "",
-      "Tag": ["Mech", "Small", "GoldenBomb", "Bomb"],
+      "Tag": ["Mech", "Small", "GoldenBomb", "Bomb", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11242,
       "CodeName": "Monster_GoldenBomb",
       "Icon": "",
-      "Tag": ["Mech", "Small", "GoldenBomb", "Test", "Bomb"],
+      "Tag": ["Mech", "Small", "GoldenBomb", "Test", "Bomb", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

@@ -6,7 +6,7 @@
       "Id": 11011,
       "CodeName": "Monster_MeleeSoldier",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Melee", "Soldier"],
+      "Tag": ["Bios", "Demote", "Small", "Melee", "Soldier", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11012,
       "CodeName": "Monster_MeleeSoldier",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Melee", "Soldier"],
+      "Tag": ["Bios", "Promote", "Small", "Melee", "Soldier", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

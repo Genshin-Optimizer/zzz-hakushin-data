@@ -6,7 +6,7 @@
       "Id": 11021,
       "CodeName": "Monster_RangeSoldier",
       "Icon": "",
-      "Tag": ["Bios", "Demote", "Small", "Range", "Soldier"],
+      "Tag": ["Bios", "Demote", "Small", "Range", "Soldier", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11022,
       "CodeName": "Monster_RangeSoldier",
       "Icon": "",
-      "Tag": ["Bios", "Promote", "Small", "Range", "Soldier"],
+      "Tag": ["Bios", "Promote", "Small", "Range", "Soldier", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

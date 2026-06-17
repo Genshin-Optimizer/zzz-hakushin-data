@@ -6,7 +6,7 @@
       "Id": 11371,
       "CodeName": "Monster_BeholderEngine",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small"],
+      "Tag": ["Ether", "Demote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11372,
       "CodeName": "Monster_BeholderEngine",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small"],
+      "Tag": ["Ether", "Promote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 11373,
       "CodeName": "Monster_BeholderEngine",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small"],
+      "Tag": ["Ether", "Promote", "Small", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

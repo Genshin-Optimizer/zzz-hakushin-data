@@ -6,7 +6,7 @@
       "Id": 11051,
       "CodeName": "Monster_Guardian",
       "Icon": "",
-      "Tag": ["Mech", "Demote", "Large", "Black"],
+      "Tag": ["Mech", "Demote", "Large", "Black", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 11052,
       "CodeName": "Monster_Guardian",
       "Icon": "",
-      "Tag": ["Mech", "Promote", "Large", "Black"],
+      "Tag": ["Mech", "Promote", "Large", "Black", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

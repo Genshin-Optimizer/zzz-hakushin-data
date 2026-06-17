@@ -6,7 +6,7 @@
       "Id": 31071,
       "CodeName": "Monster_Huskron",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Miasma"],
+      "Tag": ["Ether", "Demote", "Small", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -130,7 +130,7 @@
       "Id": 31072,
       "CodeName": "Monster_Huskron",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Miasma"],
+      "Tag": ["Ether", "Promote", "Small", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -254,7 +254,7 @@
       "Id": 31073,
       "CodeName": "Monster_Huskron",
       "Icon": "",
-      "Tag": ["Ether", "Promote", "Small", "Miasma", "Coop"],
+      "Tag": ["Ether", "Promote", "Small", "Miasma", "Coop", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -378,7 +378,7 @@
       "Id": 31074,
       "CodeName": "Monster_MonsterTest02",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Miasma"],
+      "Tag": ["Ether", "Demote", "Small", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
@@ -451,7 +451,7 @@
       "Id": 31075,
       "CodeName": "Monster_MonsterTest01",
       "Icon": "",
-      "Tag": ["Ether", "Demote", "Small", "Miasma"],
+      "Tag": ["Ether", "Demote", "Small", "Miasma", "LittleMonster"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,
