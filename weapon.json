@@ -141,7 +141,7 @@
     "sub": "PEN Ratio",
     "KO": "「자기 폭풍」-찰리",
     "CHS": "「电磁暴」-叁式",
-    "JA": "「磁���嵐」-参式"
+    "JA": "「��気嵐」-参式"
   },
   "12013": {
     "icon": "Weapon_B_Common_13",
@@ -223,7 +223,7 @@
     "atk": 594,
     "desc": "A damage-type W-Engine made of special Etheric matter. When its user is attacked, it builds up energy.",
     "sub": "ATK",
-    "KO": "별빛 엔���",
+    "KO": "별빛 ��진",
     "CHS": "星徽引擎",
     "JA": "スターライトエンジン"
   },
@@ -343,7 +343,7 @@
     "atk": 594,
     "desc": "Designed for those Hollow-dwelling bards who refuse to listen to the same albums repeatedly, this W-Engine comes equipped with a radio module that can transform Etheric frequencies into melodies.",
     "sub": "HP",
-    "KO": "일렉트로 ���크",
+    "KO": "일렉트로 워크",
     "CHS": "电波漫步",
     "JA": "エレクトロウォーク"
   },
@@ -392,7 +392,7 @@
     "desc": "Countless threads of Sword Will echo through this tiny stretch of sky.",
     "sub": "HP",
     "KO": "푸른 물결의 솥",
-    "CHS": "青���灵鼎",
+    "CHS": "��漪灵鼎",
     "JA": "蒼き波の霊器"
   },
   "13020": {
@@ -475,7 +475,7 @@
     "atk": 624,
     "desc": "A powerful protection-type W-Engine, characterized by thick oil cylinders that ceaselessly roar inside it. It can provide sufficient power for heavy machinery.",
     "sub": "DEF",
-    "KO": "빅 실린��",
+    "KO": "빅 실린더",
     "CHS": "比格气缸",
     "JA": "ビガー・シリンダー"
   },
@@ -1016,7 +1016,7 @@
     "desc": "Thoughts follow the veins of fantasy, weaving themselves into song.",
     "sub": "Energy Regen",
     "KO": "사유로 빚은 노래",
-    "CHS": "思络成���",
+    "CHS": "思络��歌",
     "JA": "想いが織りなす歌"
   },
   "14150": {

@@ -1,0 +1,97 @@
+{
+  "1000008": {
+    "Name": "Windbloom",
+    "Desc": "When Velina enters the battlefield, she gains 45 points of <color=#FFFFFF>Windbloom</color>. Using <color=#FFFFFF>EX Special Attack: Wind Shear - Purifying Rise</color> or <color=#FFFFFF>EX Special Attack: Wind Shear - Triple Deathblow</color> grants 45 points of <color=#FFFFFF>Windbloom</color>, up to a maximum of 135 points. With enough <color=#FFFFFF>Windbloom</color>, hold <IconMap:Icon_Special> or <IconMap:Icon_Normal> to launch <color=#FFFFFF>EX Special Attack: Wind Shear - Eye of the Storm</color>.",
+    "Skill": "Core Passive: Breeze in Bloom"
+  },
+  "1000009": {
+    "Name": "Top Hat Companion",
+    "Desc": "When using <color=#FFFFFF>Basic Attack: Hat Trick</color>, the thrown hat:\nIs actually a Bangboo. While Top Hat Companion is on the field, it accumulates Preheated Chamber in Norma's place. When Norma retrieves the Top Hat Companion, all accumulated Preheated Chamber is transferred to her.\nTop Hat Companion inherits all of Norma's stats.",
+    "Skill": "Basic Attack: Hat Trick"
+  },
+  "1000010": {
+    "Name": "En-Nah Turret",
+    "Desc": "The white turret summoned by <color=#FFFFFF>EX Special Attack: En-Nah Barrage</color>:\nAutomatically uses Special Attack: Target Practice at regular intervals. After deploying its missile bay, this skill is replaced with EX Special Attack: Explosive Experiment.\nEn-Nah Turrets inherit all of Norma's stats.",
+    "Skill": "EX Special Attack: En-Nah Barrage"
+  },
+  "1000011": {
+    "Name": "Preheated Chamber",
+    "Desc": "While Norma or her Top Hat Companion is on the field, gain 1.5% Preheated Chamber per second.\nWhen Preheated Chamber reaches 80% or higher, the Quick Assist triggered by Basic Attack: Hat Trick is <color=#FFFFFF>replaced with a Chain Attack</color>.",
+    "Skill": "Basic Attack: Hat Trick"
+  },
+  "1000012": {
+    "Name": "En-Nah Barrage",
+    "Desc": "The buff gained from <color=#FFFFFF>EX Special Attack: En-Nah Barrage</color>:\nDuring its active duration, two En-Nah Turrets are summoned to fight alongside Norma.\nWhen <color=#FFFFFF>Additional Ability: Advantage in Numbers</color> is triggered, Norma's ATK is further increased, and all squad members deal increased DMG.",
+    "Skill": "EX Special Attack: En-Nah Barrage"
+  },
+  "1000013": {
+    "Name": "Tech Divide",
+    "Desc": "The debuff applied when Norma or her creations hit an enemy:\nFor the duration of the effect, the target's Stun DMG Multiplier is increased, and the duration of its Stunned state is extended.",
+    "Skill": "Additional Ability: Advantage in Numbers"
+  },
+  "1000014": {
+    "Name": "Windbite",
+    "Desc": "When Velina triggers <color=#FFFFFF>Vortex</color>, she gains 1 point of <color=#FFFFFF>Windbite</color>. When Velina has 2 points of <color=#FFFFFF>Windbite</color>, the next time she triggers <color=#FFFFFF>Vortex</color>, she consumes 2 points of <color=#FFFFFF>Windbite</color> to increase that instance's DMG Multiplier.",
+    "Skill": "Core Passive: Breeze in Bloom"
+  },
+  "1000015": {
+    "Name": "Condensed Cyclone",
+    "Desc": "When Velina triggers <color=#FFFFFF>Vortex</color>, she summons a <color=#FFFFFF>Condensed Cyclone</color> that deals <color=#A6C5FD>Wind DMG</color>. When the <color=#FFFFFF>Condensed Cyclone</color> dissipates, it triggers an explosion. If the explosion hits an enemy afflicted with a <color=#A6C5FD>Wind Anomaly</color>, it deals one instance of <color=#FFFFFF>Abloom</color> DMG.",
+    "Skill": "Core Passive: Breeze in Bloom"
+  },
+  "1000016": {
+    "Name": "Sweeping Cyclone",
+    "Desc": "When Velina uses <color=#FFFFFF>EX Special Attack: Wind Shear - Eye of the Storm</color> or triggers <color=#FFFFFF>Vortex</color> while consuming 2 points of <Term:1000014>, she summons a <color=#FFFFFF>Sweeping Cyclone</color> to continuously deal <color=#A6C5FD>Wind DMG</color> that is capable of triggering the <Term:1000017> effect. When <color=#FFFFFF>Sweeping Cyclone</color> attacks hit enemies, the enemy's <color=#A6C5FD>Wind Anomaly Buildup RES</color> and the corresponding <color=#FFFFFF>Attribute Anomaly Buildup RES</color> from <color=#FFFFFF>Chromatic Tint</color> are reduced. When <color=#FFFFFF>Sweeping Cyclone</color> dissipates, it triggers an explosion. If the explosion hits an enemy suffering a <color=#A6C5FD>Wind Anomaly</color>, it deals one instance of <color=#FFFFFF>Abloom</color> DMG.",
+    "Skill": "Core Passive: Breeze in Bloom"
+  },
+  "1000017": {
+    "Name": "Chromatic Tint",
+    "Desc": "When <Term:1000016> hits an enemy afflicted with <color=#FFFFFF>Contamination</color> for the first time, it triggers the <color=#FFFFFF>Chromatic Tint</color> effect, converting into a <color=#FFFFFF>Sweeping Cyclone</color> of the corresponding attribute and dealing the corresponding attribute's DMG.",
+    "Skill": "Core Passive: Breeze in Bloom"
+  },
+  "1000018": {
+    "Name": "Solar Prominence",
+    "Desc": "Upon entering the battlefield, Pyrois gains 30 <color=#FFFFFF>Solar Prominence</color>. Different attacks grant a certain amount of <color=#FFFFFF>Solar Prominence</color> when they hit enemies, and Pyrois also gains a certain amount of <color=#FFFFFF>Solar Prominence</color> every second.\nWith 30 or more Solar Prominence, hold <IconMap:Icon_Normal> to activate Basic Attack: Celestial Light. Each hit from Basic Attack: Celestial Light consumes a certain amount of Solar Prominence.",
+    "Skill": "Core Passive: Radiant Chariot"
+  },
+  "1000019": {
+    "Name": "Mirage",
+    "Desc": "Pyrois enters the Mirage state when using Ultimate: Total Annihilation. While in the Mirage state, Pyrois' Ultimate deals increased CRIT DMG against Stunned enemies.",
+    "Skill": "Core Passive: Radiant Chariot"
+  },
+  "1000020": {
+    "Name": "Sunflare",
+    "Desc": "Pyrois enters the Sunflare state when using Ultimate: Triumphant Return. While Sunflare is active, Energy Generation Rate and DMG dealt increase, and triggering a Perfect Block with an EX Special Attack restores additional <Term:1000018>.",
+    "Skill": "Core Passive: Radiant Chariot"
+  },
+  "1000021": {
+    "Name": "Totalize",
+    "Desc": "Grants a special effect against Stunned enemies.\nWhen Pyrois triggers Totalize, additional DMG is dealt, and the target's Stunned state ends.",
+    "Skill": "Core Passive: Radiant Chariot"
+  },
+  "1000022": {
+    "Name": "Cinderfire",
+    "Desc": "Gain Cinderfire when using a Chain Attack. All Cinderfire stacks are consumed upon using an Ultimate, granting a certain amount of <color=#FFFFFF>Decibels</color> for each stack consumed.",
+    "Skill": "Additional Ability: Glorious Legion"
+  },
+  "2000001": {
+    "Name": "Corruptive Barrier",
+    "Desc": "· <color=#FFAF2C>CRIT DMG RES, ATK, and Anti-Interrupt</color> are increased while all Agents in the squad lose HP over time.\n· When the Corruptive Barrier is broken, a portion of HP is converted into HP for all Agents in the squad, and Energy is restored.",
+    "Skill": "Enemy Intelligence"
+  },
+  "2000002": {
+    "Name": "Miasmic Shield",
+    "Desc": "· <color=#FFAF2C>DEF, DMG reduction</color>, and <color=#FFAF2C>Anti-Interrupt</color> are significantly enhanced, and the enemy will not be Stunned. Agents can deplete the Miasmic Shield through attacks.\n· When the Miasmic Shield is broken, enemies take <color=#FFAF2C>Purify</color> DMG, and Agents <color=#FFAF2C>recover Energy or Adrenaline</color>.",
+    "Skill": "Enemy Intelligence"
+  },
+  "2000003": {
+    "Name": "Control Skill",
+    "Desc": "· Skills <color=#FFAF2C>ignore the Invulnerable effect</color> and have no flash prompts. Agents cannot activate their Ultimates during this time. Only one Agent switch is allowed per enemy attack, and each Agent can only perform one dodge.\n· <color=#FFAF2C>Defensive Assist</color> or <color=#FFAF2C>Evasive Assist</color> can be used to counter this skill. Successfully countering all skills inflicts the <color=#FFAF2C>Shutdown</color> effect on the enemy, dealing massive DMG and accumulating a large amount of Daze.",
+    "Skill": "Enemy Intelligence"
+  },
+  "10000081": {
+    "Name": "Windbloom",
+    "Desc": "When Velina enters the battlefield, she gains 45 points of <color=#FFFFFF>Windbloom</color>. Using <color=#FFFFFF>EX Special Attack: Wind Shear - Purifying Rise</color> or <color=#FFFFFF>EX Special Attack: Wind Shear - Triple Deathblow</color> grants 45 points of <color=#FFFFFF>Windbloom</color>, up to a maximum of 135 points. With enough <color=#FFFFFF>Windbloom</color>, hold <IconMap:Icon_Special> or <IconMap:Icon_Normal> to launch <color=#FFFFFF>EX Special Attack: Wind Shear - Eye of the Storm</color>.",
+    "Skill": "Core Passive: Breeze in Bloom"
+  }
+}
