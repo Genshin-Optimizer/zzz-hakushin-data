@@ -4,11 +4,19 @@
   "Name": "Jane",
   "CodeName": "Jane",
   "Rarity": 4,
-  "WeaponType": { "3": "Anomaly" },
-  "ElementType": { "200": "Physical" },
+  "WeaponType": {
+    "3": "Anomaly"
+  },
+  "ElementType": {
+    "200": "Physical"
+  },
   "SpecialElementType": {},
-  "HitType": { "101": "Slash" },
-  "Camp": { "7": "New Eridu Public Security" },
+  "HitType": {
+    "101": "Slash"
+  },
+  "Camp": {
+    "7": "New Eridu Public Security"
+  },
   "Gender": 2,
   "PartnerInfo": {
     "Birthday": "FEB 16",
@@ -93,7 +101,10 @@
       "Defence": 0,
       "LevelMax": 10,
       "LevelMin": 0,
-      "Materials": { "10": 24000, "100213": 4 }
+      "Materials": {
+        "10": 24000,
+        "100213": 4
+      }
     },
     "2": {
       "HpMax": 430,
@@ -101,7 +112,10 @@
       "Defence": 33,
       "LevelMax": 20,
       "LevelMin": 10,
-      "Materials": { "10": 56000, "100223": 12 }
+      "Materials": {
+        "10": 56000,
+        "100223": 12
+      }
     },
     "3": {
       "HpMax": 859,
@@ -109,7 +123,10 @@
       "Defence": 67,
       "LevelMax": 30,
       "LevelMin": 20,
-      "Materials": { "10": 120000, "100223": 20 }
+      "Materials": {
+        "10": 120000,
+        "100223": 20
+      }
     },
     "4": {
       "HpMax": 1289,
@@ -117,7 +134,10 @@
       "Defence": 100,
       "LevelMax": 40,
       "LevelMin": 30,
-      "Materials": { "10": 200000, "100233": 10 }
+      "Materials": {
+        "10": 200000,
+        "100233": 10
+      }
     },
     "5": {
       "HpMax": 1719,
@@ -125,7 +145,10 @@
       "Defence": 134,
       "LevelMax": 50,
       "LevelMin": 40,
-      "Materials": { "10": 400000, "100233": 20 }
+      "Materials": {
+        "10": 400000,
+        "100233": 20
+      }
     },
     "6": {
       "HpMax": 2149,
@@ -241,11 +264,65 @@
     }
   },
   "LevelEXP": [
-    50, 150, 250, 400, 600, 800, 1000, 1250, 1500, 1800, 1935, 2065, 2200, 2335,
-    2465, 2600, 2735, 2865, 3000, 4680, 4975, 5265, 5560, 5855, 6145, 6440,
-    6735, 7025, 7320, 10800, 11400, 12000, 12600, 13200, 13800, 14400, 15000,
-    15600, 16200, 17100, 18300, 19500, 20700, 21900, 23100, 24300, 25500, 26700,
-    27900, 34200, 36600, 39000, 41400, 43800, 46200, 48600, 51000, 53400, 55800,
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
     0
   ],
   "Skill": {
@@ -254,7 +331,7 @@
         {
           "Name": "Basic Attack: Dancing Blades",
           "Desc": "Press <IconMap:Icon_Normal> to activate:\nUnleashes up to 6 attacks in front, dealing <color=#F0D12B>Physical DMG</color>.",
-          "Potential": [0]
+          "Potential": []
         },
         {
           "Name": "Passion",
@@ -264,7 +341,7 @@
         {
           "Name": "Basic Attack: Salchow Jump",
           "Desc": "Entering the <color=#FFFFFF>Passion</color> state grants Jane one use of <color=#FFFFFF>Basic Attack: Salchow Jump</color>.\nWhen available, hold <IconMap:Icon_Normal> to activate:\nLaunch rapid consecutive attacks forward, followed by a Finishing Move, dealing <color=#F0D12B>Physical DMG</color>.\nHold the button during the consecutive attacks to extend the skill duration. Release <IconMap:Icon_Normal> to trigger the Finishing Move early.\nAnti-Interrupt level is increased during the consecutive attacks, and Jane takes 40% reduced DMG. Jane is invulnerable during the Finishing Move.\nUsing and damaging an enemy with <color=#FFFFFF>Basic Attack: Salchow Jump</color> while in the <color=#FFFFFF>Passion</color> state generates <color=#FFFFFF>Passion Stream</color>.",
-          "Potential": [0]
+          "Potential": []
         },
         {
           "Name": "Basic Attack: Dancing Blades",
@@ -287,7 +364,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2134,
                   "SpConsume": 0,
-                  "AttackData": [41695, 33356],
+                  "AttackData": [
+                    41695,
+                    33356
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 1390
@@ -313,7 +393,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5206,
                   "SpConsume": 0,
-                  "AttackData": [66493, 53194],
+                  "AttackData": [
+                    66493,
+                    53194
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 4020
@@ -339,7 +422,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6878,
                   "SpConsume": 0,
-                  "AttackData": [82623, 66098],
+                  "AttackData": [
+                    82623,
+                    66098
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 5404
@@ -365,7 +451,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12745,
                   "SpConsume": 0,
-                  "AttackData": [155541, 124433],
+                  "AttackData": [
+                    155541,
+                    124433
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 9969
@@ -391,7 +480,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7671,
                   "SpConsume": 0,
-                  "AttackData": [80264, 64211],
+                  "AttackData": [
+                    80264,
+                    64211
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 6238
@@ -417,7 +509,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 22662,
                   "SpConsume": 0,
-                  "AttackData": [251293, 201034],
+                  "AttackData": [
+                    251293,
+                    201034
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 18175
@@ -443,7 +538,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 2134,
                   "SpConsume": 0,
-                  "AttackData": [41695, 33356],
+                  "AttackData": [
+                    41695,
+                    33356
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 1390
@@ -469,7 +567,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5206,
                   "SpConsume": 0,
-                  "AttackData": [66493, 53194],
+                  "AttackData": [
+                    66493,
+                    53194
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 4020
@@ -495,7 +596,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 6878,
                   "SpConsume": 0,
-                  "AttackData": [82623, 66098],
+                  "AttackData": [
+                    82623,
+                    66098
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 5404
@@ -521,7 +625,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12745,
                   "SpConsume": 0,
-                  "AttackData": [155541, 124433],
+                  "AttackData": [
+                    155541,
+                    124433
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 9969
@@ -547,7 +654,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 7671,
                   "SpConsume": 0,
-                  "AttackData": [80264, 64211],
+                  "AttackData": [
+                    80264,
+                    64211
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 6238
@@ -573,7 +683,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 22662,
                   "SpConsume": 0,
-                  "AttackData": [251293, 201034],
+                  "AttackData": [
+                    251293,
+                    201034
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 18175
@@ -605,7 +718,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 27340,
                   "SpConsume": 0,
-                  "AttackData": [249960, 249960],
+                  "AttackData": [
+                    249960,
+                    249960
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 20830
@@ -631,7 +747,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 14656,
                   "SpConsume": 0,
-                  "AttackData": [134000, 134000],
+                  "AttackData": [
+                    134000,
+                    134000
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 11167
@@ -657,7 +776,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 27340,
                   "SpConsume": 0,
-                  "AttackData": [249960, 249960],
+                  "AttackData": [
+                    249960,
+                    249960
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 20830
@@ -683,7 +805,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 14656,
                   "SpConsume": 0,
-                  "AttackData": [134000, 134000],
+                  "AttackData": [
+                    134000,
+                    134000
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 11167
@@ -696,17 +821,51 @@
         }
       ],
       "Material": {
-        "1": { "10": 2000, "100110": 2 },
-        "2": { "10": 3000, "100110": 3 },
-        "3": { "10": 6000, "100120": 2 },
-        "4": { "10": 9000, "100120": 3 },
-        "5": { "10": 12000, "100120": 4 },
-        "6": { "10": 18000, "100120": 6 },
-        "7": { "10": 45000, "100130": 5 },
-        "8": { "10": 67500, "100130": 8 },
-        "9": { "10": 90000, "100130": 10 },
-        "10": { "10": 112500, "100130": 12 },
-        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
         "12": {}
       }
     },
@@ -758,7 +917,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3250,
                   "SpConsume": 0,
-                  "AttackData": [97500, 0],
+                  "AttackData": [
+                    97500,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 3250
@@ -784,7 +946,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3250,
                   "SpConsume": 0,
-                  "AttackData": [97500, 0],
+                  "AttackData": [
+                    97500,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 3250
@@ -810,7 +975,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3250,
                   "SpConsume": 0,
-                  "AttackData": [97500, 0],
+                  "AttackData": [
+                    97500,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 3250
@@ -836,7 +1004,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 3250,
                   "SpConsume": 0,
-                  "AttackData": [97500, 0],
+                  "AttackData": [
+                    97500,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 3250
@@ -868,7 +1039,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4748,
                   "SpConsume": 0,
-                  "AttackData": [0, 113961],
+                  "AttackData": [
+                    0,
+                    113961
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 4749
@@ -894,7 +1068,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 4748,
                   "SpConsume": 0,
-                  "AttackData": [0, 113961],
+                  "AttackData": [
+                    0,
+                    113961
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 4749
@@ -926,7 +1103,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17767,
                   "SpConsume": 0,
-                  "AttackData": [54167, 0],
+                  "AttackData": [
+                    54167,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 25834
@@ -952,7 +1132,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17767,
                   "SpConsume": 0,
-                  "AttackData": [54167, 0],
+                  "AttackData": [
+                    54167,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 25834
@@ -978,7 +1161,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17767,
                   "SpConsume": 0,
-                  "AttackData": [54167, 0],
+                  "AttackData": [
+                    54167,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 25834
@@ -1004,7 +1190,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 17767,
                   "SpConsume": 0,
-                  "AttackData": [54167, 0],
+                  "AttackData": [
+                    54167,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 25834
@@ -1036,7 +1225,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19431,
                   "SpConsume": 0,
-                  "AttackData": [0, 100000],
+                  "AttackData": [
+                    0,
+                    100000
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 27497
@@ -1062,7 +1254,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 19431,
                   "SpConsume": 0,
-                  "AttackData": [0, 100000],
+                  "AttackData": [
+                    0,
+                    100000
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 27497
@@ -1075,17 +1270,51 @@
         }
       ],
       "Material": {
-        "1": { "10": 2000, "100110": 2 },
-        "2": { "10": 3000, "100110": 3 },
-        "3": { "10": 6000, "100120": 2 },
-        "4": { "10": 9000, "100120": 3 },
-        "5": { "10": 12000, "100120": 4 },
-        "6": { "10": 18000, "100120": 6 },
-        "7": { "10": 45000, "100130": 5 },
-        "8": { "10": 67500, "100130": 8 },
-        "9": { "10": 90000, "100130": 10 },
-        "10": { "10": 112500, "100130": 12 },
-        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
         "12": {}
       }
     },
@@ -1099,7 +1328,7 @@
         {
           "Name": "EX Special Attack: Aerial Sweep - Clearout",
           "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nLeaps into the air to launch multiple consecutive kicks forward, then sweeps across, dealing massive <color=#F0D12B>Physical DMG</color>.\nCharacter is invulnerable while using this skill.",
-          "Potential": [0]
+          "Potential": []
         },
         {
           "Name": "Special Attack: Aerial Sweep",
@@ -1122,7 +1351,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5250,
                   "SpConsume": 0,
-                  "AttackData": [78750, 126000],
+                  "AttackData": [
+                    78750,
+                    126000
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 5250
@@ -1148,7 +1380,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 5250,
                   "SpConsume": 0,
-                  "AttackData": [78750, 126000],
+                  "AttackData": [
+                    78750,
+                    126000
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 5250
@@ -1180,7 +1415,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 47396,
                   "SpConsume": 0,
-                  "AttackData": [425544, 212772],
+                  "AttackData": [
+                    425544,
+                    212772
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 13504
@@ -1206,7 +1444,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 47396,
                   "SpConsume": 0,
-                  "AttackData": [425544, 212772],
+                  "AttackData": [
+                    425544,
+                    212772
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 13504
@@ -1214,23 +1455,61 @@
               },
               "Potential": []
             },
-            { "Name": "Energy Cost", "Desc": "60", "Potential": [] }
+            {
+              "Name": "Energy Cost",
+              "Desc": "60",
+              "Potential": []
+            }
           ],
           "Potential": []
         }
       ],
       "Material": {
-        "1": { "10": 2000, "100110": 2 },
-        "2": { "10": 3000, "100110": 3 },
-        "3": { "10": 6000, "100120": 2 },
-        "4": { "10": 9000, "100120": 3 },
-        "5": { "10": 12000, "100120": 4 },
-        "6": { "10": 18000, "100120": 6 },
-        "7": { "10": 45000, "100130": 5 },
-        "8": { "10": 67500, "100130": 8 },
-        "9": { "10": 90000, "100130": 10 },
-        "10": { "10": 112500, "100130": 12 },
-        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
         "12": {}
       }
     },
@@ -1267,7 +1546,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 43946,
                   "SpConsume": 0,
-                  "AttackData": [0, 350000],
+                  "AttackData": [
+                    0,
+                    350000
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 23997
@@ -1293,7 +1575,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 43946,
                   "SpConsume": 0,
-                  "AttackData": [0, 350000],
+                  "AttackData": [
+                    0,
+                    350000
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 23997
@@ -1325,7 +1610,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 96658,
                   "SpConsume": 0,
-                  "AttackData": [0, 350000],
+                  "AttackData": [
+                    0,
+                    350000
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 68834
@@ -1351,7 +1639,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 96658,
                   "SpConsume": 0,
-                  "AttackData": [0, 350000],
+                  "AttackData": [
+                    0,
+                    350000
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 68834
@@ -1364,17 +1655,51 @@
         }
       ],
       "Material": {
-        "1": { "10": 2000, "100110": 2 },
-        "2": { "10": 3000, "100110": 3 },
-        "3": { "10": 6000, "100120": 2 },
-        "4": { "10": 9000, "100120": 3 },
-        "5": { "10": 12000, "100120": 4 },
-        "6": { "10": 18000, "100120": 6 },
-        "7": { "10": 45000, "100130": 5 },
-        "8": { "10": 67500, "100130": 8 },
-        "9": { "10": 90000, "100130": 10 },
-        "10": { "10": 112500, "100130": 12 },
-        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
         "12": {}
       }
     },
@@ -1421,7 +1746,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10833,
                   "SpConsume": 0,
-                  "AttackData": [158334, 0],
+                  "AttackData": [
+                    158334,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 5417
@@ -1447,7 +1775,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 10833,
                   "SpConsume": 0,
-                  "AttackData": [158334, 0],
+                  "AttackData": [
+                    158334,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 5417
@@ -1479,7 +1810,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12496,
                   "SpConsume": 0,
-                  "AttackData": [0, 149960],
+                  "AttackData": [
+                    0,
+                    149960
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 6249
@@ -1505,7 +1839,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 12496,
                   "SpConsume": 0,
-                  "AttackData": [0, 149960],
+                  "AttackData": [
+                    0,
+                    149960
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 6249
@@ -1537,7 +1874,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0, 0],
+                  "AttackData": [
+                    0,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 36664
@@ -1563,7 +1903,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0, 0],
+                  "AttackData": [
+                    0,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 41664
@@ -1589,7 +1932,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 0,
                   "SpConsume": 0,
-                  "AttackData": [0, 0],
+                  "AttackData": [
+                    0,
+                    0
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 11664
@@ -1621,7 +1967,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 29292,
                   "SpConsume": 0,
-                  "AttackData": [407686, 173961],
+                  "AttackData": [
+                    407686,
+                    173961
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 14497
@@ -1647,7 +1996,10 @@
                   "FeverRecoveryGrowth": 0,
                   "AttributeInfliction": 29292,
                   "SpConsume": 0,
-                  "AttackData": [407686, 173961],
+                  "AttackData": [
+                    407686,
+                    173961
+                  ],
                   "RpRecovery": 0,
                   "RpRecoveryGrowth": 0,
                   "EtherPurify": 14497
@@ -1660,17 +2012,51 @@
         }
       ],
       "Material": {
-        "1": { "10": 2000, "100110": 2 },
-        "2": { "10": 3000, "100110": 3 },
-        "3": { "10": 6000, "100120": 2 },
-        "4": { "10": 9000, "100120": 3 },
-        "5": { "10": 12000, "100120": 4 },
-        "6": { "10": 18000, "100120": 6 },
-        "7": { "10": 45000, "100130": 5 },
-        "8": { "10": 67500, "100130": 8 },
-        "9": { "10": 90000, "100130": 10 },
-        "10": { "10": 112500, "100130": 12 },
-        "11": { "10": 135000, "100130": 15, "100941": 1 },
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
         "12": {}
       }
     }
@@ -1780,7 +2166,10 @@
       "1261501": {
         "Level": 1,
         "Id": 1261501,
-        "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
+        "Name": [
+          "Core Passive: Insight",
+          "Additional Ability: Sore Spot"
+        ],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>20%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.1%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
@@ -1791,7 +2180,10 @@
       "1261502": {
         "Level": 2,
         "Id": 1261502,
-        "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
+        "Name": [
+          "Core Passive: Insight",
+          "Additional Ability: Sore Spot"
+        ],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>25%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.11%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
@@ -1802,7 +2194,10 @@
       "1261503": {
         "Level": 3,
         "Id": 1261503,
-        "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
+        "Name": [
+          "Core Passive: Insight",
+          "Additional Ability: Sore Spot"
+        ],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>28%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.12%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
@@ -1813,7 +2208,10 @@
       "1261504": {
         "Level": 4,
         "Id": 1261504,
-        "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
+        "Name": [
+          "Core Passive: Insight",
+          "Additional Ability: Sore Spot"
+        ],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>31%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.13%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
@@ -1824,7 +2222,10 @@
       "1261505": {
         "Level": 5,
         "Id": 1261505,
-        "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
+        "Name": [
+          "Core Passive: Insight",
+          "Additional Ability: Sore Spot"
+        ],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>34%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.14%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
@@ -1835,7 +2236,10 @@
       "1261506": {
         "Level": 6,
         "Id": 1261506,
-        "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
+        "Name": [
+          "Core Passive: Insight",
+          "Additional Ability: Sore Spot"
+        ],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>37%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.15%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
@@ -1846,7 +2250,10 @@
       "1261507": {
         "Level": 7,
         "Id": 1261507,
-        "Name": ["Core Passive: Insight", "Additional Ability: Sore Spot"],
+        "Name": [
+          "Core Passive: Insight",
+          "Additional Ability: Sore Spot"
+        ],
         "Desc": [
           "When Jane's attacks hit an enemy, it causes them to enter the <color=#FFFFFF>Gnawed</color> state, lasting for 10s. If any squad member triggers <color=#F0D12B>Assault</color> on an enemy in the <color=#FFFFFF>Gnawed</color> state and causes the <color=#F0D12B>Flinch</color> effect, the <color=#F0D12B>Flinch</color> effect duration is extended by 5s. <color=#F0D12B>Assault</color> DMG has a chance to trigger a critical hit against enemies in the <color=#FFFFFF>Gnawed</color> state, with a base CRIT Rate of <color=#2BAD00>40%</color> and CRIT DMG of 50%. Each point of Jane's Anomaly Proficiency further increases this CRIT Rate by <color=#2BAD00>0.16%</color>.",
           "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
@@ -1856,12 +2263,32 @@
       }
     },
     "Materials": {
-      "1": { "10": 5000 },
-      "2": { "10": 12000, "110506": 2 },
-      "3": { "10": 28000, "110506": 4 },
-      "4": { "10": 60000, "110001": 2, "110506": 9 },
-      "5": { "10": 100000, "110001": 3, "110506": 15 },
-      "6": { "10": 200000, "110001": 4, "110506": 30 }
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110506": 2
+      },
+      "3": {
+        "10": 28000,
+        "110506": 4
+      },
+      "4": {
+        "10": 60000,
+        "110001": 2,
+        "110506": 9
+      },
+      "5": {
+        "10": 100000,
+        "110001": 3,
+        "110506": 15
+      },
+      "6": {
+        "10": 200000,
+        "110001": 4,
+        "110506": 30
+      }
     }
   },
   "Talent": {
