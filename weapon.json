@@ -141,7 +141,7 @@
     "sub": "PEN Ratio",
     "KO": "「자기 폭풍」-찰리",
     "CHS": "「电磁暴」-叁式",
-    "JA": "「��気嵐」-参式"
+    "JA": "「磁気嵐」-参式"
   },
   "12013": {
     "icon": "Weapon_B_Common_13",
@@ -223,7 +223,7 @@
     "atk": 594,
     "desc": "A damage-type W-Engine made of special Etheric matter. When its user is attacked, it builds up energy.",
     "sub": "ATK",
-    "KO": "별빛 ��진",
+    "KO": "별빛 엔진",
     "CHS": "星徽引擎",
     "JA": "スターライトエンジン"
   },
@@ -392,7 +392,7 @@
     "desc": "Countless threads of Sword Will echo through this tiny stretch of sky.",
     "sub": "HP",
     "KO": "푸른 물결의 솥",
-    "CHS": "��漪灵鼎",
+    "CHS": "青漪灵鼎",
     "JA": "蒼き波の霊器"
   },
   "13020": {
@@ -559,7 +559,7 @@
     "atk": 624,
     "desc": "A flame both fierce and faithful, burning without end.",
     "sub": "HP",
-    "KO": "어스름한 밤의 화염",
+    "KO": "��스름한 밤의 화염",
     "CHS": "燔火胧夜",
     "JA": "燔火の朧夜"
   },
@@ -1016,7 +1016,7 @@
     "desc": "Thoughts follow the veins of fantasy, weaving themselves into song.",
     "sub": "Energy Regen",
     "KO": "사유로 빚은 노래",
-    "CHS": "思络��歌",
+    "CHS": "思络成歌",
     "JA": "想いが織りなす歌"
   },
   "14150": {
@@ -1114,5 +1114,29 @@
     "KO": "수석 조수",
     "CHS": "首席跟班",
     "JA": "エースのオトモ"
+  },
+  "14158": {
+    "icon": "Weapon_S_1581",
+    "rank": 4,
+    "type": 3,
+    "EN": "Ode of Resurrected Wings",
+    "atk": 743,
+    "desc": "Drifting through the cracks of time in search of the light.",
+    "sub": "ATK",
+    "KO": "돌아온 날개의 시",
+    "CHS": "空羽复归之诗",
+    "JA": "目覚めし翼の聖歌"
+  },
+  "14159": {
+    "icon": "Weapon_S_1591",
+    "rank": 4,
+    "type": 1,
+    "EN": "Knight's Extolment",
+    "atk": 713,
+    "desc": "Across the vast skies and seas of clouds, the extolment for the knights echoes in quiet reverence.",
+    "sub": "CRIT DMG",
+    "KO": "기사 예찬",
+    "CHS": "骁骑礼赞",
+    "JA": "栄光の騎士道"
   }
 }

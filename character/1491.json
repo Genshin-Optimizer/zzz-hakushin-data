@@ -15,8 +15,14 @@
     "FullName": "Sunna",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle58.png",
-    "ImpressionF": "Sometimes Sunna reminds me of some kind of rare creature in a game �� she only spawns under very specific conditions!\nLast time, I had to bug her for a whole week just to get her to go clothes shopping with me!",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0058.png",
+    "ImpressionF": "Sometimes Sunna reminds me of some kind of rare creature in a game — she only spawns under very specific conditions!\nLast time, I had to bug her for a whole week just to get her to go clothes shopping with me!",
     "ImpressionM": "Yeah, I've had my fair share of Belle's nonstop badgering... I bet Sunna couldn't handle it either.",
+    "Impressions": [
+      "Impressions of Sunna:\n · She moves like a little deer in the mountains, lightly leaping over every hardship, with musical notes rising from where she steps.",
+      " · Delusions stretch out long, slender branches, quietly binding one person's daydream into a grand story shared by three.",
+      " · Lets keep humming along and walk forward into this pink-tinted summer."
+    ],
     "ProfileDesc": "Sunna is a member of the Angels of Delusion idol group and the composer behind all of the group's music. Maintaining top-tier songwriting while keeping pace with rehearsals and stage performances is anything but easy for her. When the pressure piles up, she occasionally employs the tactic of \"retreat is the best option\" to dodge Captain Nangong Yu's brutal scheduling.\nNote: Reliable intelligence suggests that this tactic works largely because Nangong Yu intentionally lets it slide.\n\nSunna and Nangong Yu, another member of the Angels of Delusion, have known each other since they were young and grew up together. While they appear to always squabble, the two are in fact deeply dependent on one another. When it comes to music, Sunna shares a strong connection with their final member, Aria. As Aria puts it, the two frequently spend whole days in the studio discussing melodies for new songs, only to drift off to sleep without even realizing it, heads resting against each other.\n\nSunna is fairly introverted and prefers spending time alone over group activities. That said, her two teammates know her weaknesses all too well — she finds it hard to say no and can't handle praise — and are helping her gradually overcome her social anxiety through desensitization training (progress: about 25%).\n\nWhile most fans see Sunna's \"hopeless\" side as endearing, she herself seems eager to tear off that label and become a confident, \"proper idol.\" As the creative force behind the music, she often wants to flee the stage — yet in truth, she's not as indifferent to performing as she claims to be.\nEvidence: A sticky note by Sunna's bedside that reads \"I can't disappoint the fans. I need to give them my very best on stage!\"",
     "RoleIcon": "IconRole/UnPacker/IconRole58",
     "Stature": "154",
@@ -1681,6 +1687,7 @@
     "Slot4": 33400,
     "Slot2": 32800,
     "SlotSub": 31600,
+    "PartSubList": [12102, 12103],
     "Part4": {
       "Prop": 30502,
       "Name": "Energy Regen",

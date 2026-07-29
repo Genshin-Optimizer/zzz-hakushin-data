@@ -10,7 +10,9 @@
   "HitType": { "101": "Slash" },
   "Camp": { "5": "New Eridu Defense Force" },
   "Gender": 2,
-  "PartnerInfo": {},
+  "PartnerInfo": {
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0040.png"
+  },
   "Skin": {
     "3113810": {
       "Name": "Soldier 0 - Anby: Silver Soldier",
@@ -1875,6 +1877,7 @@
     "Slot4": 32900,
     "Slot2": 31000,
     "SlotSub": 32400,
+    "PartSubList": [21103, 20103, 12102],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

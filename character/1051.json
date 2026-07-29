@@ -15,8 +15,14 @@
     "FullName": "Yidhari Murphy",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle52.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0052.png",
     "ImpressionF": "Yidhari always seems like she couldn't care less, but she's actually really thoughtful and knows how to take care of others!\nOnce, while I was carrying some videotapes, I got a small cut on my hand without even noticing, and she came right over with a bandage and put it on for me!",
     "ImpressionM": "I know the feeling... When we hung out together before, I was in such a rush, I skipped lunch, and she noticed right away. She said my lips looked pale, so I must have come without eating, even though I couldn't tell myself...",
+    "Impressions": [
+      "Impressions of Yidhari:\n · In the darkness was undeniably cold, yet it burned her with searing heat.",
+      " · She never got the rainy day she was waiting for, but she did get you.",
+      "· She wants to continue forward with those she cares about."
+    ],
     "ProfileDesc": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. As a gifted writer of bizarre tales, Yidhari should be more prone than most to immersing herself in the worlds of her own imagination.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
     "RoleIcon": "IconRole/UnPacker/IconRole52",
     "Stature": "171",
@@ -1946,6 +1952,7 @@
     "Slot4": 33100,
     "Slot2": 31000,
     "SlotSub": 32700,
+    "PartSubList": [20103, 21103, 11102],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

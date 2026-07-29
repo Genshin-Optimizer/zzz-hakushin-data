@@ -15,8 +15,14 @@
     "FullName": "Pan Yinhu",
     "Gender": "Male",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle45.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0045.png",
     "ImpressionF": "Every time we're about to order takeout, Senior Yinhu immediately pipes up to stop us, saying takeout isn't good for you, then offers to whip up whatever we want in the kitchen... We haven't ordered takeout in months!",
     "ImpressionM": "His cooking really can't be beat, except for the fact he occasionally holds back on the meat... I really want to learn some of his recipes.",
+    "Impressions": [
+      "Impressions of Pan Yinhu:\n· As the manager of Suibian Temple's funds, he makes sure not a single Denny goes to waste!",
+      "· As Suibian Temple's head chef, he ensures every piece of char siu conquers his companions' taste buds!",
+      "· As Suibian Temple's newest senior, he's obliged to support his juniors' suggestions without question!"
+    ],
     "ProfileDesc": "Pan Yinhu, disciple of Yunkui Summit, serves as both the head chef and financial manager of Suibian Temple. He's proficient in martial arts, and an expert in pressure-point techniques.\nAs the one managing Suibian Temple's money, he's a master at keeping costs down and can bargain a 5,000 Denny piece of meat down to 500. If he can make something at home, he refuses to purchase it at a store, and no matter which big supermarket or shop you name, he's got a coupon for it tucked in his pocket.\nThanks to him, the members of Suibian Temple enjoy delicious yet budget-friendly meals every day. As the head of the kitchen, he demands precise flavor profiles and pays keen attention to his friends' opinions.\nWhat's more, given his years of frugality, it's safe to assume that both the group's treasury and his secret piggy bank have ballooned to jaw-dropping levels.",
     "RoleIcon": "IconRole/UnPacker/IconRole45",
     "Stature": "192",
@@ -1566,6 +1572,7 @@
     "Slot4": 33700,
     "Slot2": 31600,
     "SlotSub": 31400,
+    "PartSubList": [12102, 20103],
     "Part4": {
       "Prop": 12102,
       "Name": "ATK",

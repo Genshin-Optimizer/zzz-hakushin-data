@@ -15,8 +15,14 @@
     "FullName": "Zhu Yuan",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle23.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0023.png",
     "ImpressionF": "An exemplary human. We've been dealing with such an opponent for so long. Aren't we amazing?",
     "ImpressionM": "That's because it's me + you + Fairy. I wouldn't wanna know the outcome if it was one on one...",
+    "Impressions": [
+      "Impressions of Zhu Yuan:\n · Serious, reliable, responsible, dedicated, honest... Any positive word fits Zhu Yuan perfectly.",
+      " · One may think that they could uncover some of Zhu Yuan's flaws over time, but such things simply don't exist...",
+      " · Zhu Yuan's occasional shyness is really... Wait a minute! She's a Public Security Officer! Can't forget that!"
+    ],
     "ProfileDesc": "Zhu Yuan, an exceptional officer at Public Security, is a highly skilled individual expected to become the next commissioner. She currently leads the Criminal Investigation Special Response Team at the Janus Precinct within the Metropolitan Order Division. Her team members include Qingyi, Seth, and [redacted].\nNote: For documents with higher security levels within the Public Security system, further investigation is required; scheduling priority - low.\n\nZhu Yuan possesses excellent skills in criminal investigation, combat, and self-management (including working overtime). She has no unresolved cases on record.\nSuggestion: Approaching Zhu Yuan is an ill-advised decision that may compromise your cover. Always remember your true identity as a Proxy. Remember your true identity as a Proxy. Remember your true identity as a Proxy.",
     "RoleIcon": "IconRole/UnPacker/IconRole23",
     "Stature": "175",
@@ -1797,6 +1803,7 @@
     "Slot4": 32300,
     "Slot2": 31000,
     "SlotSub": 31400,
+    "PartSubList": [20103, 21103, 12102],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

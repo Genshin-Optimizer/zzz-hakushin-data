@@ -15,8 +15,14 @@
     "FullName": "Nangong Yu",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle59.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0059.png",
     "ImpressionF": "Nangong can do anything effortlessly and flawlessly. If only Wise had that kind of talent, things would be so much easier for me, too. I'm kidding, Wise is great~",
     "ImpressionM": "I'm truly to blame for not being able to back you up, Belle... I'll have to learn more from Nangong!",
+    "Impressions": [
+      "Impression of Nangong Yu:\n · She's an exceptionally capable idol team captain and a \"winner at life.\"",
+      " · She knows exactly what it takes to make a stage shine, including the sacrifices that never stand in the spotlight.",
+      " · The ability to grasp a borrowed dream and never let go is a talent all its own."
+    ],
     "ProfileDesc": "Nangong Yu, the captain and choreographer of the idol group the \"Angels of Delusion,\" is a rare prodigy blessed with exceptional Ether aptitude, a sharp business acumen, and outstanding idol talent.\n\nThough she always presents herself with a laid-back air — teasing her teammates and joking around — she consistently receives the fewest negative reviews in the group. Although she often claims that her dream is merely \"borrowed,\" she pours far more effort and emotion into this small stage than anyone would believe.\n\nNangong possesses a rare gift for making the difficult look effortless — whether it's dancing, rapping, making investments, or reading people. That gift once served as the mask that allowed her to easily play the role of \"captain,\" yet it also kept her isolated from her true desires.\n\nYet whether it started as responsibility toward a close friend or later turned into an irreplaceable love for the stage, beneath the stage lights and the audience's gaze she has already forged those borrowed sparks into a light of her own.",
     "RoleIcon": "IconRole/UnPacker/IconRole59",
     "Stature": "156",
@@ -1594,6 +1600,7 @@
     "Slot4": 33000,
     "Slot2": 31300,
     "SlotSub": 33600,
+    "PartSubList": [31203, 12102],
     "Part4": {
       "Prop": 31402,
       "Name": "Anomaly Mastery",

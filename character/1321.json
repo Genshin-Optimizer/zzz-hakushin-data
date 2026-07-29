@@ -15,8 +15,14 @@
     "FullName": "Evelyn Chevalier",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle37.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0037.png",
     "ImpressionF": "Evelyn is so cool! Can't she debut as a celebrity with Astra? I'd love to see them do a photo shoot together!",
     "ImpressionM": "I really envy you. You can say that so easily, but if I said it, I'd probably get hit...",
+    "Impressions": [
+      "Impressions of Evelyn:\n · Any attempt to get close to Astra doesn't escape Evelyn's watchful eyes...",
+      " · Over the course of their daily interactions, Evelyn has slowly lowered her deep-seated caution.",
+      " · There are few things she depends on in this world, but we are one of them."
+    ],
     "ProfileDesc": "Evelyn is the manager and personal bodyguard of Ridu's most iconic singer, Astra Yao. Known for her calm, decisive decision-making and professional, efficient style, she's an irreplaceable pillar behind Astra. \"In terms of commercial value, if Astra Yao represents the 1, then Evelyn is all the 0s that follow,\" a reporter from an entertainment magazine stated.\n\nEvelyn is skilled at planning comprehensive schedules and product endorsements, while also ensuring Astra Yao's safety during any unexpected situations. \"Want to get close to Astra Yao? You'll have to get past Evelyn Chevalier first...\" Though she's always busy with work, Evelyn never seems overwhelmed, and she has an almost obsessive attention to detail, ensuring that every performance and every product endorsement goes through her strict scrutiny. But strangely, such an exceptional manager is not trusted by her parent company, Odeum HAE.\n\nIntel: Evelyn's role seems to go beyond just being a manager and personal bodyguard; there seems to be an \"organization\" behind her.\n\nIt seems a lot of people in Astra Yao's central Astranauts group ship them together.",
     "RoleIcon": "IconRole/UnPacker/IconRole37",
     "Stature": "173",
@@ -1812,6 +1818,7 @@
     "Slot4": 31000,
     "Slot2": 32700,
     "SlotSub": 32800,
+    "PartSubList": [20103, 12102, 21103],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

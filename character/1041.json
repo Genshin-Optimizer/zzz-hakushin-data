@@ -15,8 +15,14 @@
     "FullName": "Soldier 11",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle05.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0005.png",
     "ImpressionF": "Cats, super spicy noodles, going on missions, and everyone in Obol Squad... These are what make up Soldier 11's current life... I hope we one day hold a place in her heart as well~",
     "ImpressionM": "I'm sure we will! But really, I just hope Soldier 11 remembers our name someday...",
+    "Impressions": [
+      "Impressions of Soldier 11:\n · Soldier 11 still addresses me in the most random ways.",
+      " · For Soldier 11, super-spicy noodles is an essential item.",
+      " · Soldier 11 remains the same ruthless soldier... but perhaps this friendship has changed her a bit."
+    ],
     "ProfileDesc": "Soldier 11 is a member of the New Eridu Defense Force.\nShe currently serves as a direct attacker in Obol squad, Obsidian Division. Soldier 11 is a code name — she gave up her real name long ago.\n\nSoldier 11 is a fan of spicy food and likes the super-spicy noodles served at Waterfall Soup.\nIt's worth noting she currently calls us by a different name every time she greets us.",
     "RoleIcon": "IconRole/UnPacker/IconRole05",
     "Stature": "160",
@@ -1900,6 +1906,7 @@
     "Slot4": 32200,
     "Slot2": 31000,
     "SlotSub": 31400,
+    "PartSubList": [20103, 21103, 12102],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

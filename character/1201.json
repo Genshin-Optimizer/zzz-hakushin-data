@@ -15,8 +15,14 @@
     "FullName": "Asaba Harumasa",
     "Gender": "Male",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle35.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0035.png",
     "ImpressionF": "Harumasa sure is good at slacking off... Hey Wise, maybe we should learn from him.",
     "ImpressionM": "Harumasa can only slack off because he manages to complete his work with efficiency. Let's try mastering that skill first...",
+    "Impressions": [
+      "Impressions of Harumasa:\n · Even now, we still don't know what Harumasa does when he's on leave...",
+      " · Perhaps flowers can bloom in wounds.",
+      " · There are always people who look to the stars despite their hardships."
+    ],
     "ProfileDesc": "Asaba Harumasa, a member of Hollow Special Operations Section 6.\nPossessing exceptional Ether aptitude since he was young and being dubbed a prodigy, he entered HSO after graduating with outstanding merit.\nWas originally a member of a certain ace division within HSO, but later left due to various reasons, joining Miyabi's team instead.\n\nHe possesses a carefree and laidback attitude, and his only wish is to achieve acceptable results with minimum effort.\nAfter efficiently taking care of his work to the lowest acceptable standard, he will hurry to use all the remainder of his available time to rest (slack off).\nHe claims he uses a bow to better slack off, as it effectively lowers the amount of running he has to do.\n\nAsaba Harumasa has poor health, and over-exercise sometimes triggers his illness.\nHe often uses this reason to apply for sick leave, though no one knows what he does with this time off. Either way, it's probably not resting.",
     "RoleIcon": "IconRole/UnPacker/IconRole35",
     "Stature": "173",
@@ -2045,6 +2051,7 @@
     "Slot4": 32400,
     "Slot2": 31000,
     "SlotSub": 32900,
+    "PartSubList": [20103, 12102, 21103],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

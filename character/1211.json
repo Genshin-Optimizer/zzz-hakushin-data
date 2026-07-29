@@ -15,8 +15,14 @@
     "FullName": "Alexandrina Sebastiane",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle22.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0022.png",
     "ImpressionF": "Look here, Wise! Can you believe Fairy wants us to try Rina's dishes? She just keeps getting meaner!",
     "ImpressionM": "We don't need to take on such a high level of risk at the moment. I suggest Fairy refrain from making such suggestions next time.",
+    "Impressions": [
+      "Impressions of Rina:\n · Recently, Rina's been coming to Sixth Street more often. Is it because of us?",
+      " · Rina often stops in front of all kinds of stores. Almost as if she's doing field research to expand her own field of services...",
+      " · It's clear Rina cares deeply about her colleagues at Victoria Housekeeping, as she often mentions them when talking about work and personal stuff."
+    ],
     "ProfileDesc": "Rina, the head maid of Victoria Housekeeping Co., and the most senior member of the organization.\nShe possesses beauty and grace, appearing immaculate from head to toe, with a noble demeanor and a gentle smile on her face.\nShe places considerable importance on how she is perceived by others.\n\nRina is always accompanied by two Bangboo named Anastella (brown hair) and Drusilla (blonde hair), both of whom have distinct personalities.\nDrusilla has been with Rina for a significant period of time and displays high intelligence, capable of discerning Rina's true emotions and thoughts.\nAnastella, a recent addition, usually responds rather than initiates conversation and is frequently teased by Drusilla.\n\nRina's favorite hobby is cooking, but only a few individuals are capable of enduring the dishes she prepares.\nSuggestion: You may try tasting Rina's dishes as a test to determine if you are the Chosen One.",
     "RoleIcon": "IconRole/UnPacker/IconRole22",
     "Stature": "173",
@@ -255,6 +261,16 @@
           "Name": "Basic Attack: Shoo the Fool",
           "Desc": "Hold <IconMap:Icon_Normal> or <IconMap:Icon_Special> to activate:\nCalls back Drusilla and Anastella to swing them around for a ranged attack, dealing <color=#2EB6FF>Electric DMG</color>.\nAnti-Interrupt level is increased while using this skill.",
           "Potential": []
+        },
+        {
+          "Name": "Basic Attack: Morning Cleanup",
+          "Desc": "After Rina uses an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, she enters the <color=#FFFFFF>Spotless</color> state for 13s. During this time, Drusilla or Anastella attacks an enemy once every 2.5s, dealing <color=#F0D12B>Physical DMG</color> and <color=#2EB6FF>Electric DMG</color>, and grants 1 stack of <color=#FFFFFF>Fright</color>, up to a maximum of 6 stacks. After using the skill, Drusilla and Anastella's exit timer resets.",
+          "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
+        },
+        {
+          "Name": "Basic Attack: Midnight Cleanup",
+          "Desc": "When <color=#FFFFFF><Term:1000026></Term></color> reaches 6 stacks, the next <color=#FFFFFF>Basic Attack: Morning Cleanup</color> performed by Drusilla or Anastella consumes all <color=#FFFFFF>Fright</color> stacks and is replaced with <color=#FFFFFF>Basic Attack: Midnight Cleanup</color>, dealing <color=#2EB6FF>Electric DMG</color>. After using the skill, Drusilla and Anastella's exit timer resets.",
+          "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
         },
         {
           "Name": "Basic Attack: Whack the Dimwit",
@@ -527,6 +543,226 @@
             }
           ],
           "Potential": []
+        },
+        {
+          "Name": "Basic Attack: Morning Cleanup",
+          "Param": [
+            {
+              "Name": "1st-Hit DMG Multiplier",
+              "Desc": "{Skill:1211023, Prop:1001}",
+              "Param": {
+                "1211023": {
+                  "Main": 5250,
+                  "Growth": 480,
+                  "Format": "%",
+                  "DamagePercentage": 5250,
+                  "DamagePercentageGrowth": 480,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
+            },
+            {
+              "Name": "2nd-Hit DMG Multiplier",
+              "Desc": "{Skill:1211024, Prop:1001}",
+              "Param": {
+                "1211024": {
+                  "Main": 5250,
+                  "Growth": 480,
+                  "Format": "%",
+                  "DamagePercentage": 5250,
+                  "DamagePercentageGrowth": 480,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
+            },
+            {
+              "Name": "3rd-Hit DMG Multiplier",
+              "Desc": "{Skill:1211025, Prop:1001}",
+              "Param": {
+                "1211025": {
+                  "Main": 5250,
+                  "Growth": 480,
+                  "Format": "%",
+                  "DamagePercentage": 5250,
+                  "DamagePercentageGrowth": 480,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
+            },
+            {
+              "Name": "1st-Hit Daze Multiplier",
+              "Desc": "{Skill:1211023, Prop:1002}",
+              "Param": {
+                "1211023": {
+                  "Main": 0,
+                  "Growth": 0,
+                  "Format": "%",
+                  "DamagePercentage": 5250,
+                  "DamagePercentageGrowth": 480,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
+            },
+            {
+              "Name": "2nd-Hit Daze Multiplier",
+              "Desc": "{Skill:1211024, Prop:1002}",
+              "Param": {
+                "1211024": {
+                  "Main": 0,
+                  "Growth": 0,
+                  "Format": "%",
+                  "DamagePercentage": 5250,
+                  "DamagePercentageGrowth": 480,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
+            },
+            {
+              "Name": "3rd-Hit Daze Multiplier",
+              "Desc": "{Skill:1211025, Prop:1002}",
+              "Param": {
+                "1211025": {
+                  "Main": 0,
+                  "Growth": 0,
+                  "Format": "%",
+                  "DamagePercentage": 5250,
+                  "DamagePercentageGrowth": 480,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
+            }
+          ],
+          "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
+        },
+        {
+          "Name": "Basic Attack: Midnight Cleanup",
+          "Param": [
+            {
+              "Name": "DMG Multiplier",
+              "Desc": "{Skill:1211027, Prop:1001}",
+              "Param": {
+                "1211027": {
+                  "Main": 21000,
+                  "Growth": 1910,
+                  "Format": "%",
+                  "DamagePercentage": 21000,
+                  "DamagePercentageGrowth": 1910,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1211027, Prop:1002}",
+              "Param": {
+                "1211027": {
+                  "Main": 0,
+                  "Growth": 0,
+                  "Format": "%",
+                  "DamagePercentage": 21000,
+                  "DamagePercentageGrowth": 1910,
+                  "StunRatio": 0,
+                  "StunRatioGrowth": 0,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 0,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 0,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 0
+                }
+              },
+              "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
+            }
+          ],
+          "Potential": [121100, 121101, 121102, 121103, 121104, 121105]
         }
       ],
       "Material": {
@@ -702,7 +938,7 @@
         },
         {
           "Name": "EX Special Attack: Dimwit Disappearing Trick",
-          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nOrder Drusilla and Anastella to execute multiple downward smashes, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.",
+          "Desc": "With enough Energy, press <IconMap:Icon_SpecialReady> to activate:\nCommands Drusilla and Anastella to unleash a continuous downward smash attack, dealing massive <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.\nAfter using this skill, a <color=#FFFFFF>Quick Assist</color> is triggered.",
           "Potential": []
         },
         {
@@ -847,7 +1083,7 @@
         },
         {
           "Name": "Ultimate: The Queen's Attendants",
-          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nOrder Drusilla and Anastella to spin forward, dealing massive <color=#2EB6FF>Electric DMG</color>.\nDuring this skill, Drusilla and Anastella are unable to respond to <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> commands, but can be recalled to Rina's side through <color=#FFFFFF>Basic Attack: Shoo the Fool</color>.\nUpon activating this skill, the other squad members recover 10 Energy. The next character to switch in recovers an additional 20 Energy.\nCharacter is invulnerable while using this skill.\nA <color=#FFFFFF>Quick Assist</color> is triggered when this skill hits an enemy.",
+          "Desc": "When Decibel Rating is at <color=#FFFFFF>Maximum</color>, press <IconMap:Icon_UltimateReady> to activate:\nCommands Drusilla and Anastella to spin forward, dealing massive <color=#2EB6FF>Electric DMG</color>.\nDuring this skill, Drusilla and Anastella are unable to respond to <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dash Attack</color>, <color=#FFFFFF>Special Attack</color>, or <color=#FFFFFF>EX Special Attack</color> commands, but can be recalled to Rina's side through <color=#FFFFFF>Basic Attack: Shoo the Fool</color>.\nUpon activating this skill, other squad members recover 10 Energy. The next character to switch in recovers an additional 20 Energy.\nCharacter is invulnerable while using this skill.\nAfter using this skill, a <color=#FFFFFF>Quick Assist</color> is triggered.",
           "Potential": []
         },
         {
@@ -996,7 +1232,7 @@
         },
         {
           "Name": "Assist Follow-Up: Quadruple Meter Gavotte",
-          "Desc": "Press <IconMap:Icon_Normal> after an <color=#FFFFFF>Evasive Assist</color> to activate:\nOrder Drusilla and Anastella to push forward and generate an electrical vortex, dealing <color=#2EB6FF>Electric DMG</color>.\nCharacter is invulnerable while using this skill.",
+          "Desc": "Press <IconMap:Icon_Normal> after an <color=#FFFFFF>Evasive Assist</color> to activate:\nCommands Drusilla and Anastella to continuously advance while generating a vortex of electricity, dealing <color=#2EB6FF>Electric DMG</color>.\nWhile using this skill, Rina can quickly chain into <color=#FFFFFF>EX Special Attack: Dimwit Disappearing Trick</color>.\nCharacter is invulnerable while using this skill.",
           "Potential": []
         },
         {
@@ -1363,6 +1599,7 @@
     "Slot4": 31300,
     "Slot2": 31100,
     "SlotSub": 32400,
+    "PartSubList": [12102, 31203],
     "Part4": {
       "Prop": 23103,
       "Name": "PEN Ratio",
@@ -1394,6 +1631,67 @@
     "Provides PEN Ratio boosts for the squad",
     "Extends Shock duration"
   ],
-  "Potential": [],
-  "PotentialDetail": {}
+  "Potential": [121100, 121101, 121102, 121103, 121104, 121105],
+  "PotentialDetail": {
+    "121100": {
+      "Id": 121100,
+      "Name": "",
+      "Desc": "",
+      "Image": "Rina",
+      "LevelShowName": "Big Cleanup I",
+      "Level": 1,
+      "AbilityList": [11211501],
+      "PotentialMaterials": [{ "ItemId": 20121, "Number": 1 }]
+    },
+    "121101": {
+      "Id": 121101,
+      "Name": "Awakened Potential: Perfect Service",
+      "Desc": "PEN Ratio increases by 1.6%. While the buff gained from <color=#FFFFFF>Core Passive: Mini Destruction Partner</color> is active, for every 1% of Rina's PEN Ratio, all squad members gain <color=#2BAD00>3</color> ATK and <color=#2BAD00>2.5</color> DEF, up to a maximum of 576 ATK and 468 DEF.",
+      "Image": "Rina",
+      "LevelShowName": "Big Cleanup II",
+      "Level": 2,
+      "AbilityList": [11211501, 11211601],
+      "PotentialMaterials": [{ "ItemId": 20121, "Number": 1 }]
+    },
+    "121102": {
+      "Id": 121102,
+      "Name": "Awakened Potential: Perfect Service",
+      "Desc": "PEN Ratio increases by 1.6%. While the buff gained from <color=#FFFFFF>Core Passive: Mini Destruction Partner</color> is active, for every 1% of Rina's PEN Ratio, all squad members gain <color=#2BAD00>4.2</color> ATK and <color=#2BAD00>3.5</color> DEF, up to a maximum of 576 ATK and 468 DEF.",
+      "Image": "Rina",
+      "LevelShowName": "Big Cleanup III",
+      "Level": 3,
+      "AbilityList": [11211501, 11211602],
+      "PotentialMaterials": [{ "ItemId": 20121, "Number": 1 }]
+    },
+    "121103": {
+      "Id": 121103,
+      "Name": "Awakened Potential: Perfect Service",
+      "Desc": "PEN Ratio increases by 1.6%. While the buff gained from <color=#FFFFFF>Core Passive: Mini Destruction Partner</color> is active, for every 1% of Rina's PEN Ratio, all squad members gain <color=#2BAD00>5.5</color> ATK and <color=#2BAD00>4.5</color> DEF, up to a maximum of 576 ATK and 468 DEF.",
+      "Image": "Rina",
+      "LevelShowName": "Big Cleanup IV",
+      "Level": 4,
+      "AbilityList": [11211501, 11211603],
+      "PotentialMaterials": [{ "ItemId": 20121, "Number": 1 }]
+    },
+    "121104": {
+      "Id": 121104,
+      "Name": "Awakened Potential: Perfect Service",
+      "Desc": "PEN Ratio increases by 1.6%. While the buff gained from <color=#FFFFFF>Core Passive: Mini Destruction Partner</color> is active, for every 1% of Rina's PEN Ratio, all squad members gain <color=#2BAD00>6.7</color> ATK and <color=#2BAD00>5.5</color> DEF, up to a maximum of 576 ATK and 468 DEF.",
+      "Image": "Rina",
+      "LevelShowName": "Big Cleanup V",
+      "Level": 5,
+      "AbilityList": [11211501, 11211604],
+      "PotentialMaterials": [{ "ItemId": 20121, "Number": 1 }]
+    },
+    "121105": {
+      "Id": 121105,
+      "Name": "Awakened Potential: Perfect Service",
+      "Desc": "PEN Ratio increases by 1.6%. While the buff gained from <color=#FFFFFF>Core Passive: Mini Destruction Partner</color> is active, for every 1% of Rina's PEN Ratio, all squad members gain <color=#2BAD00>8</color> ATK and <color=#2BAD00>6.5</color> DEF, up to a maximum of 576 ATK and 468 DEF.",
+      "Image": "Rina",
+      "LevelShowName": "Big Cleanup VI",
+      "Level": 6,
+      "AbilityList": [11211501, 11211605],
+      "PotentialMaterials": [{ "ItemId": 20121, "Number": 1 }]
+    }
+  }
 }

@@ -15,8 +15,14 @@
     "FullName": "Koleda Belobog",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle14.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0014.png",
     "ImpressionF": "What's that line from that detective movie we watched again?\n\"She may look like a child...\" Well, no matter how old she is or how she looks, Koleda really is a kid, and she's so cute!",
     "ImpressionM": "I hope your comment isn't seen by a certain someone, or our video store will be end up smashed to bits by a hammer.",
+    "Impressions": [
+      "Impressions of Koleda:\n · Koleda never openly admits her love for desserts.",
+      " · She wants to be the most reliable president in front of her colleagues.",
+      " · Good news — what lies under her eye patch is not a demonic eye that possesses the power to destroy the world."
+    ],
     "ProfileDesc": "Koleda is the current head of Belobog Industries, and the biological daughter of the company's founder, Khors.\nHer father, Khors, vanished due to a scandal involving embezzlement and fled, which severely shook the company, nearly driving it to the brink of collapse. Once she came of age, Koleda willingly stepped up to untangle the mess, rallying the remaining company workforce and resources to revive the financially and reputationally vulnerable Belobog Heavy Industries.\nWith the help of new invaluable team members, Belobog eventually managed to regain its prominence in relevant sectors. Though not as resplendent as its prime, Belobog in its current state is still a notable newcomer in the field.\nThroughout her journey, Koleda amassed practical life experiences and professional know-how, building a circle of colleagues who back her up like family. Yet, to present herself as a leader, Koleda appears to intentionally adopt a stern tone when communicating with others.\nThis distinct growth trajectory has also contributed to Koleda's heightened maturity in certain aspects compared to her peers. \nNaturally, she might display a bit of childishness in certain aspects as well.\nHypothesis: Koleda's comparatively smaller stature among her peers may stem from her prolonged involvement in the Hollows. \nCurrently, there aren't any publicly accessible papers or research substantiating this theory, but I will continue to track this topic.",
     "RoleIcon": "IconRole/UnPacker/IconRole14",
     "Stature": "150",
@@ -1807,6 +1813,7 @@
     "Slot4": 31200,
     "Slot2": 31300,
     "SlotSub": 31600,
+    "PartSubList": [12102, 20103],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

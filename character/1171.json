@@ -15,8 +15,14 @@
     "FullName": "Burnice White",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle32.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0032.png",
     "ImpressionF": "Burnice sure makes delicious drinks! No wonder she's famous in the Outer Ring.",
     "ImpressionM": "Yeah, so long as we don't try her blends for Steeltusk.",
+    "Impressions": [
+      "Impressions of Burnice:\n · Burnice enthusiastically takes care of her companions... maybe a little too enthusiastically.",
+      " · Dogs love her... Not surprisingly, really.",
+      " · Burnice gets into trouble sometimes, but she always manages to get out of it. It's like the universe is on her side."
+    ],
     "ProfileDesc": "Burnice, the Nitro-Fuel bartender for the Sons of Calydon.\nA hopeless fuel lover. She is responsible for all the fuel used by the machinery owned by the Sons of Calydon.\nShe seems to have a passion for fuel that overwhelms all else.\n\nBurnice is super outgoing, friendly, and carefree.\nShe is easily able to spread her emotions to the people around her, bringing them the same optimism she possesses.\n\"You like the drinks I mix? Thank you! Steeltusk does, too~ That big guy can drink two hundred liters in one go!\"\n\"Do you wanna try its special fuel blend? It's suuuuper hot!\"",
     "RoleIcon": "IconRole/UnPacker/IconRole32",
     "Stature": "160",
@@ -1880,6 +1886,7 @@
     "Slot4": 31800,
     "Slot2": 31300,
     "SlotSub": 31400,
+    "PartSubList": [31203, 12102],
     "Part4": {
       "Prop": 30502,
       "Name": "Energy Regen",

@@ -260,7 +260,7 @@
     "EN": "Raven UAV",
     "desc": "Unknown",
     "KO": "레이븐 드론",
-    "CHS": "渡鸦无���机",
+    "CHS": "渡鸦��人机",
     "JA": "レイヴンドローン"
   },
   "10022": {
@@ -478,6 +478,18 @@
     "KO": "탈피·특수 진압부",
     "CHS": "蜕生·特勤镇暴布",
     "JA": "羽化・サプレッション・スクワッタ"
+  },
+  "10040": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_EvolvedBee.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 1,
+    "group": 201,
+    "EN": "Metamorphosed - Hornet",
+    "desc": "CardDesc_10040",
+    "KO": "탈피·벌",
+    "CHS": "蜕生·骸蜂",
+    "JA": "羽化・ホーネット"
   },
   "19999": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/CardResources/Unknown.png",
@@ -729,7 +741,7 @@
     "desc": "An elite combat unit fielded by the Roscaelifer Airspace Patrol. Originally deployed to guard critical infrastructure, it was driven out of control by the effects of a Singularity Leakage and Hollow activity. It now wreaks havoc throughout the lower levels of the floating island and within nearby Hollows.\nCity Guardboo forms the backbone of Roscaelifer's Bangboo Guard Forces, serving in assault, air defense, and facility security roles. To support these missions, it is equipped with heavy air-to-ground weaponry.\nAlthough the exoskeletal mech has been compromised by Ether Corruption, the Bangboo pilot inside remains fully operational, lying dormant while waiting for a chance to break free.\n\n\"Ehn-ne, ehn-ne-ne! (I wanted to become a Guardboo! Commander Norma was so happy she even gave me my favorite Ether batteries!)\"",
     "KO": "성곽 수호부",
     "CHS": "城防戍卫布",
-    "JA": "シティー・ガーディアンナ"
+    "JA": "シティー・ガーディアン���"
   },
   "20020": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_RagingGuy.png",
@@ -1547,6 +1559,30 @@
     "CHS": "多佩冈亚·星徽·比利",
     "JA": "ドッペルゲンガー・スターライト・ビリー"
   },
+  "30052": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_SymbioticEtherealSinner.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 3,
+    "group": 201,
+    "EN": "Infernal Revenant",
+    "desc": "An Ethereal that returned from the Cinderglow Lake.\nOnce a Dead End Butcher defeated by the Overlord Pompey, it was cast into the Cinderglow Lake. Yet instead of being reduced to ash, its body became encased in crystals formed from the burning byproducts of Ether.\nWithin the flames, its outer shell melted away and reformed again, each time gathering new layers of crystal. After enduring an endless torment resembling the depths of hell, it emerged with an armor-like body and gained the ability to move freely through fire.\nAfter a long wandering through a world that seemed to have forgotten it, the creature finally discovered a spatial fissure at the bottom of the fire lake and entered the Divine Maze, Papago Hollow.\nBut that place was nothing more than another hell.\nIt appears to have suffered a crushing defeat. Ever since, it has been driven by an unknown force, obsessively collecting the special Ether scattered throughout the labyrinth.\nYet it can no longer tell whether what lies within is salvation... or blasphemy.\n\n\"Every time that walking bonfire comes through, the temperature goes through the roof. I want hazard pay for this!\"",
+    "KO": "연옥을 누비는 자",
+    "CHS": "熔狱行赭",
+    "JA": "炎獄を往く者"
+  },
+  "30053": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Stalker.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 3,
+    "group": 201,
+    "EN": "Ulidim",
+    "desc": "A notorious Ethereal that prowls the Divine Maze of Papago Hollow.\nIf Papago Hollow's Hallucinogenic Soundscape is the trap that lures prey into the maze, then Ulidim is the hound that hunts down those unfortunate enough to become trapped inside it.\nUlidim's most terrifying ability is its power to emerge from any location or object within the Hollow's illusion, whether from a forgotten corner of the labyrinth or an old keepsake filled with a victim's cherished memories. The shock of its sudden appearance delivers a devastating blow to both body and mind, earning it the nickname \"Hound of Old.\" Its true ability lies in ignoring the illusions woven by the Hallucinogenic Soundscape and moving freely through the Hollow itself.\nBecause of its terrifying nature and appearance, Ulidim is one of the most common and most feared threats encountered during Exploration Missions into Papago Hollow. Among the Bangboo stationed at Papago Outpost, even the mention of its name inspires fear, and frightening legends about Ulidim have spread from one Bangboo to another.\nThere are multiple Ulidim within the Hollow. Their routine task is to patrol designated areas and routes, maintaining the stability of the Hallucinogenic Soundscape. Should they detect an intruder interfering with the Hollow's stable expansion, they will immediately pursue and kill the offender.\n\"Within that labyrinth that has a beginning but no end, perhaps being devoured by the dreadful hound is a mercy in itself.\"",
+    "KO": "우리딤",
+    "CHS": "乌利迪姆",
+    "JA": "ウリディンム"
+  },
   "35001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv03/Monster_Nineveh.png",
     "tag": null,
@@ -1593,7 +1629,7 @@
     "desc": "New Eridu never hesitates to spotlight rising stars, nor does it stop consuming legends born and burnt out in a flash. In TOPS Entertainment's dazzling blueprint, the perfect \"new star\" is always described this way: a songstress who is flawlessly precise, absolutely controllable, and capable of carrying any artistic vision, defining the idol standard of a new era.\nAnd Vesper, model \"V-DTX,\" stands among their most closely cultivated test cases.\nShe was given the most advanced vocal module, the most sophisticated emotion simulation system, and... a crystal-clear Core inscribed with \"love for the stage.\" With every curtain call and in every pause between her lyrics, she could feel it again and again — her own heart, pure as crystal.\nAnd yet she slipped into an obsession: no matter how much of herself she gave, she and her voice were nothing but instruments on a stage, just numbers in a producer's ledger.\nEven the most perfect performances and the hottest applause were only footnotes for someone else's story, never the fire that truly burned inside her.\nHer voice began to pick up faint distortions, and her \"heart\" was no longer pure, collapsing into a shattered, pitiful void. The stage she once cherished above all else became a beautiful, merciless cage.\n\"The stage really is beautiful, isn't it? Even though you only want to hear the echoes you designed...\"\n\"But that's okay. I'll sing for you.\"\n\"In my own way, I'll bring this false performance to its final rest.\"",
     "KO": "고독한 불협의 노래·베스퍼",
     "CHS": "叛律孤歌·薇斯珀",
-    "JA": "プリマ・イコノクラスト・ヴ��スポ"
+    "JA": "プリマ・イコノクラスト・ヴェスポ"
   },
   "40002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_GraymaneCenturion.png",
@@ -1666,6 +1702,30 @@
     "KO": "융합·태초의 악몽",
     "CHS": "异构·太初梦魇",
     "JA": "異性体・原初の悪夢"
+  },
+  "40008": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_GirReborn.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 4,
+    "group": 201,
+    "EN": "Girtablullu - Stagnant Aberrant",
+    "desc": "A beast standing at the edge of the abyss, its burning desire laid bare, sought to devour the seed of ultimate evil and ascend as the abyss's chosen Messenger.\n\nThe Enchainer larvae known as \"Girtablullu\" attempted to consume the \"Karma Core\" within Dracaene Sunbringer, but failed to complete its ascension. The \"Stagnant Aberrant\" was the result of that failed transformation. Its Ether-Sculpted body could no longer withstand the power of the \"Karma Core,\" spiraling into uncontrollable mutation. Its grotesque form now lashes out with a malice born from twisted ambition and sheer greed.\n\n\"You can't just eat everything you see. It's not good for you.\"",
+    "KO": "기르타블리르·퇴행 변종",
+    "CHS": "基塔布鲁·滞变畸兽",
+    "JA": "歪みし異獣・ギルタブルル"
+  },
+  "40009": {
+    "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv04/Monster_Girtablu_HC.png",
+    "tag": null,
+    "tag2": null,
+    "rarity": 4,
+    "group": 201,
+    "EN": "Integrated - Girtablullu",
+    "desc": "A High-Risk simulation unit modeled from real combat data. Through deep reconstruction and overfitting of its original combat logic, certain units have surpassed standard performance limits, presenting an extremely high level of combat threat.\n\nA highly dangerous scorpion-like Ethereal that fights with an ash-gray lance. Its powerful lower body and agile upper torso combine to create a combat machine that is both devastating and highly mobile. By burrowing through \"wormholes,\" it traverses the Scamall Hollow in search of its next victim to fall into the nest. Unlike Ethereals transformed from corrupted wildlife or machinery, this creature was spawned by something far more terrifying, carrying an Ether signature unlike any other.\n\n\"There's no Insect Phobia Mode in the settings!\"",
+    "KO": "융합·기르타블리르",
+    "CHS": "异构·基塔布鲁",
+    "JA": "異性体・ギルタブルル"
   },
   "100001": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv01/Monster_ClaymoreGreyPro.png",
@@ -2157,7 +2217,7 @@
     "desc": "Farbauti, possessing immense strength and often in a frenzied state, is one of the most formidable threats Hollow Raiders may face. Its hammer-like arms can effortlessly deflect damage and unleash storms of blows that crush everything in its path.\nSome Hollow Raiders have observed Farbauti frequently pounding the ground in a rhythmic, high-frequency manner, leading to speculation about its peculiar interest in drumming music.\nDespite the Hollow Investigative Association publicly debunking this rumor, many Hollow Raiders carry portable stereos in an attempt to distract Farbauti with music.\nNo successful escapes using this method have been reported however.\n\"The reason for their failure is simple: Even Farbauti think your taste in music sucks!\"",
     "KO": "파르바우티·에너지형",
     "CHS": "法布提·蓄能型",
-    "JA": "ファールバウ���ィ・蓄エネ型"
+    "JA": "ファールバウティ・蓄エネ型"
   },
   "200002": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_Giant.png",
@@ -2253,7 +2313,7 @@
     "desc": "The HIA Phase-I Investigation Team has officially documented the existence of this sentient living Ether resembling a four-legged beast, which poses significant danger. \nAccording to rumors, the first sighting took place in the Nest Hollow, where individuals exploring the nearby wastes reported hearing ear-splitting roars reminiscent of wild animal growls.\n\"If I throw a stick or a ball, do you think that monster will catch it?\"\n\"You can give it a try, but I won't cover your medical bill.\"",
     "KO": "하티 리더·에너지형",
     "CHS": "哈提头犬·蓄能型",
-    "JA": "ハティアルファ・蓄エネ型"
+    "JA": "ハティアル��ァ・蓄エネ型"
   },
   "200021": {
     "icon": "UI/Sprite/A1DynamicLoad/BossCard/UnPacker/BossCardLv02/Monster_GoblinGreyPro.png",
@@ -2527,7 +2587,7 @@
     "group": 203,
     "EN": "Ruthless Fiend",
     "desc": "Unfortunate souls mutated by the intense corruption of Ether matter within the Hollows. Due to a considerable degree of Ether aptitude and physical capability, their bodies have not been completely transformed by the Ether. Humanoid features are more dangerous with enhanced mutant limbs.\nJudging from the remnants of clothing and its combat experience, it was likely once a senior gang member or Raider lurking in the Hollows.\nBandits are notorious for their dangerous behavior, and within their ranks, Hollow bandits stand out as the most ruthless. The elite fighters among these Hollow bandits are especially terrifying, displaying an elevated level of violence. When these brutes, toughened both physically and mentally through violence, undergo Ether corruption, they transform into monsters with a more feral and savage nature.\n\"They used to yell 'money or your life,' but now they're just hell-bent on taking your life...\"",
-    "KO": "흉악한 미치광이",
+    "KO": "���악한 미치광이",
     "CHS": "凶心疯汉",
     "JA": "凶悪狂人"
   },

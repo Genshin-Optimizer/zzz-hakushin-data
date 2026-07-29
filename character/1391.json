@@ -15,8 +15,14 @@
     "FullName": "Ju Fufu",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle43.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0043.png",
     "ImpressionF": "\"The most skilled senior ever who can do anything, a righteous hero with righteous might!\" I didn't expect senior Fufu to have such a side... so adorable! Hm... why does this feel like something Wise would've said?",
     "ImpressionM": "I've never said anything like that! I still haven't totally gotten used to Fufu calling me junior when she looks so small herself, but both in life and in missions, Fufu truly is a reliable senior... How about we accidentally on purpose show her our comments? I bet she'll get really shy but feel super smug inside.",
+    "Impressions": [
+      "Impressions of Ju Fufu:\n · The Little Tiger of Yunkui Summit excels at subduing demons and dispelling evil, driven by a deep resolve to punish the wicked and wipe out all evil.",
+      " · This young master of Suibian Temple has immense powers, and her bearing is nothing short of majestic.",
+      " · Phaethon's senior will have your back when you're up to mischief and plead your case if you get into trouble."
+    ],
     "ProfileDesc": "Ju Fufu, a rare tiger Thiren of New Eridu. She looks small and is still young, but she's the most senior disciple of Suibian Temple and one of Yixuan's first disciples.\n\n\"Able to deal with anything,\" \"can even make Shifu listen,\" \"super patient and meticulous teacher,\" \"has great taste when choosing restaurants for teambuilding.\"\n—Yunkui Summit trainee performance review, peer evaluation\n\n\"Always messing up the tasks given by Shifu,\" \"doesn't command respect in speech or combat,\" \"doesn't know how to act tough against bad guys,\" \"juniors are more skilled.\"\n—Yunkui Summit trainee performance review, self-evaluation\n\n\"'The most skilled senior ever who can do anything, a righteous hero with righteous might' is what I heard her say when I passed by her room. Hm... I concur.\"\n—Yunkui Summit trainee performance review, Shifu's evaluation\n\nOther: I suggest you suggest Yunkui Summit improve their network security to avoid the risk of disciples' personal data being stolen or leaked.",
     "RoleIcon": "IconRole/UnPacker/IconRole43",
     "Stature": "142",
@@ -1696,6 +1702,7 @@
     "Slot4": 33200,
     "Slot2": 31000,
     "SlotSub": 31400,
+    "PartSubList": [12102, 20103],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

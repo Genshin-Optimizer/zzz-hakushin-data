@@ -29,7 +29,7 @@
     "hit": 101,
     "camp": 1,
     "icon": "IconRole11",
-    "potential": [],
+    "potential": [102100, 102101, 102102, 102103, 102104, 102105],
     "EN": "Nekomata",
     "skin": {
       "3110210": {
@@ -78,14 +78,7 @@
     "hit": 101,
     "camp": 5,
     "icon": "IconRole05",
-    "potential": [
-      104100,
-      104101,
-      104102,
-      104103,
-      104104,
-      104105
-    ],
+    "potential": [104100, 104101, 104102, 104103, 104104, 104105],
     "EN": "Soldier 11",
     "skin": {
       "3110410": {
@@ -118,7 +111,7 @@
     },
     "desc": "In addition to her role as an Agent, Yidhari doubles as both a Proxy, and a contributor for Spook Shack.\nTo most, she comes across as laid-back and leisurely, but according to records, it's less \"laziness\" than a shroud of nothingness, leaving her at odds with the world around her.\nPerhaps to most people, this would seem like the usual quirk of someone absorbed in their craft. As a gifted writer of bizarre tales, Yidhari should be more prone than most to immersing herself in the worlds of her own imagination.\nIn truth, however, her unusual behavior stems more from the burden of her own abilities.\nIn the Hollows, she's exposed to vast torrents of information unimaginable to most, tangled with years upon years of memories that have amassed there. That crushing weight of countless pasts constantly batters her sense of reality, until even her emotions are gradually worn dull.\nThe fact that she can bear this burden, turn it into her own strength, and still live life in her own way — that's what sets Yidhari apart as gifted beyond others.",
     "KO": "이드하리",
-    "CHS": "伊德海莉",
+    "CHS": "伊德海���",
     "JA": "イドリー"
   },
   "1061": {
@@ -141,7 +134,7 @@
     "desc": "Corin is one of the maids working for Victoria Housekeeping Co.\nShe is a highly obedient maid but lacks confidence and often fears being disliked by others. When in a rush, she becomes flustered and stutters.\nCorin is always apologizing no matter what happens.\n\"I... I... I'm so sorry! I'm so incompetent... I'll never get things right...\"\n\nCorin never, however, fails to fulfill her tasks with excellence and is one of the most reliable members of Victoria Housekeeping Co.\nDespite her flawless performance, Corin remains skeptical about her abilities, constantly worrying about being a burden to her colleagues, which can sometimes frustrate Lycaon.\nThoughts: Is Corin's personality innate, shaped by her life experiences?",
     "KO": "코린",
     "CHS": "可琳",
-    "JA": "カリン"
+    "JA": "���リン"
   },
   "1071": {
     "code": "Caesar",
@@ -311,14 +304,7 @@
     "hit": 102,
     "camp": 2,
     "icon": "IconRole18",
-    "potential": [
-      114100,
-      114101,
-      114102,
-      114103,
-      114104,
-      114105
-    ],
+    "potential": [114100, 114101, 114102, 114103, 114104, 114105],
     "EN": "Lycaon",
     "skin": {
       "3111410": {
@@ -347,6 +333,11 @@
         "Name": "Lucy: Ironfist Gentlewoman",
         "Desc": "Her outfit is considered rather polished by biker standards and said to work wonders in negotiations with outsiders.\nThe runaway princess found her freedom in the Outer Ring, glittering under the starlit night, burning at the edge of dusk, and resting quietly among the grains of sand at her feet.",
         "Image": "IconRole27"
+      },
+      "3111511": {
+        "Name": "Lucy: Princess on Holiday",
+        "Desc": "A baseball bat obviously has no place in beach volleyball, but it can ensure no one disturbs the princess of the wildlands' holiday fun. Grassy, Woody, Bricky — time to enter vacation combat mode!",
+        "Image": "IconRole27_01"
       }
     },
     "desc": "Lucy is currently in charge of outgoing business and managing boars for the Sons of Calydon.\nSince her name is far too long and she doesn't want to be involved with her family, she refers to herself as just \"Lucy\" in the Outer Ring.\nHer three boars are called Grassy, Woody, and Bricky, and they're unceasingly loyal to her.\nThough Lucy often speaks with a mixture of rough and elegant language, her actions subtly betray the marks of a proper education.\nLucy's family is incredibly wealthy. She grew up very privileged, with anything she could ever want within grasp... except for freedom.\nAfter her Ether Aptitude test results came back high, Lucy decided she wanted to be a Hollow investigator, but her family disapproved. She was met with harsh words, isolation and confinement, and emotional abuse which led to her deciding to leave to find her own freedom.\n\"Hmph! There's no chance I'll ever go back! If I'm found... then I can say goodbye to the stars and sky and I'll have to inherit the family business instead!\"\nLucy is extremely competitive. She loves to win and hates losing.\nCurrently, the one who has given her the most bitter taste of defeat is Caesar, so Lucy keeps challenging Caesar to duels, losing then challenging again, challenging then losing again.",
@@ -384,14 +375,7 @@
     "hit": 103,
     "camp": 4,
     "icon": "IconRole32",
-    "potential": [
-      117100,
-      117101,
-      117102,
-      117103,
-      117104,
-      117105
-    ],
+    "potential": [117100, 117101, 117102, 117103, 117104, 117105],
     "EN": "Burnice",
     "skin": {
       "3111710": {
@@ -413,14 +397,7 @@
     "hit": 103,
     "camp": 3,
     "icon": "IconRole20",
-    "potential": [
-      118100,
-      118101,
-      118102,
-      118103,
-      118104,
-      118105
-    ],
+    "potential": [118100, 118101, 118102, 118103, 118104, 118105],
     "EN": "Grace",
     "skin": {
       "3111810": {
@@ -442,14 +419,7 @@
     "hit": 101,
     "camp": 2,
     "icon": "IconRole21",
-    "potential": [
-      119100,
-      119101,
-      119102,
-      119103,
-      119104,
-      119105
-    ],
+    "potential": [119100, 119101, 119102, 119103, 119104, 119105],
     "EN": "Ellen",
     "skin": {
       "3111910": {
@@ -476,14 +446,7 @@
     "hit": 103,
     "camp": 6,
     "icon": "IconRole35",
-    "potential": [
-      120100,
-      120101,
-      120102,
-      120103,
-      120104,
-      120105
-    ],
+    "potential": [120100, 120101, 120102, 120103, 120104, 120105],
     "EN": "Harumasa",
     "skin": {
       "3112010": {
@@ -505,7 +468,7 @@
     "hit": 102,
     "camp": 2,
     "icon": "IconRole22",
-    "potential": [],
+    "potential": [121100, 121101, 121102, 121103, 121104, 121105],
     "EN": "Rina",
     "skin": {
       "3112110": {
@@ -593,7 +556,7 @@
     "hit": 101,
     "camp": 7,
     "icon": "IconRole24",
-    "potential": [],
+    "potential": [126100, 126101, 126102, 126103, 126104, 126105],
     "EN": "Jane",
     "skin": {
       "3112610": {
@@ -745,7 +708,7 @@
       }
     },
     "desc": "Evelyn is the manager and personal bodyguard of Ridu's most iconic singer, Astra Yao. Known for her calm, decisive decision-making and professional, efficient style, she's an irreplaceable pillar behind Astra. \"In terms of commercial value, if Astra Yao represents the 1, then Evelyn is all the 0s that follow,\" a reporter from an entertainment magazine stated.\n\nEvelyn is skilled at planning comprehensive schedules and product endorsements, while also ensuring Astra Yao's safety during any unexpected situations. \"Want to get close to Astra Yao? You'll have to get past Evelyn Chevalier first...\" Though she's always busy with work, Evelyn never seems overwhelmed, and she has an almost obsessive attention to detail, ensuring that every performance and every product endorsement goes through her strict scrutiny. But strangely, such an exceptional manager is not trusted by her parent company, Odeum HAE.\n\nIntel: Evelyn's role seems to go beyond just being a manager and personal bodyguard; there seems to be an \"organization\" behind her.\n\nIt seems a lot of people in Astra Yao's central Astranauts group ship them together.",
-    "KO": "이블린",
+    "KO": "이���린",
     "CHS": "伊芙琳",
     "JA": "イヴリン"
   },
@@ -878,14 +841,7 @@
     "hit": 101,
     "camp": 5,
     "icon": "IconRole40",
-    "potential": [
-      138100,
-      138101,
-      138102,
-      138103,
-      138104,
-      138105
-    ],
+    "potential": [138100, 138101, 138102, 138103, 138104, 138105],
     "EN": "Soldier 0 - Anby",
     "skin": {
       "3113810": {
@@ -1362,5 +1318,69 @@
     "KO": "노르마",
     "CHS": "诺姆",
     "JA": "ノルムー"
+  },
+  "1581": {
+    "code": "Remielle",
+    "rank": 4,
+    "type": 3,
+    "element": 300,
+    "hit": 101,
+    "camp": 17,
+    "icon": "IconRole67",
+    "potential": [],
+    "EN": "Remielle",
+    "skin": {
+      "3115810": {
+        "Name": "Remielle: Feathered Murmurs",
+        "Desc": "An angel of old fell to the mortal world, their feathers drifting down as they sank into silent slumber.\nAwaken from the pale wasteland, beyond the edge of all sound, and begin the journey anew.",
+        "Image": "IconRole67"
+      },
+      "3115811": {
+        "Name": "Remielle: Moonlight Whispers",
+        "Desc": "Since the sun has never shown mercy, let us embrace the fall alongside the moonlit night.\nYou say it's difficult to differentiate between jokes and deception?\nThen let's have another round of our Q&A game, my dear partner in crime.",
+        "Image": "IconRole67_02"
+      },
+      "3115812": {
+        "Name": "Remielle: Seashade Pas Seul",
+        "Desc": "This was originally a solo dance, yet a ray of light has illuminated the secrecy and solitude shrouded in darkness. Now, would you care to join me for a pas de deux, my partner in crime?",
+        "Image": "IconRole67_01"
+      },
+      "3115813": {
+        "Name": "Remielle: Moonlight Whispers (Veil)",
+        "Desc": "Since the sun has never shown mercy, let us embrace the fall alongside the moonlit night.\nYou say it's difficult to differentiate between jokes and deception?\nThen let's have another round of our Q&A game, my dear partner in crime.",
+        "Image": "IconRole67_03"
+      }
+    },
+    "desc": "Remielle Dan, one of the first-generation Void Hunters, was formerly a Lieutenant Colonel in the Guard of Staves and currently a member of the secret organization known as the Covenant of Dayat.\nRecords describe her as a prodigy from childhood, capable of rapidly acquiring knowledge and mastering skills in nearly any discipline.\nShe was selected to join the Guard of Staves at a remarkably young age, was promoted directly to Lieutenant Colonel, and inherited the Void Hunter weapon, \"Thaumiel.\" Fighting alongside Colonel Vike and the leader of the Falkenhayn Mercenary Troupe, she helped drive back the Dark Wall, rose to fame through that decisive battle, and was formally awarded the title of Void Hunter.\nDuring the classified operation later known as the Day of Silence, Remielle and Colonel Vike were both believed to have been killed in action following an unexpected incident. Yet as she's still alive, then the truth must be something else entirely.\nRemielle comes and goes without a trace, yet always seems to appear at the most unexpected, pivotal moments, steering events in a new direction.\nAround others, Remielle always wears a sweet, effortless smile. Calm under any circumstances and almost disarmingly friendly, she rarely gives people a reason to raise their guard.\nShe excels at closing the distance with lighthearted banter, yet instinctively maintains just the right amount of distance, making her difficult to read.\nNote: Remielle has a habit of playfully teasing those around her. As for you, you seem to receive a particularly generous share of that \"special treatment.\"",
+    "KO": "레미엘",
+    "CHS": "蕾米埃尔",
+    "JA": "レミエール"
+  },
+  "1591": {
+    "code": "Sigrid",
+    "rank": 4,
+    "type": 1,
+    "element": 202,
+    "hit": 103,
+    "camp": 16,
+    "icon": "IconRole66",
+    "potential": [],
+    "EN": "Sigrid",
+    "skin": {
+      "3115910": {
+        "Name": "Sigrid: Legend of the Sky Island",
+        "Desc": "The standard attire of the Airspace Patrol Department's Deputy Administrative Director. It serves as both a symbol of her authority over the department and an iconic figure immortalized in countless stories.",
+        "Image": "IconRole66"
+      },
+      "3115911": {
+        "Name": "Sigrid: Majestic Wavechaser",
+        "Desc": "A knight accustomed to galloping through the skies must now face a new challenge from the waves and the sun!",
+        "Image": "IconRole66_01"
+      }
+    },
+    "desc": "Sigrid de L'Azur, the current Deputy Administrative Director of the Airspace Patrol Department, trusted adjutant to Lindverne Sunbringer, and heir apparent to House de L'Azur, one of Roscaelifer's most prestigious noble families.\n\nLike all those legendary figures, Sigrid has a long, long string of titles attached to her name. Yet even now, after serving for years as the Airspace Patrol Department's Deputy Administrative Director and earning top annual performance honors time and again, she still finds herself wondering whether she's truly worthy of the legendary hero \"Sigrid\" spoken of throughout the streets of Roscaelifer.\n\nYou can't exactly blame Sigrid for lacking confidence. After all, when the stories claim she can \"stand shoulder to shoulder with a Void Hunter,\" \"smash a building apart with one hand,\" or \"blast straight through a Hollow with a single stab of her spear,\" any honest and sensible warrior would question whether they could truly achieve such feats with the weapon in their hand.\n\nThere is, however, one legend Sigrid has never doubted: \"So long as my spear remains unbroken, the miracle of the skies shall never end.\"",
+    "KO": "시그리드",
+    "CHS": "希格莉德",
+    "JA": "シグリッド"
   }
 }

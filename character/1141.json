@@ -15,8 +15,14 @@
     "FullName": "Von Lycaon",
     "Gender": "Male",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle18.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0018.png",
     "ImpressionF": "Is there truly anything in this world that poses a challenge for Lycaon?\nIt seems that no matter what obstacles he encounters, he effortlessly solves them all (as long as you touch his tail)!",
     "ImpressionM": "Belle, did your comment get mixed up with your personal preferences...?\nAnd Fairy suggested touching Lycaon's chin and head, not his tail.",
+    "Impressions": [
+      "Impressions of Lycaon:\n · Even the highly self-disciplined Lycaon worries about shedding fur...",
+      " · While Lycaon is an incredibly versatile attendant, he won't demand their soul as payment from his employers.",
+      " · No matter what happened in his past, Lycaon remains an unwaveringly reliable companion."
+    ],
     "ProfileDesc": "Lycaon, the substantive leader and representative of Victoria Housekeeping Co., is responsible for managing all members of the company.\nRational and reliable, Lycaon is an elegant gentleman and a versatile attendant who can solve any problem. He is the cornerstone of his team and a reassuring presence.\nHe has a slight obsession with cleanliness, always tidying up his surroundings and unable to tolerate dirty environments.\n\nAlthough Lycaon maintains his elegance and composure, his canine instincts occasionally shine through. When he is particularly happy, his tail and ears unconsciously wag. He seems to be aware of this habit and somewhat bothered by it.\nAdditionally, like most furry Thiren, Lycaon takes great care of his fur.\n\nSuggestion: Since Lycaon is a canine Thiren, stroking his head or chin may enhance the emotional connection between you. (Note: Success is not guaranteed.)\n* Risks: Due to his height, you may not be able to do this even if you stand on tiptoes.",
     "RoleIcon": "IconRole/UnPacker/IconRole18",
     "Stature": "198",
@@ -2182,6 +2188,7 @@
     "Slot4": 31200,
     "Slot2": 32500,
     "SlotSub": 31600,
+    "PartSubList": [12102, 20103],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

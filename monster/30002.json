@@ -258,7 +258,7 @@
   "GroupId": 205,
   "GroupDesc": "Rebel Soldiers",
   "CardObtain": "[Unidentified] Defeat this monster in Hollow Zero 1 time to obtain its data",
-  "CardQuote": "��Lines from the New Eridu popcorn movie \"Frontline Guardians, Transform!\"",
+  "CardQuote": "—Lines from the New Eridu popcorn movie \"Frontline Guardians, Transform!\"",
   "CardSkillDesc": "During combat, Autonomous Support Unit - Guardian not only performs powerful melee attacks, but can also use a variety of ranged attacks. When adjacent to another unit, some Autonomous Support Unit - Guardian units will focus on providing ranged fire support from outside the core battlefield.",
   "ElementAbnormal": {
     "10001": 600,

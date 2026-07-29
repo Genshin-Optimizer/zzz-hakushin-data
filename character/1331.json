@@ -15,8 +15,14 @@
     "FullName": "Vivian Banshee",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle41.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0041.png",
     "ImpressionF": "Vivian knows so many people and has worked in so many places... Not at all what you'd expect from how she first comes across!",
     "ImpressionM": "Once I found out she was Sjal's senior, a lot of things suddenly made sense...",
+    "Impressions": [
+      "Impressions of Vivian:\n · She lives in a world ruled by chaos, yet love is her salvation.",
+      " · Though most dwell in darkness, she still chooses to look up at the stars.",
+      " · She offers a kind of loyalty only someone without past beliefs could give."
+    ],
     "ProfileDesc": "Vivian is a member of Mockingbird, skilled in gathering all kinds of intel. She's also a jack of many trades — cooking, mixology, translation, art forgery, electronics repair, and more.\nIn the past, she apparently wandered without a home and was viewed as one who \"brought disaster,\" almost like a living omen of bad luck.\nIt's said she can predict incoming misfortune through her tears, though there's no scientific proof of this ability.\nA loyal follower of Phaethon. Ever since your original account went inactive on Inter-Knot, she's been trying to track you down — digging for clues, running intense searches across the network. However, Master, she didn't find anything... all thanks to my efforts in keeping your cybersecurity airtight.\nSuggestion: Until her true intentions are clear, do not reveal your identity as Phaethon.\nIn case you've already let your identity slip, be sure to lock your doors and wear proper sleepwear before going to bed. Based on her old blog posts, she's likely to express her admiration in... overly passionate and intense ways.",
     "RoleIcon": "IconRole/UnPacker/IconRole41",
     "Stature": "162",
@@ -1597,6 +1603,7 @@
     "Slot4": 33000,
     "Slot2": 31300,
     "SlotSub": 31600,
+    "PartSubList": [31203, 12102],
     "Part4": {
       "Prop": 31203,
       "Name": "Anomaly Proficiency",

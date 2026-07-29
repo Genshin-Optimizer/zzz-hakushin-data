@@ -16,7 +16,7 @@
     "EN": "Luckyboo",
     "desc": "Takes up quite a bit of space when placed on the counter.",
     "KO": "럭키부",
-    "CHS": "招财布",
+    "CHS": "���财布",
     "JA": "オマネキボンプ"
   },
   "53003": {
@@ -57,7 +57,7 @@
     "desc": "There's a dark past hidden under that bag...",
     "KO": "봉투부",
     "CHS": "纸袋布",
-    "JA": "フクロノ���ンプ"
+    "JA": "フクロノボンプ"
   },
   "53007": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole02.png",
@@ -177,7 +177,7 @@
     "desc": "Don't step on the blocks barefoot.",
     "KO": "블록부",
     "CHS": "乐玩布",
-    "JA": "ブロックボンプ"
+    "JA": "��ロックボンプ"
   },
   "53021": {
     "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole45.png",
@@ -346,7 +346,7 @@
     "EN": "Belion",
     "desc": "The true essence of martial arts is the lightness and purity of heart.",
     "KO": "사야",
-    "CHS": "狮���",
+    "CHS": "狮耶",
     "JA": "オシシ"
   },
   "54018": {
@@ -398,5 +398,25 @@
     "KO": "울트라 제이크",
     "CHS": "超极杰克",
     "JA": "ウルトラネイヴ"
+  },
+  "54023": {
+    "icon": "UI/Sprite/A1DynamicLoad/BangbooModGarage/UnPacker/BangbooRole/BangbooGarageRole48.png",
+    "rank": 4,
+    "codename": "Ariel",
+    "EN": "Ariel",
+    "desc": "You cannot walk alone in the darkness.",
+    "KO": "아리엘",
+    "CHS": "艾瑞儿",
+    "JA": "アリエル"
+  },
+  "55098": {
+    "icon": "",
+    "rank": 3,
+    "codename": "Eous",
+    "EN": "Eous",
+    "desc": "Eous",
+    "KO": "이아스",
+    "CHS": "伊埃斯",
+    "JA": "イアス"
   }
 }

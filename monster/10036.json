@@ -136,7 +136,8 @@
         "Small",
         "NoCorruptiveHpDecrease",
         "NoCorruptiveEffect",
-        "LittleMonster"
+        "LittleMonster",
+        "Summoned"
       ],
       "Type": "Monster",
       "Element": {

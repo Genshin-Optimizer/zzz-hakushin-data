@@ -6,7 +6,7 @@
       "Id": 31462,
       "CodeName": "Monster_InnerKnight_Slime",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_InnerKnightSlime.png",
-      "Tag": ["Ether", "Bios", "Small", "Boss", "NoRBLBuff", "Slime", ""],
+      "Tag": ["Ether", "Small", "Boss", "NoRBLBuff", "Slime", ""],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

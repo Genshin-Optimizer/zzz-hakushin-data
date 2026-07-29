@@ -1,0 +1,25 @@
+{
+  "Id": 55098,
+  "CodeName": "Eous",
+  "Name": "Eous",
+  "Desc": "Eous",
+  "Rarity": 3,
+  "Icon": "",
+  "Stats": {
+    "Endurance": 180,
+    "HpMax": 396,
+    "Hpupgrade": 471237,
+    "Attack": 72,
+    "AttackUpgrade": 360408,
+    "BreakStun": 103,
+    "ElementAbnormalPower": 110,
+    "Defence": 28,
+    "DefUpgrade": 78871,
+    "Crit": 500,
+    "PenRatio": 0,
+    "CritDmg": 5000
+  },
+  "Level": {},
+  "Skill": { "A": { "Level": {} }, "B": { "Level": {} }, "C": { "Level": {} } },
+  "SkillProp": {}
+}

@@ -10,7 +10,9 @@
   "HitType": { "101": "Slash" },
   "Camp": { "1": "Cunning Hares" },
   "Gender": 1,
-  "PartnerInfo": {},
+  "PartnerInfo": {
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0062.png"
+  },
   "Skin": {
     "3115310": {
       "Name": "Starlight - Billy: Starlight Armaments",
@@ -1713,6 +1715,7 @@
     "Slot4": 33100,
     "Slot2": 31000,
     "SlotSub": 32700,
+    "PartSubList": [20103, 21103, 11102],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

@@ -15,8 +15,14 @@
     "FullName": "Cissia",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle60.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0060.png",
     "ImpressionF": "There isn't a single snack that can get past Cissia's eyes and nose! How in the world can she smell potato chips through the packaging?",
     "ImpressionM": "Ever since Cissia started coming over on the regular, some things have never gone missing again... like those old videotapes that were always impossible to find. And some things have never been seen again either... like the leftover cheesecake in the fridge.",
+    "Impressions": [
+      "Impressions of Cissia:\n · Throw eggs her way, and she pays it back with snacks.",
+      " · No security alarms went off. Another day of her being good.",
+      " · She's officially claimed the video store couch as her territory."
+    ],
     "ProfileDesc": "Cissia, a case specialist serving under the New Eridu Public Security Commissioner, is currently campaigning to become the new second-floor roommate at Random Play.\n\nMore than the danger of the mission itself, what she fears most is a call from her superior. The professionalism she shows in her actions is far more dependable than how she looks or the way she talks. Relying only on instinct and her senses, she can still make the right call.\n\nShe may claim to be a selfish, instinct-driven \"bad guy,\" but the choices she makes often carry a faint glimmer of humanity beyond personal gain. She scoffs at order and justice, yet can become the sharpest blade in the hunt for the worst criminals.\n\nBut whether it's the lies she tells to protect herself, the fangs she shows when she bites back, or that wild philosophy of \"survive and profit,\" Cissia has turned them all into a shield to protect the few things she still has. No matter what past or shackles she carries, she has already decided to make her stand here.",
     "RoleIcon": "IconRole/UnPacker/IconRole60",
     "Stature": "156",
@@ -1607,6 +1613,7 @@
     "Slot4": 33300,
     "Slot2": 31600,
     "SlotSub": 33400,
+    "PartSubList": [21103, 20103, 12102],
     "Part4": {
       "Prop": 30502,
       "Name": "Energy Regen",

@@ -15,8 +15,14 @@
     "FullName": "Billy Kid",
     "Gender": "Male",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle10.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0010.png",
     "ImpressionF": "Weren't you obsessed with the Starlight Knight series as a kid, Wise?\nThat brings me back. You shouting \"Starlight Mirage!\" with your arms crossed...",
     "ImpressionM": "There was never such a time. Please erase such non-existent memories from your mind.\nIt's been a long time since I was that age, after all, and my name doesn't have \"kid\" in it.",
+    "Impressions": [
+      "Impressions of Billy:\n · Billy cares for his weapons like he cares for himself.",
+      " · He sure loves the Starlight Knights, but does he love the sense of justice or just the special effects?",
+      " · Billy's past hides unimaginable secrets"
+    ],
     "ProfileDesc": "Billy Kid, an AI construct that has passed the forbidden fruit test, is essentially a self-aware machine. \nTrue to his name, despite having the appearance of a robot, he is quite childlike.\nHe's a big fan of the visual FX show \"Starlight Knight\" and wishes to be a hero like the main characters of the show. He often refers to himself as a Starlight Knight and imitates the lines in the show.\nSuch behavior appears to be only for comedic effect, however.\n\"Don't make me sound like an idiot! I'm obviously very smart!\" — Billy.",
     "RoleIcon": "IconRole/UnPacker/IconRole10",
     "Stature": "188",
@@ -1559,6 +1565,7 @@
     "Slot4": 32600,
     "Slot2": 31000,
     "SlotSub": 31400,
+    "PartSubList": [12102, 20103, 21103],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

@@ -15,8 +15,14 @@
     "FullName": "Lighter",
     "Gender": "Male",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle26.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0026.png",
     "ImpressionF": "Didn't Lighter say that he'd faint at the sight of blood? And that's why he always keeps his shades on?\nCan someone who faints at the sight of blood really be a Champion? And even fight underground boxing matches...?",
     "ImpressionM": "This feels like a poorly crafted excuse...",
+    "Impressions": [
+      "Impressions of Lighter:\n · So... how many people has Lighter defeated?",
+      " · His shades make him look cool, but also bring trouble.",
+      " · I hope time heals all wounds."
+    ],
     "ProfileDesc": "Lighter, the Champion of the Sons of Calydon and an ex-mercenary.\nIn the Outer Ring, the Champion of a team refers to the one responsible for dealing with the opponent's strongest fighter in a gang fight, and they often need to participate in one-on-one duels. Their victory is crucial, as it brings glory and morale to the entire team.\n\"The Champion can perish, but cannot lose.\"\n\nA red scarf is what identifies the Champion of the Sons of Calydon.\nEven if the opponent doesn't know Lighter, they'll know who he is just from seeing that red scarf.\n\nFrom what is currently known, Lighter is actually very low profile. He only steals the spotlight on the battlefield when he acts on his obligations as Champion.\nNote: Lighter is the second Red Scarf of the Sons of Calydon. He teasingly refers to the previous Red Scarf as \"Brother\" or \"predecessor.\"",
     "RoleIcon": "IconRole/UnPacker/IconRole26",
     "Stature": "185",
@@ -2075,6 +2081,7 @@
     "Slot4": 31200,
     "Slot2": 32200,
     "SlotSub": 31600,
+    "PartSubList": [12102, 20103],
     "Part4": {
       "Prop": 12202,
       "Name": "Impact",

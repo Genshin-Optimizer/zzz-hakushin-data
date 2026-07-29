@@ -263,7 +263,7 @@
         "DisableAI",
         "ChelonethidSummon",
         "NotCounting",
-        ""
+        "Summoned"
       ],
       "Type": "Monster",
       "Element": {
@@ -397,7 +397,7 @@
         "ChelonethidSummon",
         "NotCounting",
         "Winged",
-        ""
+        "Summoned"
       ],
       "Type": "Monster",
       "Element": {

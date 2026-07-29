@@ -15,8 +15,14 @@
     "FullName": "Corin Wickes",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle09.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0009.png",
     "ImpressionF": "Corin is excellent at her work, but why does she lack confidence in herself...?\nIf only I could share half of my confidence with her!",
     "ImpressionM": "Some people are just introverted and sensitive. Fortunately, Corin's companions have complete faith in her capabilities.\nBelle, let's encourage her whenever we have the opportunity.",
+    "Impressions": [
+      "Impressions of Corin:\n · Corin seems to be lacking confidence...? She always panics about everything she does...",
+      " · With enough encouragement, Corin will always spring into action. Of course, a little shock will also do the trick...",
+      " · Corin looks so adorable when she musters up the courage to complete a commission!"
+    ],
     "ProfileDesc": "Corin is one of the maids working for Victoria Housekeeping Co.\nShe is a highly obedient maid but lacks confidence and often fears being disliked by others. When in a rush, she becomes flustered and stutters.\nCorin is always apologizing no matter what happens.\n\"I... I... I'm so sorry! I'm so incompetent... I'll never get things right...\"\n\nCorin never, however, fails to fulfill her tasks with excellence and is one of the most reliable members of Victoria Housekeeping Co.\nDespite her flawless performance, Corin remains skeptical about her abilities, constantly worrying about being a burden to her colleagues, which can sometimes frustrate Lycaon.\nThoughts: Is Corin's personality innate, shaped by her life experiences?",
     "RoleIcon": "IconRole/UnPacker/IconRole09",
     "Stature": "141",
@@ -1723,6 +1729,7 @@
     "Slot4": 32600,
     "Slot2": 31000,
     "SlotSub": 31400,
+    "PartSubList": [12102, 20103, 21103],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

@@ -6,7 +6,7 @@
       "Id": 31661,
       "CodeName": "Monster_Girtablu",
       "Icon": "Assets/NapResources/UI/Sprite/A1DynamicLoad/IconBossGeneral/UnPacker/IconMonster_Girtablu.png",
-      "Tag": ["Ether", "Large", "Boss", ""],
+      "Tag": ["Ether", "Large", "Boss", "MainStoryBoss"],
       "Type": "Monster",
       "Element": {
         "Ice": 0,

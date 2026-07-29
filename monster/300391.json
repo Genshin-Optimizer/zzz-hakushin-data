@@ -135,7 +135,7 @@
   "GroupDesc": "Corrupted",
   "CardObtain": "[Unidentified] Defeat this monster in Hollow Zero 1 time to obtain its data",
   "CardQuote": "—On a typical late-night overtime shift, an enraged HSO officer violently bangs on Haytor's frame while shouting",
-  "CardSkillDesc": "In combat, Haytor uses Phantoms to deceive opponents and launch surprise attacks; after entering Miasmic Field, Haytor can summon even larger Phantoms to attack alongside him. During this time, successfully parrying the large Phantoms' attacks will weaken the Miasmic Shield.",
+  "CardSkillDesc": "In combat, Haytor uses Phantoms to deceive opponents and launch surprise attacks; after entering Miasmic Field, Haytor can summon even larger Phantoms to attack alongside him. During this time, successfully parrying the large Phantoms' attacks will weaken the <Term:2000002>Miasmic Shield</Term>.",
   "ElementAbnormal": {
     "10001": 600,
     "10002": 600,

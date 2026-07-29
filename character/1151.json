@@ -15,8 +15,14 @@
     "FullName": "Luciana de Montefio",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle27.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0027.png",
     "ImpressionF": "Lucy's Knock Knock profile pic is soooo pretty! Is that what she looked like back when she was still living as a rich heiress?",
     "ImpressionM": "I think Caesar mentioned Lucy only uses this profile picture because it's incredibly effective when it comes to talking business with others...",
+    "Impressions": [
+      "Impressions of Lucy:\n · Never underestimate Lucy's competitiveness.",
+      " · Lucy's family drama sure is wild",
+      " · For the stars of the Outer Ring... and chip freedom!"
+    ],
     "ProfileDesc": "Lucy is currently in charge of outgoing business and managing boars for the Sons of Calydon.\nSince her name is far too long and she doesn't want to be involved with her family, she refers to herself as just \"Lucy\" in the Outer Ring.\nHer three boars are called Grassy, Woody, and Bricky, and they're unceasingly loyal to her.\nThough Lucy often speaks with a mixture of rough and elegant language, her actions subtly betray the marks of a proper education.\nLucy's family is incredibly wealthy. She grew up very privileged, with anything she could ever want within grasp... except for freedom.\nAfter her Ether Aptitude test results came back high, Lucy decided she wanted to be a Hollow investigator, but her family disapproved. She was met with harsh words, isolation and confinement, and emotional abuse which led to her deciding to leave to find her own freedom.\n\"Hmph! There's no chance I'll ever go back! If I'm found... then I can say goodbye to the stars and sky and I'll have to inherit the family business instead!\"\nLucy is extremely competitive. She loves to win and hates losing.\nCurrently, the one who has given her the most bitter taste of defeat is Caesar, so Lucy keeps challenging Caesar to duels, losing then challenging again, challenging then losing again.",
     "RoleIcon": "IconRole/UnPacker/IconRole27",
     "Stature": "152",
@@ -37,6 +43,11 @@
       "Name": "Lucy: Ironfist Gentlewoman",
       "Desc": "Her outfit is considered rather polished by biker standards and said to work wonders in negotiations with outsiders.\nThe runaway princess found her freedom in the Outer Ring, glittering under the starlit night, burning at the edge of dusk, and resting quietly among the grains of sand at her feet.",
       "Image": "IconRole27"
+    },
+    "3111511": {
+      "Name": "Lucy: Princess on Holiday",
+      "Desc": "A baseball bat obviously has no place in beach volleyball, but it can ensure no one disturbs the princess of the wildlands' holiday fun. Grassy, Woody, Bricky — time to enter vacation combat mode!",
+      "Image": "IconRole27_01"
     }
   },
   "Stats": {
@@ -1793,6 +1804,7 @@
     "Slot4": 31600,
     "Slot2": 31400,
     "SlotSub": 31300,
+    "PartSubList": [12102, 31203],
     "Part4": {
       "Prop": 12102,
       "Name": "ATK",

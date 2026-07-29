@@ -410,7 +410,7 @@
         "DisableAI",
         "PureSummon",
         "NotCounting",
-        ""
+        "Summoned"
       ],
       "Type": "Monster",
       "Element": {

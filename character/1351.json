@@ -15,8 +15,14 @@
     "FullName": "Pulchra Fellini",
     "Gender": "Female",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle38.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0038.png",
     "ImpressionF": "I don't think she's as dangerous as Fairy suggests. She seems pretty approachable. I mean, what harm could a little kitten cause?",
     "ImpressionM": "Just having that thought already makes it dangerous... Oh, she sent me a message saying she got me the limited edition of the game I wanted.",
+    "Impressions": [
+      "Impressions of Pulchra:\n · For Pulchra, the distinction between enemies and friends is irrelevant; they're simply temporary roles determined by her current job.",
+      " · She seems to care about nothing beyond her own interests, but perhaps it's all just an act?",
+      " · Someone still lingers in her memories to this day. Is it a beautiful past, or a nightmare?"
+    ],
     "ProfileDesc": "Pulchra, formerly a mercenary from the Outer Ring, is now a member of the Sons of Calydon. She works as an ordinary employee at the logistics company Leaps and Bounds.\nWarning: Financial transactions have been detected between Pulchra and several biker and criminal gangs from the Outer Ring. These records have reduced since joining the Sons of Calydon, but there has been a large increase in funds transferred from New Eridu. This is likely because Pulchra's new position allows for easier access to New Eridu.\nFurther information indicates Pulchra has indirect involvement in several major events in the Outer Ring, including but not limited to: gang conflicts, leaks of crucial convoy supply intel, mysterious road damage, and price surges of essential goods...\nPulchra does not have deep connections with Lucius, and there is no current risk of her being an insider for any other biker gangs. However, her interpersonal network is highly complicated. Caution is advised when interacting with her, especially in protecting personal privacy.",
     "RoleIcon": "IconRole/UnPacker/IconRole38",
     "Stature": "173",
@@ -1426,6 +1432,7 @@
     "Slot4": 32900,
     "Slot2": 31000,
     "SlotSub": 31200,
+    "PartSubList": [12102, 20103],
     "Part4": {
       "Prop": 20103,
       "Name": "CRIT Rate",

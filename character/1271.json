@@ -15,8 +15,14 @@
     "FullName": "Seth Lowell",
     "Gender": "Male",
     "IconPath": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle30.png",
+    "InterKnotIcon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0030.png",
     "ImpressionF": "Seth really is a feline Thiren! He's like a kitty magnet.",
     "ImpressionM": "I remember seeing him being completely surrounded by stray cats on the street once.\nMust be nice to be so loved by cats.",
+    "Impressions": [
+      "Impressions of Seth:\n · Somehow, we became friends? Seth is really easy to understand.",
+      " · How come Seth is always treating people to meals? Do Pub Sec officers make that much?",
+      " · \"I'm very happy to be Seth's friend\"... Until that day arrives."
+    ],
     "ProfileDesc": "Seth, a rookie officer in the Public Security Criminal Investigation Special Response Team, is a key player in providing fire support during criminal investigations.\nHe graduated at the top of his class in the academy and could have landed a higher position, but he chose the tougher path of the Special Response Team.\nHis impressive profile makes him seem like a genius, but he's actually a hard worker who has had his own struggles. There have been times when he practiced the subjects he wasn't good at until he cried.\nSeth is quite smart, but his personality often leads to him being taken advantage of by cunning criminals, or sometimes, coworkers (?).\nThe subject he's worst at is infiltration. Rumor has it that he holds the academy record for \"fastest to get busted\" in infiltration tasks. Based on the video intel we have, he seems a bit slow to catch on. For instance, when someone is being sarcastic, it takes him a long time to realize it.",
     "RoleIcon": "IconRole/UnPacker/IconRole30",
     "Stature": "174",
@@ -1530,6 +1536,7 @@
     "Slot4": 33700,
     "Slot2": 31900,
     "SlotSub": 31600,
+    "PartSubList": [12102, 31203],
     "Part4": {
       "Prop": 30502,
       "Name": "Energy Regen",
