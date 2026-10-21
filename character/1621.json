@@ -1352,32 +1352,6 @@
                 }
               },
               "Potential": []
-            },
-            {
-              "Name": "Daze Multiplier",
-              "Desc": "{Skill:1621017, Prop:1002}",
-              "Param": {
-                "1621017": {
-                  "Main": 45870,
-                  "Growth": 2090,
-                  "Format": "%",
-                  "DamagePercentage": 61160,
-                  "DamagePercentageGrowth": 5560,
-                  "StunRatio": 45870,
-                  "StunRatioGrowth": 2090,
-                  "SpRecovery": 0,
-                  "SpRecoveryGrowth": 0,
-                  "FeverRecovery": 1440725,
-                  "FeverRecoveryGrowth": 0,
-                  "AttributeInfliction": 44367,
-                  "SpConsume": 0,
-                  "AttackData": [],
-                  "RpRecovery": 0,
-                  "RpRecoveryGrowth": 0,
-                  "EtherPurify": 25664
-                }
-              },
-              "Potential": []
             }
           ],
           "Potential": []
@@ -1534,6 +1508,32 @@
                 "1621017": {
                   "Main": 61160,
                   "Growth": 5560,
+                  "Format": "%",
+                  "DamagePercentage": 61160,
+                  "DamagePercentageGrowth": 5560,
+                  "StunRatio": 45870,
+                  "StunRatioGrowth": 2090,
+                  "SpRecovery": 0,
+                  "SpRecoveryGrowth": 0,
+                  "FeverRecovery": 1440725,
+                  "FeverRecoveryGrowth": 0,
+                  "AttributeInfliction": 44367,
+                  "SpConsume": 0,
+                  "AttackData": [],
+                  "RpRecovery": 0,
+                  "RpRecoveryGrowth": 0,
+                  "EtherPurify": 25664
+                }
+              },
+              "Potential": []
+            },
+            {
+              "Name": "Daze Multiplier",
+              "Desc": "{Skill:1621017, Prop:1002}",
+              "Param": {
+                "1621017": {
+                  "Main": 45870,
+                  "Growth": 2090,
                   "Format": "%",
                   "DamagePercentage": 61160,
                   "DamagePercentageGrowth": 5560,
@@ -1820,7 +1820,7 @@
     "6": {
       "Level": 6,
       "Name": "Eternity and the Clockwork Doll",
-      "Desc": "The DMG dealt by attacks ignores 15% of the target's <color=#A6C5FD>Wind RES</color>.\nWhen <color=#ffffff>Special Attack: Forgive Me for Not Seeing You Off</color> detonates <color=#ffffff>Eyes of the Storm</color> to generate a Giant Windstorm, the primary target is inflicted with <color=#ffffff>Afterecho</color>. A Giant Windstorm is generated at the target's location every 3s, for a total of 2 additional Giant Windstorms. Repeated triggers stack the number of additional Giant Windstorm instances generated and refresh the duration of <color=#ffffff>Afterecho</color>. The DMG dealt by the Giant Windstorm increases to 250% of its original value, and the Daze it inflicts increases by 20%.",
+      "Desc": "The DMG dealt by attacks ignores 15% of the target's <color=#A6C5FD>Wind RES</color>. When <color=#ffffff>Special Attack: Forgive Me for Not Seeing You Off</color> detonates <color=#ffffff>Eyes of the Storm</color> to generate a Giant Windstorm, the primary target is inflicted with <color=#ffffff>Afterecho</color>. A Giant Windstorm is generated at the target's location every 3s, for a total of 2 additional Giant Windstorms. Repeated triggers stack the number of additional Giant Windstorm instances generated and refresh the duration of <color=#ffffff>Afterecho</color>. The DMG multiplier of the Giant Windstorm increases to 250% of its original value, and the Daze it inflicts increases by 20%.",
       "Desc2": "Some believe Roxy only remains by the head of the household's side to sustain her Porcelloy Heart: Flint Workshop used their bloodline to secure a capable assistant.\nRoxy has heard such claims so often that she no longer even bothers refuting them. The other person concerned, however, can't help but worry over it.\nOne day, during a brief lull in her busy schedule, she casually brought the matter up with her assistant, only to be met with a helpless sigh.\n\"No, I've never thought of it that way. Just being alive is already more than enough. I've always been grateful to you, milady.\"\n\"Besides... if I may be so bold, aren't you the one bound by bloodline here, milady?\"\n\"So this is what's been making you restless lately... Rather than some pointless rumor, I'd say that oversized Porcelloy order you boasted to the CCD about not long ago is far more worth worrying about.\""
     }
   },
@@ -1859,7 +1859,12 @@
       "Icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconWind.png"
     }
   },
-  "Strategy": {},
+  "Strategy": [
+    "07",
+    "<IconMap:Icon_GeneralBuff_Wind>Wind, <IconMap:Icon_AvatarClass_Stun>Stun",
+    "Increases CRIT DMG or <Term:3000015>Laceration DMG</Term> dealt by the whole squad",
+    "Can additionally boost the whole squad's DMG through <Term:3000010>Contamination</Term>"
+  ],
   "Potential": [],
   "PotentialDetail": {}
 }
